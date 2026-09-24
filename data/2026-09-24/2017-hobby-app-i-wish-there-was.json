@@ -1,0 +1,96 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "hobby app \"I wish there was\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {
+    "grounding": "HTTP 422: "
+  },
+  "generated_at": "2026-09-24T20:17:43.106500+00:00",
+  "items_by_source": {},
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [
+      "Focus on product concept exploration for hobby app"
+    ],
+    "raw_topic": "hobby app \"I wish there was\"",
+    "source_weights": {
+      "grounding": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "core concept",
+        "ranking_query": "What is the concept behind a hobby app called 'I wish there was' for collecting app ideas?",
+        "search_query": "\"I wish there was\" app OR idea",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.24390243902439027
+      },
+      {
+        "label": "user wishes",
+        "ranking_query": "How do people describe apps they wish existed in hobby projects or forums?",
+        "search_query": "wish list app ideas OR missing apps",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.21951219512195125
+      },
+      {
+        "label": "similar tools",
+        "ranking_query": "What existing tools or apps let users request apps that don't exist yet?",
+        "search_query": "app idea platform OR product wishlist",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.19512195121951223
+      },
+      {
+        "label": "hobby dev angle",
+        "ranking_query": "How might a hobby developer build or use an app for gathering 'I wish there was' requests?",
+        "search_query": "hobby app development idea collection",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.17073170731707318
+      },
+      {
+        "label": "community feedback",
+        "ranking_query": "Where do hobbyists share and get feedback on app ideas they wish existed?",
+        "search_query": "app ideas feedback OR validation",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.17073170731707318
+      }
+    ]
+  },
+  "range_from": "2026-08-25",
+  "range_to": "2026-09-24",
+  "ranked_candidates": [],
+  "topic": "hobby app \"I wish there was\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic.",
+    "Some sources failed: grounding",
+    "No source returned usable items."
+  ]
+}

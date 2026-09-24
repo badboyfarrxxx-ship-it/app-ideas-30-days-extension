@@ -1,0 +1,76 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "side hustle \"is there an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {
+    "grounding": "HTTP 422: "
+  },
+  "generated_at": "2026-09-24T20:17:34.224282+00:00",
+  "items_by_source": {},
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [],
+    "raw_topic": "side hustle \"is there an app\"",
+    "source_weights": {
+      "grounding": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "side hustle app existence",
+        "ranking_query": "Is there an app for tracking or managing side hustles?",
+        "search_query": "side hustle app OR tracker OR manager",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.37037037037037035
+      },
+      {
+        "label": "gig side hustle tools",
+        "ranking_query": "What mobile apps help people find and run side hustles?",
+        "search_query": "side hustle finder OR gig tracker app",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.3333333333333333
+      },
+      {
+        "label": "side income app discovery",
+        "ranking_query": "Are there dedicated apps for organizing multiple side hustles and income streams?",
+        "search_query": "side hustle income app OR platform",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.2962962962962963
+      }
+    ]
+  },
+  "range_from": "2026-08-25",
+  "range_to": "2026-09-24",
+  "ranked_candidates": [],
+  "topic": "side hustle \"is there an app\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic.",
+    "Some sources failed: grounding",
+    "No source returned usable items."
+  ]
+}

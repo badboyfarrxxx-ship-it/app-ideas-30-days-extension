@@ -1,0 +1,87 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "site:producthunt.com mobile app comments",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {
+    "grounding": "HTTP 422: "
+  },
+  "generated_at": "2026-09-24T20:17:15.513840+00:00",
+  "items_by_source": {},
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "debate",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [
+      "Focus on Product Hunt comment sections for mobile apps only"
+    ],
+    "raw_topic": "site:producthunt.com mobile app comments",
+    "source_weights": {
+      "grounding": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "PH mobile app comments",
+        "ranking_query": "What do users say in comments about mobile apps on Product Hunt?",
+        "search_query": "mobile app comments OR review",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.2777777777777778
+      },
+      {
+        "label": "app launch feedback",
+        "ranking_query": "How do Product Hunt users comment on new mobile app launches?",
+        "search_query": "app launch comments OR discussion",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "user reactions mobile",
+        "ranking_query": "What reactions and opinions appear in Product Hunt comments for mobile apps?",
+        "search_query": "mobile comments OR feedback",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "community discussion apps",
+        "ranking_query": "Which mobile apps get the most engaged comment threads on Product Hunt?",
+        "search_query": "app review OR experience",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.22222222222222224
+      }
+    ]
+  },
+  "range_from": "2026-08-25",
+  "range_to": "2026-09-24",
+  "ranked_candidates": [],
+  "topic": "site:producthunt.com mobile app comments",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic.",
+    "Some sources failed: grounding",
+    "No source returned usable items."
+  ]
+}

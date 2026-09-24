@@ -1,0 +1,87 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "AI mobile app gaps \"would pay\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {
+    "grounding": "HTTP 422: "
+  },
+  "generated_at": "2026-09-24T20:17:24.475950+00:00",
+  "items_by_source": {},
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "market",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [
+      "Focus on user pain points and monetization signals"
+    ],
+    "raw_topic": "AI mobile app gaps \"would pay\"",
+    "source_weights": {
+      "grounding": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "paid feature gaps",
+        "ranking_query": "What features are missing from AI mobile apps that users would pay for?",
+        "search_query": "AI mobile app missing features OR limitations pay OR paid",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "user complaints paid apps",
+        "ranking_query": "What do users complain about in paid or premium AI mobile apps?",
+        "search_query": "AI app mobile complaints OR frustrations subscription OR premium",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "willingness to pay",
+        "ranking_query": "In what areas would users pay for better AI capabilities on mobile?",
+        "search_query": "AI mobile app would pay OR worth paying OR monetization",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "competitor gaps",
+        "ranking_query": "Where are the biggest gaps between existing AI mobile apps and what power users want?",
+        "search_query": "AI mobile apps vs alternatives OR better alternatives paid",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.25
+      }
+    ]
+  },
+  "range_from": "2026-08-25",
+  "range_to": "2026-09-24",
+  "ranked_candidates": [],
+  "topic": "AI mobile app gaps \"would pay\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic.",
+    "Some sources failed: grounding",
+    "No source returned usable items."
+  ]
+}

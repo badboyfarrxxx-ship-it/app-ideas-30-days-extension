@@ -1,0 +1,91 @@
+Batch F sources=grounding,perplexity
+Started at 2026-09-24T20:17:05Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/36053797385
+----
+
+===== Seed: site:producthunt.com mobile app comments =====
+/last30days · researching: site:producthunt.com mobile app comments
+⏳ [95mProcessing[0m Scoring and ranking...
+[Planner] Plan: intent=opinion, freshness=balanced_recent, cluster_mode=debate, subqueries=4, source=llm
+[Planner]   sq1 label=PH mobile app comments search="mobile app comments OR review" sources=[grounding]
+[Planner]   sq2 label=app launch feedback search="app launch comments OR discussion" sources=[grounding]
+[Planner]   sq3 label=user reactions mobile search="mobile comments OR feedback" sources=[grounding]
+[Planner]   sq4 label=community discussion apps search="app review OR experience" sources=[grounding]
+✓ Research complete (9.4s) - Web: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-24/2017-site-producthunt-com-mobile-app-comments.json
+[OK] seed succeeded
+
+===== Seed: AI mobile app gaps "would pay" =====
+/last30days · researching: AI mobile app gaps "would pay"
+⏳ [95mProcessing[0m Removing duplicates...
+[Planner] Plan: intent=opinion, freshness=balanced_recent, cluster_mode=market, subqueries=4, source=llm
+[Planner]   sq1 label=paid feature gaps search="AI mobile app missing features OR limitations pay OR paid" sources=[grounding]
+[Planner]   sq2 label=user complaints paid apps search="AI app mobile complaints OR frustrations subscription OR premium" sources=[grounding]
+[Planner]   sq3 label=willingness to pay search="AI mobile app would pay OR worth paying OR monetization" sources=[grounding]
+[Planner]   sq4 label=competitor gaps search="AI mobile apps vs alternatives OR better alternatives paid" sources=[grounding]
+✓ Research complete (8.8s) - Web: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-24/2017-ai-mobile-app-gaps-would-pay.json
+[OK] seed succeeded
+
+===== Seed: side hustle "is there an app" =====
+/last30days · researching: side hustle "is there an app"
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=3, source=llm
+[Planner]   sq1 label=side hustle app existence search="side hustle app OR tracker OR manager" sources=[grounding]
+[Planner]   sq2 label=gig side hustle tools search="side hustle finder OR gig tracker app" sources=[grounding]
+[Planner]   sq3 label=side income app discovery search="side hustle income app OR platform" sources=[grounding]
+✓ Research complete (9.6s) - Web: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-24/2017-side-hustle-is-there-an-app.json
+[OK] seed succeeded
+
+===== Seed: hobby app "I wish there was" =====
+/last30days · researching: hobby app "I wish there was"
+⏳ [95mProcessing[0m Finding patterns...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=5, source=llm
+[Planner]   sq1 label=core concept search=""I wish there was" app OR idea" sources=[grounding]
+[Planner]   sq2 label=user wishes search="wish list app ideas OR missing apps" sources=[grounding]
+[Planner]   sq3 label=similar tools search="app idea platform OR product wishlist" sources=[grounding]
+[Planner]   sq4 label=hobby dev angle search="hobby app development idea collection" sources=[grounding]
+[Planner]   sq5 label=community feedback search="app ideas feedback OR validation" sources=[grounding]
+✓ Research complete (8.7s) - Web: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-24/2017-hobby-app-i-wish-there-was.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed
