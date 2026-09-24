@@ -170,10 +170,13 @@ jobs:
           # v1 runs in agent mode automatically whenever `prompt` is set, so
           # schedule / workflow_dispatch / issues.labeled all work without an
           # `@claude` mention. (v1 removed `mode`, `direct_prompt` and `model`.)
-          # Write must be allowed explicitly or Claude cannot create ideas.md.
+          # File writes must be allowed explicitly or Claude cannot create
+          # ideas.md. acceptEdits allows writes inside the workspace only;
+          # brief.md is scraped web content, so no Bash and no wider grant.
           claude_args: >-
             --model claude-sonnet-4-5
-            --allowedTools "Read,Write,Edit,Glob,Grep,LS"
+            --permission-mode acceptEdits
+            --allowedTools "Read,Glob,Grep,LS"
           prompt: |
             Read `brief.md` in the workspace root. It contains a
             deterministic top-N pool of social/web evidence from a rolling
@@ -382,7 +385,9 @@ jobs:
             Workflow run:
             https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
           delete-branch: false
-          draft: true
+          # The ideas repo is private, and GitHub only allows draft PRs on
+          # private repos for Team/Enterprise plans, so open a normal PR.
+          draft: false
 
       - name: Comment dedup warnings on the PR
         # Only fires when the ledger step detected near-duplicate idea
