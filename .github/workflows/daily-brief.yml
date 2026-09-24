@@ -163,6 +163,7 @@ jobs:
           echo "Claude OAuth token is present."
 
       - name: Synthesize ranked ideas with Claude Code
+        id: claude
         if: steps.brief.outputs.have_brief == 'true'
         uses: anthropics/claude-code-action@v1
         with:
@@ -270,6 +271,22 @@ jobs:
             - If fewer than 3 candidates survive both gates, output
               what you have and say so in the honest assessment. Do
               NOT lower the bar to hit the 3-7 target.
+
+      - name: Show why Claude failed
+        # The action hides Claude's output on public repos, so a failed call
+        # only says "is_error:true". Print just the error text from the
+        # execution log (e.g. an auth or model error), not the conversation.
+        if: failure() && steps.claude.outcome == 'failure'
+        env:
+          EXEC_FILE: ${{ steps.claude.outputs.execution_file }}
+        run: |
+          FILE="${EXEC_FILE:-$RUNNER_TEMP/claude-execution-output.json}"
+          if [ ! -s "$FILE" ]; then
+            echo "::error::Claude failed before writing an execution log."
+            exit 0
+          fi
+          MSG="$(jq -r '[.[] | select(.type == "result")] | last | .result // empty' "$FILE" | tr '\r\n' '  ' | head -c 1000)"
+          echo "::error::Claude error: ${MSG:-no error text in the execution log}"
 
       - name: Sanity-check Claude wrote ideas.md
         if: steps.brief.outputs.have_brief == 'true'
