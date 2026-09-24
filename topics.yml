@@ -4,8 +4,8 @@
 # tuned for one of two signals — (a) someone explicitly says they would pay
 # for a mobile app, or (b) someone is frustrated with an existing mobile
 # app / can't find one. The downstream synthesis prompt in
-# .github/workflows/daily-brief.yml enforces a hard willingness-to-pay
-# gate on top of this: PAIN-only candidates are dropped. Seeds are just
+# .github/workflows/daily-brief.yml ranks willingness-to-pay evidence
+# higher but keeps PAIN-only ideas (since 2026-09-24). Seeds are just
 # the funnel.
 #
 # Each entry under pain_phrases / vertical_pains / communities / launch_signals
@@ -20,8 +20,10 @@
 #   - `enabled: false` (top of any list) disables the whole list cheaply.
 #   - Keep pain-phrase seeds quoted ('"I wish ..."') so the search engine
 #     treats them as literal phrases.
-#   - Mix: 70% pain phrases + 20% vertical pains + 10% rotating wildcards
-#     (community firehoses are basically free, tune to taste).
+#   - Mix (2026-09-24): roughly equal broad pain phrases and niche
+#     vertical pains, plus a few rotating wildcards. Broad phrases alone
+#     mostly returned generic "better app than" moaning; niche audiences
+#     (trades, specific students, small operators) surface sharper gaps.
 #
 # Why this shape: see doc.md §6 and the seed-design research summary.
 
@@ -35,40 +37,57 @@ defaults:
   # Shared pain + willingness-to-pay vocabulary. Two clauses:
   #   (1) classic pain language ("I wish", "why is there no", …)
   #   (2) explicit WTP language ("I would pay", "currently paying $X", …)
-  # The synthesis prompt requires a candidate to match clause (2) somewhere
-  # in its title or excerpt — clause (1) alone is not enough.
+  # The synthesis prompt ranks clause (2) matches first; clause (1) alone
+  # still qualifies.
   pain_regex: '\b(i wish there was|why is there no|is there an app|is there a paid app|better app than|frustrated with|sick of|tired of|any good app for|i would pay|i.d pay|currently paying \$?\d+|happy to pay|worth paying|worth \$?\d+/mo)\b'
 
-# --- Pain-phrase seeds (highest signal; quote them literally) ---------------
-# Bias: every phrase implies a mobile-app context AND/OR willingness to pay.
+# --- Pain-phrase seeds (broad, quote them literally) ------------------------
+# General complaint and wish language. Kept broad on purpose so the pool
+# still catches ideas outside the niches below.
 pain_phrases:
   - '"I wish there was an app for"'
   - '"I would pay for an app"'
   - '"I.d pay for an app"'
-  - '"is there a paid app"'
-  - '"is there an app that" "pay"'
-  - '"any good app for"'
-  - '"better app than"'
   - '"why is there no app"'
+  - '"is there an app that"'
+  - '"any good app for"'
   - '"frustrated with" app'
   - '"sick of" app subscription'
-  - '"currently paying" "app"'
   - '"worth paying for" app'
+  - '"I still use a spreadsheet for"'
+  - '"I track it in my notes app"'
+  - '"there has to be a better way to"'
 
-# --- Vertical-pain seeds (audience-scoped, mobile + WTP language) ----------
+# --- Vertical-pain seeds (niche audiences with jobs to get done) ------------
+# Looser than before: the audience does the narrowing, so the phrase can be
+# any sign of a manual workaround or an app gap, not only "I would pay".
 vertical_pains:
+  - 'nursing students app for studying'
+  - 'rad tech student app'
+  - 'electricians app for quotes'
+  - 'plumbers "is there an app"'
+  - 'landscapers app for scheduling clients'
+  - 'dog groomers booking app'
+  - 'personal trainers app for clients'
+  - 'hairstylists "any good app for"'
+  - 'realtors "any good app for"'
+  - 'truckers "is there an app that"'
+  - 'nurses shift app'
+  - 'therapists "I would pay for an app"'
+  - 'teachers "I wish there was an app"'
+  - 'small landlords app for tenants'
   - 'freelancers "I wish there was an app"'
   - 'parents "I would pay for an app"'
-  - 'small business "is there a paid app"'
-  - 'fitness "frustrated with" app'
-  - 'students "better app than"'
-  - 'travelers "I wish there was an app"'
-  - 'remote workers "is there a paid app"'
-  - 'creators "I would pay for"'
-  - 'nurses "is there an app that"'
-  - 'therapists "I would pay for an app"'
-  - 'realtors "any good app for"'
-  - 'truckers "is there an app that" paid'
+  - 'caregivers app for elderly parent'
+  - 'small business owners "is there an app"'
+  - 'farmers "is there an app"'
+  - 'anglers "I wish there was an app"'
+
+# --- Rotating wildcards (intended to be overwritten weekly via PR) ----------
+rotating:
+  - 'AI mobile app gaps "would pay"'
+  - 'side hustle "is there an app"'
+  - 'hobby app "I wish there was"'
 
 # --- Community firehoses (mobile-focused subs) ------------------------------
 # Engine filters with pain_regex on the result side, so a noisy firehose is
@@ -90,8 +109,3 @@ launch_signals:
   - 'site:news.ycombinator.com "Show HN" "mobile app"'
   - 'site:news.ycombinator.com "Ask HN" "is there an app"'
   - 'site:producthunt.com mobile app comments'
-
-# --- Rotating wildcards (intended to be overwritten weekly via PR) ----------
-rotating:
-  - 'AI mobile app gaps "would pay"'
-  - 'productivity mobile app "worth paying"'
