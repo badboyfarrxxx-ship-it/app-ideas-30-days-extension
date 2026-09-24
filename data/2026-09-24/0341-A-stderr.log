@@ -1,0 +1,147 @@
+Batch A sources=reddit,hackernews
+Started at 2026-09-24T03:41:44Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/35952501037
+----
+
+===== Seed: site:reddit.com/r/iphone =====
+/last30days · researching: site:reddit.com/r/iphone
+⏳ [95mProcessing[0m Crunching the data...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs iphone
+[Competitors] Comparing: site:reddit.com vs r vs iphone
+[Competitors] r: x=@- subs=0 gh=- (auto)
+[Competitors] iphone: x=@- subs=0 gh=- (auto)
+[Planner] No --plan passed. If you are the reasoning model hosting this skill (Claude Code, Codex, Hermes, Gemini, or any agent runtime), YOU ARE the planner: generate a JSON query plan yourself and pass it via --plan. You do not need an API key or credentials; you ARE the LLM. The deterministic fallback below is the headless/cron path only. See LAW 7 in SKILL.md and Step 0.75 for the plan schema.
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="site:reddit.com" sources=[reddit,hackernews]
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="r" sources=[reddit,hackernews]
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="iphone" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=r&sort=relevance&t=month&limit=25&raw_json=1
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=site%3Areddit.com&sort=relevance&t=month&limit=25&raw_json=1
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=iphone&sort=relevance&t=month&limit=25&raw_json=1
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=site%3Areddit.com&sort=relevance&t=month&limit=25&raw_json=1
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=iphone&sort=relevance&t=month&limit=25&raw_json=1
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=r&sort=relevance&t=month&limit=25&raw_json=1
+✓ Research complete (0.6s) - Reddit: 0 threads, HN: 0 stories
+
+💡 Unlock X: log into x.com in Firefox or Safari, then re-run. Or add AUTH_TOKEN/CT0 or XAI_API_KEY.
+
+Research quality: 3/5 core sources.
+Missing: X/Twitter, YouTube.
+
+Free fixes:
+  - X/Twitter: real-time posts with likes and reposts - the fastest signal for breaking topics. Two options: log into x.com in your browser and re-run (cookies detected automatically), or add XAI_API_KEY to your .env (no browser access, get key at api.x.ai).
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+
+Bonus: TikTok and Instagram are available with a free ScrapeCreators key at scrapecreators.com (no affiliation).
+[last30days] Saved batch JSON to data/2026-09-24/0341-site-reddit-com.json
+[OK] seed succeeded
+
+===== Seed: site:reddit.com/r/apple =====
+/last30days · researching: site:reddit.com/r/apple
+⏳ [95mProcessing[0m Removing duplicates...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs apple
+[Competitors] Comparing: site:reddit.com vs r vs apple
+[Competitors] r: x=@- subs=0 gh=- (auto)
+[Competitors] apple: x=@- subs=0 gh=- (auto)
+[Planner] No --plan passed. If you are the reasoning model hosting this skill (Claude Code, Codex, Hermes, Gemini, or any agent runtime), YOU ARE the planner: generate a JSON query plan yourself and pass it via --plan. You do not need an API key or credentials; you ARE the LLM. The deterministic fallback below is the headless/cron path only. See LAW 7 in SKILL.md and Step 0.75 for the plan schema.
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="site:reddit.com" sources=[reddit,hackernews]
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="r" sources=[reddit,hackernews]
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="apple" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=apple&sort=relevance&t=month&limit=25&raw_json=1
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=r&sort=relevance&t=month&limit=25&raw_json=1
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=site%3Areddit.com&sort=relevance&t=month&limit=25&raw_json=1
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=site%3Areddit.com&sort=relevance&t=month&limit=25&raw_json=1
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=r&sort=relevance&t=month&limit=25&raw_json=1
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=apple&sort=relevance&t=month&limit=25&raw_json=1
+✓ Research complete (0.6s) - Reddit: 0 threads, HN: 0 stories
+
+💡 Unlock X: log into x.com in Firefox or Safari, then re-run. Or add AUTH_TOKEN/CT0 or XAI_API_KEY.
+
+Research quality: 3/5 core sources.
+Missing: X/Twitter, YouTube.
+
+Free fixes:
+  - X/Twitter: real-time posts with likes and reposts - the fastest signal for breaking topics. Two options: log into x.com in your browser and re-run (cookies detected automatically), or add XAI_API_KEY to your .env (no browser access, get key at api.x.ai).
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+
+Bonus: TikTok and Instagram are available with a free ScrapeCreators key at scrapecreators.com (no affiliation).
+[last30days] Saved batch JSON to data/2026-09-24/0341-site-reddit-com.json
+[OK] seed succeeded
+
+===== Seed: site:reddit.com/r/GooglePixel =====
+/last30days · researching: site:reddit.com/r/GooglePixel
+⏳ [95mProcessing[0m Organizing findings...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs GooglePixel
+[Competitors] Comparing: site:reddit.com vs r vs GooglePixel
+[Competitors] r: x=@- subs=0 gh=- (auto)
+[Competitors] GooglePixel: x=@- subs=0 gh=- (auto)
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="googlepixel" sources=[reddit,hackernews]
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="r" sources=[reddit,hackernews]
+[Planner] No --plan passed. If you are the reasoning model hosting this skill (Claude Code, Codex, Hermes, Gemini, or any agent runtime), YOU ARE the planner: generate a JSON query plan yourself and pass it via --plan. You do not need an API key or credentials; you ARE the LLM. The deterministic fallback below is the headless/cron path only. See LAW 7 in SKILL.md and Step 0.75 for the plan schema.
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="site:reddit.com" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=GooglePixel&sort=relevance&t=month&limit=25&raw_json=1
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=site%3Areddit.com&sort=relevance&t=month&limit=25&raw_json=1
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=r&sort=relevance&t=month&limit=25&raw_json=1
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=site%3Areddit.com&sort=relevance&t=month&limit=25&raw_json=1
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=GooglePixel&sort=relevance&t=month&limit=25&raw_json=1
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=r&sort=relevance&t=month&limit=25&raw_json=1
+✓ Research complete (0.4s) - Reddit: 0 threads, HN: 0 stories
+
+💡 Unlock X: log into x.com in Firefox or Safari, then re-run. Or add AUTH_TOKEN/CT0 or XAI_API_KEY.
+
+Research quality: 3/5 core sources.
+Missing: X/Twitter, YouTube.
+
+Free fixes:
+  - X/Twitter: real-time posts with likes and reposts - the fastest signal for breaking topics. Two options: log into x.com in your browser and re-run (cookies detected automatically), or add XAI_API_KEY to your .env (no browser access, get key at api.x.ai).
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+
+Bonus: TikTok and Instagram are available with a free ScrapeCreators key at scrapecreators.com (no affiliation).
+[last30days] Saved batch JSON to data/2026-09-24/0341-site-reddit-com.json
+[OK] seed succeeded
+
+===== Seed: site:reddit.com/r/AppHookup =====
+/last30days · researching: site:reddit.com/r/AppHookup
+⏳ [95mProcessing[0m Crunching the data...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs AppHookup
+[Competitors] Comparing: site:reddit.com vs r vs AppHookup
+[Competitors] r: x=@- subs=0 gh=- (auto)
+[Competitors] AppHookup: x=@- subs=0 gh=- (auto)
+[Planner] No --plan passed. If you are the reasoning model hosting this skill (Claude Code, Codex, Hermes, Gemini, or any agent runtime), YOU ARE the planner: generate a JSON query plan yourself and pass it via --plan. You do not need an API key or credentials; you ARE the LLM. The deterministic fallback below is the headless/cron path only. See LAW 7 in SKILL.md and Step 0.75 for the plan schema.
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="site:reddit.com" sources=[reddit,hackernews]
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="r" sources=[reddit,hackernews]
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="apphookup" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=r&sort=relevance&t=month&limit=25&raw_json=1
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=AppHookup&sort=relevance&t=month&limit=25&raw_json=1
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=site%3Areddit.com&sort=relevance&t=month&limit=25&raw_json=1
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=site%3Areddit.com&sort=relevance&t=month&limit=25&raw_json=1
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=r&sort=relevance&t=month&limit=25&raw_json=1
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=AppHookup&sort=relevance&t=month&limit=25&raw_json=1
+✓ Research complete (0.6s) - Reddit: 0 threads, HN: 0 stories
+
+💡 Unlock X: log into x.com in Firefox or Safari, then re-run. Or add AUTH_TOKEN/CT0 or XAI_API_KEY.
+
+Research quality: 3/5 core sources.
+Missing: X/Twitter, YouTube.
+
+Free fixes:
+  - X/Twitter: real-time posts with likes and reposts - the fastest signal for breaking topics. Two options: log into x.com in your browser and re-run (cookies detected automatically), or add XAI_API_KEY to your .env (no browser access, get key at api.x.ai).
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+
+Bonus: TikTok and Instagram are available with a free ScrapeCreators key at scrapecreators.com (no affiliation).
+[last30days] Saved batch JSON to data/2026-09-24/0341-site-reddit-com.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed
