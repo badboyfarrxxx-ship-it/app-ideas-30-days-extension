@@ -128,6 +128,7 @@ jobs:
                 --window-days "$WINDOW" \
                 --emit ideas \
                 --top-candidates 40 \
+                --exclude-sources polymarket \
                 --out brief.md; then
             echo "have_brief=true" >> "$GITHUB_OUTPUT"
             wc -l brief.md

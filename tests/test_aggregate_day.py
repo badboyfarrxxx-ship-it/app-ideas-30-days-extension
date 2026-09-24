@@ -133,6 +133,37 @@ class TestMergeReports(unittest.TestCase):
         merged = aggregate_day.merge_reports([r1, r2])
         self.assertEqual(1, len(merged.items_by_source["reddit"]))
 
+    def test_merge_drops_excluded_sources(self):
+        keep = _candidate("keep", source="reddit")
+        drop = _candidate("drop", source="polymarket")
+        merged = aggregate_day.merge_reports(
+            [_report("seed", [keep, drop])],
+            exclude_sources=frozenset({"polymarket"}),
+        )
+        self.assertEqual(["keep"], [c.candidate_id for c in merged.ranked_candidates])
+        self.assertEqual(["cluster-keep"], [c.cluster_id for c in merged.clusters])
+        self.assertNotIn("polymarket", merged.items_by_source)
+
+    def test_merge_clears_error_fixed_by_a_later_batch(self):
+        old = _report("old", [], generated_at="2026-04-29T00:00:00+00:00")
+        old.errors_by_source = {"x": "HTTP 400: Bad Request"}
+        new = _report(
+            "new", [_candidate("x1", source="x")],
+            generated_at="2026-04-30T00:00:00+00:00",
+        )
+        merged = aggregate_day.merge_reports([old, new])
+        self.assertNotIn("x", merged.errors_by_source)
+
+    def test_merge_keeps_error_from_latest_batch(self):
+        ok = _report(
+            "ok", [_candidate("x1", source="x")],
+            generated_at="2026-04-29T00:00:00+00:00",
+        )
+        bad = _report("bad", [], generated_at="2026-04-30T00:00:00+00:00")
+        bad.errors_by_source = {"x": "HTTP 400: Bad Request"}
+        merged = aggregate_day.merge_reports([ok, bad])
+        self.assertEqual("HTTP 400: Bad Request", merged.errors_by_source["x"])
+
     def test_merge_empty_list_raises(self):
         with self.assertRaises(ValueError):
             aggregate_day.merge_reports([])

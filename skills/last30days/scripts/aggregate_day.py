@@ -79,6 +79,7 @@ def merge_reports(
     reports: list[schema.Report],
     *,
     aggregate_topic: str = "rolling 30-day pool",
+    exclude_sources: frozenset[str] = frozenset(),
 ) -> schema.Report:
     """Union batches into one Report. Dedupe candidates / clusters / items by id.
 
@@ -86,6 +87,11 @@ def merge_reports(
     may have spanned different seed topics. The synthesis prompt downstream
     treats the candidates as a heterogeneous pool to mine for ideas, which
     is exactly the point.
+
+    `exclude_sources` drops a source from the pool entirely: candidates
+    backed only by excluded sources, their items, and their errors.
+    A source's error is kept only if the most recent batch that queried
+    that source also failed, so an old failure does not outlive a fix.
     """
     if not reports:
         raise ValueError("merge_reports() requires at least one report")
@@ -98,9 +104,15 @@ def merge_reports(
     earliest = min(r.range_from for r in reports)
     latest = max(r.range_to for r in reports)
 
+    def _excluded(cand: schema.Candidate) -> bool:
+        backing = set(cand.sources) or {cand.source}
+        return backing <= exclude_sources
+
     seen_candidates: dict[str, schema.Candidate] = {}
     for report in sorted_reports:
         for cand in report.ranked_candidates:
+            if _excluded(cand):
+                continue
             existing = seen_candidates.get(cand.candidate_id)
             if existing is None or (cand.final_score or 0.0) > (existing.final_score or 0.0):
                 seen_candidates[cand.candidate_id] = cand
@@ -113,6 +125,8 @@ def merge_reports(
     seen_clusters: dict[str, schema.Cluster] = {}
     for report in sorted_reports:
         for cluster in report.clusters:
+            if not any(cid in seen_candidates for cid in cluster.candidate_ids):
+                continue
             existing = seen_clusters.get(cluster.cluster_id)
             if existing is None or cluster.score > existing.score:
                 seen_clusters[cluster.cluster_id] = cluster
@@ -123,6 +137,8 @@ def merge_reports(
     merged_items: dict[str, dict[str, schema.SourceItem]] = {}
     for report in sorted_reports:
         for source, items in report.items_by_source.items():
+            if source in exclude_sources:
+                continue
             bucket = merged_items.setdefault(source, {})
             for item in items:
                 bucket[item.item_id] = item  # last-seen wins, keeps freshest copy
@@ -130,7 +146,11 @@ def merge_reports(
 
     errors_by_source: dict[str, str] = {}
     for report in sorted_reports:
+        for source in report.items_by_source:
+            errors_by_source.pop(source, None)
         errors_by_source.update(report.errors_by_source)
+    for source in exclude_sources:
+        errors_by_source.pop(source, None)
 
     warnings: list[str] = []
     seen_warnings: set[str] = set()
@@ -218,7 +238,13 @@ def main(argv: list[str] | None = None) -> int:
             "happen in the downstream Claude synthesis call."
         ),
     )
+    parser.add_argument(
+        "--exclude-sources",
+        default="",
+        help="Comma-separated sources to leave out of the merged pool (e.g. polymarket).",
+    )
     args = parser.parse_args(argv)
+    exclude = frozenset(s.strip() for s in args.exclude_sources.split(",") if s.strip())
 
     root = Path(args.data_dir).expanduser().resolve()
     if not root.exists():
@@ -233,7 +259,9 @@ def main(argv: list[str] | None = None) -> int:
         )
         return 1
 
-    merged = merge_reports([r for _, r in pairs], aggregate_topic=args.topic)
+    merged = merge_reports(
+        [r for _, r in pairs], aggregate_topic=args.topic, exclude_sources=exclude,
+    )
     sys.stderr.write(
         f"[aggregate] Merged {len(pairs)} batch file(s) into one rolling pool "
         f"(candidates={len(merged.ranked_candidates)}, "
