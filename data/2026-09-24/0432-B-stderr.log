@@ -1,0 +1,163 @@
+Batch B sources=x,bluesky
+Started at 2026-09-24T04:32:36Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/35956081332
+----
+
+===== Seed: site:reddit.com/r/apple =====
+/last30days · researching: site:reddit.com/r/apple
+⏳ [95mProcessing[0m Scoring and ranking...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs apple
+[Competitors] Comparing: site:reddit.com vs r vs apple
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 400: Bad Request
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="site:reddit.com" sources=[x,bluesky]
+[Resolve] Search failed for x_handle: HTTP 422: 
+[Resolve] Search failed for news: HTTP 422: 
+[Resolve] Search failed for news: HTTP 422: 
+[Resolve] Search failed for subreddit: HTTP 422: 
+[Resolve] Search failed for subreddit: HTTP 422: 
+[Resolve] Search failed for x_handle: HTTP 422: 
+[Resolve] Search failed for github: HTTP 422: 
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] r: x=@- subs=0 gh=- (auto)
+[Resolve] Search failed for github: HTTP 422: 
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] apple: x=@- subs=0 gh=- (auto)
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 400: Bad Request
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="r" sources=[x,bluesky]
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 400: Bad Request
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="apple" sources=[x,bluesky]
+✓ Research complete (0.7s) - X: 0 posts, Bluesky: 0 posts
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-24/0432-site-reddit-com.json
+[OK] seed succeeded
+
+===== Seed: site:reddit.com/r/GooglePixel =====
+/last30days · researching: site:reddit.com/r/GooglePixel
+⏳ [95mProcessing[0m Finding patterns...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs GooglePixel
+[Competitors] Comparing: site:reddit.com vs r vs GooglePixel
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 400: Bad Request
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="site:reddit.com" sources=[x,bluesky]
+[Resolve] Search failed for x_handle: HTTP 422: 
+[Resolve] Search failed for subreddit: HTTP 422: 
+[Resolve] Search failed for subreddit: HTTP 422: 
+[Resolve] Search failed for news: HTTP 422: 
+[Resolve] Search failed for news: HTTP 422: 
+[Resolve] Search failed for x_handle: HTTP 422: 
+[Resolve] Search failed for github: HTTP 422: 
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] r: x=@- subs=0 gh=- (auto)
+[Resolve] Search failed for github: HTTP 422: 
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] GooglePixel: x=@- subs=0 gh=- (auto)
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 400: Bad Request
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="r" sources=[x,bluesky]
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 400: Bad Request
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="googlepixel" sources=[x,bluesky]
+✓ Research complete (0.7s) - X: 0 posts, Bluesky: 0 posts
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-24/0432-site-reddit-com.json
+[OK] seed succeeded
+
+===== Seed: site:reddit.com/r/AppHookup =====
+/last30days · researching: site:reddit.com/r/AppHookup
+⏳ [95mProcessing[0m Crunching the data...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs AppHookup
+[Competitors] Comparing: site:reddit.com vs r vs AppHookup
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 400: Bad Request
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="site:reddit.com" sources=[x,bluesky]
+[Resolve] Search failed for news: HTTP 422: 
+[Resolve] Search failed for x_handle: HTTP 422: 
+[Resolve] Search failed for subreddit: HTTP 422: 
+[Resolve] Search failed for news: HTTP 422: 
+[Resolve] Search failed for x_handle: HTTP 422: 
+[Resolve] Search failed for subreddit: HTTP 422: 
+[Resolve] Search failed for github: HTTP 422: 
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] r: x=@- subs=0 gh=- (auto)
+[Resolve] Search failed for github: HTTP 422: 
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] AppHookup: x=@- subs=0 gh=- (auto)
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 400: Bad Request
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="r" sources=[x,bluesky]
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 400: Bad Request
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="apphookup" sources=[x,bluesky]
+✓ Research complete (0.7s) - X: 0 posts, Bluesky: 0 posts
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-24/0432-site-reddit-com.json
+[OK] seed succeeded
+
+===== Seed: site:reddit.com/r/SideProject "mobile app" =====
+/last30days · researching: site:reddit.com/r/SideProject "mobile app"
+⏳ [95mProcessing[0m Removing duplicates...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs SideProject "mobile app
+[Competitors] Comparing: site:reddit.com vs r vs SideProject "mobile app
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 400: Bad Request
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="site:reddit.com" sources=[x,bluesky]
+[Resolve] Search failed for news: HTTP 422: 
+[Resolve] Search failed for subreddit: HTTP 422: 
+[Resolve] Search failed for subreddit: HTTP 422: 
+[Resolve] Search failed for x_handle: HTTP 422: 
+[Resolve] Search failed for x_handle: HTTP 422: 
+[Resolve] Search failed for news: HTTP 422: 
+[Resolve] Search failed for github: HTTP 422: 
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] r: x=@- subs=0 gh=- (auto)
+[Resolve] Search failed for github: HTTP 422: 
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] SideProject "mobile app: x=@- subs=0 gh=- (auto)
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 400: Bad Request
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="r" sources=[x,bluesky]
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 400: Bad Request
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="sideproject "mobile app" sources=[x,bluesky]
+✓ Research complete (0.7s) - X: 0 posts, Bluesky: 0 posts
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-24/0432-site-reddit-com.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed
