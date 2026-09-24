@@ -160,6 +160,30 @@ jobs:
           if [ "$TRIMMED" != "$CLAUDE_CODE_OAUTH_TOKEN" ]; then
             echo "::warning::CLAUDE_CODE_OAUTH_TOKEN has a leading or trailing space or line break. Re-save it as one unbroken line if the Claude step fails."
           fi
+          # Claude Code reports a token it cannot send as a header as "Not
+          # logged in". Name the first bad character (never the token itself).
+          python3 - <<'PY'
+          import os, sys, unicodedata
+          t = os.environ["CLAUDE_CODE_OAUTH_TOKEN"].strip()
+          safe = set("ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_")
+          bad = [(i, c) for i, c in enumerate(t) if not (0x21 <= ord(c) <= 0x7E)]
+          if bad:
+              i, c = bad[0]
+              name = unicodedata.name(c, "control character")
+              print(f"::error::CLAUDE_CODE_OAUTH_TOKEN contains {len(bad)} character(s) a token cannot have. "
+                    f"The first is U+{ord(c):04X} ({name}) at position {i + 1} of {len(t)}. "
+                    "Copy the token again from the `claude setup-token` output and re-save the secret.")
+              sys.exit(1)
+          if t.startswith("sk-ant-api"):
+              print("::error::CLAUDE_CODE_OAUTH_TOKEN holds an Anthropic API key, not a Claude login token. "
+                    "Run `claude setup-token` and save the token it prints instead.")
+              sys.exit(1)
+          if not t.startswith("sk-ant-oat"):
+              print("::warning::CLAUDE_CODE_OAUTH_TOKEN does not start like a `claude setup-token` token (sk-ant-oat...).")
+          odd = sorted({c for c in t if c not in safe})
+          if odd:
+              print(f"::warning::CLAUDE_CODE_OAUTH_TOKEN contains unexpected characters: {' '.join(odd)} ({len(t)} characters long).")
+          PY
           echo "Claude OAuth token is present."
 
       - name: Synthesize ranked ideas with Claude Code
