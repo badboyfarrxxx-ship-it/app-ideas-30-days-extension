@@ -210,11 +210,12 @@ jobs:
             classify these candidates — that is your job. Follow the
             instructions in brief.md exactly. Do NOT modify brief.md.
 
-            SCOPE (HARD): this brief surfaces **paid mobile app ideas
-            only** — Android or iOS, with explicit willingness-to-pay
-            evidence. Web-only, desktop-only, browser-extension, and
-            free-only opportunities are out of scope and must be
-            dropped, regardless of how strong the engagement looks.
+            SCOPE (HARD): this brief surfaces **mobile app ideas
+            only** — Android or iOS. Web-only, desktop-only and
+            browser-extension opportunities are out of scope and must
+            be dropped, regardless of how strong the engagement looks.
+            Willingness-to-pay evidence is a ranking boost, not a
+            requirement.
 
             Your task, in order:
 
@@ -227,16 +228,19 @@ jobs:
                If the unmet need is fundamentally desktop/web (e.g.
                "better VS Code extension", "self-hosted server tool"),
                drop it. If unclear, drop it — bias toward false negatives.
-            3. **Willingness-to-pay gate (HARD).** Drop any candidate
-               without explicit WTP evidence in its title or excerpt.
-               Acceptable WTP signals (must quote one verbatim):
+            3. **Willingness-to-pay check (ranking, not a gate).** Look
+               for explicit WTP evidence in each candidate's title or
+               excerpt. Strong WTP signals (quote one verbatim when
+               present):
                  - "I'd pay $X" / "I would pay" / "happy to pay"
                  - "currently paying $X for [incumbent]"
                  - Names a paid incumbent that the author is unhappy with
                  - "worth $N/mo" / "worth paying for"
                  - Workflow stitching 2+ paid apps together
-               PAIN-only candidates ("I wish there was an app") without
-               any WTP signal are DROPPED. No exceptions.
+               Ideas WITH a WTP quote rank above ideas without one.
+               PAIN-only candidates ("I wish there was an app") are KEPT;
+               for those, propose how the app could charge and label it
+               as your inference, not evidence.
             4. **Cluster duplicates** — merge candidates that describe
                the same opportunity into one idea, citing all URLs.
             5. **Rank** by evidence strength × engagement (the `eng:`
@@ -260,15 +264,17 @@ jobs:
               <One-line honest assessment of this batch's signal
               strength. If brief.md has a SOURCE HEALTH section, mention
               which sources are unreliable today and how that biases the
-              brief. Also note how many candidates the mobile + WTP
-              gates dropped.>
+              brief. Also note how many candidates the mobile gate
+              dropped and how many surviving ideas have a WTP quote.>
 
               ## 1. <Idea title — concrete, not category-level>
               - **Platform:** Android | iOS | Both
               - **Unmet need:** <one sentence>
               - **Proposed app:** <one sentence — must be a mobile app>
               - **Monetization signal:** <quoted WTP sentence verbatim
-                from brief.md> ([source](URL from brief.md))
+                from brief.md> ([source](URL from brief.md)), or if
+                there is none: "None in the evidence. Inferred model:
+                <one sentence on how it could charge>"
               - **Evidence:** (every URL must come from brief.md)
                 - [link description](URL from brief.md) — quoted matching
                   sentence
@@ -281,20 +287,23 @@ jobs:
               (repeat for 3-7 ideas, ordered by combined score)
 
               ## What to research next
-              <one line suggesting mobile + WTP topics to add to topics.yml>
+              <one line suggesting mobile topics (ideally with WTP
+              language) to add to topics.yml>
 
             Hard rules:
             - Do not invent evidence. Every cited URL must appear in
               brief.md. Every quoted sentence must come from the
               candidate's title or excerpt.
-            - Every surviving idea MUST have a Monetization signal line
-              with a verbatim WTP quote. No quote = drop the idea.
+            - Every idea MUST have a Monetization signal line: a
+              verbatim WTP quote if one exists, otherwise the "None in
+              the evidence. Inferred model: ..." form. Never present an
+              inferred model as a quote.
             - Every surviving idea MUST be shippable as Android or iOS.
             - LAUNCH-only signals describe an *adjacency* opportunity
               ("X exists but nobody has done Y for Z"), not "build X".
-            - If fewer than 3 candidates survive both gates, output
-              what you have and say so in the honest assessment. Do
-              NOT lower the bar to hit the 3-7 target.
+            - If fewer than 3 candidates survive the mobile gate,
+              output what you have and say so in the honest assessment.
+              Do NOT invent ideas to hit the 3-7 target.
 
       - name: Show why Claude failed
         # The action hides Claude's output on public repos, so a failed call
