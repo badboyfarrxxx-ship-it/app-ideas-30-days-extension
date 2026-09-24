@@ -1,0 +1,1956 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"any good app for\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://x.com/nash_potatoes24/status/2102762428316680310"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://x.com/nash_potatoes24/status/2102762428316680310"
+      ],
+      "score": 67.10035211267606,
+      "sources": [
+        "x"
+      ],
+      "title": "Can you recommend a good app for identification?"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/eniola_ng/status/2102710181922750672"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://x.com/eniola_ng/status/2102710181922750672"
+      ],
+      "score": 60.11781801922647,
+      "sources": [
+        "x"
+      ],
+      "title": "Please help recommend good invoice app \ud83d\ude4f\ud83c\udffb"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/heykandoi/status/2100904138175643942"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://x.com/heykandoi/status/2100904138175643942"
+      ],
+      "score": 52.454467790348644,
+      "sources": [
+        "x"
+      ],
+      "title": "Amazing apps I'd highly recommend: @bot grok bot - super useful... @TwingateHQ or @Tailscale both are damn good... Warp terminal @warpdotdev"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/kitastic_/status/2102756993605759282"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://x.com/kitastic_/status/2102756993605759282"
+      ],
+      "score": 51.18342361863489,
+      "sources": [
+        "x"
+      ],
+      "title": "I recommend proton VPN!! Its a really good app I use it all the time, most countries are for money but you just make an account, click on \"c"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/wojoken/status/2102715182241947648"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://x.com/wojoken/status/2102715182241947648"
+      ],
+      "score": 41.33584734211722,
+      "sources": [
+        "x"
+      ],
+      "title": "I know there are tons of shepherding apps popping up, and some are really good. The best shepherding app is the one you will use. So pick on"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/aiden_tech_ai/status/2102712292500775165"
+      ],
+      "cluster_id": "cluster-6",
+      "representative_ids": [
+        "https://x.com/aiden_tech_ai/status/2102712292500775165"
+      ],
+      "score": 33.039021011313785,
+      "sources": [
+        "x"
+      ],
+      "title": "4. Socratic by Google \u2013 A must-have app for students, with step-by-step help in math, science, history, and more."
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/tobi/status/2097529479639732697"
+      ],
+      "cluster_id": "cluster-7",
+      "representative_ids": [
+        "https://x.com/tobi/status/2097529479639732697"
+      ],
+      "score": 29.31855480710349,
+      "sources": [
+        "x"
+      ],
+      "title": "You should try Meta\u2019s Muse app. It\u2019s pretty amazing."
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/randomperson273/status/2102835011695313088"
+      ],
+      "cluster_id": "cluster-8",
+      "representative_ids": [
+        "https://x.com/randomperson273/status/2102835011695313088"
+      ],
+      "score": 27.16700810926163,
+      "sources": [
+        "x"
+      ],
+      "title": "...I forgot you can boost the bass in the app... it sounds so much better... curse you soundcore and your great tech.. and good sale (Jokes"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/dessotrill/status/2102500546838135041"
+      ],
+      "cluster_id": "cluster-9",
+      "representative_ids": [
+        "https://x.com/dessotrill/status/2102500546838135041"
+      ],
+      "score": 24.8222626079055,
+      "sources": [
+        "x"
+      ],
+      "title": "impulse + elevate are my fav apps right now"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/iitsbilal/status/2102718208276832515"
+      ],
+      "cluster_id": "cluster-10",
+      "representative_ids": [
+        "https://x.com/iitsbilal/status/2102718208276832515"
+      ],
+      "score": 8.101810865191146,
+      "sources": [
+        "x"
+      ],
+      "title": "X is honestly my favorite app ever \u2764\ufe0f and yours ????"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/luverlow/status/2102566028098330821"
+      ],
+      "cluster_id": "cluster-11",
+      "representative_ids": [
+        "https://x.com/luverlow/status/2102566028098330821"
+      ],
+      "score": 8.097095070422535,
+      "sources": [
+        "x"
+      ],
+      "title": "instagram is like my favorite app ever i LOVE taking photos i LOVE cultivating my feed i LOVE being aesthetic"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/sirdabar/status/2102851740450378102"
+      ],
+      "cluster_id": "cluster-12",
+      "representative_ids": [
+        "https://x.com/sirdabar/status/2102851740450378102"
+      ],
+      "score": 7.852524377031418,
+      "sources": [
+        "x"
+      ],
+      "title": "No LinkedIn slander here. It is my favourite app \ud83d\ude48"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/tuamoryonose/status/2102614053592109224"
+      ],
+      "cluster_id": "cluster-13",
+      "representative_ids": [
+        "https://x.com/tuamoryonose/status/2102614053592109224"
+      ],
+      "score": 7.758092189500639,
+      "sources": [
+        "x"
+      ],
+      "title": "i love twitter it is my favorite app WVER"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/benabmathew/status/2102907383345496563"
+      ],
+      "cluster_id": "cluster-14",
+      "representative_ids": [
+        "https://x.com/benabmathew/status/2102907383345496563"
+      ],
+      "score": 6.673792306075257,
+      "sources": [
+        "x"
+      ],
+      "title": "My next favorite app could be yours. Drop your startup URL."
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/bigbaibe/status/2102879150705095087"
+      ],
+      "cluster_id": "cluster-15",
+      "representative_ids": [
+        "https://x.com/bigbaibe/status/2102879150705095087"
+      ],
+      "score": 6.669618889809445,
+      "sources": [
+        "x"
+      ],
+      "title": "My favourite app!"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/kimuzi_/status/2094713138125983825"
+      ],
+      "cluster_id": "cluster-16",
+      "representative_ids": [
+        "https://x.com/kimuzi_/status/2094713138125983825"
+      ],
+      "score": 6.324084507042253,
+      "sources": [
+        "x"
+      ],
+      "title": "Twitter, Reddit, Substack, Telegram, YouTube and Kick are my favorite apps. Deleted Instagram, Facebook and never downloaded Tiktok."
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/materiagrl/status/2102866465405931769"
+      ],
+      "cluster_id": "cluster-17",
+      "representative_ids": [
+        "https://x.com/materiagrl/status/2102866465405931769"
+      ],
+      "score": 5.941629778672032,
+      "sources": [
+        "x"
+      ],
+      "title": "annotate you are my favorite app forever"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/skjuni or_001/status/2102857583342002388"
+      ],
+      "cluster_id": "cluster-18",
+      "representative_ids": [
+        "https://x.com/skjuni or_001/status/2102857583342002388"
+      ],
+      "score": 5.66780400714144,
+      "sources": [
+        "x"
+      ],
+      "title": "Mt all time favourite app"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-24T18:32:00.096896+00:00",
+  "items_by_source": {
+    "x": [
+      {
+        "author": "heykandoi",
+        "body": "Amazing apps I'd highly recommend: @bot grok bot - super useful... @TwingateHQ or @Tailscale both are damn good... Warp terminal @warpdotdev smooth with useful feats",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 5,
+        "freshness": 74,
+        "item_id": "X8",
+        "local_rank_score": 0.4955,
+        "local_relevance": 0.47,
+        "metadata": {},
+        "published_at": "2026-09-18",
+        "relevance_hint": 0.95,
+        "snippet": "Amazing apps I'd highly recommend: @bot grok bot - super useful... @TwingateHQ or @Tailscale both are damn good... Warp terminal @warpdotdev smooth with useful feats",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Amazing apps I'd highly recommend: @bot grok bot - super useful... @TwingateHQ or @Tailscale both are damn good... Warp terminal @warpdotdev",
+        "url": "https://x.com/heykandoi/status/2100904138175643942",
+        "why_relevant": "Lists multiple highly recommended apps"
+      },
+      {
+        "author": "WojoKen",
+        "body": "I know there are tons of shepherding apps popping up, and some are really good. The best shepherding app is the one you will use. So pick one and get started. I highly recommend @shepherdtools , and have been using it this year.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 4,
+        "freshness": 86,
+        "item_id": "X3",
+        "local_rank_score": 0.44000000000000006,
+        "local_relevance": 0.34,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.92,
+        "snippet": "I know there are tons of shepherding apps popping up, and some are really good. The best shepherding app is the one you will use. So pick one and get started. I highly recommend @shepherdtools , and have been using it this year.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "I know there are tons of shepherding apps popping up, and some are really good. The best shepherding app is the one you will use. So pick on",
+        "url": "https://x.com/WojoKen/status/2102715182241947648",
+        "why_relevant": "Recommends @shepherdtools as best shepherding app"
+      },
+      {
+        "author": "Eniola_Ng",
+        "body": "Please help recommend good invoice app \ud83d\ude4f\ud83c\udffb",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 6,
+          "quotes": 1,
+          "replies": 6,
+          "reposts": 6
+        },
+        "engagement_score": 26,
+        "freshness": 86,
+        "item_id": "X2",
+        "local_rank_score": 0.397,
+        "local_relevance": 0.24,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.9,
+        "snippet": "Please help recommend good invoice app \ud83d\ude4f\ud83c\udffb",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Please help recommend good invoice app \ud83d\ude4f\ud83c\udffb",
+        "url": "https://x.com/Eniola_Ng/status/2102710181922750672",
+        "why_relevant": "Request for good invoice app recommendations"
+      },
+      {
+        "author": "Nash_Potatoes24",
+        "body": "Can you recommend a good app for identification?",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 0,
+        "freshness": 86,
+        "item_id": "X17",
+        "local_rank_score": 0.3905,
+        "local_relevance": 0.27,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.85,
+        "snippet": "Can you recommend a good app for identification?",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Can you recommend a good app for identification?",
+        "url": "https://x.com/Nash_Potatoes24/status/2102762428316680310",
+        "why_relevant": "Requests recommendation for identification app"
+      },
+      {
+        "author": "kitastic_",
+        "body": "I recommend proton VPN!! Its a really good app I use it all the time, most countries are for money but you just make an account, click on \"connect\" and it will give you a random country from the free List!",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 2,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 7,
+        "freshness": 86,
+        "item_id": "X1",
+        "local_rank_score": 0.35850000000000004,
+        "local_relevance": 0.21,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.95,
+        "snippet": "I recommend proton VPN!! Its a really good app I use it all the time, most countries are for money but you just make an account, click on \"connect\" and it will give you a random country from the free List!",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "I recommend proton VPN!! Its a really good app I use it all the time, most countries are for money but you just make an account, click on \"c",
+        "url": "https://x.com/kitastic_/status/2102756993605759282",
+        "why_relevant": "Direct recommendation of Proton VPN as a good app"
+      },
+      {
+        "author": "RandomPerson273",
+        "body": "...I forgot you can boost the bass in the app... it sounds so much better... curse you soundcore and your great tech.. and good sale (Jokes aside if anyone needs a new pair of headphones etc I'd highly recommend them they have a sale and have always been my favourite)",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 2,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 7,
+        "freshness": 86,
+        "item_id": "X14",
+        "local_rank_score": 0.35850000000000004,
+        "local_relevance": 0.21,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.8,
+        "snippet": "...I forgot you can boost the bass in the app... it sounds so much better... curse you soundcore and your great tech.. and good sale (Jokes aside if anyone needs a new pair of headphones etc I'd highly recommend them they have a sale and have always been my favourite)",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "...I forgot you can boost the bass in the app... it sounds so much better... curse you soundcore and your great tech.. and good sale (Jokes",
+        "url": "https://x.com/RandomPerson273/status/2102835011695313088",
+        "why_relevant": "Recommends Soundcore app and headphones"
+      },
+      {
+        "author": "Aiden_Tech_Ai",
+        "body": "4. Socratic by Google \u2013 A must-have app for students, with step-by-step help in math, science, history, and more.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 10,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 1
+        },
+        "engagement_score": 19,
+        "freshness": 86,
+        "item_id": "X7",
+        "local_rank_score": 0.28600000000000003,
+        "local_relevance": 0.08,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.9,
+        "snippet": "4. Socratic by Google \u2013 A must-have app for students, with step-by-step help in math, science, history, and more.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "4. Socratic by Google \u2013 A must-have app for students, with step-by-step help in math, science, history, and more.",
+        "url": "https://x.com/Aiden_Tech_Ai/status/2102712292500775165",
+        "why_relevant": "Lists Socratic as must-have app with detailed explanation"
+      },
+      {
+        "author": "dessotrill",
+        "body": "impulse + elevate are my fav apps right now",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 84,
+        "item_id": "X10",
+        "local_rank_score": 0.275,
+        "local_relevance": 0.1,
+        "metadata": {},
+        "published_at": "2026-09-22",
+        "relevance_hint": 0.7,
+        "snippet": "impulse + elevate are my fav apps right now",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "impulse + elevate are my fav apps right now",
+        "url": "https://x.com/dessotrill/status/2102500546838135041",
+        "why_relevant": "Names specific apps as current favorites"
+      },
+      {
+        "author": "iitsBilal",
+        "body": "X is honestly my favorite app ever \u2764\ufe0f and yours ????",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 28,
+          "quotes": 0,
+          "replies": 9,
+          "reposts": 16
+        },
+        "engagement_score": 39,
+        "freshness": 86,
+        "item_id": "X6",
+        "local_rank_score": 0.254,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.95,
+        "snippet": "X is honestly my favorite app ever \u2764\ufe0f and yours ????",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "X is honestly my favorite app ever \u2764\ufe0f and yours ????",
+        "url": "https://x.com/iitsBilal/status/2102718208276832515",
+        "why_relevant": "Proclaims X (Twitter) as favorite app and asks others"
+      },
+      {
+        "author": "luverlow",
+        "body": "instagram is like my favorite app ever i LOVE taking photos i LOVE cultivating my feed i LOVE being aesthetic",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 31,
+          "quotes": 1,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 24,
+        "freshness": 86,
+        "item_id": "X9",
+        "local_rank_score": 0.239,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.9,
+        "snippet": "instagram is like my favorite app ever i LOVE taking photos i LOVE cultivating my feed i LOVE being aesthetic",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "instagram is like my favorite app ever i LOVE taking photos i LOVE cultivating my feed i LOVE being aesthetic",
+        "url": "https://x.com/luverlow/status/2102566028098330821",
+        "why_relevant": "Details why Instagram is favorite app with personal passion"
+      },
+      {
+        "author": "SirDabar",
+        "body": "No LinkedIn slander here. It is my favourite app \ud83d\ude48",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 8,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 14,
+        "freshness": 86,
+        "item_id": "X5",
+        "local_rank_score": 0.229,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.85,
+        "snippet": "No LinkedIn slander here. It is my favourite app \ud83d\ude48",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "No LinkedIn slander here. It is my favourite app \ud83d\ude48",
+        "url": "https://x.com/SirDabar/status/2102851740450378102",
+        "why_relevant": "Defends LinkedIn as personal favorite app"
+      },
+      {
+        "author": "tuamoryonose",
+        "body": "i love twitter it is my favorite app WVER",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 8,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 13,
+        "freshness": 86,
+        "item_id": "X8",
+        "local_rank_score": 0.228,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.8,
+        "snippet": "i love twitter it is my favorite app WVER",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "i love twitter it is my favorite app WVER",
+        "url": "https://x.com/tuamoryonose/status/2102614053592109224",
+        "why_relevant": "Calls Twitter favorite app with strong enthusiasm"
+      },
+      {
+        "author": "benabmathew",
+        "body": "My next favorite app could be yours. Drop your startup URL.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 4,
+          "quotes": 0,
+          "replies": 3,
+          "reposts": 0
+        },
+        "engagement_score": 11,
+        "freshness": 86,
+        "item_id": "X1",
+        "local_rank_score": 0.226,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.9,
+        "snippet": "My next favorite app could be yours. Drop your startup URL.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "My next favorite app could be yours. Drop your startup URL.",
+        "url": "https://x.com/benabmathew/status/2102907383345496563",
+        "why_relevant": "Directly invites discussion on favorite apps via startup pitches"
+      },
+      {
+        "author": "BigBaibe",
+        "body": "My favourite app!",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 5,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 11,
+        "freshness": 86,
+        "item_id": "X2",
+        "local_rank_score": 0.226,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.85,
+        "snippet": "My favourite app!",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "My favourite app!",
+        "url": "https://x.com/BigBaibe/status/2102879150705095087",
+        "why_relevant": "Explicitly names Pinterest as favorite app in response to usage question"
+      },
+      {
+        "author": "tobi",
+        "body": "You should try Meta\u2019s Muse app. It\u2019s pretty amazing.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 3767,
+          "quotes": 50,
+          "replies": 273,
+          "reposts": 108
+        },
+        "engagement_score": 100,
+        "freshness": 50,
+        "item_id": "X12",
+        "local_rank_score": 0.225,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-09",
+        "relevance_hint": 0.8,
+        "snippet": "You should try Meta\u2019s Muse app. It\u2019s pretty amazing.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "You should try Meta\u2019s Muse app. It\u2019s pretty amazing.",
+        "url": "https://x.com/tobi/status/2097529479639732697",
+        "why_relevant": "Highly engaged post recommending Muse as must-try app"
+      },
+      {
+        "author": "materiagrl",
+        "body": "annotate you are my favorite app forever",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 2,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 3,
+        "freshness": 86,
+        "item_id": "X3",
+        "local_rank_score": 0.218,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.8,
+        "snippet": "annotate you are my favorite app forever",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "annotate you are my favorite app forever",
+        "url": "https://x.com/materiagrl/status/2102866465405931769",
+        "why_relevant": "Declares a specific app (annotate) as all-time favorite"
+      },
+      {
+        "author": "skjunior_001",
+        "body": "Mt all time favourite app",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 0,
+        "freshness": 86,
+        "item_id": "X4",
+        "local_rank_score": 0.215,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.75,
+        "snippet": "Mt all time favourite app",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Mt all time favourite app",
+        "url": "https://x.com/skjuni or_001/status/2102857583342002388",
+        "why_relevant": "Calls out WeChat as all-time favorite app"
+      },
+      {
+        "author": "Kimuzi_",
+        "body": "Twitter, Reddit, Substack, Telegram, YouTube and Kick are my favorite apps. Deleted Instagram, Facebook and never downloaded Tiktok.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 400,
+          "quotes": 0,
+          "replies": 6,
+          "reposts": 56
+        },
+        "engagement_score": 66,
+        "freshness": 28,
+        "item_id": "X13",
+        "local_rank_score": 0.188,
+        "local_relevance": 0.08,
+        "metadata": {},
+        "published_at": "2026-09-01",
+        "relevance_hint": 0.95,
+        "snippet": "Twitter, Reddit, Substack, Telegram, YouTube and Kick are my favorite apps. Deleted Instagram, Facebook and never downloaded Tiktok.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Twitter, Reddit, Substack, Telegram, YouTube and Kick are my favorite apps. Deleted Instagram, Facebook and never downloaded Tiktok.",
+        "url": "https://x.com/Kimuzi_/status/2094713138125983825",
+        "why_relevant": "Lists multiple favorite apps with context on deleted ones"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [
+      "Topic is open-ended product recommendation query"
+    ],
+    "raw_topic": "\"any good app for\"",
+    "source_weights": {
+      "x": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "app recs general",
+        "ranking_query": "What apps do people actually recommend as good or useful?",
+        "search_query": "good app OR best app recommend",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.28169014084507044
+      },
+      {
+        "label": "favorite apps",
+        "ranking_query": "Which apps are frequently mentioned as favorites or must-haves?",
+        "search_query": "favorite app OR must have app",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.2535211267605634
+      },
+      {
+        "label": "app discovery",
+        "ranking_query": "Any underrated or newly discovered apps worth trying?",
+        "search_query": "app suggestion OR underrated app",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.23943661971830987
+      },
+      {
+        "label": "community picks",
+        "ranking_query": "What apps come up in recommendation threads or community discussions?",
+        "search_query": "app thread OR recommend app",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.22535211267605637
+      }
+    ]
+  },
+  "range_from": "2026-08-25",
+  "range_to": "2026-09-24",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://x.com/nash_potatoes24/status/2102762428316680310",
+      "cluster_id": "cluster-1",
+      "engagement": 0,
+      "explanation": "exact match to 'recommend a good app for' phrasing",
+      "final_score": 67.10035211267606,
+      "freshness": 86,
+      "fun_explanation": "just a plain question",
+      "fun_score": 5.0,
+      "item_id": "X17",
+      "local_relevance": 0.27,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X17",
+            "native_rank": 4,
+            "source": "x",
+            "subquery_label": "app recs general"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recs general:x": 4
+      },
+      "rerank_score": 90.0,
+      "rrf_score": 0.0044014084507042256,
+      "snippet": "Can you recommend a good app for identification?",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Nash_Potatoes24",
+          "body": "Can you recommend a good app for identification?",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 0,
+          "freshness": 86,
+          "item_id": "X17",
+          "local_rank_score": 0.3905,
+          "local_relevance": 0.27,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.85,
+          "snippet": "Can you recommend a good app for identification?",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Can you recommend a good app for identification?",
+          "url": "https://x.com/Nash_Potatoes24/status/2102762428316680310",
+          "why_relevant": "Requests recommendation for identification app"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recs general"
+      ],
+      "title": "Can you recommend a good app for identification?",
+      "url": "https://x.com/Nash_Potatoes24/status/2102762428316680310"
+    },
+    {
+      "candidate_id": "https://x.com/eniola_ng/status/2102710181922750672",
+      "cluster_id": "cluster-2",
+      "engagement": 26,
+      "explanation": "explicit request for good invoice app recommendation",
+      "final_score": 60.11781801922647,
+      "freshness": 86,
+      "fun_explanation": "basic request, zero wit",
+      "fun_score": 8.0,
+      "item_id": "X2",
+      "local_relevance": 0.24,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X2",
+            "native_rank": 3,
+            "source": "x",
+            "subquery_label": "app recs general"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recs general:x": 3
+      },
+      "rerank_score": 70.0,
+      "rrf_score": 0.00447127207690588,
+      "snippet": "Please help recommend good invoice app \ud83d\ude4f\ud83c\udffb",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Eniola_Ng",
+          "body": "Please help recommend good invoice app \ud83d\ude4f\ud83c\udffb",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 6,
+            "quotes": 1,
+            "replies": 6,
+            "reposts": 6
+          },
+          "engagement_score": 26,
+          "freshness": 86,
+          "item_id": "X2",
+          "local_rank_score": 0.397,
+          "local_relevance": 0.24,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.9,
+          "snippet": "Please help recommend good invoice app \ud83d\ude4f\ud83c\udffb",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Please help recommend good invoice app \ud83d\ude4f\ud83c\udffb",
+          "url": "https://x.com/Eniola_Ng/status/2102710181922750672",
+          "why_relevant": "Request for good invoice app recommendations"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recs general"
+      ],
+      "title": "Please help recommend good invoice app \ud83d\ude4f\ud83c\udffb",
+      "url": "https://x.com/Eniola_Ng/status/2102710181922750672"
+    },
+    {
+      "candidate_id": "https://x.com/heykandoi/status/2100904138175643942",
+      "cluster_id": "cluster-3",
+      "engagement": 5,
+      "explanation": "direct app recommendations with specific mentions",
+      "final_score": 52.454467790348644,
+      "freshness": 74,
+      "fun_explanation": "list format, mildly enthusiastic",
+      "fun_score": 22.0,
+      "item_id": "X8",
+      "local_relevance": 0.47,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X8",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "app recs general"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recs general:x": 1
+      },
+      "rerank_score": 65.0,
+      "rrf_score": 0.004617871161394597,
+      "snippet": "Amazing apps I'd highly recommend: @bot grok bot - super useful... @TwingateHQ or @Tailscale both are damn good... Warp terminal @warpdotdev smooth with useful feats",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "heykandoi",
+          "body": "Amazing apps I'd highly recommend: @bot grok bot - super useful... @TwingateHQ or @Tailscale both are damn good... Warp terminal @warpdotdev smooth with useful feats",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 5,
+          "freshness": 74,
+          "item_id": "X8",
+          "local_rank_score": 0.4955,
+          "local_relevance": 0.47,
+          "metadata": {},
+          "published_at": "2026-09-18",
+          "relevance_hint": 0.95,
+          "snippet": "Amazing apps I'd highly recommend: @bot grok bot - super useful... @TwingateHQ or @Tailscale both are damn good... Warp terminal @warpdotdev smooth with useful feats",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Amazing apps I'd highly recommend: @bot grok bot - super useful... @TwingateHQ or @Tailscale both are damn good... Warp terminal @warpdotdev",
+          "url": "https://x.com/heykandoi/status/2100904138175643942",
+          "why_relevant": "Lists multiple highly recommended apps"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recs general"
+      ],
+      "title": "Amazing apps I'd highly recommend: @bot grok bot - super useful... @TwingateHQ or @Tailscale both are damn good... Warp terminal @warpdotdev",
+      "url": "https://x.com/heykandoi/status/2100904138175643942"
+    },
+    {
+      "candidate_id": "https://x.com/kitastic_/status/2102756993605759282",
+      "cluster_id": "cluster-4",
+      "engagement": 7,
+      "explanation": "recommends a specific good app with usage details",
+      "final_score": 51.18342361863489,
+      "freshness": 86,
+      "fun_explanation": "free VPN tip has slight personality",
+      "fun_score": 28.0,
+      "item_id": "X1",
+      "local_relevance": 0.21,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X1",
+            "native_rank": 5,
+            "source": "x",
+            "subquery_label": "app recs general"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recs general:x": 5
+      },
+      "rerank_score": 60.0,
+      "rrf_score": 0.004333694474539546,
+      "snippet": "I recommend proton VPN!! Its a really good app I use it all the time, most countries are for money but you just make an account, click on \"connect\" and it will give you a random country from the free List!",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "kitastic_",
+          "body": "I recommend proton VPN!! Its a really good app I use it all the time, most countries are for money but you just make an account, click on \"connect\" and it will give you a random country from the free List!",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 2,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 7,
+          "freshness": 86,
+          "item_id": "X1",
+          "local_rank_score": 0.35850000000000004,
+          "local_relevance": 0.21,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.95,
+          "snippet": "I recommend proton VPN!! Its a really good app I use it all the time, most countries are for money but you just make an account, click on \"connect\" and it will give you a random country from the free List!",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "I recommend proton VPN!! Its a really good app I use it all the time, most countries are for money but you just make an account, click on \"c",
+          "url": "https://x.com/kitastic_/status/2102756993605759282",
+          "why_relevant": "Direct recommendation of Proton VPN as a good app"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recs general"
+      ],
+      "title": "I recommend proton VPN!! Its a really good app I use it all the time, most countries are for money but you just make an account, click on \"c",
+      "url": "https://x.com/kitastic_/status/2102756993605759282"
+    },
+    {
+      "candidate_id": "https://x.com/wojoken/status/2102715182241947648",
+      "cluster_id": "cluster-5",
+      "engagement": 4,
+      "explanation": "discusses good shepherding apps but niche and indirect",
+      "final_score": 41.33584734211722,
+      "freshness": 86,
+      "fun_explanation": "meta line about the best app being the one you use",
+      "fun_score": 52.0,
+      "item_id": "X3",
+      "local_relevance": 0.34,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X3",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "app recs general"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recs general:x": 2
+      },
+      "rerank_score": 45.0,
+      "rrf_score": 0.004543389368468878,
+      "snippet": "I know there are tons of shepherding apps popping up, and some are really good. The best shepherding app is the one you will use. So pick one and get started. I highly recommend @shepherdtools , and have been using it this year.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "WojoKen",
+          "body": "I know there are tons of shepherding apps popping up, and some are really good. The best shepherding app is the one you will use. So pick one and get started. I highly recommend @shepherdtools , and have been using it this year.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 4,
+          "freshness": 86,
+          "item_id": "X3",
+          "local_rank_score": 0.44000000000000006,
+          "local_relevance": 0.34,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.92,
+          "snippet": "I know there are tons of shepherding apps popping up, and some are really good. The best shepherding app is the one you will use. So pick one and get started. I highly recommend @shepherdtools , and have been using it this year.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "I know there are tons of shepherding apps popping up, and some are really good. The best shepherding app is the one you will use. So pick on",
+          "url": "https://x.com/WojoKen/status/2102715182241947648",
+          "why_relevant": "Recommends @shepherdtools as best shepherding app"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recs general"
+      ],
+      "title": "I know there are tons of shepherding apps popping up, and some are really good. The best shepherding app is the one you will use. So pick on",
+      "url": "https://x.com/WojoKen/status/2102715182241947648"
+    },
+    {
+      "candidate_id": "https://x.com/aiden_tech_ai/status/2102712292500775165",
+      "cluster_id": "cluster-6",
+      "engagement": 19,
+      "explanation": "lists must-have app but no 'good app for' entity match",
+      "final_score": 33.039021011313785,
+      "freshness": 86,
+      "fun_explanation": "straight product blurb",
+      "fun_score": 12.0,
+      "item_id": "X7",
+      "local_relevance": 0.08,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X7",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "favorite apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "favorite apps:x": 1
+      },
+      "rerank_score": 25.0,
+      "rrf_score": 0.004156084045255137,
+      "snippet": "4. Socratic by Google \u2013 A must-have app for students, with step-by-step help in math, science, history, and more.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Aiden_Tech_Ai",
+          "body": "4. Socratic by Google \u2013 A must-have app for students, with step-by-step help in math, science, history, and more.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 10,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 1
+          },
+          "engagement_score": 19,
+          "freshness": 86,
+          "item_id": "X7",
+          "local_rank_score": 0.28600000000000003,
+          "local_relevance": 0.08,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.9,
+          "snippet": "4. Socratic by Google \u2013 A must-have app for students, with step-by-step help in math, science, history, and more.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "4. Socratic by Google \u2013 A must-have app for students, with step-by-step help in math, science, history, and more.",
+          "url": "https://x.com/Aiden_Tech_Ai/status/2102712292500775165",
+          "why_relevant": "Lists Socratic as must-have app with detailed explanation"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "favorite apps"
+      ],
+      "title": "4. Socratic by Google \u2013 A must-have app for students, with step-by-step help in math, science, history, and more.",
+      "url": "https://x.com/Aiden_Tech_Ai/status/2102712292500775165"
+    },
+    {
+      "candidate_id": "https://x.com/tobi/status/2097529479639732697",
+      "cluster_id": "cluster-7",
+      "engagement": 100,
+      "explanation": "app recommendation but weak entity match",
+      "final_score": 29.31855480710349,
+      "freshness": 50,
+      "fun_explanation": "short but generic praise",
+      "fun_score": 18.0,
+      "item_id": "X12",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X12",
+            "native_rank": 9,
+            "source": "x",
+            "subquery_label": "favorite apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "favorite apps:x": 9
+      },
+      "rerank_score": 25.0,
+      "rrf_score": 0.003674219228413962,
+      "snippet": "You should try Meta\u2019s Muse app. It\u2019s pretty amazing.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "tobi",
+          "body": "You should try Meta\u2019s Muse app. It\u2019s pretty amazing.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 3767,
+            "quotes": 50,
+            "replies": 273,
+            "reposts": 108
+          },
+          "engagement_score": 100,
+          "freshness": 50,
+          "item_id": "X12",
+          "local_rank_score": 0.225,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-09",
+          "relevance_hint": 0.8,
+          "snippet": "You should try Meta\u2019s Muse app. It\u2019s pretty amazing.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "You should try Meta\u2019s Muse app. It\u2019s pretty amazing.",
+          "url": "https://x.com/tobi/status/2097529479639732697",
+          "why_relevant": "Highly engaged post recommending Muse as must-try app"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "favorite apps"
+      ],
+      "title": "You should try Meta\u2019s Muse app. It\u2019s pretty amazing.",
+      "url": "https://x.com/tobi/status/2097529479639732697"
+    },
+    {
+      "candidate_id": "https://x.com/randomperson273/status/2102835011695313088",
+      "cluster_id": "cluster-8",
+      "engagement": 7,
+      "explanation": "mentions app features but no recommendation match to entity",
+      "final_score": 27.16700810926163,
+      "freshness": 86,
+      "fun_explanation": "self-aware joke aside gives it a spark",
+      "fun_score": 35.0,
+      "item_id": "X14",
+      "local_relevance": 0.21,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X14",
+            "native_rank": 6,
+            "source": "x",
+            "subquery_label": "app recs general"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recs general:x": 6
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.004268032437046522,
+      "snippet": "...I forgot you can boost the bass in the app... it sounds so much better... curse you soundcore and your great tech.. and good sale (Jokes aside if anyone needs a new pair of headphones etc I'd highly recommend them they have a sale and have always been my favourite)",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "RandomPerson273",
+          "body": "...I forgot you can boost the bass in the app... it sounds so much better... curse you soundcore and your great tech.. and good sale (Jokes aside if anyone needs a new pair of headphones etc I'd highly recommend them they have a sale and have always been my favourite)",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 2,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 7,
+          "freshness": 86,
+          "item_id": "X14",
+          "local_rank_score": 0.35850000000000004,
+          "local_relevance": 0.21,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.8,
+          "snippet": "...I forgot you can boost the bass in the app... it sounds so much better... curse you soundcore and your great tech.. and good sale (Jokes aside if anyone needs a new pair of headphones etc I'd highly recommend them they have a sale and have always been my favourite)",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "...I forgot you can boost the bass in the app... it sounds so much better... curse you soundcore and your great tech.. and good sale (Jokes",
+          "url": "https://x.com/RandomPerson273/status/2102835011695313088",
+          "why_relevant": "Recommends Soundcore app and headphones"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recs general"
+      ],
+      "title": "...I forgot you can boost the bass in the app... it sounds so much better... curse you soundcore and your great tech.. and good sale (Jokes",
+      "url": "https://x.com/RandomPerson273/status/2102835011695313088"
+    },
+    {
+      "candidate_id": "https://x.com/dessotrill/status/2102500546838135041",
+      "cluster_id": "cluster-9",
+      "explanation": "favorite apps mention without entity phrasing",
+      "final_score": 24.8222626079055,
+      "freshness": 84,
+      "fun_explanation": "short & punchy favs list",
+      "fun_score": 25.0,
+      "item_id": "X10",
+      "local_relevance": 0.1,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X10",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "favorite apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "favorite apps:x": 2
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.00408905043162199,
+      "snippet": "impulse + elevate are my fav apps right now",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "dessotrill",
+          "body": "impulse + elevate are my fav apps right now",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 84,
+          "item_id": "X10",
+          "local_rank_score": 0.275,
+          "local_relevance": 0.1,
+          "metadata": {},
+          "published_at": "2026-09-22",
+          "relevance_hint": 0.7,
+          "snippet": "impulse + elevate are my fav apps right now",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "impulse + elevate are my fav apps right now",
+          "url": "https://x.com/dessotrill/status/2102500546838135041",
+          "why_relevant": "Names specific apps as current favorites"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "favorite apps"
+      ],
+      "title": "impulse + elevate are my fav apps right now",
+      "url": "https://x.com/dessotrill/status/2102500546838135041"
+    },
+    {
+      "candidate_id": "https://x.com/iitsbilal/status/2102718208276832515",
+      "cluster_id": "cluster-10",
+      "engagement": 39,
+      "explanation": "favorite app claim, no entity grounding",
+      "final_score": 8.101810865191146,
+      "freshness": 86,
+      "fun_explanation": "asks others, adds mild engagement",
+      "fun_score": 38.0,
+      "item_id": "X6",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X6",
+            "native_rank": 3,
+            "source": "x",
+            "subquery_label": "favorite apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "favorite apps:x": 3
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.004024144869215292,
+      "snippet": "X is honestly my favorite app ever \u2764\ufe0f and yours ????",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "iitsBilal",
+          "body": "X is honestly my favorite app ever \u2764\ufe0f and yours ????",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 28,
+            "quotes": 0,
+            "replies": 9,
+            "reposts": 16
+          },
+          "engagement_score": 39,
+          "freshness": 86,
+          "item_id": "X6",
+          "local_rank_score": 0.254,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.95,
+          "snippet": "X is honestly my favorite app ever \u2764\ufe0f and yours ????",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "X is honestly my favorite app ever \u2764\ufe0f and yours ????",
+          "url": "https://x.com/iitsBilal/status/2102718208276832515",
+          "why_relevant": "Proclaims X (Twitter) as favorite app and asks others"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "favorite apps"
+      ],
+      "title": "X is honestly my favorite app ever \u2764\ufe0f and yours ????",
+      "url": "https://x.com/iitsBilal/status/2102718208276832515"
+    },
+    {
+      "candidate_id": "https://x.com/luverlow/status/2102566028098330821",
+      "cluster_id": "cluster-11",
+      "engagement": 24,
+      "explanation": "favorite app post, lacks primary entity",
+      "final_score": 8.097095070422535,
+      "freshness": 86,
+      "fun_explanation": "repetitive love list has meme energy",
+      "fun_score": 42.0,
+      "item_id": "X9",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X9",
+            "native_rank": 4,
+            "source": "x",
+            "subquery_label": "favorite apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "favorite apps:x": 4
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.003961267605633803,
+      "snippet": "instagram is like my favorite app ever i LOVE taking photos i LOVE cultivating my feed i LOVE being aesthetic",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "luverlow",
+          "body": "instagram is like my favorite app ever i LOVE taking photos i LOVE cultivating my feed i LOVE being aesthetic",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 31,
+            "quotes": 1,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 24,
+          "freshness": 86,
+          "item_id": "X9",
+          "local_rank_score": 0.239,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.9,
+          "snippet": "instagram is like my favorite app ever i LOVE taking photos i LOVE cultivating my feed i LOVE being aesthetic",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "instagram is like my favorite app ever i LOVE taking photos i LOVE cultivating my feed i LOVE being aesthetic",
+          "url": "https://x.com/luverlow/status/2102566028098330821",
+          "why_relevant": "Details why Instagram is favorite app with personal passion"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "favorite apps"
+      ],
+      "title": "instagram is like my favorite app ever i LOVE taking photos i LOVE cultivating my feed i LOVE being aesthetic",
+      "url": "https://x.com/luverlow/status/2102566028098330821"
+    },
+    {
+      "candidate_id": "https://x.com/sirdabar/status/2102851740450378102",
+      "cluster_id": "cluster-12",
+      "engagement": 14,
+      "explanation": "favorite app without matching entity",
+      "final_score": 7.852524377031418,
+      "freshness": 86,
+      "fun_explanation": "LinkedIn defense is contrarian but flat",
+      "fun_score": 30.0,
+      "item_id": "X5",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X5",
+            "native_rank": 5,
+            "source": "x",
+            "subquery_label": "favorite apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "favorite apps:x": 5
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.0039003250270855903,
+      "snippet": "No LinkedIn slander here. It is my favourite app \ud83d\ude48",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "SirDabar",
+          "body": "No LinkedIn slander here. It is my favourite app \ud83d\ude48",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 8,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 14,
+          "freshness": 86,
+          "item_id": "X5",
+          "local_rank_score": 0.229,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.85,
+          "snippet": "No LinkedIn slander here. It is my favourite app \ud83d\ude48",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "No LinkedIn slander here. It is my favourite app \ud83d\ude48",
+          "url": "https://x.com/SirDabar/status/2102851740450378102",
+          "why_relevant": "Defends LinkedIn as personal favorite app"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "favorite apps"
+      ],
+      "title": "No LinkedIn slander here. It is my favourite app \ud83d\ude48",
+      "url": "https://x.com/SirDabar/status/2102851740450378102"
+    },
+    {
+      "candidate_id": "https://x.com/tuamoryonose/status/2102614053592109224",
+      "cluster_id": "cluster-13",
+      "engagement": 13,
+      "explanation": "favorite app claim, off-target for entity",
+      "final_score": 7.758092189500639,
+      "freshness": 86,
+      "fun_explanation": "typo-filled fav tweet",
+      "fun_score": 15.0,
+      "item_id": "X8",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X8",
+            "native_rank": 6,
+            "source": "x",
+            "subquery_label": "favorite apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "favorite apps:x": 6
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.0038412291933418692,
+      "snippet": "i love twitter it is my favorite app WVER",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "tuamoryonose",
+          "body": "i love twitter it is my favorite app WVER",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 8,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 13,
+          "freshness": 86,
+          "item_id": "X8",
+          "local_rank_score": 0.228,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.8,
+          "snippet": "i love twitter it is my favorite app WVER",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "i love twitter it is my favorite app WVER",
+          "url": "https://x.com/tuamoryonose/status/2102614053592109224",
+          "why_relevant": "Calls Twitter favorite app with strong enthusiasm"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "favorite apps"
+      ],
+      "title": "i love twitter it is my favorite app WVER",
+      "url": "https://x.com/tuamoryonose/status/2102614053592109224"
+    },
+    {
+      "candidate_id": "https://x.com/benabmathew/status/2102907383345496563",
+      "cluster_id": "cluster-14",
+      "engagement": 11,
+      "explanation": "meta post about favorites, no entity match",
+      "final_score": 6.673792306075257,
+      "freshness": 86,
+      "fun_explanation": "clever call-to-action twist",
+      "fun_score": 48.0,
+      "item_id": "X1",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X1",
+            "native_rank": 7,
+            "source": "x",
+            "subquery_label": "favorite apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "favorite apps:x": 7
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.0037838974143367668,
+      "snippet": "My next favorite app could be yours. Drop your startup URL.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "benabmathew",
+          "body": "My next favorite app could be yours. Drop your startup URL.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 4,
+            "quotes": 0,
+            "replies": 3,
+            "reposts": 0
+          },
+          "engagement_score": 11,
+          "freshness": 86,
+          "item_id": "X1",
+          "local_rank_score": 0.226,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.9,
+          "snippet": "My next favorite app could be yours. Drop your startup URL.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "My next favorite app could be yours. Drop your startup URL.",
+          "url": "https://x.com/benabmathew/status/2102907383345496563",
+          "why_relevant": "Directly invites discussion on favorite apps via startup pitches"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "favorite apps"
+      ],
+      "title": "My next favorite app could be yours. Drop your startup URL.",
+      "url": "https://x.com/benabmathew/status/2102907383345496563"
+    },
+    {
+      "candidate_id": "https://x.com/bigbaibe/status/2102879150705095087",
+      "cluster_id": "cluster-15",
+      "engagement": 11,
+      "explanation": "vague favorite app, no grounding",
+      "final_score": 6.669618889809445,
+      "freshness": 86,
+      "fun_explanation": "empty statement",
+      "fun_score": 10.0,
+      "item_id": "X2",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X2",
+            "native_rank": 8,
+            "source": "x",
+            "subquery_label": "favorite apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "favorite apps:x": 8
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.003728251864125932,
+      "snippet": "My favourite app!",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "BigBaibe",
+          "body": "My favourite app!",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 5,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 11,
+          "freshness": 86,
+          "item_id": "X2",
+          "local_rank_score": 0.226,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.85,
+          "snippet": "My favourite app!",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "My favourite app!",
+          "url": "https://x.com/BigBaibe/status/2102879150705095087",
+          "why_relevant": "Explicitly names Pinterest as favorite app in response to usage question"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "favorite apps"
+      ],
+      "title": "My favourite app!",
+      "url": "https://x.com/BigBaibe/status/2102879150705095087"
+    },
+    {
+      "candidate_id": "https://x.com/kimuzi_/status/2094713138125983825",
+      "cluster_id": "cluster-16",
+      "engagement": 66,
+      "explanation": "lists favorite apps, lacks primary entity",
+      "final_score": 6.324084507042253,
+      "freshness": 28,
+      "fun_explanation": "anti-IG stance adds edge",
+      "fun_score": 32.0,
+      "item_id": "X13",
+      "local_relevance": 0.08,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X13",
+            "native_rank": 12,
+            "source": "x",
+            "subquery_label": "favorite apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "favorite apps:x": 12
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.0035211267605633804,
+      "snippet": "Twitter, Reddit, Substack, Telegram, YouTube and Kick are my favorite apps. Deleted Instagram, Facebook and never downloaded Tiktok.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Kimuzi_",
+          "body": "Twitter, Reddit, Substack, Telegram, YouTube and Kick are my favorite apps. Deleted Instagram, Facebook and never downloaded Tiktok.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 400,
+            "quotes": 0,
+            "replies": 6,
+            "reposts": 56
+          },
+          "engagement_score": 66,
+          "freshness": 28,
+          "item_id": "X13",
+          "local_rank_score": 0.188,
+          "local_relevance": 0.08,
+          "metadata": {},
+          "published_at": "2026-09-01",
+          "relevance_hint": 0.95,
+          "snippet": "Twitter, Reddit, Substack, Telegram, YouTube and Kick are my favorite apps. Deleted Instagram, Facebook and never downloaded Tiktok.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Twitter, Reddit, Substack, Telegram, YouTube and Kick are my favorite apps. Deleted Instagram, Facebook and never downloaded Tiktok.",
+          "url": "https://x.com/Kimuzi_/status/2094713138125983825",
+          "why_relevant": "Lists multiple favorite apps with context on deleted ones"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "favorite apps"
+      ],
+      "title": "Twitter, Reddit, Substack, Telegram, YouTube and Kick are my favorite apps. Deleted Instagram, Facebook and never downloaded Tiktok.",
+      "url": "https://x.com/Kimuzi_/status/2094713138125983825"
+    },
+    {
+      "candidate_id": "https://x.com/materiagrl/status/2102866465405931769",
+      "cluster_id": "cluster-17",
+      "engagement": 3,
+      "explanation": "favorite app without entity",
+      "final_score": 5.941629778672032,
+      "freshness": 86,
+      "fun_explanation": "typo, no joke",
+      "fun_score": 12.0,
+      "item_id": "X3",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X3",
+            "native_rank": 10,
+            "source": "x",
+            "subquery_label": "favorite apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "favorite apps:x": 10
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.0036217303822937627,
+      "snippet": "annotate you are my favorite app forever",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "materiagrl",
+          "body": "annotate you are my favorite app forever",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 2,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 3,
+          "freshness": 86,
+          "item_id": "X3",
+          "local_rank_score": 0.218,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.8,
+          "snippet": "annotate you are my favorite app forever",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "annotate you are my favorite app forever",
+          "url": "https://x.com/materiagrl/status/2102866465405931769",
+          "why_relevant": "Declares a specific app (annotate) as all-time favorite"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "favorite apps"
+      ],
+      "title": "annotate you are my favorite app forever",
+      "url": "https://x.com/materiagrl/status/2102866465405931769"
+    },
+    {
+      "candidate_id": "https://x.com/skjuni or_001/status/2102857583342002388",
+      "cluster_id": "cluster-18",
+      "engagement": 0,
+      "explanation": "favorite app post, no match",
+      "final_score": 5.66780400714144,
+      "freshness": 86,
+      "fun_explanation": "incomplete and bland",
+      "fun_score": 7.0,
+      "item_id": "X4",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X4",
+            "native_rank": 11,
+            "source": "x",
+            "subquery_label": "favorite apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "favorite apps:x": 11
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.0035707200952192026,
+      "snippet": "Mt all time favourite app",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "skjunior_001",
+          "body": "Mt all time favourite app",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 0,
+          "freshness": 86,
+          "item_id": "X4",
+          "local_rank_score": 0.215,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.75,
+          "snippet": "Mt all time favourite app",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Mt all time favourite app",
+          "url": "https://x.com/skjuni or_001/status/2102857583342002388",
+          "why_relevant": "Calls out WeChat as all-time favorite app"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "favorite apps"
+      ],
+      "title": "Mt all time favourite app",
+      "url": "https://x.com/skjuni or_001/status/2102857583342002388"
+    }
+  ],
+  "topic": "\"any good app for\"",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}

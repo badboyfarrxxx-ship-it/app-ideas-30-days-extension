@@ -1,0 +1,87 @@
+Batch B sources=x,bluesky
+Started at 2026-09-24T18:28:53Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/36041478154
+----
+
+===== Seed: "is there a paid app" =====
+/last30days · researching: "is there a paid app"
+⏳ [95mProcessing[0m Finding patterns...
+[Planner] Plan: intent=factual, freshness=evergreen_ok, cluster_mode=none, subqueries=2, source=llm
+[Planner]   sq1 label=paid app existence search=""paid app" OR "premium tier" OR "paid version"" sources=[x]
+[Planner]   sq2 label=pricing model check search="pricing OR subscription OR "paid plan"" sources=[x]
+✓ Research complete (64.0s) - X: 15 posts
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-24/1829-is-there-a-paid-app.json
+[OK] seed succeeded
+
+===== Seed: "is there an app that" "pay" =====
+/last30days · researching: "is there an app that" "pay"
+⏳ [95mProcessing[0m Scoring and ranking...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=3, source=llm
+[Planner]   sq1 label=apps that pay users search="app pays OR "pays you" OR "pay you" money OR cash" sources=[x]
+[Planner]   sq2 label=payment or reward apps search="app pay OR payout OR rewards OR "get paid"" sources=[x]
+[Planner]   sq3 label=legit paying apps discussion search="app that pays legit OR real OR scam" sources=[x]
+✓ Research complete (62.0s) - X: 10 posts
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-24/1831-is-there-an-app-that-pay.json
+[OK] seed succeeded
+
+===== Seed: "any good app for" =====
+/last30days · researching: "any good app for"
+⏳ [95mProcessing[0m Scoring and ranking...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=4, source=llm
+[Planner]   sq1 label=app recs general search="good app OR best app recommend" sources=[x]
+[Planner]   sq2 label=favorite apps search="favorite app OR must have app" sources=[x]
+[Planner]   sq3 label=app discovery search="app suggestion OR underrated app" sources=[x]
+[Planner]   sq4 label=community picks search="app thread OR recommend app" sources=[x]
+✓ Research complete (59.7s) - X: 18 posts
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-24/1832-any-good-app-for.json
+[OK] seed succeeded
+
+===== Seed: "better app than" =====
+/last30days · researching: "better app than"
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] Plan: intent=comparison, freshness=balanced_recent, cluster_mode=debate, subqueries=3, source=llm
+[Planner]   sq1 label=general alternatives search="better app than OR "app alternative" OR "instead of"" sources=[x]
+[Planner]   sq2 label=switch experiences search=""switched to" app OR "replaced with" OR "moved from"" sources=[x]
+[Planner]   sq3 label=recommendation threads search=""recommend app" OR "best app for" -news" sources=[x]
+✓ Research complete (67.4s) - X: 16 posts
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-24/1833-better-app-than.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed

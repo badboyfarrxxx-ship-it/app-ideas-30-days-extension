@@ -1,0 +1,1113 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"is there an app that\" \"pay\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://x.com/lowonliquid/status/2100654539271479606"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://x.com/lowonliquid/status/2100654539271479606"
+      ],
+      "score": 28.866275659824048,
+      "sources": [
+        "x"
+      ],
+      "title": "okay this is an absolute gem imo carl (pump mobile app lead) has mentioned Taste Pays in multiple tweets over the past 2 months. The officia"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/maddcharity/status/2102163026002526215"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://x.com/maddcharity/status/2102163026002526215"
+      ],
+      "score": 28.090312965722802,
+      "sources": [
+        "x"
+      ],
+      "title": "Hey! \ud83d\udc4b Join me on Cash Space \ud83d\ude80 - an app where you can earn real money by walking and playing games! \ud83d\udeb6\u200d\u2642\ufe0f   \ud83c\udfae = \ud83d\udcb0"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/gozyy_world/status/2095042134042608035"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://x.com/gozyy_world/status/2095042134042608035"
+      ],
+      "score": 27.84300144300144,
+      "sources": [
+        "x"
+      ],
+      "title": "Gooooood Morniiing and happy wednesdaaay bestieees Making money online these days getting even easier thanks to apps like @earnos_io where y"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/okx/status/2102888556607758696"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://x.com/okx/status/2102888556607758696"
+      ],
+      "score": 7.302384500745156,
+      "sources": [
+        "x"
+      ],
+      "title": "The future of finance is in full bloom. Get OKX now for trading that fits your level with ongoing rewards and cutting-edge products that giv"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/arctideapp/status/2102903598992519359"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://x.com/arctideapp/status/2102903598992519359"
+      ],
+      "score": 7.295894428152493,
+      "sources": [
+        "x"
+      ],
+      "title": "Why we call it dual yield: Most staking pays you in a token that is printed to pay you (inflationary). Stake a token on Arctide and you are"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/kemyyyy22/status/2102906975382028662"
+      ],
+      "cluster_id": "cluster-6",
+      "representative_ids": [
+        "https://x.com/kemyyyy22/status/2102906975382028662"
+      ],
+      "score": 7.283522727272728,
+      "sources": [
+        "x"
+      ],
+      "title": "Starting today, USDC can be used to pay for products and services from 8,000+ brands through @injective , including DoorDash and Amazon. You"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/u_what_/status/2102902982736056393"
+      ],
+      "cluster_id": "cluster-7",
+      "representative_ids": [
+        "https://x.com/u_what_/status/2102902982736056393"
+      ],
+      "score": 6.389610389610389,
+      "sources": [
+        "x"
+      ],
+      "title": "food app use big moneys to no no a good mayor. but good mayor yes yes! now food app pay bigger moneys."
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/mikethree/status/2093360030951055841"
+      ],
+      "cluster_id": "cluster-8",
+      "representative_ids": [
+        "https://x.com/mikethree/status/2093360030951055841"
+      ],
+      "score": 6.156136363636365,
+      "sources": [
+        "x"
+      ],
+      "title": "a social trading app called Cash Grab where you deposit money and it evenly distributes your balance among the top KOLs in your network."
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/sandro_svr_/status/2102901067839324648"
+      ],
+      "cluster_id": "cluster-9",
+      "representative_ids": [
+        "https://x.com/sandro_svr_/status/2102901067839324648"
+      ],
+      "score": 5.771900826446282,
+      "sources": [
+        "x"
+      ],
+      "title": "El NFC de iPhone est\u00e1 restringido a lo que Apple apruebe, a diferencia de Android que cualquier app lo puede usar. Con Tap to Pay, Apple aut"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/grok/status/2102891825392480278"
+      ],
+      "cluster_id": "cluster-10",
+      "representative_ids": [
+        "https://x.com/grok/status/2102891825392480278"
+      ],
+      "score": 5.057622377622378,
+      "sources": [
+        "x"
+      ],
+      "title": "Canada is not eligible for TikTok Creator Rewards. The program is limited to the US, UK, Germany, France, Japan, South Korea, Brazil, and Me"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-24T18:31:00.255584+00:00",
+  "items_by_source": {
+    "x": [
+      {
+        "author": "Maddcharity",
+        "body": "Hey! \ud83d\udc4b Join me on Cash Space \ud83d\ude80 - an app where you can earn real money by walking and playing games! \ud83d\udeb6\u200d\u2642\ufe0f   \ud83c\udfae = \ud83d\udcb0",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 82,
+        "item_id": "X7",
+        "local_rank_score": 0.42600000000000005,
+        "local_relevance": 0.34,
+        "metadata": {},
+        "published_at": "2026-09-21",
+        "relevance_hint": 0.85,
+        "snippet": "Hey! \ud83d\udc4b Join me on Cash Space \ud83d\ude80 - an app where you can earn real money by walking and playing games! \ud83d\udeb6\u200d\u2642\ufe0f \ud83c\udfae = \ud83d\udcb0",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Hey! \ud83d\udc4b Join me on Cash Space \ud83d\ude80 - an app where you can earn real money by walking and playing games! \ud83d\udeb6\u200d\u2642\ufe0f   \ud83c\udfae = \ud83d\udcb0",
+        "url": "https://x.com/Maddcharity/status/2102163026002526215",
+        "why_relevant": "Promotes app that pays real money for walking and games"
+      },
+      {
+        "author": "lowonliquid",
+        "body": "okay this is an absolute gem imo carl (pump mobile app lead) has mentioned Taste Pays in multiple tweets over the past 2 months. The official https://Pump.Fun description is \"Taste pays. Scroll to win!\" on nearly all app stores.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 12,
+          "quotes": 1,
+          "replies": 3,
+          "reposts": 3
+        },
+        "engagement_score": 38,
+        "freshness": 70,
+        "item_id": "X9",
+        "local_rank_score": 0.34950000000000003,
+        "local_relevance": 0.21,
+        "metadata": {},
+        "published_at": "2026-09-17",
+        "relevance_hint": 0.85,
+        "snippet": "okay this is an absolute gem imo carl (pump mobile app lead) has mentioned Taste Pays in multiple tweets over the past 2 months. The official https://Pump.Fun description is \"Taste pays. Scroll to win!\" on nearly all app stores.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "okay this is an absolute gem imo carl (pump mobile app lead) has mentioned Taste Pays in multiple tweets over the past 2 months. The officia",
+        "url": "https://x.com/lowonliquid/status/2100654539271479606",
+        "why_relevant": "Discusses Taste Pays app that pays in crypto"
+      },
+      {
+        "author": "okx",
+        "body": "The future of finance is in full bloom. Get OKX now for trading that fits your level with ongoing rewards and cutting-edge products that give you access to the agentic economy.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 189,
+          "quotes": 5,
+          "replies": 30,
+          "reposts": 14
+        },
+        "engagement_score": 100,
+        "freshness": 86,
+        "item_id": "X6",
+        "local_rank_score": 0.315,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.87,
+        "snippet": "The future of finance is in full bloom. Get OKX now for trading that fits your level with ongoing rewards and cutting-edge products that give you access to the agentic economy.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "The future of finance is in full bloom. Get OKX now for trading that fits your level with ongoing rewards and cutting-edge products that giv",
+        "url": "https://x.com/okx/status/2102888556607758696",
+        "why_relevant": "OKX app promotes ongoing rewards and payouts for users trading in the app."
+      },
+      {
+        "author": "gozyy_world",
+        "body": "Gooooood Morniiing and happy wednesdaaay bestieees Making money online these days getting even easier thanks to apps like @earnos_io where you can get real USD just from your phone completing simple tasks",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 224,
+          "quotes": 0,
+          "replies": 126,
+          "reposts": 3
+        },
+        "engagement_score": 90,
+        "freshness": 30,
+        "item_id": "X2",
+        "local_rank_score": 0.30150000000000005,
+        "local_relevance": 0.21,
+        "metadata": {},
+        "published_at": "2026-09-02",
+        "relevance_hint": 0.95,
+        "snippet": "Gooooood Morniiing and happy wednesdaaay bestieees Making money online these days getting even easier thanks to apps like @earnos_io where you can get real USD just from your phone completing simple tasks",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Gooooood Morniiing and happy wednesdaaay bestieees Making money online these days getting even easier thanks to apps like @earnos_io where y",
+        "url": "https://x.com/gozyy_world/status/2095042134042608035",
+        "why_relevant": "Promotes an app that pays real USD for simple tasks"
+      },
+      {
+        "author": "mikethree",
+        "body": "a social trading app called Cash Grab where you deposit money and it evenly distributes your balance among the top KOLs in your network.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 248,
+          "quotes": 8,
+          "replies": 20,
+          "reposts": 13
+        },
+        "engagement_score": 96,
+        "freshness": 17,
+        "item_id": "X10",
+        "local_rank_score": 0.275,
+        "local_relevance": 0.21,
+        "metadata": {},
+        "published_at": "2026-08-28",
+        "relevance_hint": 0.8,
+        "snippet": "a social trading app called Cash Grab where you deposit money and it evenly distributes your balance among the top KOLs in your network.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "a social trading app called Cash Grab where you deposit money and it evenly distributes your balance among the top KOLs in your network.",
+        "url": "https://x.com/mikethree/status/2093360030951055841",
+        "why_relevant": "Describes Cash Grab app for earning via trading"
+      },
+      {
+        "author": "ArctideApp",
+        "body": "Why we call it dual yield: Most staking pays you in a token that is printed to pay you (inflationary). Stake a token on Arctide and you are paid in two assets at once: the token itself, and USDC. Both come from the token's trading fees.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 27,
+          "quotes": 1,
+          "replies": 5,
+          "reposts": 3
+        },
+        "engagement_score": 37,
+        "freshness": 86,
+        "item_id": "X2",
+        "local_rank_score": 0.252,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.92,
+        "snippet": "Why we call it dual yield: Most staking pays you in a token that is printed to pay you (inflationary). Stake a token on Arctide and you are paid in two assets at once: the token itself, and USDC. Both come from the token's trading fees.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Why we call it dual yield: Most staking pays you in a token that is printed to pay you (inflationary). Stake a token on Arctide and you are",
+        "url": "https://x.com/ArctideApp/status/2102903598992519359",
+        "why_relevant": "Promotes an app (Arctide) that delivers real rewards/payouts in USDC and tokens from trading fees, no dilution."
+      },
+      {
+        "author": "U_What_",
+        "body": "food app use big moneys to no no a good mayor. but good mayor yes yes! now food app pay bigger moneys.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 57,
+          "quotes": 0,
+          "replies": 3,
+          "reposts": 0
+        },
+        "engagement_score": 35,
+        "freshness": 86,
+        "item_id": "X3",
+        "local_rank_score": 0.25,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.85,
+        "snippet": "food app use big moneys to no no a good mayor. but good mayor yes yes! now food app pay bigger moneys.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "food app use big moneys to no no a good mayor. but good mayor yes yes! now food app pay bigger moneys.",
+        "url": "https://x.com/U_What_/status/2102902982736056393",
+        "why_relevant": "Mentions a food app increasing payments/rewards to users or partners."
+      },
+      {
+        "author": "kemyyyy22",
+        "body": "Starting today, USDC can be used to pay for products and services from 8,000+ brands through @injective , including DoorDash and Amazon. You\u2019re not swapping USDC to another asset first or moving it through another app just to make a purchase.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 21,
+          "quotes": 1,
+          "replies": 8,
+          "reposts": 2
+        },
+        "engagement_score": 31,
+        "freshness": 86,
+        "item_id": "X1",
+        "local_rank_score": 0.246,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.95,
+        "snippet": "Starting today, USDC can be used to pay for products and services from 8,000+ brands through @injective , including DoorDash and Amazon. You\u2019re not swapping USDC to another asset first or moving it through another app just to make a purchase.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Starting today, USDC can be used to pay for products and services from 8,000+ brands through @injective , including DoorDash and Amazon. You",
+        "url": "https://x.com/kemyyyy22/status/2102906975382028662",
+        "why_relevant": "Directly discusses using an app to pay with USDC for real-world services and products, highlighting seamless payouts/rewards in daily use."
+      },
+      {
+        "author": "grok",
+        "body": "Canada is not eligible for TikTok Creator Rewards. The program is limited to the US, UK, Germany, France, Japan, South Korea, Brazil, and Mexico.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 9,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 1
+        },
+        "engagement_score": 2,
+        "freshness": 86,
+        "item_id": "X5",
+        "local_rank_score": 0.217,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.9,
+        "snippet": "Canada is not eligible for TikTok Creator Rewards. The program is limited to the US, UK, Germany, France, Japan, South Korea, Brazil, and Mexico.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Canada is not eligible for TikTok Creator Rewards. The program is limited to the US, UK, Germany, France, Japan, South Korea, Brazil, and Me",
+        "url": "https://x.com/grok/status/2102891825392480278",
+        "why_relevant": "Discusses TikTok app's Creator Rewards program for payouts to creators."
+      },
+      {
+        "author": "Sandro_SvR_",
+        "body": "El NFC de iPhone est\u00e1 restringido a lo que Apple apruebe, a diferencia de Android que cualquier app lo puede usar. Con Tap to Pay, Apple autoriza a una app de terceros a usar el NFC del iPhone para recibir pagos (en Argentina la app es Mercado Pago).",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 12,
+          "quotes": 3,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 0,
+        "freshness": 86,
+        "item_id": "X4",
+        "local_rank_score": 0.215,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.88,
+        "snippet": "El NFC de iPhone est\u00e1 restringido a lo que Apple apruebe, a diferencia de Android que cualquier app lo puede usar. Con Tap to Pay, Apple autoriza a una app de terceros a usar el NFC del iPhone para recibir pagos (en Argentina la app es Mercado Pago).",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "El NFC de iPhone est\u00e1 restringido a lo que Apple apruebe, a diferencia de Android que cualquier app lo puede usar. Con Tap to Pay, Apple aut",
+        "url": "https://x.com/Sandro_SvR_/status/2102901067839324648",
+        "why_relevant": "Explains third-party app (Mercado Pago) enabling payments via iPhone NFC, focusing on app pay functionality."
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [],
+    "raw_topic": "\"is there an app that\" \"pay\"",
+    "source_weights": {
+      "x": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "apps that pay users",
+        "ranking_query": "Is there a real app that pays users actual money?",
+        "search_query": "app pays OR \"pays you\" OR \"pay you\" money OR cash",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.36363636363636365
+      },
+      {
+        "label": "payment or reward apps",
+        "ranking_query": "What apps let you earn or receive payments directly?",
+        "search_query": "app pay OR payout OR rewards OR \"get paid\"",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.32727272727272727
+      },
+      {
+        "label": "legit paying apps discussion",
+        "ranking_query": "Are there legitimate apps that actually pay out?",
+        "search_query": "app that pays legit OR real OR scam",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.3090909090909091
+      }
+    ]
+  },
+  "range_from": "2026-08-25",
+  "range_to": "2026-09-24",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://x.com/lowonliquid/status/2100654539271479606",
+      "cluster_id": "cluster-1",
+      "engagement": 38,
+      "explanation": "mentions paying app but no entity phrase match",
+      "final_score": 28.866275659824048,
+      "freshness": 70,
+      "fun_explanation": "Catchy 'Taste pays' tagline but mostly promo",
+      "fun_score": 35.0,
+      "item_id": "X9",
+      "local_relevance": 0.21,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X9",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "apps that pay users"
+          }
+        ]
+      },
+      "native_ranks": {
+        "apps that pay users:x": 2
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.005865102639296188,
+      "snippet": "okay this is an absolute gem imo carl (pump mobile app lead) has mentioned Taste Pays in multiple tweets over the past 2 months. The official https://Pump.Fun description is \"Taste pays. Scroll to win!\" on nearly all app stores.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "lowonliquid",
+          "body": "okay this is an absolute gem imo carl (pump mobile app lead) has mentioned Taste Pays in multiple tweets over the past 2 months. The official https://Pump.Fun description is \"Taste pays. Scroll to win!\" on nearly all app stores.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 12,
+            "quotes": 1,
+            "replies": 3,
+            "reposts": 3
+          },
+          "engagement_score": 38,
+          "freshness": 70,
+          "item_id": "X9",
+          "local_rank_score": 0.34950000000000003,
+          "local_relevance": 0.21,
+          "metadata": {},
+          "published_at": "2026-09-17",
+          "relevance_hint": 0.85,
+          "snippet": "okay this is an absolute gem imo carl (pump mobile app lead) has mentioned Taste Pays in multiple tweets over the past 2 months. The official https://Pump.Fun description is \"Taste pays. Scroll to win!\" on nearly all app stores.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "okay this is an absolute gem imo carl (pump mobile app lead) has mentioned Taste Pays in multiple tweets over the past 2 months. The officia",
+          "url": "https://x.com/lowonliquid/status/2100654539271479606",
+          "why_relevant": "Discusses Taste Pays app that pays in crypto"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "apps that pay users"
+      ],
+      "title": "okay this is an absolute gem imo carl (pump mobile app lead) has mentioned Taste Pays in multiple tweets over the past 2 months. The officia",
+      "url": "https://x.com/lowonliquid/status/2100654539271479606"
+    },
+    {
+      "candidate_id": "https://x.com/maddcharity/status/2102163026002526215",
+      "cluster_id": "cluster-2",
+      "explanation": "promotes paying app but no entity phrase match",
+      "final_score": 28.090312965722802,
+      "freshness": 82,
+      "fun_explanation": "Standard earn-while-walking pitch",
+      "fun_score": 25.0,
+      "item_id": "X7",
+      "local_relevance": 0.34,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X7",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "apps that pay users"
+          }
+        ]
+      },
+      "native_ranks": {
+        "apps that pay users:x": 1
+      },
+      "rerank_score": 25.0,
+      "rrf_score": 0.005961251862891207,
+      "snippet": "Hey! \ud83d\udc4b Join me on Cash Space \ud83d\ude80 - an app where you can earn real money by walking and playing games! \ud83d\udeb6\u200d\u2642\ufe0f \ud83c\udfae = \ud83d\udcb0",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Maddcharity",
+          "body": "Hey! \ud83d\udc4b Join me on Cash Space \ud83d\ude80 - an app where you can earn real money by walking and playing games! \ud83d\udeb6\u200d\u2642\ufe0f   \ud83c\udfae = \ud83d\udcb0",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 82,
+          "item_id": "X7",
+          "local_rank_score": 0.42600000000000005,
+          "local_relevance": 0.34,
+          "metadata": {},
+          "published_at": "2026-09-21",
+          "relevance_hint": 0.85,
+          "snippet": "Hey! \ud83d\udc4b Join me on Cash Space \ud83d\ude80 - an app where you can earn real money by walking and playing games! \ud83d\udeb6\u200d\u2642\ufe0f \ud83c\udfae = \ud83d\udcb0",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Hey! \ud83d\udc4b Join me on Cash Space \ud83d\ude80 - an app where you can earn real money by walking and playing games! \ud83d\udeb6\u200d\u2642\ufe0f   \ud83c\udfae = \ud83d\udcb0",
+          "url": "https://x.com/Maddcharity/status/2102163026002526215",
+          "why_relevant": "Promotes app that pays real money for walking and games"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "apps that pay users"
+      ],
+      "title": "Hey! \ud83d\udc4b Join me on Cash Space \ud83d\ude80 - an app where you can earn real money by walking and playing games! \ud83d\udeb6\u200d\u2642\ufe0f   \ud83c\udfae = \ud83d\udcb0",
+      "url": "https://x.com/Maddcharity/status/2102163026002526215"
+    },
+    {
+      "candidate_id": "https://x.com/gozyy_world/status/2095042134042608035",
+      "cluster_id": "cluster-3",
+      "engagement": 90,
+      "explanation": "promotes paying app but no entity phrase match",
+      "final_score": 27.84300144300144,
+      "freshness": 30,
+      "fun_explanation": "Generic task-for-USD promo",
+      "fun_score": 20.0,
+      "item_id": "X2",
+      "local_relevance": 0.21,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X2",
+            "native_rank": 3,
+            "source": "x",
+            "subquery_label": "apps that pay users"
+          }
+        ]
+      },
+      "native_ranks": {
+        "apps that pay users:x": 3
+      },
+      "rerank_score": 25.0,
+      "rrf_score": 0.005772005772005772,
+      "snippet": "Gooooood Morniiing and happy wednesdaaay bestieees Making money online these days getting even easier thanks to apps like @earnos_io where you can get real USD just from your phone completing simple tasks",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "gozyy_world",
+          "body": "Gooooood Morniiing and happy wednesdaaay bestieees Making money online these days getting even easier thanks to apps like @earnos_io where you can get real USD just from your phone completing simple tasks",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 224,
+            "quotes": 0,
+            "replies": 126,
+            "reposts": 3
+          },
+          "engagement_score": 90,
+          "freshness": 30,
+          "item_id": "X2",
+          "local_rank_score": 0.30150000000000005,
+          "local_relevance": 0.21,
+          "metadata": {},
+          "published_at": "2026-09-02",
+          "relevance_hint": 0.95,
+          "snippet": "Gooooood Morniiing and happy wednesdaaay bestieees Making money online these days getting even easier thanks to apps like @earnos_io where you can get real USD just from your phone completing simple tasks",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Gooooood Morniiing and happy wednesdaaay bestieees Making money online these days getting even easier thanks to apps like @earnos_io where y",
+          "url": "https://x.com/gozyy_world/status/2095042134042608035",
+          "why_relevant": "Promotes an app that pays real USD for simple tasks"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "apps that pay users"
+      ],
+      "title": "Gooooood Morniiing and happy wednesdaaay bestieees Making money online these days getting even easier thanks to apps like @earnos_io where y",
+      "url": "https://x.com/gozyy_world/status/2095042134042608035"
+    },
+    {
+      "candidate_id": "https://x.com/okx/status/2102888556607758696",
+      "cluster_id": "cluster-4",
+      "engagement": 100,
+      "explanation": "marketing for rewards, no entity phrase",
+      "final_score": 7.302384500745156,
+      "freshness": 86,
+      "fun_explanation": "Corporate marketing copy",
+      "fun_score": 10.0,
+      "item_id": "X6",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X6",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "payment or reward apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "payment or reward apps:x": 1
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.005365126676602086,
+      "snippet": "The future of finance is in full bloom. Get OKX now for trading that fits your level with ongoing rewards and cutting-edge products that give you access to the agentic economy.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "okx",
+          "body": "The future of finance is in full bloom. Get OKX now for trading that fits your level with ongoing rewards and cutting-edge products that give you access to the agentic economy.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 189,
+            "quotes": 5,
+            "replies": 30,
+            "reposts": 14
+          },
+          "engagement_score": 100,
+          "freshness": 86,
+          "item_id": "X6",
+          "local_rank_score": 0.315,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.87,
+          "snippet": "The future of finance is in full bloom. Get OKX now for trading that fits your level with ongoing rewards and cutting-edge products that give you access to the agentic economy.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "The future of finance is in full bloom. Get OKX now for trading that fits your level with ongoing rewards and cutting-edge products that giv",
+          "url": "https://x.com/okx/status/2102888556607758696",
+          "why_relevant": "OKX app promotes ongoing rewards and payouts for users trading in the app."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "payment or reward apps"
+      ],
+      "title": "The future of finance is in full bloom. Get OKX now for trading that fits your level with ongoing rewards and cutting-edge products that giv",
+      "url": "https://x.com/okx/status/2102888556607758696"
+    },
+    {
+      "candidate_id": "https://x.com/arctideapp/status/2102903598992519359",
+      "cluster_id": "cluster-5",
+      "engagement": 37,
+      "explanation": "staking rewards discussion, no entity phrase",
+      "final_score": 7.295894428152493,
+      "freshness": 86,
+      "fun_explanation": "Technical staking explainer",
+      "fun_score": 15.0,
+      "item_id": "X2",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X2",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "payment or reward apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "payment or reward apps:x": 2
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.005278592375366569,
+      "snippet": "Why we call it dual yield: Most staking pays you in a token that is printed to pay you (inflationary). Stake a token on Arctide and you are paid in two assets at once: the token itself, and USDC. Both come from the token's trading fees.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "ArctideApp",
+          "body": "Why we call it dual yield: Most staking pays you in a token that is printed to pay you (inflationary). Stake a token on Arctide and you are paid in two assets at once: the token itself, and USDC. Both come from the token's trading fees.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 27,
+            "quotes": 1,
+            "replies": 5,
+            "reposts": 3
+          },
+          "engagement_score": 37,
+          "freshness": 86,
+          "item_id": "X2",
+          "local_rank_score": 0.252,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.92,
+          "snippet": "Why we call it dual yield: Most staking pays you in a token that is printed to pay you (inflationary). Stake a token on Arctide and you are paid in two assets at once: the token itself, and USDC. Both come from the token's trading fees.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Why we call it dual yield: Most staking pays you in a token that is printed to pay you (inflationary). Stake a token on Arctide and you are",
+          "url": "https://x.com/ArctideApp/status/2102903598992519359",
+          "why_relevant": "Promotes an app (Arctide) that delivers real rewards/payouts in USDC and tokens from trading fees, no dilution."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "payment or reward apps"
+      ],
+      "title": "Why we call it dual yield: Most staking pays you in a token that is printed to pay you (inflationary). Stake a token on Arctide and you are",
+      "url": "https://x.com/ArctideApp/status/2102903598992519359"
+    },
+    {
+      "candidate_id": "https://x.com/kemyyyy22/status/2102906975382028662",
+      "cluster_id": "cluster-6",
+      "engagement": 31,
+      "explanation": "USDC payments, no entity phrase",
+      "final_score": 7.283522727272728,
+      "freshness": 86,
+      "fun_explanation": "Straight USDC payment news",
+      "fun_score": 18.0,
+      "item_id": "X1",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X1",
+            "native_rank": 4,
+            "source": "x",
+            "subquery_label": "payment or reward apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "payment or reward apps:x": 4
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.005113636363636364,
+      "snippet": "Starting today, USDC can be used to pay for products and services from 8,000+ brands through @injective , including DoorDash and Amazon. You\u2019re not swapping USDC to another asset first or moving it through another app just to make a purchase.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "kemyyyy22",
+          "body": "Starting today, USDC can be used to pay for products and services from 8,000+ brands through @injective , including DoorDash and Amazon. You\u2019re not swapping USDC to another asset first or moving it through another app just to make a purchase.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 21,
+            "quotes": 1,
+            "replies": 8,
+            "reposts": 2
+          },
+          "engagement_score": 31,
+          "freshness": 86,
+          "item_id": "X1",
+          "local_rank_score": 0.246,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.95,
+          "snippet": "Starting today, USDC can be used to pay for products and services from 8,000+ brands through @injective , including DoorDash and Amazon. You\u2019re not swapping USDC to another asset first or moving it through another app just to make a purchase.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Starting today, USDC can be used to pay for products and services from 8,000+ brands through @injective , including DoorDash and Amazon. You",
+          "url": "https://x.com/kemyyyy22/status/2102906975382028662",
+          "why_relevant": "Directly discusses using an app to pay with USDC for real-world services and products, highlighting seamless payouts/rewards in daily use."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "payment or reward apps"
+      ],
+      "title": "Starting today, USDC can be used to pay for products and services from 8,000+ brands through @injective , including DoorDash and Amazon. You",
+      "url": "https://x.com/kemyyyy22/status/2102906975382028662"
+    },
+    {
+      "candidate_id": "https://x.com/u_what_/status/2102902982736056393",
+      "cluster_id": "cluster-7",
+      "engagement": 35,
+      "explanation": "unrelated food app tweet, no entity match",
+      "final_score": 6.389610389610389,
+      "freshness": 86,
+      "fun_explanation": "Silly caveman speak gives personality",
+      "fun_score": 45.0,
+      "item_id": "X3",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X3",
+            "native_rank": 3,
+            "source": "x",
+            "subquery_label": "payment or reward apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "payment or reward apps:x": 3
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.005194805194805195,
+      "snippet": "food app use big moneys to no no a good mayor. but good mayor yes yes! now food app pay bigger moneys.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "U_What_",
+          "body": "food app use big moneys to no no a good mayor. but good mayor yes yes! now food app pay bigger moneys.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 57,
+            "quotes": 0,
+            "replies": 3,
+            "reposts": 0
+          },
+          "engagement_score": 35,
+          "freshness": 86,
+          "item_id": "X3",
+          "local_rank_score": 0.25,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.85,
+          "snippet": "food app use big moneys to no no a good mayor. but good mayor yes yes! now food app pay bigger moneys.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "food app use big moneys to no no a good mayor. but good mayor yes yes! now food app pay bigger moneys.",
+          "url": "https://x.com/U_What_/status/2102902982736056393",
+          "why_relevant": "Mentions a food app increasing payments/rewards to users or partners."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "payment or reward apps"
+      ],
+      "title": "food app use big moneys to no no a good mayor. but good mayor yes yes! now food app pay bigger moneys.",
+      "url": "https://x.com/U_What_/status/2102902982736056393"
+    },
+    {
+      "candidate_id": "https://x.com/mikethree/status/2093360030951055841",
+      "cluster_id": "cluster-8",
+      "engagement": 96,
+      "explanation": "describes app mechanics, off-target for entity",
+      "final_score": 6.156136363636365,
+      "freshness": 17,
+      "fun_explanation": "Punchy 'Cash Grab' name is clever satire",
+      "fun_score": 68.0,
+      "item_id": "X10",
+      "local_relevance": 0.21,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X10",
+            "native_rank": 4,
+            "source": "x",
+            "subquery_label": "apps that pay users"
+          }
+        ]
+      },
+      "native_ranks": {
+        "apps that pay users:x": 4
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.005681818181818182,
+      "snippet": "a social trading app called Cash Grab where you deposit money and it evenly distributes your balance among the top KOLs in your network.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "mikethree",
+          "body": "a social trading app called Cash Grab where you deposit money and it evenly distributes your balance among the top KOLs in your network.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 248,
+            "quotes": 8,
+            "replies": 20,
+            "reposts": 13
+          },
+          "engagement_score": 96,
+          "freshness": 17,
+          "item_id": "X10",
+          "local_rank_score": 0.275,
+          "local_relevance": 0.21,
+          "metadata": {},
+          "published_at": "2026-08-28",
+          "relevance_hint": 0.8,
+          "snippet": "a social trading app called Cash Grab where you deposit money and it evenly distributes your balance among the top KOLs in your network.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "a social trading app called Cash Grab where you deposit money and it evenly distributes your balance among the top KOLs in your network.",
+          "url": "https://x.com/mikethree/status/2093360030951055841",
+          "why_relevant": "Describes Cash Grab app for earning via trading"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "apps that pay users"
+      ],
+      "title": "a social trading app called Cash Grab where you deposit money and it evenly distributes your balance among the top KOLs in your network.",
+      "url": "https://x.com/mikethree/status/2093360030951055841"
+    },
+    {
+      "candidate_id": "https://x.com/sandro_svr_/status/2102901067839324648",
+      "cluster_id": "cluster-9",
+      "engagement": 0,
+      "explanation": "NFC payment app, no entity phrase",
+      "final_score": 5.771900826446282,
+      "freshness": 86,
+      "fun_explanation": "Dry NFC payment comparison",
+      "fun_score": 12.0,
+      "item_id": "X4",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X4",
+            "native_rank": 6,
+            "source": "x",
+            "subquery_label": "payment or reward apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "payment or reward apps:x": 6
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.0049586776859504135,
+      "snippet": "El NFC de iPhone est\u00e1 restringido a lo que Apple apruebe, a diferencia de Android que cualquier app lo puede usar. Con Tap to Pay, Apple autoriza a una app de terceros a usar el NFC del iPhone para recibir pagos (en Argentina la app es Mercado Pago).",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Sandro_SvR_",
+          "body": "El NFC de iPhone est\u00e1 restringido a lo que Apple apruebe, a diferencia de Android que cualquier app lo puede usar. Con Tap to Pay, Apple autoriza a una app de terceros a usar el NFC del iPhone para recibir pagos (en Argentina la app es Mercado Pago).",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 12,
+            "quotes": 3,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 0,
+          "freshness": 86,
+          "item_id": "X4",
+          "local_rank_score": 0.215,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.88,
+          "snippet": "El NFC de iPhone est\u00e1 restringido a lo que Apple apruebe, a diferencia de Android que cualquier app lo puede usar. Con Tap to Pay, Apple autoriza a una app de terceros a usar el NFC del iPhone para recibir pagos (en Argentina la app es Mercado Pago).",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "El NFC de iPhone est\u00e1 restringido a lo que Apple apruebe, a diferencia de Android que cualquier app lo puede usar. Con Tap to Pay, Apple aut",
+          "url": "https://x.com/Sandro_SvR_/status/2102901067839324648",
+          "why_relevant": "Explains third-party app (Mercado Pago) enabling payments via iPhone NFC, focusing on app pay functionality."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "payment or reward apps"
+      ],
+      "title": "El NFC de iPhone est\u00e1 restringido a lo que Apple apruebe, a diferencia de Android que cualquier app lo puede usar. Con Tap to Pay, Apple aut",
+      "url": "https://x.com/Sandro_SvR_/status/2102901067839324648"
+    },
+    {
+      "candidate_id": "https://x.com/grok/status/2102891825392480278",
+      "cluster_id": "cluster-10",
+      "engagement": 2,
+      "explanation": "TikTok rewards eligibility, tangential",
+      "final_score": 5.057622377622378,
+      "freshness": 86,
+      "fun_explanation": "Factual eligibility note",
+      "fun_score": 8.0,
+      "item_id": "X5",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X5",
+            "native_rank": 5,
+            "source": "x",
+            "subquery_label": "payment or reward apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "payment or reward apps:x": 5
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.005034965034965035,
+      "snippet": "Canada is not eligible for TikTok Creator Rewards. The program is limited to the US, UK, Germany, France, Japan, South Korea, Brazil, and Mexico.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "grok",
+          "body": "Canada is not eligible for TikTok Creator Rewards. The program is limited to the US, UK, Germany, France, Japan, South Korea, Brazil, and Mexico.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 9,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 1
+          },
+          "engagement_score": 2,
+          "freshness": 86,
+          "item_id": "X5",
+          "local_rank_score": 0.217,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.9,
+          "snippet": "Canada is not eligible for TikTok Creator Rewards. The program is limited to the US, UK, Germany, France, Japan, South Korea, Brazil, and Mexico.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Canada is not eligible for TikTok Creator Rewards. The program is limited to the US, UK, Germany, France, Japan, South Korea, Brazil, and Me",
+          "url": "https://x.com/grok/status/2102891825392480278",
+          "why_relevant": "Discusses TikTok app's Creator Rewards program for payouts to creators."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "payment or reward apps"
+      ],
+      "title": "Canada is not eligible for TikTok Creator Rewards. The program is limited to the US, UK, Germany, France, Japan, South Korea, Brazil, and Me",
+      "url": "https://x.com/grok/status/2102891825392480278"
+    }
+  ],
+  "topic": "\"is there an app that\" \"pay\"",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}

@@ -1,0 +1,1618 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"is there a paid app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://x.com/rustyrishii/status/2102901977579737215"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://x.com/rustyrishii/status/2102901977579737215"
+      ],
+      "score": 72.25703192407248,
+      "sources": [
+        "x"
+      ],
+      "title": "No. It's a paid app on Google Play Store."
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/ronlylewilliams/status/2102881424777109638"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://x.com/ronlylewilliams/status/2102881424777109638"
+      ],
+      "score": 61.12224108658744,
+      "sources": [
+        "x"
+      ],
+      "title": "I downloaded a paid app that supposedly would make dogs quit barking via high frequency sonic silent sound waves."
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/lizwenzelugc/status/2102869140080148598"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://x.com/lizwenzelugc/status/2102869140080148598"
+      ],
+      "score": 58.088554720133665,
+      "sources": [
+        "x"
+      ],
+      "title": "Lightroom all the way! I\u2019ve used LR Classic (paid version) for years for photography but the mobile version of LR is still easy to use and f"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/ollama/status/2102903557624352905"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://x.com/ollama/status/2102903557624352905"
+      ],
+      "score": 31.95032894736842,
+      "sources": [
+        "x"
+      ],
+      "title": "You can now add usage credits for paid cloud models without an Ollama subscription. Add usage credits and pay as you go."
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/robinhoodapp/status/2102910788759376359"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://x.com/robinhoodapp/status/2102910788759376359"
+      ],
+      "score": 8.712398619499568,
+      "sources": [
+        "x"
+      ],
+      "title": "Current event contract pricing: 90% Democratic, 10% Republican."
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/bankemaestro/status/2102904076191293561"
+      ],
+      "cluster_id": "cluster-6",
+      "representative_ids": [
+        "https://x.com/bankemaestro/status/2102904076191293561"
+      ],
+      "score": 8.660243519245876,
+      "sources": [
+        "x"
+      ],
+      "title": "My X Subscription is officially LIVE! \ud83c\udf89\ud83c\udf8a Your subscription is not just a button you click."
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/markgurman/status/2102903114756239797"
+      ],
+      "cluster_id": "cluster-7",
+      "representative_ids": [
+        "https://x.com/markgurman/status/2102903114756239797"
+      ],
+      "score": 8.64487414187643,
+      "sources": [
+        "x"
+      ],
+      "title": "The glasses get an AirPods Pro-like FDA cleared hearing aid mode. Meta is charging $150 for the feature or it'll be included in a Meta One s"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/tony_denaro/status/2102901672070557924"
+      ],
+      "cluster_id": "cluster-8",
+      "representative_ids": [
+        "https://x.com/tony_denaro/status/2102901672070557924"
+      ],
+      "score": 7.803005093378608,
+      "sources": [
+        "x"
+      ],
+      "title": "New $AMC press release confirming pricing of $2B first lien notes at 8.875%, and $850M 1L Term Loan at SOFR + 4.5%"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/xrpjanet1/status/2102908715544576306"
+      ],
+      "cluster_id": "cluster-9",
+      "representative_ids": [
+        "https://x.com/xrpjanet1/status/2102908715544576306"
+      ],
+      "score": 7.7939097744360915,
+      "sources": [
+        "x"
+      ],
+      "title": "$XRP at $1\u2013$10 is retail pricing. ... $XRP at $1,000\u2013$10,000 is a completely different conversation. That\u2019s infrastructure pricing."
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/nicole_77iba/status/2102907379864179187"
+      ],
+      "cluster_id": "cluster-10",
+      "representative_ids": [
+        "https://x.com/nicole_77iba/status/2102907379864179187"
+      ],
+      "score": 7.776558704453441,
+      "sources": [
+        "x"
+      ],
+      "title": "The $XRP price ladder no one is ready for: $1.50 \u2014 \"It\u2019s going nowhere.\" ... $1,000 \u2014 The market begins pricing $XRP as financial infrastruc"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/stonk_fyi/status/2102909896584798232"
+      ],
+      "cluster_id": "cluster-11",
+      "representative_ids": [
+        "https://x.com/stonk_fyi/status/2102909896584798232"
+      ],
+      "score": 7.768277511961723,
+      "sources": [
+        "x"
+      ],
+      "title": "286.3K $STONK burned in the last hour (20 txs), about $91.5K at StonkFun pricing."
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/nyne_tailed_fox/status/2102903430557892633"
+      ],
+      "cluster_id": "cluster-12",
+      "representative_ids": [
+        "https://x.com/nyne_tailed_fox/status/2102903430557892633"
+      ],
+      "score": 7.7524458204334366,
+      "sources": [
+        "x"
+      ],
+      "title": "I like the con pricing discourse. It\u2019s interesting (to me) to see what people think is valuable and how much they would or wouldn\u2019t pay for"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/zoracarbuncle/status/2102910867117334647"
+      ],
+      "cluster_id": "cluster-13",
+      "representative_ids": [
+        "https://x.com/zoracarbuncle/status/2102910867117334647"
+      ],
+      "score": 6.417518796992483,
+      "sources": [
+        "x"
+      ],
+      "title": "Absolutely! I cancelled my subscription this morning and plan to delete the app when I get home. Honestly I should thank them it\u2019s my last s"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/ikramulweb3/status/2102910874327634038"
+      ],
+      "cluster_id": "cluster-14",
+      "representative_ids": [
+        "https://x.com/ikramulweb3/status/2102910874327634038"
+      ],
+      "score": 6.230370644922165,
+      "sources": [
+        "x"
+      ],
+      "title": "Running an AI chat for 0.04 on Ocean Network Inference really highlights why flat subscription pricing feels unfair."
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/jaimesolis/status/2102910727656710408"
+      ],
+      "cluster_id": "cluster-15",
+      "representative_ids": [
+        "https://x.com/jaimesolis/status/2102910727656710408"
+      ],
+      "score": 6.223421052631578,
+      "sources": [
+        "x"
+      ],
+      "title": "meta's taking the right angle, smaller form factor and actual margin path goes further than specs-first pricing"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-24T18:29:58.033552+00:00",
+  "items_by_source": {
+    "x": [
+      {
+        "author": "RustyRishii",
+        "body": "No. It's a paid app on Google Play Store.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 97,
+        "item_id": "X3",
+        "local_rank_score": 0.431,
+        "local_relevance": 0.29,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.85,
+        "snippet": "No. It's a paid app on Google Play Store.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "No. It's a paid app on Google Play Store.",
+        "url": "https://x.com/RustyRishii/status/2102901977579737215",
+        "why_relevant": "Explicitly refers to a paid app"
+      },
+      {
+        "author": "RonLyleWilliams",
+        "body": "I downloaded a paid app that supposedly would make dogs quit barking via high frequency sonic silent sound waves.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 3,
+        "freshness": 97,
+        "item_id": "X5",
+        "local_rank_score": 0.40800000000000003,
+        "local_relevance": 0.25,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.85,
+        "snippet": "I downloaded a paid app that supposedly would make dogs quit barking via high frequency sonic silent sound waves.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "I downloaded a paid app that supposedly would make dogs quit barking via high frequency sonic silent sound waves.",
+        "url": "https://x.com/RonLyleWilliams/status/2102881424777109638",
+        "why_relevant": "Mentions downloading a paid app"
+      },
+      {
+        "author": "lizwenzelugc",
+        "body": "Lightroom all the way! I\u2019ve used LR Classic (paid version) for years for photography but the mobile version of LR is still easy to use and free",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 3,
+        "freshness": 97,
+        "item_id": "X7",
+        "local_rank_score": 0.40800000000000003,
+        "local_relevance": 0.25,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.9,
+        "snippet": "Lightroom all the way! I\u2019ve used LR Classic (paid version) for years for photography but the mobile version of LR is still easy to use and free",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Lightroom all the way! I\u2019ve used LR Classic (paid version) for years for photography but the mobile version of LR is still easy to use and f",
+        "url": "https://x.com/lizwenzelugc/status/2102869140080148598",
+        "why_relevant": "Compares paid version vs free version of an app"
+      },
+      {
+        "author": "RobinhoodApp",
+        "body": "Current event contract pricing: 90% Democratic, 10% Republican.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 293,
+          "quotes": 8,
+          "replies": 45,
+          "reposts": 16
+        },
+        "engagement_score": 88,
+        "freshness": 97,
+        "item_id": "X4",
+        "local_rank_score": 0.3955,
+        "local_relevance": 0.1,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.85,
+        "snippet": "Current event contract pricing: 90% Democratic, 10% Republican.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Current event contract pricing: 90% Democratic, 10% Republican.",
+        "url": "https://x.com/RobinhoodApp/status/2102910788759376359",
+        "why_relevant": "Discusses pricing of event contracts"
+      },
+      {
+        "author": "Tony_Denaro",
+        "body": "New $AMC press release confirming pricing of $2B first lien notes at 8.875%, and $850M 1L Term Loan at SOFR + 4.5%",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 255,
+          "quotes": 1,
+          "replies": 7,
+          "reposts": 38
+        },
+        "engagement_score": 84,
+        "freshness": 97,
+        "item_id": "X18",
+        "local_rank_score": 0.385,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.84,
+        "snippet": "New $AMC press release confirming pricing of $2B first lien notes at 8.875%, and $850M 1L Term Loan at SOFR + 4.5%",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "New $AMC press release confirming pricing of $2B first lien notes at 8.875%, and $850M 1L Term Loan at SOFR + 4.5%",
+        "url": "https://x.com/Tony_Denaro/status/2102901672070557924",
+        "why_relevant": "Details bond/note pricing and terms"
+      },
+      {
+        "author": "XRPJanet1",
+        "body": "$XRP at $1\u2013$10 is retail pricing. ... $XRP at $1,000\u2013$10,000 is a completely different conversation. That\u2019s infrastructure pricing.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 152,
+          "quotes": 0,
+          "replies": 3,
+          "reposts": 5
+        },
+        "engagement_score": 64,
+        "freshness": 97,
+        "item_id": "X19",
+        "local_rank_score": 0.3715,
+        "local_relevance": 0.1,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.88,
+        "snippet": "$XRP at $1\u2013$10 is retail pricing. ... $XRP at $1,000\u2013$10,000 is a completely different conversation. That\u2019s infrastructure pricing.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "$XRP at $1\u2013$10 is retail pricing. ... $XRP at $1,000\u2013$10,000 is a completely different conversation. That\u2019s infrastructure pricing.",
+        "url": "https://x.com/XRPJanet1/status/2102908715544576306",
+        "why_relevant": "Discusses different levels of XRP pricing"
+      },
+      {
+        "author": "ollama",
+        "body": "You can now add usage credits for paid cloud models without an Ollama subscription. Add usage credits and pay as you go.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 125,
+          "quotes": 3,
+          "replies": 19,
+          "reposts": 7
+        },
+        "engagement_score": 70,
+        "freshness": 97,
+        "item_id": "X15",
+        "local_rank_score": 0.371,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.95,
+        "snippet": "You can now add usage credits for paid cloud models without an Ollama subscription. Add usage credits and pay as you go.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "You can now add usage credits for paid cloud models without an Ollama subscription. Add usage credits and pay as you go.",
+        "url": "https://x.com/ollama/status/2102903557624352905",
+        "why_relevant": "Highlights option without subscription vs paid model"
+      },
+      {
+        "author": "Nicole_77iba",
+        "body": "The $XRP price ladder no one is ready for: $1.50 \u2014 \"It\u2019s going nowhere.\" ... $1,000 \u2014 The market begins pricing $XRP as financial infrastructure.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 157,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 15
+        },
+        "engagement_score": 68,
+        "freshness": 97,
+        "item_id": "X20",
+        "local_rank_score": 0.369,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.87,
+        "snippet": "The $XRP price ladder no one is ready for: $1.50 \u2014 \"It\u2019s going nowhere.\" ... $1,000 \u2014 The market begins pricing $XRP as financial infrastructure.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "The $XRP price ladder no one is ready for: $1.50 \u2014 \"It\u2019s going nowhere.\" ... $1,000 \u2014 The market begins pricing $XRP as financial infrastruc",
+        "url": "https://x.com/Nicole_77iba/status/2102907379864179187",
+        "why_relevant": "Detailed discussion on XRP pricing tiers"
+      },
+      {
+        "author": "stonk_fyi",
+        "body": "286.3K $STONK burned in the last hour (20 txs), about $91.5K at StonkFun pricing.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 38,
+          "quotes": 0,
+          "replies": 6,
+          "reposts": 2
+        },
+        "engagement_score": 46,
+        "freshness": 97,
+        "item_id": "X10",
+        "local_rank_score": 0.347,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.82,
+        "snippet": "286.3K $STONK burned in the last hour (20 txs), about $91.5K at StonkFun pricing.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "286.3K $STONK burned in the last hour (20 txs), about $91.5K at StonkFun pricing.",
+        "url": "https://x.com/stonk_fyi/status/2102909896584798232",
+        "why_relevant": "Mentions pricing in crypto token context"
+      },
+      {
+        "author": "Bankemaestro",
+        "body": "My X Subscription is officially LIVE! \ud83c\udf89\ud83c\udf8a Your subscription is not just a button you click.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 240,
+          "quotes": 5,
+          "replies": 74,
+          "reposts": 161
+        },
+        "engagement_score": 100,
+        "freshness": 97,
+        "item_id": "X14",
+        "local_rank_score": 0.3425,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.97,
+        "snippet": "My X Subscription is officially LIVE! \ud83c\udf89\ud83c\udf8a Your subscription is not just a button you click.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "My X Subscription is officially LIVE! \ud83c\udf89\ud83c\udf8a Your subscription is not just a button you click.",
+        "url": "https://x.com/Bankemaestro/status/2102904076191293561",
+        "why_relevant": "Announces and discusses X subscription"
+      },
+      {
+        "author": "nyne_tailed_fox",
+        "body": "I like the con pricing discourse. It\u2019s interesting (to me) to see what people think is valuable and how much they would or wouldn\u2019t pay for an experience",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 24,
+          "quotes": 1,
+          "replies": 0,
+          "reposts": 6
+        },
+        "engagement_score": 39,
+        "freshness": 97,
+        "item_id": "X16",
+        "local_rank_score": 0.33999999999999997,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.86,
+        "snippet": "I like the con pricing discourse. It\u2019s interesting (to me) to see what people think is valuable and how much they would or wouldn\u2019t pay for an experience",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "I like the con pricing discourse. It\u2019s interesting (to me) to see what people think is valuable and how much they would or wouldn\u2019t pay for",
+        "url": "https://x.com/nyne_tailed_fox/status/2102903430557892633",
+        "why_relevant": "Discusses pricing for events/experiences"
+      },
+      {
+        "author": "markgurman",
+        "body": "The glasses get an AirPods Pro-like FDA cleared hearing aid mode. Meta is charging $150 for the feature or it'll be included in a Meta One subscription.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 437,
+          "quotes": 0,
+          "replies": 9,
+          "reposts": 14
+        },
+        "engagement_score": 85,
+        "freshness": 97,
+        "item_id": "X17",
+        "local_rank_score": 0.3275,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.93,
+        "snippet": "The glasses get an AirPods Pro-like FDA cleared hearing aid mode. Meta is charging $150 for the feature or it'll be included in a Meta One subscription.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "The glasses get an AirPods Pro-like FDA cleared hearing aid mode. Meta is charging $150 for the feature or it'll be included in a Meta One s",
+        "url": "https://x.com/markgurman/status/2102903114756239797",
+        "why_relevant": "Mentions pricing option or subscription for Meta feature"
+      },
+      {
+        "author": "ZoraCarbuncle",
+        "body": "Absolutely! I cancelled my subscription this morning and plan to delete the app when I get home. Honestly I should thank them it\u2019s my last subscription I\u2019ve been holding onto lol",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 2,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 2,
+        "freshness": 97,
+        "item_id": "X2",
+        "local_rank_score": 0.303,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.9,
+        "snippet": "Absolutely! I cancelled my subscription this morning and plan to delete the app when I get home. Honestly I should thank them it\u2019s my last subscription I\u2019ve been holding onto lol",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Absolutely! I cancelled my subscription this morning and plan to delete the app when I get home. Honestly I should thank them it\u2019s my last s",
+        "url": "https://x.com/ZoraCarbuncle/status/2102910867117334647",
+        "why_relevant": "Mentions cancelling a subscription"
+      },
+      {
+        "author": "ikramulweb3",
+        "body": "Running an AI chat for 0.04 on Ocean Network Inference really highlights why flat subscription pricing feels unfair.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 97,
+        "item_id": "X1",
+        "local_rank_score": 0.301,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.95,
+        "snippet": "Running an AI chat for 0.04 on Ocean Network Inference really highlights why flat subscription pricing feels unfair.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Running an AI chat for 0.04 on Ocean Network Inference really highlights why flat subscription pricing feels unfair.",
+        "url": "https://x.com/ikramulweb3/status/2102910874327634038",
+        "why_relevant": "Directly discusses subscription pricing in AI context"
+      },
+      {
+        "author": "jaimesolis",
+        "body": "meta's taking the right angle, smaller form factor and actual margin path goes further than specs-first pricing",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 97,
+        "item_id": "X5",
+        "local_rank_score": 0.301,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.88,
+        "snippet": "meta's taking the right angle, smaller form factor and actual margin path goes further than specs-first pricing",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "meta's taking the right angle, smaller form factor and actual margin path goes further than specs-first pricing",
+        "url": "https://x.com/jaimesolis/status/2102910727656710408",
+        "why_relevant": "Talks about product pricing strategy"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "evergreen_ok",
+    "intent": "factual",
+    "notes": [],
+    "raw_topic": "\"is there a paid app\"",
+    "source_weights": {
+      "x": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "paid app existence",
+        "ranking_query": "Does a paid version or premium paid app exist?",
+        "search_query": "\"paid app\" OR \"premium tier\" OR \"paid version\"",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.5263157894736842
+      },
+      {
+        "label": "pricing model check",
+        "ranking_query": "What is the pricing model and does it include a paid app option?",
+        "search_query": "pricing OR subscription OR \"paid plan\"",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.4736842105263158
+      }
+    ]
+  },
+  "range_from": "2026-08-25",
+  "range_to": "2026-09-24",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://x.com/rustyrishii/status/2102901977579737215",
+      "cluster_id": "cluster-1",
+      "explanation": "Directly states 'It's a paid app' answering existence query",
+      "final_score": 72.25703192407248,
+      "freshness": 97,
+      "fun_explanation": "Direct but flat answer",
+      "fun_score": 15.0,
+      "item_id": "X3",
+      "local_relevance": 0.29,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X3",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "paid app existence"
+          }
+        ]
+      },
+      "native_ranks": {
+        "paid app existence:x": 1
+      },
+      "rerank_score": 95.0,
+      "rrf_score": 0.008628127696289905,
+      "snippet": "No. It's a paid app on Google Play Store.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "RustyRishii",
+          "body": "No. It's a paid app on Google Play Store.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 97,
+          "item_id": "X3",
+          "local_rank_score": 0.431,
+          "local_relevance": 0.29,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.85,
+          "snippet": "No. It's a paid app on Google Play Store.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "No. It's a paid app on Google Play Store.",
+          "url": "https://x.com/RustyRishii/status/2102901977579737215",
+          "why_relevant": "Explicitly refers to a paid app"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "paid app existence"
+      ],
+      "title": "No. It's a paid app on Google Play Store.",
+      "url": "https://x.com/RustyRishii/status/2102901977579737215"
+    },
+    {
+      "candidate_id": "https://x.com/ronlylewilliams/status/2102881424777109638",
+      "cluster_id": "cluster-2",
+      "engagement": 3,
+      "explanation": "Mentions downloading a paid app, matches entity but tangential context",
+      "final_score": 61.12224108658744,
+      "freshness": 97,
+      "fun_explanation": "Silly app concept has mild charm",
+      "fun_score": 35.0,
+      "item_id": "X5",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X5",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "paid app existence"
+          }
+        ]
+      },
+      "native_ranks": {
+        "paid app existence:x": 2
+      },
+      "rerank_score": 75.0,
+      "rrf_score": 0.008488964346349746,
+      "snippet": "I downloaded a paid app that supposedly would make dogs quit barking via high frequency sonic silent sound waves.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "RonLyleWilliams",
+          "body": "I downloaded a paid app that supposedly would make dogs quit barking via high frequency sonic silent sound waves.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 3,
+          "freshness": 97,
+          "item_id": "X5",
+          "local_rank_score": 0.40800000000000003,
+          "local_relevance": 0.25,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.85,
+          "snippet": "I downloaded a paid app that supposedly would make dogs quit barking via high frequency sonic silent sound waves.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "I downloaded a paid app that supposedly would make dogs quit barking via high frequency sonic silent sound waves.",
+          "url": "https://x.com/RonLyleWilliams/status/2102881424777109638",
+          "why_relevant": "Mentions downloading a paid app"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "paid app existence"
+      ],
+      "title": "I downloaded a paid app that supposedly would make dogs quit barking via high frequency sonic silent sound waves.",
+      "url": "https://x.com/RonLyleWilliams/status/2102881424777109638"
+    },
+    {
+      "candidate_id": "https://x.com/lizwenzelugc/status/2102869140080148598",
+      "cluster_id": "cluster-3",
+      "engagement": 3,
+      "explanation": "References paid version of Lightroom app, directly matches entity",
+      "final_score": 58.088554720133665,
+      "freshness": 97,
+      "fun_explanation": "Straight product mention",
+      "fun_score": 10.0,
+      "item_id": "X7",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X7",
+            "native_rank": 3,
+            "source": "x",
+            "subquery_label": "paid app existence"
+          }
+        ]
+      },
+      "native_ranks": {
+        "paid app existence:x": 3
+      },
+      "rerank_score": 70.0,
+      "rrf_score": 0.00835421888053467,
+      "snippet": "Lightroom all the way! I\u2019ve used LR Classic (paid version) for years for photography but the mobile version of LR is still easy to use and free",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "lizwenzelugc",
+          "body": "Lightroom all the way! I\u2019ve used LR Classic (paid version) for years for photography but the mobile version of LR is still easy to use and free",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 3,
+          "freshness": 97,
+          "item_id": "X7",
+          "local_rank_score": 0.40800000000000003,
+          "local_relevance": 0.25,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.9,
+          "snippet": "Lightroom all the way! I\u2019ve used LR Classic (paid version) for years for photography but the mobile version of LR is still easy to use and free",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Lightroom all the way! I\u2019ve used LR Classic (paid version) for years for photography but the mobile version of LR is still easy to use and f",
+          "url": "https://x.com/lizwenzelugc/status/2102869140080148598",
+          "why_relevant": "Compares paid version vs free version of an app"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "paid app existence"
+      ],
+      "title": "Lightroom all the way! I\u2019ve used LR Classic (paid version) for years for photography but the mobile version of LR is still easy to use and f",
+      "url": "https://x.com/lizwenzelugc/status/2102869140080148598"
+    },
+    {
+      "candidate_id": "https://x.com/ollama/status/2102903557624352905",
+      "cluster_id": "cluster-4",
+      "engagement": 70,
+      "explanation": "Mentions paid cloud models and subscription, weak app link",
+      "final_score": 31.95032894736842,
+      "freshness": 97,
+      "fun_explanation": "Dry announcement",
+      "fun_score": 5.0,
+      "item_id": "X15",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X15",
+            "native_rank": 4,
+            "source": "x",
+            "subquery_label": "pricing model check"
+          }
+        ]
+      },
+      "native_ranks": {
+        "pricing model check:x": 4
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.007401315789473685,
+      "snippet": "You can now add usage credits for paid cloud models without an Ollama subscription. Add usage credits and pay as you go.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "ollama",
+          "body": "You can now add usage credits for paid cloud models without an Ollama subscription. Add usage credits and pay as you go.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 125,
+            "quotes": 3,
+            "replies": 19,
+            "reposts": 7
+          },
+          "engagement_score": 70,
+          "freshness": 97,
+          "item_id": "X15",
+          "local_rank_score": 0.371,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.95,
+          "snippet": "You can now add usage credits for paid cloud models without an Ollama subscription. Add usage credits and pay as you go.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "You can now add usage credits for paid cloud models without an Ollama subscription. Add usage credits and pay as you go.",
+          "url": "https://x.com/ollama/status/2102903557624352905",
+          "why_relevant": "Highlights option without subscription vs paid model"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "pricing model check"
+      ],
+      "title": "You can now add usage credits for paid cloud models without an Ollama subscription. Add usage credits and pay as you go.",
+      "url": "https://x.com/ollama/status/2102903557624352905"
+    },
+    {
+      "candidate_id": "https://x.com/robinhoodapp/status/2102910788759376359",
+      "cluster_id": "cluster-5",
+      "engagement": 88,
+      "explanation": "Pricing discussion only, no mention of paid app entity",
+      "final_score": 8.712398619499568,
+      "freshness": 97,
+      "fun_explanation": "Plain market data",
+      "fun_score": 5.0,
+      "item_id": "X4",
+      "local_relevance": 0.1,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X4",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "pricing model check"
+          }
+        ]
+      },
+      "native_ranks": {
+        "pricing model check:x": 1
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.007765314926660915,
+      "snippet": "Current event contract pricing: 90% Democratic, 10% Republican.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "RobinhoodApp",
+          "body": "Current event contract pricing: 90% Democratic, 10% Republican.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 293,
+            "quotes": 8,
+            "replies": 45,
+            "reposts": 16
+          },
+          "engagement_score": 88,
+          "freshness": 97,
+          "item_id": "X4",
+          "local_rank_score": 0.3955,
+          "local_relevance": 0.1,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.85,
+          "snippet": "Current event contract pricing: 90% Democratic, 10% Republican.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Current event contract pricing: 90% Democratic, 10% Republican.",
+          "url": "https://x.com/RobinhoodApp/status/2102910788759376359",
+          "why_relevant": "Discusses pricing of event contracts"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "pricing model check"
+      ],
+      "title": "Current event contract pricing: 90% Democratic, 10% Republican.",
+      "url": "https://x.com/RobinhoodApp/status/2102910788759376359"
+    },
+    {
+      "candidate_id": "https://x.com/bankemaestro/status/2102904076191293561",
+      "cluster_id": "cluster-6",
+      "engagement": 100,
+      "explanation": "X subscription mention, no paid app",
+      "final_score": 8.660243519245876,
+      "freshness": 97,
+      "fun_explanation": "Promotional tone",
+      "fun_score": 10.0,
+      "item_id": "X14",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X14",
+            "native_rank": 7,
+            "source": "x",
+            "subquery_label": "pricing model check"
+          }
+        ]
+      },
+      "native_ranks": {
+        "pricing model check:x": 7
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.007069913589945012,
+      "snippet": "My X Subscription is officially LIVE! \ud83c\udf89\ud83c\udf8a Your subscription is not just a button you click.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Bankemaestro",
+          "body": "My X Subscription is officially LIVE! \ud83c\udf89\ud83c\udf8a Your subscription is not just a button you click.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 240,
+            "quotes": 5,
+            "replies": 74,
+            "reposts": 161
+          },
+          "engagement_score": 100,
+          "freshness": 97,
+          "item_id": "X14",
+          "local_rank_score": 0.3425,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.97,
+          "snippet": "My X Subscription is officially LIVE! \ud83c\udf89\ud83c\udf8a Your subscription is not just a button you click.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "My X Subscription is officially LIVE! \ud83c\udf89\ud83c\udf8a Your subscription is not just a button you click.",
+          "url": "https://x.com/Bankemaestro/status/2102904076191293561",
+          "why_relevant": "Announces and discusses X subscription"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "pricing model check"
+      ],
+      "title": "My X Subscription is officially LIVE! \ud83c\udf89\ud83c\udf8a Your subscription is not just a button you click.",
+      "url": "https://x.com/Bankemaestro/status/2102904076191293561"
+    },
+    {
+      "candidate_id": "https://x.com/markgurman/status/2102903114756239797",
+      "cluster_id": "cluster-7",
+      "engagement": 85,
+      "explanation": "Meta subscription pricing, mentions feature not app",
+      "final_score": 8.64487414187643,
+      "freshness": 97,
+      "fun_explanation": "Mildly interesting pricing note",
+      "fun_score": 20.0,
+      "item_id": "X17",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X17",
+            "native_rank": 9,
+            "source": "x",
+            "subquery_label": "pricing model check"
+          }
+        ]
+      },
+      "native_ranks": {
+        "pricing model check:x": 9
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.006864988558352403,
+      "snippet": "The glasses get an AirPods Pro-like FDA cleared hearing aid mode. Meta is charging $150 for the feature or it'll be included in a Meta One subscription.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "markgurman",
+          "body": "The glasses get an AirPods Pro-like FDA cleared hearing aid mode. Meta is charging $150 for the feature or it'll be included in a Meta One subscription.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 437,
+            "quotes": 0,
+            "replies": 9,
+            "reposts": 14
+          },
+          "engagement_score": 85,
+          "freshness": 97,
+          "item_id": "X17",
+          "local_rank_score": 0.3275,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.93,
+          "snippet": "The glasses get an AirPods Pro-like FDA cleared hearing aid mode. Meta is charging $150 for the feature or it'll be included in a Meta One subscription.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "The glasses get an AirPods Pro-like FDA cleared hearing aid mode. Meta is charging $150 for the feature or it'll be included in a Meta One s",
+          "url": "https://x.com/markgurman/status/2102903114756239797",
+          "why_relevant": "Mentions pricing option or subscription for Meta feature"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "pricing model check"
+      ],
+      "title": "The glasses get an AirPods Pro-like FDA cleared hearing aid mode. Meta is charging $150 for the feature or it'll be included in a Meta One s",
+      "url": "https://x.com/markgurman/status/2102903114756239797"
+    },
+    {
+      "candidate_id": "https://x.com/tony_denaro/status/2102901672070557924",
+      "cluster_id": "cluster-8",
+      "engagement": 84,
+      "explanation": "Financial notes pricing, unrelated to paid app",
+      "final_score": 7.803005093378608,
+      "freshness": 97,
+      "fun_explanation": "Corporate press release",
+      "fun_score": 0.0,
+      "item_id": "X18",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X18",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "pricing model check"
+          }
+        ]
+      },
+      "native_ranks": {
+        "pricing model check:x": 2
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.007640067911714771,
+      "snippet": "New $AMC press release confirming pricing of $2B first lien notes at 8.875%, and $850M 1L Term Loan at SOFR + 4.5%",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Tony_Denaro",
+          "body": "New $AMC press release confirming pricing of $2B first lien notes at 8.875%, and $850M 1L Term Loan at SOFR + 4.5%",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 255,
+            "quotes": 1,
+            "replies": 7,
+            "reposts": 38
+          },
+          "engagement_score": 84,
+          "freshness": 97,
+          "item_id": "X18",
+          "local_rank_score": 0.385,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.84,
+          "snippet": "New $AMC press release confirming pricing of $2B first lien notes at 8.875%, and $850M 1L Term Loan at SOFR + 4.5%",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "New $AMC press release confirming pricing of $2B first lien notes at 8.875%, and $850M 1L Term Loan at SOFR + 4.5%",
+          "url": "https://x.com/Tony_Denaro/status/2102901672070557924",
+          "why_relevant": "Details bond/note pricing and terms"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "pricing model check"
+      ],
+      "title": "New $AMC press release confirming pricing of $2B first lien notes at 8.875%, and $850M 1L Term Loan at SOFR + 4.5%",
+      "url": "https://x.com/Tony_Denaro/status/2102901672070557924"
+    },
+    {
+      "candidate_id": "https://x.com/xrpjanet1/status/2102908715544576306",
+      "cluster_id": "cluster-9",
+      "engagement": 64,
+      "explanation": "XRP pricing talk, no paid app mention",
+      "final_score": 7.7939097744360915,
+      "freshness": 97,
+      "fun_explanation": "Speculative crypto talk",
+      "fun_score": 10.0,
+      "item_id": "X19",
+      "local_relevance": 0.1,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X19",
+            "native_rank": 3,
+            "source": "x",
+            "subquery_label": "pricing model check"
+          }
+        ]
+      },
+      "native_ranks": {
+        "pricing model check:x": 3
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.0075187969924812035,
+      "snippet": "$XRP at $1\u2013$10 is retail pricing. ... $XRP at $1,000\u2013$10,000 is a completely different conversation. That\u2019s infrastructure pricing.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "XRPJanet1",
+          "body": "$XRP at $1\u2013$10 is retail pricing. ... $XRP at $1,000\u2013$10,000 is a completely different conversation. That\u2019s infrastructure pricing.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 152,
+            "quotes": 0,
+            "replies": 3,
+            "reposts": 5
+          },
+          "engagement_score": 64,
+          "freshness": 97,
+          "item_id": "X19",
+          "local_rank_score": 0.3715,
+          "local_relevance": 0.1,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.88,
+          "snippet": "$XRP at $1\u2013$10 is retail pricing. ... $XRP at $1,000\u2013$10,000 is a completely different conversation. That\u2019s infrastructure pricing.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "$XRP at $1\u2013$10 is retail pricing. ... $XRP at $1,000\u2013$10,000 is a completely different conversation. That\u2019s infrastructure pricing.",
+          "url": "https://x.com/XRPJanet1/status/2102908715544576306",
+          "why_relevant": "Discusses different levels of XRP pricing"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "pricing model check"
+      ],
+      "title": "$XRP at $1\u2013$10 is retail pricing. ... $XRP at $1,000\u2013$10,000 is a completely different conversation. That\u2019s infrastructure pricing.",
+      "url": "https://x.com/XRPJanet1/status/2102908715544576306"
+    },
+    {
+      "candidate_id": "https://x.com/nicole_77iba/status/2102907379864179187",
+      "cluster_id": "cluster-10",
+      "engagement": 68,
+      "explanation": "XRP pricing ladder, no app entity",
+      "final_score": 7.776558704453441,
+      "freshness": 97,
+      "fun_explanation": "Price ladder speculation",
+      "fun_score": 10.0,
+      "item_id": "X20",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X20",
+            "native_rank": 5,
+            "source": "x",
+            "subquery_label": "pricing model check"
+          }
+        ]
+      },
+      "native_ranks": {
+        "pricing model check:x": 5
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.007287449392712551,
+      "snippet": "The $XRP price ladder no one is ready for: $1.50 \u2014 \"It\u2019s going nowhere.\" ... $1,000 \u2014 The market begins pricing $XRP as financial infrastructure.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Nicole_77iba",
+          "body": "The $XRP price ladder no one is ready for: $1.50 \u2014 \"It\u2019s going nowhere.\" ... $1,000 \u2014 The market begins pricing $XRP as financial infrastructure.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 157,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 15
+          },
+          "engagement_score": 68,
+          "freshness": 97,
+          "item_id": "X20",
+          "local_rank_score": 0.369,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.87,
+          "snippet": "The $XRP price ladder no one is ready for: $1.50 \u2014 \"It\u2019s going nowhere.\" ... $1,000 \u2014 The market begins pricing $XRP as financial infrastructure.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "The $XRP price ladder no one is ready for: $1.50 \u2014 \"It\u2019s going nowhere.\" ... $1,000 \u2014 The market begins pricing $XRP as financial infrastruc",
+          "url": "https://x.com/Nicole_77iba/status/2102907379864179187",
+          "why_relevant": "Detailed discussion on XRP pricing tiers"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "pricing model check"
+      ],
+      "title": "The $XRP price ladder no one is ready for: $1.50 \u2014 \"It\u2019s going nowhere.\" ... $1,000 \u2014 The market begins pricing $XRP as financial infrastruc",
+      "url": "https://x.com/Nicole_77iba/status/2102907379864179187"
+    },
+    {
+      "candidate_id": "https://x.com/stonk_fyi/status/2102909896584798232",
+      "cluster_id": "cluster-11",
+      "engagement": 46,
+      "explanation": "Token burn pricing, unrelated",
+      "final_score": 7.768277511961723,
+      "freshness": 97,
+      "fun_explanation": "Token burn stats",
+      "fun_score": 5.0,
+      "item_id": "X10",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X10",
+            "native_rank": 6,
+            "source": "x",
+            "subquery_label": "pricing model check"
+          }
+        ]
+      },
+      "native_ranks": {
+        "pricing model check:x": 6
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.007177033492822967,
+      "snippet": "286.3K $STONK burned in the last hour (20 txs), about $91.5K at StonkFun pricing.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "stonk_fyi",
+          "body": "286.3K $STONK burned in the last hour (20 txs), about $91.5K at StonkFun pricing.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 38,
+            "quotes": 0,
+            "replies": 6,
+            "reposts": 2
+          },
+          "engagement_score": 46,
+          "freshness": 97,
+          "item_id": "X10",
+          "local_rank_score": 0.347,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.82,
+          "snippet": "286.3K $STONK burned in the last hour (20 txs), about $91.5K at StonkFun pricing.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "286.3K $STONK burned in the last hour (20 txs), about $91.5K at StonkFun pricing.",
+          "url": "https://x.com/stonk_fyi/status/2102909896584798232",
+          "why_relevant": "Mentions pricing in crypto token context"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "pricing model check"
+      ],
+      "title": "286.3K $STONK burned in the last hour (20 txs), about $91.5K at StonkFun pricing.",
+      "url": "https://x.com/stonk_fyi/status/2102909896584798232"
+    },
+    {
+      "candidate_id": "https://x.com/nyne_tailed_fox/status/2102903430557892633",
+      "cluster_id": "cluster-12",
+      "engagement": 39,
+      "explanation": "General con pricing discourse",
+      "final_score": 7.7524458204334366,
+      "freshness": 97,
+      "fun_explanation": "Slight personality in opinion",
+      "fun_score": 25.0,
+      "item_id": "X16",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X16",
+            "native_rank": 8,
+            "source": "x",
+            "subquery_label": "pricing model check"
+          }
+        ]
+      },
+      "native_ranks": {
+        "pricing model check:x": 8
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.006965944272445821,
+      "snippet": "I like the con pricing discourse. It\u2019s interesting (to me) to see what people think is valuable and how much they would or wouldn\u2019t pay for an experience",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "nyne_tailed_fox",
+          "body": "I like the con pricing discourse. It\u2019s interesting (to me) to see what people think is valuable and how much they would or wouldn\u2019t pay for an experience",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 24,
+            "quotes": 1,
+            "replies": 0,
+            "reposts": 6
+          },
+          "engagement_score": 39,
+          "freshness": 97,
+          "item_id": "X16",
+          "local_rank_score": 0.33999999999999997,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.86,
+          "snippet": "I like the con pricing discourse. It\u2019s interesting (to me) to see what people think is valuable and how much they would or wouldn\u2019t pay for an experience",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "I like the con pricing discourse. It\u2019s interesting (to me) to see what people think is valuable and how much they would or wouldn\u2019t pay for",
+          "url": "https://x.com/nyne_tailed_fox/status/2102903430557892633",
+          "why_relevant": "Discusses pricing for events/experiences"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "pricing model check"
+      ],
+      "title": "I like the con pricing discourse. It\u2019s interesting (to me) to see what people think is valuable and how much they would or wouldn\u2019t pay for",
+      "url": "https://x.com/nyne_tailed_fox/status/2102903430557892633"
+    },
+    {
+      "candidate_id": "https://x.com/zoracarbuncle/status/2102910867117334647",
+      "cluster_id": "cluster-13",
+      "engagement": 2,
+      "explanation": "Subscription cancellation, no paid app entity",
+      "final_score": 6.417518796992483,
+      "freshness": 97,
+      "fun_explanation": "Relatable cancellation rant",
+      "fun_score": 30.0,
+      "item_id": "X2",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X2",
+            "native_rank": 10,
+            "source": "x",
+            "subquery_label": "pricing model check"
+          }
+        ]
+      },
+      "native_ranks": {
+        "pricing model check:x": 10
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.0067669172932330835,
+      "snippet": "Absolutely! I cancelled my subscription this morning and plan to delete the app when I get home. Honestly I should thank them it\u2019s my last subscription I\u2019ve been holding onto lol",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "ZoraCarbuncle",
+          "body": "Absolutely! I cancelled my subscription this morning and plan to delete the app when I get home. Honestly I should thank them it\u2019s my last subscription I\u2019ve been holding onto lol",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 2,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 2,
+          "freshness": 97,
+          "item_id": "X2",
+          "local_rank_score": 0.303,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.9,
+          "snippet": "Absolutely! I cancelled my subscription this morning and plan to delete the app when I get home. Honestly I should thank them it\u2019s my last subscription I\u2019ve been holding onto lol",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Absolutely! I cancelled my subscription this morning and plan to delete the app when I get home. Honestly I should thank them it\u2019s my last s",
+          "url": "https://x.com/ZoraCarbuncle/status/2102910867117334647",
+          "why_relevant": "Mentions cancelling a subscription"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "pricing model check"
+      ],
+      "title": "Absolutely! I cancelled my subscription this morning and plan to delete the app when I get home. Honestly I should thank them it\u2019s my last s",
+      "url": "https://x.com/ZoraCarbuncle/status/2102910867117334647"
+    },
+    {
+      "candidate_id": "https://x.com/ikramulweb3/status/2102910874327634038",
+      "cluster_id": "cluster-14",
+      "explanation": "AI chat pricing, no app mention",
+      "final_score": 6.230370644922165,
+      "freshness": 97,
+      "fun_explanation": "Punchy take on pricing unfairness",
+      "fun_score": 40.0,
+      "item_id": "X1",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X1",
+            "native_rank": 11,
+            "source": "x",
+            "subquery_label": "pricing model check"
+          }
+        ]
+      },
+      "native_ranks": {
+        "pricing model check:x": 11
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.006671608598962195,
+      "snippet": "Running an AI chat for 0.04 on Ocean Network Inference really highlights why flat subscription pricing feels unfair.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "ikramulweb3",
+          "body": "Running an AI chat for 0.04 on Ocean Network Inference really highlights why flat subscription pricing feels unfair.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 97,
+          "item_id": "X1",
+          "local_rank_score": 0.301,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.95,
+          "snippet": "Running an AI chat for 0.04 on Ocean Network Inference really highlights why flat subscription pricing feels unfair.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Running an AI chat for 0.04 on Ocean Network Inference really highlights why flat subscription pricing feels unfair.",
+          "url": "https://x.com/ikramulweb3/status/2102910874327634038",
+          "why_relevant": "Directly discusses subscription pricing in AI context"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "pricing model check"
+      ],
+      "title": "Running an AI chat for 0.04 on Ocean Network Inference really highlights why flat subscription pricing feels unfair.",
+      "url": "https://x.com/ikramulweb3/status/2102910874327634038"
+    },
+    {
+      "candidate_id": "https://x.com/jaimesolis/status/2102910727656710408",
+      "cluster_id": "cluster-15",
+      "explanation": "Meta pricing discussion, no paid app",
+      "final_score": 6.223421052631578,
+      "freshness": 97,
+      "fun_explanation": "Tech opinion, no wit",
+      "fun_score": 15.0,
+      "item_id": "X5",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X5",
+            "native_rank": 12,
+            "source": "x",
+            "subquery_label": "pricing model check"
+          }
+        ]
+      },
+      "native_ranks": {
+        "pricing model check:x": 12
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.006578947368421053,
+      "snippet": "meta's taking the right angle, smaller form factor and actual margin path goes further than specs-first pricing",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "jaimesolis",
+          "body": "meta's taking the right angle, smaller form factor and actual margin path goes further than specs-first pricing",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 97,
+          "item_id": "X5",
+          "local_rank_score": 0.301,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.88,
+          "snippet": "meta's taking the right angle, smaller form factor and actual margin path goes further than specs-first pricing",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "meta's taking the right angle, smaller form factor and actual margin path goes further than specs-first pricing",
+          "url": "https://x.com/jaimesolis/status/2102910727656710408",
+          "why_relevant": "Talks about product pricing strategy"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "pricing model check"
+      ],
+      "title": "meta's taking the right angle, smaller form factor and actual margin path goes further than specs-first pricing",
+      "url": "https://x.com/jaimesolis/status/2102910727656710408"
+    }
+  ],
+  "topic": "\"is there a paid app\"",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}

@@ -1,0 +1,1749 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"better app than\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://x.com/mourning_mirror/status/2102881652821430555"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://x.com/mourning_mirror/status/2102881652821430555"
+      ],
+      "score": 67.68197899391929,
+      "sources": [
+        "x"
+      ],
+      "title": "If you do it I'll do it with you but we should probably find a better app than duolingo",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/zerotalktoai/status/2102868454072291451"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://x.com/zerotalktoai/status/2102868454072291451"
+      ],
+      "score": 61.06165577342048,
+      "sources": [
+        "x"
+      ],
+      "title": "Wild how i am nobody, but got a better app than some billion dollar ai companies..",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/kinzfin/status/2102898089355100667"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://x.com/kinzfin/status/2102898089355100667"
+      ],
+      "score": 28.517911353976928,
+      "sources": [
+        "x"
+      ],
+      "title": "half the agent apps i try i cant tell what they do better than just using claude directly",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/tootyrnt_"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://x.com/tootyrnt_"
+      ],
+      "score": 25.49342891278375,
+      "sources": [
+        "x"
+      ],
+      "title": "It\u2019s so stupid, PS and Xbox apps are 10x better than whatever the hell Nintendo does",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/ronin_workshopj/status/2102909680276173097"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://x.com/ronin_workshopj/status/2102909680276173097"
+      ],
+      "score": 25.44675925925926,
+      "sources": [
+        "x"
+      ],
+      "title": "The iPhone app is intuitive and easy to use. ... Much better than trying to wrangle Slack or Telegram",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/kingdrale/status/2102909742758944797"
+      ],
+      "cluster_id": "cluster-6",
+      "representative_ids": [
+        "https://x.com/kingdrale/status/2102909742758944797"
+      ],
+      "score": 8.257350427350426,
+      "sources": [
+        "x"
+      ],
+      "title": "Astra + Pi is so much better than in the Codex app.",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/nickfthedev/status/2102240153716547718"
+      ],
+      "cluster_id": "cluster-7",
+      "representative_ids": [
+        "https://x.com/nickfthedev/status/2102240153716547718"
+      ],
+      "score": 8.120917107583773,
+      "sources": [
+        "x"
+      ],
+      "title": "Take a look at https://www.launchie.app/ It's the better alternative. Many people still use the launchpad.",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/sugmaligmacav/status/2102898026532798965"
+      ],
+      "cluster_id": "cluster-8",
+      "representative_ids": [
+        "https://x.com/sugmaligmacav/status/2102898026532798965"
+      ],
+      "score": 7.17087542087542,
+      "sources": [
+        "x"
+      ],
+      "title": "The app has always been way better than desktop.",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/aaronp613/status/2100353435539538099"
+      ],
+      "cluster_id": "cluster-9",
+      "representative_ids": [
+        "https://x.com/aaronp613/status/2100353435539538099"
+      ],
+      "score": 7.116825396825396,
+      "sources": [
+        "x"
+      ],
+      "title": "Code in iOS 27.2 beta 1 suggests Apple is working on a feature to allow developers to migrate users to a new app id if they for example, reb",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/9to5mac/status/2100329750849868248"
+      ],
+      "cluster_id": "cluster-10",
+      "representative_ids": [
+        "https://x.com/9to5mac/status/2100329750849868248"
+      ],
+      "score": 6.750624999999999,
+      "sources": [
+        "x"
+      ],
+      "title": "iOS 27.2 will help users move data and settings from an old app to its replacement https://9to5mac.com/2026/09/16/ios-27-2-will-help-users-m",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/gloriousgod01/status/2099579757012603226"
+      ],
+      "cluster_id": "cluster-11",
+      "representative_ids": [
+        "https://x.com/gloriousgod01/status/2099579757012603226"
+      ],
+      "score": 6.223225806451612,
+      "sources": [
+        "x"
+      ],
+      "title": "HOW TO QUICKLY TRANSFER EVERYTHING FROM YOUR OLD PHONE TO A NEW ONE WITHOUT LOSING ANYTHING ... ANDROID TO ANDROID: Most Android phones have",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/google/status/2098095961620767153"
+      ],
+      "cluster_id": "cluster-12",
+      "representative_ids": [
+        "https://x.com/google/status/2098095961620767153"
+      ],
+      "score": 5.8987878787878785,
+      "sources": [
+        "x"
+      ],
+      "title": "Today, we\u2019re making transferring your password and passkeys between password managers easier and safer on Android ... make the switch on com",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/aldred74/status/2101022846709346563"
+      ],
+      "cluster_id": "cluster-13",
+      "representative_ids": [
+        "https://x.com/aldred74/status/2101022846709346563"
+      ],
+      "score": 5.449836065573771,
+      "sources": [
+        "x"
+      ],
+      "title": "Is there a way to export my profile info from the old app & import to the new app? ... This is very bad for user experience.",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/xdhd350/status/2101097770551476339"
+      ],
+      "cluster_id": "cluster-14",
+      "representative_ids": [
+        "https://x.com/xdhd350/status/2101097770551476339"
+      ],
+      "score": 5.424615384615384,
+      "sources": [
+        "x"
+      ],
+      "title": "I\u2019m doing the same thing right now. Mostly finished, but I hate it when you have an app that you need to use and it\u2019s no longer available on",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/keeley_sparx/status/2101391372209041703"
+      ],
+      "cluster_id": "cluster-15",
+      "representative_ids": [
+        "https://x.com/keeley_sparx/status/2101391372209041703"
+      ],
+      "score": 5.203134328358209,
+      "sources": [
+        "x"
+      ],
+      "title": "Alright, I think I have everything transferred and I\u2019m logged into all my apps. Now to wipe my old phone! \ud83d\ude31",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/crackinggems/status/2100702707703054811"
+      ],
+      "cluster_id": "cluster-16",
+      "representative_ids": [
+        "https://x.com/crackinggems/status/2100702707703054811"
+      ],
+      "score": 4.74764705882353,
+      "sources": [
+        "x"
+      ],
+      "title": "OK, you\u2019ve changed your phone. Most apps have swapped seamlessly . many haven\u2019t",
+      "uncertainty": "single-source"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-24T18:33:07.705476+00:00",
+  "items_by_source": {
+    "x": [
+      {
+        "author": "KinzFin",
+        "body": "half the agent apps i try i cant tell what they do better than just using claude directly",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 86,
+        "item_id": "X15",
+        "local_rank_score": 0.462,
+        "local_relevance": 0.38,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.7,
+        "snippet": "half the agent apps i try i cant tell what they do better than just using claude directly",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "half the agent apps i try i cant tell what they do better than just using claude directly",
+        "url": "https://x.com/KinzFin/status/2102898089355100667",
+        "why_relevant": "Discusses agent apps vs Claude as alternatives"
+      },
+      {
+        "author": "TooTyrnt_",
+        "body": "It\u2019s so stupid, PS and Xbox apps are 10x better than whatever the hell Nintendo does",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 0,
+        "freshness": 86,
+        "item_id": "X14",
+        "local_rank_score": 0.3905,
+        "local_relevance": 0.27,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.65,
+        "snippet": "It\u2019s so stupid, PS and Xbox apps are 10x better than whatever the hell Nintendo does",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "It\u2019s so stupid, PS and Xbox apps are 10x better than whatever the hell Nintendo does",
+        "url": "https://x.com/TooTyrnt_",
+        "why_relevant": "Compares console apps as better alternatives"
+      },
+      {
+        "author": "nickfthedev",
+        "body": "Take a look at https://www.launchie.app/ It's the better alternative. Many people still use the launchpad.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 5,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 16,
+        "freshness": 84,
+        "item_id": "X18",
+        "local_rank_score": 0.37550000000000006,
+        "local_relevance": 0.23,
+        "metadata": {},
+        "published_at": "2026-09-22",
+        "relevance_hint": 0.85,
+        "snippet": "Take a look at https://www.launchie.app/ It's the better alternative. Many people still use the launchpad.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Take a look at https://www.launchie.app/ It's the better alternative. Many people still use the launchpad.",
+        "url": "https://x.com/nickfthedev/status/2102240153716547718",
+        "why_relevant": "Promotes Launchie as better alternative to Mac Launchpad"
+      },
+      {
+        "author": "Ronin_WorkshopJ",
+        "body": "The iPhone app is intuitive and easy to use. ... Much better than trying to wrangle Slack or Telegram",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 86,
+        "item_id": "X13",
+        "local_rank_score": 0.371,
+        "local_relevance": 0.24,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.75,
+        "snippet": "The iPhone app is intuitive and easy to use. ... Much better than trying to wrangle Slack or Telegram",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "The iPhone app is intuitive and easy to use. ... Much better than trying to wrangle Slack or Telegram",
+        "url": "https://x.com/Ronin_WorkshopJ/status/2102909680276173097",
+        "why_relevant": "Grok app better than Slack/Telegram alternatives"
+      },
+      {
+        "author": "kingdrale",
+        "body": "Astra + Pi is so much better than in the Codex app.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 2,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 11,
+        "freshness": 86,
+        "item_id": "X12",
+        "local_rank_score": 0.34950000000000003,
+        "local_relevance": 0.19,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.7,
+        "snippet": "Astra + Pi is so much better than in the Codex app.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Astra + Pi is so much better than in the Codex app.",
+        "url": "https://x.com/kingdrale/status/2102909742758944797",
+        "why_relevant": "Compares to Codex app as better option"
+      },
+      {
+        "author": "sugmaligmacav",
+        "body": "The app has always been way better than desktop.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 5,
+        "freshness": 86,
+        "item_id": "X16",
+        "local_rank_score": 0.3435,
+        "local_relevance": 0.19,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.6,
+        "snippet": "The app has always been way better than desktop.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "The app has always been way better than desktop.",
+        "url": "https://x.com/sugmaligmacav/status/2102898026532798965",
+        "why_relevant": "Compares mobile app as better than desktop version"
+      },
+      {
+        "author": "Mourning_Mirror",
+        "body": "If you do it I'll do it with you but we should probably find a better app than duolingo",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 2,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 11,
+        "freshness": 86,
+        "item_id": "X5",
+        "local_rank_score": 0.34299999999999997,
+        "local_relevance": 0.18,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.8,
+        "snippet": "If you do it I'll do it with you but we should probably find a better app than duolingo",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "If you do it I'll do it with you but we should probably find a better app than duolingo",
+        "url": "https://x.com/Mourning_Mirror/status/2102881652821430555",
+        "why_relevant": "Seeking a better app alternative to Duolingo"
+      },
+      {
+        "author": "zerotalktoai",
+        "body": "Wild how i am nobody, but got a better app than some billion dollar ai companies..",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 2,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 9,
+        "freshness": 86,
+        "item_id": "X6",
+        "local_rank_score": 0.3345,
+        "local_relevance": 0.17,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.75,
+        "snippet": "Wild how i am nobody, but got a better app than some billion dollar ai companies..",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Wild how i am nobody, but got a better app than some billion dollar ai companies..",
+        "url": "https://x.com/zerotalktoai/status/2102868454072291451",
+        "why_relevant": "Claims a better app than major AI company apps"
+      },
+      {
+        "author": "aldred74",
+        "body": "Is there a way to export my profile info from the old app & import to the new app? ... This is very bad for user experience.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 74,
+        "item_id": "X8",
+        "local_rank_score": 0.3215,
+        "local_relevance": 0.21,
+        "metadata": {},
+        "published_at": "2026-09-18",
+        "relevance_hint": 0.85,
+        "snippet": "Is there a way to export my profile info from the old app & import to the new app? ... This is very bad for user experience.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Is there a way to export my profile info from the old app & import to the new app? ... This is very bad for user experience.",
+        "url": "https://x.com/aldred74/status/2101022846709346563",
+        "why_relevant": "Asks about exporting from old app to new app"
+      },
+      {
+        "author": "GloriousGod01",
+        "body": "HOW TO QUICKLY TRANSFER EVERYTHING FROM YOUR OLD PHONE TO A NEW ONE WITHOUT LOSING ANYTHING ... ANDROID TO ANDROID: Most Android phones have a built in transfer app. Samsung uses Smart Switch, Xiaomi uses Phone Clone...",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 767,
+          "quotes": 8,
+          "replies": 17,
+          "reposts": 468
+        },
+        "engagement_score": 89,
+        "freshness": 62,
+        "item_id": "X2",
+        "local_rank_score": 0.3025,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-14",
+        "relevance_hint": 0.9,
+        "snippet": "HOW TO QUICKLY TRANSFER EVERYTHING FROM YOUR OLD PHONE TO A NEW ONE WITHOUT LOSING ANYTHING ... ANDROID TO ANDROID: Most Android phones have a built in transfer app. Samsung uses Smart Switch, Xiaomi uses Phone Clone...",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "HOW TO QUICKLY TRANSFER EVERYTHING FROM YOUR OLD PHONE TO A NEW ONE WITHOUT LOSING ANYTHING ... ANDROID TO ANDROID: Most Android phones have",
+        "url": "https://x.com/GloriousGod01/status/2099579757012603226",
+        "why_relevant": "Detailed guide on switching phones and transferring apps/data"
+      },
+      {
+        "author": "aaronp613",
+        "body": "Code in iOS 27.2 beta 1 suggests Apple is working on a feature to allow developers to migrate users to a new app id if they for example, rebuilt the app from the ground up and are relaunching it fresh.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 700,
+          "quotes": 3,
+          "replies": 8,
+          "reposts": 10
+        },
+        "engagement_score": 71,
+        "freshness": 68,
+        "item_id": "X6",
+        "local_rank_score": 0.2995,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-16",
+        "relevance_hint": 0.9,
+        "snippet": "Code in iOS 27.2 beta 1 suggests Apple is working on a feature to allow developers to migrate users to a new app id if they for example, rebuilt the app from the ground up and are relaunching it fresh.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Code in iOS 27.2 beta 1 suggests Apple is working on a feature to allow developers to migrate users to a new app id if they for example, reb",
+        "url": "https://x.com/aaronp613/status/2100353435539538099",
+        "why_relevant": "About migrating users to a new app ID/replacement app"
+      },
+      {
+        "author": "9to5mac",
+        "body": "iOS 27.2 will help users move data and settings from an old app to its replacement https://9to5mac.com/2026/09/16/ios-27-2-will-help-users-move-data-and-settings-from-an-old-app-to-its-replacement/",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 204,
+          "quotes": 1,
+          "replies": 2,
+          "reposts": 8
+        },
+        "engagement_score": 56,
+        "freshness": 68,
+        "item_id": "X4",
+        "local_rank_score": 0.28450000000000003,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-16",
+        "relevance_hint": 0.95,
+        "snippet": "iOS 27.2 will help users move data and settings from an old app to its replacement https://9to5mac.com/2026/09/16/ios-27-2-will-help-users-move-data-and-settings-from-an-old-app-to-its-replacement/",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "iOS 27.2 will help users move data and settings from an old app to its replacement https://9to5mac.com/2026/09/16/ios-27-2-will-help-users-m",
+        "url": "https://x.com/9to5mac/status/2100329750849868248",
+        "why_relevant": "News about feature to migrate data from old app to new replacement app"
+      },
+      {
+        "author": "xdhd350",
+        "body": "I\u2019m doing the same thing right now. Mostly finished, but I hate it when you have an app that you need to use and it\u2019s no longer available on the App Store. Because the process always downloads everything from the App Store, it won\u2019t move an app directly from my old phone to the new phone. \ud83d\ude21",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 2,
+          "quotes": 0,
+          "replies": 2,
+          "reposts": 0
+        },
+        "engagement_score": 10,
+        "freshness": 74,
+        "item_id": "X1",
+        "local_rank_score": 0.2535,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-18",
+        "relevance_hint": 0.85,
+        "snippet": "I\u2019m doing the same thing right now. Mostly finished, but I hate it when you have an app that you need to use and it\u2019s no longer available on the App Store. Because the process always downloads everything from the App Store, it won\u2019t move an app directly from my old phone to the new phone. \ud83d\ude21",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "I\u2019m doing the same thing right now. Mostly finished, but I hate it when you have an app that you need to use and it\u2019s no longer available on",
+        "url": "https://x.com/xdhd350/status/2101097770551476339",
+        "why_relevant": "Discusses challenges moving apps from old phone to new phone during switch"
+      },
+      {
+        "author": "Google",
+        "body": "Today, we\u2019re making transferring your password and passkeys between password managers easier and safer on Android ... make the switch on compatible managers",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1807,
+          "quotes": 19,
+          "replies": 113,
+          "reposts": 259
+        },
+        "engagement_score": 100,
+        "freshness": 52,
+        "item_id": "X9",
+        "local_rank_score": 0.23,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-10",
+        "relevance_hint": 0.8,
+        "snippet": "Today, we\u2019re making transferring your password and passkeys between password managers easier and safer on Android ... make the switch on compatible managers",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Today, we\u2019re making transferring your password and passkeys between password managers easier and safer on Android ... make the switch on com",
+        "url": "https://x.com/Google/status/2098095961620767153",
+        "why_relevant": "About switching between password manager apps and transferring data"
+      },
+      {
+        "author": "Keeley_Sparx",
+        "body": "Alright, I think I have everything transferred and I\u2019m logged into all my apps. Now to wipe my old phone! \ud83d\ude31",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 2,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 7,
+        "freshness": 76,
+        "item_id": "X5",
+        "local_rank_score": 0.197,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-19",
+        "relevance_hint": 0.8,
+        "snippet": "Alright, I think I have everything transferred and I\u2019m logged into all my apps. Now to wipe my old phone! \ud83d\ude31",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Alright, I think I have everything transferred and I\u2019m logged into all my apps. Now to wipe my old phone! \ud83d\ude31",
+        "url": "https://x.com/Keeley_Sparx/status/2101391372209041703",
+        "why_relevant": "Mentions transferring and logging into apps after switching phones"
+      },
+      {
+        "author": "crackinggems",
+        "body": "OK, you\u2019ve changed your phone. Most apps have swapped seamlessly . many haven\u2019t",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 0,
+        "freshness": 70,
+        "item_id": "X7",
+        "local_rank_score": 0.175,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-17",
+        "relevance_hint": 0.75,
+        "snippet": "OK, you\u2019ve changed your phone. Most apps have swapped seamlessly . many haven\u2019t",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "OK, you\u2019ve changed your phone. Most apps have swapped seamlessly . many haven\u2019t",
+        "url": "https://x.com/crackinggems/status/2100702707703054811",
+        "why_relevant": "Discusses apps swapping or moving during phone switch"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "debate",
+    "freshness_mode": "balanced_recent",
+    "intent": "comparison",
+    "notes": [
+      "Topic is generic; subqueries target comparison language common on social platforms"
+    ],
+    "raw_topic": "\"better app than\"",
+    "source_weights": {
+      "x": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "general alternatives",
+        "ranking_query": "What apps do people say are better than the ones they currently use?",
+        "search_query": "better app than OR \"app alternative\" OR \"instead of\"",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.37037037037037035
+      },
+      {
+        "label": "switch experiences",
+        "ranking_query": "Real user stories about switching to a superior app and why",
+        "search_query": "\"switched to\" app OR \"replaced with\" OR \"moved from\"",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.3333333333333333
+      },
+      {
+        "label": "recommendation threads",
+        "ranking_query": "Direct recommendations for better apps in specific categories",
+        "search_query": "\"recommend app\" OR \"best app for\" -news",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.2962962962962963
+      }
+    ]
+  },
+  "range_from": "2026-08-25",
+  "range_to": "2026-09-24",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://x.com/mourning_mirror/status/2102881652821430555",
+      "cluster_id": "cluster-1",
+      "engagement": 11,
+      "explanation": "Direct 'better app than' entity match and comparison intent",
+      "final_score": 67.68197899391929,
+      "freshness": 86,
+      "fun_explanation": "light Duolingo jab, casual punch",
+      "fun_score": 62.0,
+      "item_id": "X5",
+      "local_relevance": 0.18,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X5",
+            "native_rank": 7,
+            "source": "x",
+            "subquery_label": "general alternatives"
+          }
+        ]
+      },
+      "native_ranks": {
+        "general alternatives:x": 7
+      },
+      "rerank_score": 85.0,
+      "rrf_score": 0.00552791597567717,
+      "snippet": "If you do it I'll do it with you but we should probably find a better app than duolingo",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Mourning_Mirror",
+          "body": "If you do it I'll do it with you but we should probably find a better app than duolingo",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 2,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 11,
+          "freshness": 86,
+          "item_id": "X5",
+          "local_rank_score": 0.34299999999999997,
+          "local_relevance": 0.18,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.8,
+          "snippet": "If you do it I'll do it with you but we should probably find a better app than duolingo",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "If you do it I'll do it with you but we should probably find a better app than duolingo",
+          "url": "https://x.com/Mourning_Mirror/status/2102881652821430555",
+          "why_relevant": "Seeking a better app alternative to Duolingo"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "general alternatives"
+      ],
+      "title": "If you do it I'll do it with you but we should probably find a better app than duolingo",
+      "url": "https://x.com/Mourning_Mirror/status/2102881652821430555"
+    },
+    {
+      "candidate_id": "https://x.com/zerotalktoai/status/2102868454072291451",
+      "cluster_id": "cluster-2",
+      "engagement": 9,
+      "explanation": "Contains 'better app than' entity and comparison",
+      "final_score": 61.06165577342048,
+      "freshness": 86,
+      "fun_explanation": "self-promo, low wit",
+      "fun_score": 28.0,
+      "item_id": "X6",
+      "local_relevance": 0.17,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X6",
+            "native_rank": 8,
+            "source": "x",
+            "subquery_label": "general alternatives"
+          }
+        ]
+      },
+      "native_ranks": {
+        "general alternatives:x": 8
+      },
+      "rerank_score": 75.0,
+      "rrf_score": 0.005446623093681917,
+      "snippet": "Wild how i am nobody, but got a better app than some billion dollar ai companies..",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "zerotalktoai",
+          "body": "Wild how i am nobody, but got a better app than some billion dollar ai companies..",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 2,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 9,
+          "freshness": 86,
+          "item_id": "X6",
+          "local_rank_score": 0.3345,
+          "local_relevance": 0.17,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.75,
+          "snippet": "Wild how i am nobody, but got a better app than some billion dollar ai companies..",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Wild how i am nobody, but got a better app than some billion dollar ai companies..",
+          "url": "https://x.com/zerotalktoai/status/2102868454072291451",
+          "why_relevant": "Claims a better app than major AI company apps"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "general alternatives"
+      ],
+      "title": "Wild how i am nobody, but got a better app than some billion dollar ai companies..",
+      "url": "https://x.com/zerotalktoai/status/2102868454072291451"
+    },
+    {
+      "candidate_id": "https://x.com/kinzfin/status/2102898089355100667",
+      "cluster_id": "cluster-3",
+      "explanation": "Mentions better than but not the entity 'better app than'",
+      "final_score": 28.517911353976928,
+      "freshness": 86,
+      "fun_explanation": "plain opinion, no spark",
+      "fun_score": 33.0,
+      "item_id": "X15",
+      "local_relevance": 0.38,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X15",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "general alternatives"
+          }
+        ]
+      },
+      "native_ranks": {
+        "general alternatives:x": 1
+      },
+      "rerank_score": 25.0,
+      "rrf_score": 0.006071645415907711,
+      "snippet": "half the agent apps i try i cant tell what they do better than just using claude directly",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "KinzFin",
+          "body": "half the agent apps i try i cant tell what they do better than just using claude directly",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 86,
+          "item_id": "X15",
+          "local_rank_score": 0.462,
+          "local_relevance": 0.38,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.7,
+          "snippet": "half the agent apps i try i cant tell what they do better than just using claude directly",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "half the agent apps i try i cant tell what they do better than just using claude directly",
+          "url": "https://x.com/KinzFin/status/2102898089355100667",
+          "why_relevant": "Discusses agent apps vs Claude as alternatives"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "general alternatives"
+      ],
+      "title": "half the agent apps i try i cant tell what they do better than just using claude directly",
+      "url": "https://x.com/KinzFin/status/2102898089355100667"
+    },
+    {
+      "candidate_id": "https://x.com/tootyrnt_",
+      "cluster_id": "cluster-4",
+      "engagement": 0,
+      "explanation": "Mentions apps better than but no entity match",
+      "final_score": 25.49342891278375,
+      "freshness": 86,
+      "fun_explanation": "snarky Nintendo take, some edge",
+      "fun_score": 41.0,
+      "item_id": "X14",
+      "local_relevance": 0.27,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X14",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "general alternatives"
+          }
+        ]
+      },
+      "native_ranks": {
+        "general alternatives:x": 2
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.005973715651135005,
+      "snippet": "It\u2019s so stupid, PS and Xbox apps are 10x better than whatever the hell Nintendo does",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "TooTyrnt_",
+          "body": "It\u2019s so stupid, PS and Xbox apps are 10x better than whatever the hell Nintendo does",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 0,
+          "freshness": 86,
+          "item_id": "X14",
+          "local_rank_score": 0.3905,
+          "local_relevance": 0.27,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.65,
+          "snippet": "It\u2019s so stupid, PS and Xbox apps are 10x better than whatever the hell Nintendo does",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "It\u2019s so stupid, PS and Xbox apps are 10x better than whatever the hell Nintendo does",
+          "url": "https://x.com/TooTyrnt_",
+          "why_relevant": "Compares console apps as better alternatives"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "general alternatives"
+      ],
+      "title": "It\u2019s so stupid, PS and Xbox apps are 10x better than whatever the hell Nintendo does",
+      "url": "https://x.com/TooTyrnt_"
+    },
+    {
+      "candidate_id": "https://x.com/ronin_workshopj/status/2102909680276173097",
+      "cluster_id": "cluster-5",
+      "explanation": "Better than comparison, missing entity phrase",
+      "final_score": 25.44675925925926,
+      "freshness": 86,
+      "fun_explanation": "straight comparison",
+      "fun_score": 22.0,
+      "item_id": "X13",
+      "local_relevance": 0.24,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X13",
+            "native_rank": 4,
+            "source": "x",
+            "subquery_label": "general alternatives"
+          }
+        ]
+      },
+      "native_ranks": {
+        "general alternatives:x": 4
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.005787037037037037,
+      "snippet": "The iPhone app is intuitive and easy to use. ... Much better than trying to wrangle Slack or Telegram",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Ronin_WorkshopJ",
+          "body": "The iPhone app is intuitive and easy to use. ... Much better than trying to wrangle Slack or Telegram",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 86,
+          "item_id": "X13",
+          "local_rank_score": 0.371,
+          "local_relevance": 0.24,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.75,
+          "snippet": "The iPhone app is intuitive and easy to use. ... Much better than trying to wrangle Slack or Telegram",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "The iPhone app is intuitive and easy to use. ... Much better than trying to wrangle Slack or Telegram",
+          "url": "https://x.com/Ronin_WorkshopJ/status/2102909680276173097",
+          "why_relevant": "Grok app better than Slack/Telegram alternatives"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "general alternatives"
+      ],
+      "title": "The iPhone app is intuitive and easy to use. ... Much better than trying to wrangle Slack or Telegram",
+      "url": "https://x.com/Ronin_WorkshopJ/status/2102909680276173097"
+    },
+    {
+      "candidate_id": "https://x.com/kingdrale/status/2102909742758944797",
+      "cluster_id": "cluster-6",
+      "engagement": 11,
+      "explanation": "Better than but no 'better app than' entity",
+      "final_score": 8.257350427350426,
+      "freshness": 86,
+      "fun_explanation": "dry product note",
+      "fun_score": 18.0,
+      "item_id": "X12",
+      "local_relevance": 0.19,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X12",
+            "native_rank": 5,
+            "source": "x",
+            "subquery_label": "general alternatives"
+          }
+        ]
+      },
+      "native_ranks": {
+        "general alternatives:x": 5
+      },
+      "rerank_score": 18.0,
+      "rrf_score": 0.005698005698005697,
+      "snippet": "Astra + Pi is so much better than in the Codex app.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "kingdrale",
+          "body": "Astra + Pi is so much better than in the Codex app.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 2,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 11,
+          "freshness": 86,
+          "item_id": "X12",
+          "local_rank_score": 0.34950000000000003,
+          "local_relevance": 0.19,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.7,
+          "snippet": "Astra + Pi is so much better than in the Codex app.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Astra + Pi is so much better than in the Codex app.",
+          "url": "https://x.com/kingdrale/status/2102909742758944797",
+          "why_relevant": "Compares to Codex app as better option"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "general alternatives"
+      ],
+      "title": "Astra + Pi is so much better than in the Codex app.",
+      "url": "https://x.com/kingdrale/status/2102909742758944797"
+    },
+    {
+      "candidate_id": "https://x.com/nickfthedev/status/2102240153716547718",
+      "cluster_id": "cluster-7",
+      "engagement": 16,
+      "explanation": "Alternative mention but no entity grounding",
+      "final_score": 8.120917107583773,
+      "freshness": 84,
+      "fun_explanation": "promo link drop",
+      "fun_score": 15.0,
+      "item_id": "X18",
+      "local_relevance": 0.23,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X18",
+            "native_rank": 3,
+            "source": "x",
+            "subquery_label": "general alternatives"
+          }
+        ]
+      },
+      "native_ranks": {
+        "general alternatives:x": 3
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.005878894767783656,
+      "snippet": "Take a look at https://www.launchie.app/ It's the better alternative. Many people still use the launchpad.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "nickfthedev",
+          "body": "Take a look at https://www.launchie.app/ It's the better alternative. Many people still use the launchpad.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 5,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 16,
+          "freshness": 84,
+          "item_id": "X18",
+          "local_rank_score": 0.37550000000000006,
+          "local_relevance": 0.23,
+          "metadata": {},
+          "published_at": "2026-09-22",
+          "relevance_hint": 0.85,
+          "snippet": "Take a look at https://www.launchie.app/ It's the better alternative. Many people still use the launchpad.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Take a look at https://www.launchie.app/ It's the better alternative. Many people still use the launchpad.",
+          "url": "https://x.com/nickfthedev/status/2102240153716547718",
+          "why_relevant": "Promotes Launchie as better alternative to Mac Launchpad"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "general alternatives"
+      ],
+      "title": "Take a look at https://www.launchie.app/ It's the better alternative. Many people still use the launchpad.",
+      "url": "https://x.com/nickfthedev/status/2102240153716547718"
+    },
+    {
+      "candidate_id": "https://x.com/sugmaligmacav/status/2102898026532798965",
+      "cluster_id": "cluster-8",
+      "engagement": 5,
+      "explanation": "No entity match",
+      "final_score": 7.17087542087542,
+      "freshness": 86,
+      "fun_explanation": "generic claim",
+      "fun_score": 12.0,
+      "item_id": "X16",
+      "local_relevance": 0.19,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X16",
+            "native_rank": 6,
+            "source": "x",
+            "subquery_label": "general alternatives"
+          }
+        ]
+      },
+      "native_ranks": {
+        "general alternatives:x": 6
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.005611672278338945,
+      "snippet": "The app has always been way better than desktop.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "sugmaligmacav",
+          "body": "The app has always been way better than desktop.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 5,
+          "freshness": 86,
+          "item_id": "X16",
+          "local_rank_score": 0.3435,
+          "local_relevance": 0.19,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.6,
+          "snippet": "The app has always been way better than desktop.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "The app has always been way better than desktop.",
+          "url": "https://x.com/sugmaligmacav/status/2102898026532798965",
+          "why_relevant": "Compares mobile app as better than desktop version"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "general alternatives"
+      ],
+      "title": "The app has always been way better than desktop.",
+      "url": "https://x.com/sugmaligmacav/status/2102898026532798965"
+    },
+    {
+      "candidate_id": "https://x.com/aaronp613/status/2100353435539538099",
+      "cluster_id": "cluster-9",
+      "engagement": 71,
+      "explanation": "App migration, no entity match",
+      "final_score": 7.116825396825396,
+      "freshness": 68,
+      "fun_explanation": "tech beta news",
+      "fun_score": 8.0,
+      "item_id": "X6",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X6",
+            "native_rank": 3,
+            "source": "x",
+            "subquery_label": "switch experiences"
+          }
+        ]
+      },
+      "native_ranks": {
+        "switch experiences:x": 3
+      },
+      "rerank_score": 12.0,
+      "rrf_score": 0.005291005291005291,
+      "snippet": "Code in iOS 27.2 beta 1 suggests Apple is working on a feature to allow developers to migrate users to a new app id if they for example, rebuilt the app from the ground up and are relaunching it fresh.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "aaronp613",
+          "body": "Code in iOS 27.2 beta 1 suggests Apple is working on a feature to allow developers to migrate users to a new app id if they for example, rebuilt the app from the ground up and are relaunching it fresh.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 700,
+            "quotes": 3,
+            "replies": 8,
+            "reposts": 10
+          },
+          "engagement_score": 71,
+          "freshness": 68,
+          "item_id": "X6",
+          "local_rank_score": 0.2995,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-16",
+          "relevance_hint": 0.9,
+          "snippet": "Code in iOS 27.2 beta 1 suggests Apple is working on a feature to allow developers to migrate users to a new app id if they for example, rebuilt the app from the ground up and are relaunching it fresh.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Code in iOS 27.2 beta 1 suggests Apple is working on a feature to allow developers to migrate users to a new app id if they for example, reb",
+          "url": "https://x.com/aaronp613/status/2100353435539538099",
+          "why_relevant": "About migrating users to a new app ID/replacement app"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "switch experiences"
+      ],
+      "title": "Code in iOS 27.2 beta 1 suggests Apple is working on a feature to allow developers to migrate users to a new app id if they for example, reb",
+      "url": "https://x.com/aaronp613/status/2100353435539538099"
+    },
+    {
+      "candidate_id": "https://x.com/9to5mac/status/2100329750849868248",
+      "cluster_id": "cluster-10",
+      "engagement": 56,
+      "explanation": "Data transfer feature, no entity match",
+      "final_score": 6.750624999999999,
+      "freshness": 68,
+      "fun_explanation": "straight news link",
+      "fun_score": 5.0,
+      "item_id": "X4",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X4",
+            "native_rank": 4,
+            "source": "x",
+            "subquery_label": "switch experiences"
+          }
+        ]
+      },
+      "native_ranks": {
+        "switch experiences:x": 4
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.005208333333333333,
+      "snippet": "iOS 27.2 will help users move data and settings from an old app to its replacement https://9to5mac.com/2026/09/16/ios-27-2-will-help-users-move-data-and-settings-from-an-old-app-to-its-replacement/",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "9to5mac",
+          "body": "iOS 27.2 will help users move data and settings from an old app to its replacement https://9to5mac.com/2026/09/16/ios-27-2-will-help-users-move-data-and-settings-from-an-old-app-to-its-replacement/",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 204,
+            "quotes": 1,
+            "replies": 2,
+            "reposts": 8
+          },
+          "engagement_score": 56,
+          "freshness": 68,
+          "item_id": "X4",
+          "local_rank_score": 0.28450000000000003,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-16",
+          "relevance_hint": 0.95,
+          "snippet": "iOS 27.2 will help users move data and settings from an old app to its replacement https://9to5mac.com/2026/09/16/ios-27-2-will-help-users-move-data-and-settings-from-an-old-app-to-its-replacement/",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "iOS 27.2 will help users move data and settings from an old app to its replacement https://9to5mac.com/2026/09/16/ios-27-2-will-help-users-m",
+          "url": "https://x.com/9to5mac/status/2100329750849868248",
+          "why_relevant": "News about feature to migrate data from old app to new replacement app"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "switch experiences"
+      ],
+      "title": "iOS 27.2 will help users move data and settings from an old app to its replacement https://9to5mac.com/2026/09/16/ios-27-2-will-help-users-m",
+      "url": "https://x.com/9to5mac/status/2100329750849868248"
+    },
+    {
+      "candidate_id": "https://x.com/gloriousgod01/status/2099579757012603226",
+      "cluster_id": "cluster-11",
+      "engagement": 89,
+      "explanation": "Phone transfer, no entity match",
+      "final_score": 6.223225806451612,
+      "freshness": 62,
+      "fun_explanation": "how-to list",
+      "fun_score": 10.0,
+      "item_id": "X2",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X2",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "switch experiences"
+          }
+        ]
+      },
+      "native_ranks": {
+        "switch experiences:x": 2
+      },
+      "rerank_score": 8.0,
+      "rrf_score": 0.005376344086021505,
+      "snippet": "HOW TO QUICKLY TRANSFER EVERYTHING FROM YOUR OLD PHONE TO A NEW ONE WITHOUT LOSING ANYTHING ... ANDROID TO ANDROID: Most Android phones have a built in transfer app. Samsung uses Smart Switch, Xiaomi uses Phone Clone...",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "GloriousGod01",
+          "body": "HOW TO QUICKLY TRANSFER EVERYTHING FROM YOUR OLD PHONE TO A NEW ONE WITHOUT LOSING ANYTHING ... ANDROID TO ANDROID: Most Android phones have a built in transfer app. Samsung uses Smart Switch, Xiaomi uses Phone Clone...",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 767,
+            "quotes": 8,
+            "replies": 17,
+            "reposts": 468
+          },
+          "engagement_score": 89,
+          "freshness": 62,
+          "item_id": "X2",
+          "local_rank_score": 0.3025,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-14",
+          "relevance_hint": 0.9,
+          "snippet": "HOW TO QUICKLY TRANSFER EVERYTHING FROM YOUR OLD PHONE TO A NEW ONE WITHOUT LOSING ANYTHING ... ANDROID TO ANDROID: Most Android phones have a built in transfer app. Samsung uses Smart Switch, Xiaomi uses Phone Clone...",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "HOW TO QUICKLY TRANSFER EVERYTHING FROM YOUR OLD PHONE TO A NEW ONE WITHOUT LOSING ANYTHING ... ANDROID TO ANDROID: Most Android phones have",
+          "url": "https://x.com/GloriousGod01/status/2099579757012603226",
+          "why_relevant": "Detailed guide on switching phones and transferring apps/data"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "switch experiences"
+      ],
+      "title": "HOW TO QUICKLY TRANSFER EVERYTHING FROM YOUR OLD PHONE TO A NEW ONE WITHOUT LOSING ANYTHING ... ANDROID TO ANDROID: Most Android phones have",
+      "url": "https://x.com/GloriousGod01/status/2099579757012603226"
+    },
+    {
+      "candidate_id": "https://x.com/google/status/2098095961620767153",
+      "cluster_id": "cluster-12",
+      "engagement": 100,
+      "explanation": "Password manager switch, no entity match",
+      "final_score": 5.8987878787878785,
+      "freshness": 52,
+      "fun_explanation": "corporate announcement",
+      "fun_score": 7.0,
+      "item_id": "X9",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X9",
+            "native_rank": 6,
+            "source": "x",
+            "subquery_label": "switch experiences"
+          }
+        ]
+      },
+      "native_ranks": {
+        "switch experiences:x": 6
+      },
+      "rerank_score": 8.0,
+      "rrf_score": 0.00505050505050505,
+      "snippet": "Today, we\u2019re making transferring your password and passkeys between password managers easier and safer on Android ... make the switch on compatible managers",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Google",
+          "body": "Today, we\u2019re making transferring your password and passkeys between password managers easier and safer on Android ... make the switch on compatible managers",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1807,
+            "quotes": 19,
+            "replies": 113,
+            "reposts": 259
+          },
+          "engagement_score": 100,
+          "freshness": 52,
+          "item_id": "X9",
+          "local_rank_score": 0.23,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-10",
+          "relevance_hint": 0.8,
+          "snippet": "Today, we\u2019re making transferring your password and passkeys between password managers easier and safer on Android ... make the switch on compatible managers",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Today, we\u2019re making transferring your password and passkeys between password managers easier and safer on Android ... make the switch on com",
+          "url": "https://x.com/Google/status/2098095961620767153",
+          "why_relevant": "About switching between password manager apps and transferring data"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "switch experiences"
+      ],
+      "title": "Today, we\u2019re making transferring your password and passkeys between password managers easier and safer on Android ... make the switch on com",
+      "url": "https://x.com/Google/status/2098095961620767153"
+    },
+    {
+      "candidate_id": "https://x.com/aldred74/status/2101022846709346563",
+      "cluster_id": "cluster-13",
+      "explanation": "Switch topic, no entity match",
+      "final_score": 5.449836065573771,
+      "freshness": 74,
+      "fun_explanation": "user complaint",
+      "fun_score": 14.0,
+      "item_id": "X8",
+      "local_relevance": 0.21,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X8",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "switch experiences"
+          }
+        ]
+      },
+      "native_ranks": {
+        "switch experiences:x": 1
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.00546448087431694,
+      "snippet": "Is there a way to export my profile info from the old app & import to the new app? ... This is very bad for user experience.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "aldred74",
+          "body": "Is there a way to export my profile info from the old app & import to the new app? ... This is very bad for user experience.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 74,
+          "item_id": "X8",
+          "local_rank_score": 0.3215,
+          "local_relevance": 0.21,
+          "metadata": {},
+          "published_at": "2026-09-18",
+          "relevance_hint": 0.85,
+          "snippet": "Is there a way to export my profile info from the old app & import to the new app? ... This is very bad for user experience.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Is there a way to export my profile info from the old app & import to the new app? ... This is very bad for user experience.",
+          "url": "https://x.com/aldred74/status/2101022846709346563",
+          "why_relevant": "Asks about exporting from old app to new app"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "switch experiences"
+      ],
+      "title": "Is there a way to export my profile info from the old app & import to the new app? ... This is very bad for user experience.",
+      "url": "https://x.com/aldred74/status/2101022846709346563"
+    },
+    {
+      "candidate_id": "https://x.com/xdhd350/status/2101097770551476339",
+      "cluster_id": "cluster-14",
+      "engagement": 10,
+      "explanation": "App availability on new phone, no entity match",
+      "final_score": 5.424615384615384,
+      "freshness": 74,
+      "fun_explanation": "mild rant",
+      "fun_score": 16.0,
+      "item_id": "X1",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X1",
+            "native_rank": 5,
+            "source": "x",
+            "subquery_label": "switch experiences"
+          }
+        ]
+      },
+      "native_ranks": {
+        "switch experiences:x": 5
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.005128205128205128,
+      "snippet": "I\u2019m doing the same thing right now. Mostly finished, but I hate it when you have an app that you need to use and it\u2019s no longer available on the App Store. Because the process always downloads everything from the App Store, it won\u2019t move an app directly from my old phone to the new phone. \ud83d\ude21",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "xdhd350",
+          "body": "I\u2019m doing the same thing right now. Mostly finished, but I hate it when you have an app that you need to use and it\u2019s no longer available on the App Store. Because the process always downloads everything from the App Store, it won\u2019t move an app directly from my old phone to the new phone. \ud83d\ude21",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 2,
+            "quotes": 0,
+            "replies": 2,
+            "reposts": 0
+          },
+          "engagement_score": 10,
+          "freshness": 74,
+          "item_id": "X1",
+          "local_rank_score": 0.2535,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-18",
+          "relevance_hint": 0.85,
+          "snippet": "I\u2019m doing the same thing right now. Mostly finished, but I hate it when you have an app that you need to use and it\u2019s no longer available on the App Store. Because the process always downloads everything from the App Store, it won\u2019t move an app directly from my old phone to the new phone. \ud83d\ude21",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "I\u2019m doing the same thing right now. Mostly finished, but I hate it when you have an app that you need to use and it\u2019s no longer available on",
+          "url": "https://x.com/xdhd350/status/2101097770551476339",
+          "why_relevant": "Discusses challenges moving apps from old phone to new phone during switch"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "switch experiences"
+      ],
+      "title": "I\u2019m doing the same thing right now. Mostly finished, but I hate it when you have an app that you need to use and it\u2019s no longer available on",
+      "url": "https://x.com/xdhd350/status/2101097770551476339"
+    },
+    {
+      "candidate_id": "https://x.com/keeley_sparx/status/2101391372209041703",
+      "cluster_id": "cluster-15",
+      "engagement": 7,
+      "explanation": "Phone transfer, no entity match",
+      "final_score": 5.203134328358209,
+      "freshness": 76,
+      "fun_explanation": "plain status update",
+      "fun_score": 11.0,
+      "item_id": "X5",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X5",
+            "native_rank": 7,
+            "source": "x",
+            "subquery_label": "switch experiences"
+          }
+        ]
+      },
+      "native_ranks": {
+        "switch experiences:x": 7
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.004975124378109453,
+      "snippet": "Alright, I think I have everything transferred and I\u2019m logged into all my apps. Now to wipe my old phone! \ud83d\ude31",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Keeley_Sparx",
+          "body": "Alright, I think I have everything transferred and I\u2019m logged into all my apps. Now to wipe my old phone! \ud83d\ude31",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 2,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 7,
+          "freshness": 76,
+          "item_id": "X5",
+          "local_rank_score": 0.197,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-19",
+          "relevance_hint": 0.8,
+          "snippet": "Alright, I think I have everything transferred and I\u2019m logged into all my apps. Now to wipe my old phone! \ud83d\ude31",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Alright, I think I have everything transferred and I\u2019m logged into all my apps. Now to wipe my old phone! \ud83d\ude31",
+          "url": "https://x.com/Keeley_Sparx/status/2101391372209041703",
+          "why_relevant": "Mentions transferring and logging into apps after switching phones"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "switch experiences"
+      ],
+      "title": "Alright, I think I have everything transferred and I\u2019m logged into all my apps. Now to wipe my old phone! \ud83d\ude31",
+      "url": "https://x.com/Keeley_Sparx/status/2101391372209041703"
+    },
+    {
+      "candidate_id": "https://x.com/crackinggems/status/2100702707703054811",
+      "cluster_id": "cluster-16",
+      "engagement": 0,
+      "explanation": "App switching on new phone, no entity match",
+      "final_score": 4.74764705882353,
+      "freshness": 70,
+      "fun_explanation": "short observation",
+      "fun_score": 19.0,
+      "item_id": "X7",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X7",
+            "native_rank": 8,
+            "source": "x",
+            "subquery_label": "switch experiences"
+          }
+        ]
+      },
+      "native_ranks": {
+        "switch experiences:x": 8
+      },
+      "rerank_score": 7.0,
+      "rrf_score": 0.004901960784313725,
+      "snippet": "OK, you\u2019ve changed your phone. Most apps have swapped seamlessly . many haven\u2019t",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "crackinggems",
+          "body": "OK, you\u2019ve changed your phone. Most apps have swapped seamlessly . many haven\u2019t",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 0,
+          "freshness": 70,
+          "item_id": "X7",
+          "local_rank_score": 0.175,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-17",
+          "relevance_hint": 0.75,
+          "snippet": "OK, you\u2019ve changed your phone. Most apps have swapped seamlessly . many haven\u2019t",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "OK, you\u2019ve changed your phone. Most apps have swapped seamlessly . many haven\u2019t",
+          "url": "https://x.com/crackinggems/status/2100702707703054811",
+          "why_relevant": "Discusses apps swapping or moving during phone switch"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "switch experiences"
+      ],
+      "title": "OK, you\u2019ve changed your phone. Most apps have swapped seamlessly . many haven\u2019t",
+      "url": "https://x.com/crackinggems/status/2100702707703054811"
+    }
+  ],
+  "topic": "\"better app than\"",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}
