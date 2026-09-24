@@ -53,7 +53,7 @@ class TestPluginContract(unittest.TestCase):
         offenders = []
         for path in sorted((ROOT / ".github" / "workflows").glob("*.yml")):
             for line_number, line in enumerate(path.read_text(encoding="utf-8").splitlines(), start=1):
-                if "scripts/" in line and "skills/last30days/scripts/" not in line:
+                if "scripts/" in re.sub(r"skills/[\w.-]+/scripts/", "", line):
                     offenders.append(f"{path.relative_to(ROOT)}:{line_number}: {line.strip()}")
 
         self.assertEqual([], offenders)

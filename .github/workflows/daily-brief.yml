@@ -10,10 +10,10 @@ name: Daily brief — synthesize app ideas + open PR
 # Required secrets:
 #   - CLAUDE_CODE_OAUTH_TOKEN  (run `claude setup-token` locally to get it)
 #   - PAT_TOKEN                (fine-grained PAT with write + PR access on
-#                               abhishekdubey331/App-Ideas)
+#                               badboyfarrxxx-ship-it/app-ideas)
 #
 # Optional environment:
-#   - IDEAS_REPO  (default abhishekdubey331/App-Ideas)
+#   - IDEAS_REPO  (default badboyfarrxxx-ship-it/app-ideas)
 
 on:
   schedule:
@@ -47,7 +47,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  IDEAS_REPO: abhishekdubey331/App-Ideas
+  IDEAS_REPO: badboyfarrxxx-ship-it/app-ideas
 
 jobs:
   synthesize-and-pr:
@@ -114,6 +114,7 @@ jobs:
         id: brief
         run: |
           set -euo pipefail
+          echo "day=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
           WINDOW="${{ github.event.inputs.window_days }}"
           WINDOW="${WINDOW:-30}"
           DATA_DIR="batch-data/data"
@@ -135,30 +136,45 @@ jobs:
             echo "have_brief=false" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Synthesize ranked ideas with Claude Code
+      - name: Check Claude auth secret is present
         if: steps.brief.outputs.have_brief == 'true'
-        uses: anthropics/claude-code-action@beta
-        with:
-        - name: Synthesize ranked ideas with Claude Code
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          set -euo pipefail
+          TRIMMED="${CLAUDE_CODE_OAUTH_TOKEN#"${CLAUDE_CODE_OAUTH_TOKEN%%[![:space:]]*}"}"
+          TRIMMED="${TRIMMED%"${TRIMMED##*[![:space:]]}"}"
+          if [ -z "$TRIMMED" ]; then
+            echo "::error::CLAUDE_CODE_OAUTH_TOKEN is not set"
+            exit 1
+          fi
+          # A token pasted with a line break or space in the middle fails later
+          # with "Header '14' has invalid value". Catch it here with a clear
+          # message. Whitespace only at the ends gets a warning, not a failure.
+          case "$TRIMMED" in
+            *[[:space:]]*)
+              echo "::error::CLAUDE_CODE_OAUTH_TOKEN contains spaces or line breaks. Re-save it as one unbroken line."
+              exit 1
+              ;;
+          esac
+          if [ "$TRIMMED" != "$CLAUDE_CODE_OAUTH_TOKEN" ]; then
+            echo "::warning::CLAUDE_CODE_OAUTH_TOKEN has a leading or trailing space or line break. Re-save it as one unbroken line if the Claude step fails."
+          fi
+          echo "Claude OAuth token is present."
+
+      - name: Synthesize ranked ideas with Claude Code
         if: steps.brief.outputs.have_brief == 'true'
         uses: anthropics/claude-code-action@v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          model: claude-sonnet-4-5
-          mode: agent
-          direct_prompt: |
-            Read `brief.md` in the workspace root.
-                  claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          # Automation events (schedule, workflow_dispatch, issues.labeled)
-          # need `mode: agent`. The default tag mode expects an `@claude`
-          # mention in an issue/comment and refuses non-event triggers with
-          # "Tag mode cannot handle schedule events."
-          mode: agent
-          # `direct_prompt` (not `prompt`) is the @beta channel's input name
-          # for non-event-driven runs. It bypasses trigger detection so the
-          # action runs unconditionally on schedule / workflow_dispatch /
-          # issues.labeled, instead of waiting for an `@claude` mention.
-          direct_prompt: |
+          # v1 runs in agent mode automatically whenever `prompt` is set, so
+          # schedule / workflow_dispatch / issues.labeled all work without an
+          # `@claude` mention. (v1 removed `mode`, `direct_prompt` and `model`.)
+          # Write must be allowed explicitly or Claude cannot create ideas.md.
+          claude_args: >-
+            --model claude-sonnet-4-5
+            --allowedTools "Read,Write,Edit,Glob,Grep,LS"
+          prompt: |
             Read `brief.md` in the workspace root. It contains a
             deterministic top-N pool of social/web evidence from a rolling
             30-day window, plus strict synthesis instructions in its
@@ -211,7 +227,7 @@ jobs:
             Write the result to a new file `ideas.md` in the workspace
             root with this structure:
 
-              # Mobile app ideas — $(date -u +%Y-%m-%d)
+              # Mobile app ideas — ${{ steps.brief.outputs.day }}
 
               <One-line honest assessment of this batch's signal
               strength. If brief.md has a SOURCE HEALTH section, mention
