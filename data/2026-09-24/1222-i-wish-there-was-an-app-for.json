@@ -1,0 +1,1767 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "deterministic",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"I wish there was an app for\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@imoletok1/video/7681768327106137358"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://tiktok.com/@imoletok1/video/7681768327106137358"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "#CapCut Like what else do u want bro? \ud83d\ude2d\ud83d\ude4f\ud83c\udffc |Capcut is the forever the best app wether you like it or not twin  #capcutphoto #capcutpioneer #C"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@brandonwongp/video/7683190361027579150"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://tiktok.com/@brandonwongp/video/7683190361027579150"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "AI Edit is a GAME CHANGER for content creators. I kid you not, it has taken my editing time from 1 hour -> 10 minutes. Download @Captions an"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@corsaviewconvoyteam/video/7686192318994533646"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://tiktok.com/@corsaviewconvoyteam/video/7686192318994533646"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "Meet. Share. Drive. #corsaview"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@selintechz/video/7687078587698105630"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://tiktok.com/@selintechz/video/7687078587698105630"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "#sidehustle #fyp #makemoneyonline #vibecoding #reaction code VIBE for 20% off newly.app"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@tiareeditss/video/7686736796243332365"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://tiktok.com/@tiareeditss/video/7686736796243332365"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "likeeee game changer #edit #editor #digitalmarketing #digitalcreator #editingapps"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@corsaview/video/7686941878016593166"
+      ],
+      "cluster_id": "cluster-6",
+      "representative_ids": [
+        "https://tiktok.com/@corsaview/video/7686941878016593166"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "Real drivers, real people and tons of events worldwide! Have you hopped on? #corsaview"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@jyanscarandbikeshow/video/7687768307411209486"
+      ],
+      "cluster_id": "cluster-7",
+      "representative_ids": [
+        "https://tiktok.com/@jyanscarandbikeshow/video/7687768307411209486"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "I thought it was just a game at first\u2026"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@jyanscarandbikeshow/video/7686531279768177933"
+      ],
+      "cluster_id": "cluster-8",
+      "representative_ids": [
+        "https://tiktok.com/@jyanscarandbikeshow/video/7686531279768177933"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "Y\u2019all on #corsaview  yet?"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@davina.createss/video/7686326822740479245"
+      ],
+      "cluster_id": "cluster-9",
+      "representative_ids": [
+        "https://tiktok.com/@davina.createss/video/7686326822740479245"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "why would you use CapCut when this exists?? \ud83e\udd2f\ud83e\udd2f #creatortools #videoediting #contentcreator #creatortips"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@downloadcorsaview/video/7686938056263339278"
+      ],
+      "cluster_id": "cluster-10",
+      "representative_ids": [
+        "https://tiktok.com/@downloadcorsaview/video/7686938056263339278"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "It\u2019s called #corsaview !"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@islamic.worlld389/video/7688451865515658503"
+      ],
+      "cluster_id": "cluster-11",
+      "representative_ids": [
+        "https://tiktok.com/@islamic.worlld389/video/7688451865515658503"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "#Aniimo #AniimoCreator #AniimoGlobalLaunch #Viral #Trending #ViralVideo #TrendingNow #ViralContent #Trend #TrendingVideo #MustWatch #Popular"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@brittanybuildapps/video/7688960662285978911"
+      ],
+      "cluster_id": "cluster-12",
+      "representative_ids": [
+        "https://tiktok.com/@brittanybuildapps/video/7688960662285978911"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "You know that app you wish existed because it would make your life easier? Being able to just\u2026 make it is pretty cool. #vibecodingapp #vibec"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-24T12:22:37.285206+00:00",
+  "items_by_source": {
+    "instagram": [],
+    "tiktok": [
+      {
+        "author": "brittanybuildapps",
+        "body": "You know that app you wish existed because it would make your life easier? Being able to just\u2026 make it is pretty cool. #vibecodingapp #vibecoding #codingtiktok #coding #codinglife",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 0,
+          "likes": 0,
+          "shares": 0,
+          "views": 114
+        },
+        "engagement_score": 0,
+        "freshness": 100,
+        "item_id": "TK12",
+        "local_rank_score": 0.3345,
+        "local_relevance": 0.13,
+        "metadata": {
+          "hashtags": [
+            "vibecodingapp",
+            "vibecoding",
+            "codingtiktok",
+            "coding",
+            "codinglife"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.54,
+        "snippet": "You know that app you wish existed because it would make your life easier? Being able to just\u2026 make it is pretty cool. #vibecodingapp #vibecoding #codingtiktok #coding #codinglife",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "You know that app you wish existed because it would make your life easier? Being able to just\u2026 make it is pretty cool. #vibecodingapp #vibec",
+        "url": "https://www.tiktok.com/@brittanybuildapps/video/7688960662285978911",
+        "why_relevant": "TikTok: You know that app you wish existed because it would make you"
+      },
+      {
+        "author": "selintechz",
+        "body": "#sidehustle #fyp #makemoneyonline #vibecoding #reaction code VIBE for 20% off newly.app",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 7,
+          "likes": 79,
+          "shares": 33,
+          "views": 794
+        },
+        "engagement_score": 34,
+        "freshness": 89,
+        "item_id": "TK6",
+        "local_rank_score": 0.2955,
+        "local_relevance": 0.06,
+        "metadata": {
+          "hashtags": [
+            "sidehustle",
+            "fyp",
+            "makemoneyonline",
+            "vibecoding",
+            "reaction"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-19",
+        "relevance_hint": 0.25,
+        "snippet": "#sidehustle #fyp #makemoneyonline #vibecoding #reaction code VIBE for 20% off newly.app",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "#sidehustle #fyp #makemoneyonline #vibecoding #reaction code VIBE for 20% off newly.app",
+        "url": "https://www.tiktok.com/@selintechz/video/7687078587698105630",
+        "why_relevant": "TikTok: #sidehustle #fyp #makemoneyonline #vibecoding #reaction code"
+      },
+      {
+        "author": "tiareeditss",
+        "body": "likeeee game changer #edit #editor #digitalmarketing #digitalcreator #editingapps\nlikeeee game changer #edit #editor #digitalmarketing #digitalcreator #editingapps",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 1,
+          "likes": 41,
+          "shares": 2,
+          "views": 990
+        },
+        "engagement_score": 29,
+        "freshness": 88,
+        "item_id": "TK4",
+        "local_rank_score": 0.2945,
+        "local_relevance": 0.07,
+        "metadata": {
+          "hashtags": [
+            "edit",
+            "editor",
+            "digitalmarketing",
+            "digitalcreator",
+            "editingapps"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-18",
+        "relevance_hint": 0.25,
+        "snippet": "likeeee game changer #edit #editor #digitalmarketing #digitalcreator #editingapps",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "likeeee game changer #edit #editor #digitalmarketing #digitalcreator #editingapps",
+        "url": "https://www.tiktok.com/@tiareeditss/video/7686736796243332365",
+        "why_relevant": "TikTok: likeeee game changer #edit #editor #digitalmarketing #digita"
+      },
+      {
+        "author": "imoletok1",
+        "body": "#CapCut Like what else do u want bro? \ud83d\ude2d\ud83d\ude4f\ud83c\udffc |Capcut is the forever the best app wether you like it or not twin  #capcutphoto #capcutpioneer #CapCut |How to make good edits in capcut|Imole chess edit results|Imole edits\nAnd in my head I will stop. Let me show you how to create this character side profile from the edit. Simply open CapCut and tap Edit Photo, then import your character image. Next, select AI Edit and choose Seedream 5.0 Pro as your model. Finally, paste in the prompt I'll show at the end of this video, then tap generate. Within a few seconds, CapCut will generate a clean side profile of your character ready to use in your edits.",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 534,
+          "likes": 10618,
+          "shares": 528,
+          "views": 243876
+        },
+        "engagement_score": 100,
+        "freshness": 59,
+        "item_id": "TK1",
+        "local_rank_score": 0.2865,
+        "local_relevance": 0.06,
+        "metadata": {
+          "hashtags": [
+            "capcut",
+            "capcutphoto",
+            "capcutpioneer",
+            "capcut"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-04",
+        "relevance_hint": 0.25,
+        "snippet": "And in my head I will stop. Let me show you how to create this character side profile from the edit. Simply open CapCut and tap Edit Photo, then import your character image. Next, select AI Edit and choose Seedream 5.0 Pro as your model. Finally, paste in the prompt I'll show at the end of this video, then tap generate. Within a few seconds, CapCut will generate a clean side profile of your character ready to use in your edits.",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "#CapCut Like what else do u want bro? \ud83d\ude2d\ud83d\ude4f\ud83c\udffc |Capcut is the forever the best app wether you like it or not twin  #capcutphoto #capcutpioneer #C",
+        "url": "https://www.tiktok.com/@imoletok1/video/7681768327106137358",
+        "why_relevant": "TikTok: #CapCut Like what else do u want bro? \ud83d\ude2d\ud83d\ude4f\ud83c\udffc |Capcut is the for"
+      },
+      {
+        "author": "brandonwongp",
+        "body": "AI Edit is a GAME CHANGER for content creators. I kid you not, it has taken my editing time from 1 hour -> 10 minutes. Download @Captions and try AI Edit.  #contentcreator #editing #editing101 #socialmedia\nIf you're not posting consistently because editing is holding you back, you need to try the captions app because I've been using this for a few months now and it has absolutely changed the game. Even though I love to make content, editing can be a pain sometimes, which makes having a good platform how much more important. I'll be using AI Edit in the captions app and it has been taking my videos from raw to professionally edited in just a few minutes. All I need to do is choose a style and their AI editing tool automatically add B roll, custom graphics, sound effects, and of course, captions based on my video look. Posting content has opened so many doors for me and having a tool like this allows me to keep doing what I love while also making the entire editing process so much easier. Download the captions app today and try AI edit.",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 1,
+          "likes": 51,
+          "shares": 2,
+          "views": 10241
+        },
+        "engagement_score": 45,
+        "freshness": 67,
+        "item_id": "TK2",
+        "local_rank_score": 0.2515,
+        "local_relevance": 0.06,
+        "metadata": {
+          "hashtags": [
+            "contentcreator",
+            "editing",
+            "editing101",
+            "socialmedia"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-08",
+        "relevance_hint": 0.11,
+        "snippet": "If you're not posting consistently because editing is holding you back, you need to try the captions app because I've been using this for a few months now and it has absolutely changed the game. Even though I love to make content, editing can be a pain sometimes, which makes having a good platform how much more important. I'll be using AI Edit in the captions app and it has been taking my videos from raw to professionally edited in just a few minutes. All I need to do is choose a style and their AI editing tool automatically add B roll, custom graphics, sound effects, and of course, captions based on my video look. Posting content has opened so...",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "AI Edit is a GAME CHANGER for content creators. I kid you not, it has taken my editing time from 1 hour -> 10 minutes. Download @Captions an",
+        "url": "https://www.tiktok.com/@brandonwongp/video/7683190361027579150",
+        "why_relevant": "TikTok: AI Edit is a GAME CHANGER for content creators. I kid you no"
+      },
+      {
+        "author": "jyanscarandbikeshow",
+        "body": "I thought it was just a game at first\u2026",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 4,
+          "likes": 24,
+          "shares": 0,
+          "views": 430
+        },
+        "engagement_score": 24,
+        "freshness": 91,
+        "item_id": "TK8",
+        "local_rank_score": 0.2515,
+        "local_relevance": 0.0,
+        "metadata": {
+          "hashtags": [],
+          "top_comments": []
+        },
+        "published_at": "2026-09-20",
+        "relevance_hint": 0.0,
+        "snippet": "I thought it was just a game at first\u2026",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "I thought it was just a game at first\u2026",
+        "url": "https://www.tiktok.com/@jyanscarandbikeshow/video/7687768307411209486",
+        "why_relevant": "TikTok: I thought it was just a game at first\u2026"
+      },
+      {
+        "author": "corsaview",
+        "body": "Real drivers, real people and tons of events worldwide! Have you hopped on? #corsaview\nReal drivers, real people and tons of events worldwide! Have you hopped on? #corsaview",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 0,
+          "likes": 23,
+          "shares": 3,
+          "views": 889
+        },
+        "engagement_score": 25,
+        "freshness": 88,
+        "item_id": "TK5",
+        "local_rank_score": 0.245,
+        "local_relevance": 0.0,
+        "metadata": {
+          "hashtags": [
+            "corsaview"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-18",
+        "relevance_hint": 0.0,
+        "snippet": "Real drivers, real people and tons of events worldwide! Have you hopped on? #corsaview",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "Real drivers, real people and tons of events worldwide! Have you hopped on? #corsaview",
+        "url": "https://www.tiktok.com/@corsaview/video/7686941878016593166",
+        "why_relevant": "TikTok: Real drivers, real people and tons of events worldwide! Have"
+      },
+      {
+        "author": "corsaviewconvoyteam",
+        "body": "Meet. Share. Drive. #corsaview\nMeet. Share. Drive. #corsaview",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 5,
+          "likes": 74,
+          "shares": 0,
+          "views": 1267
+        },
+        "engagement_score": 36,
+        "freshness": 83,
+        "item_id": "TK3",
+        "local_rank_score": 0.2435,
+        "local_relevance": 0.0,
+        "metadata": {
+          "hashtags": [
+            "corsaview"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-16",
+        "relevance_hint": 0.0,
+        "snippet": "Meet. Share. Drive. #corsaview",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "Meet. Share. Drive. #corsaview",
+        "url": "https://www.tiktok.com/@corsaviewconvoyteam/video/7686192318994533646",
+        "why_relevant": "TikTok: Meet. Share. Drive. #corsaview"
+      },
+      {
+        "author": "islamic.worlld389",
+        "body": "#Aniimo #AniimoCreator #AniimoGlobalLaunch #Viral #Trending #ViralVideo #TrendingNow #ViralContent #Trend #TrendingVideo #MustWatch #Popular #HotTrend #GoingViral #InternetViral #ViralPost #ViralMoment #Explore #ExplorePage #Discover #DiscoverMore #ForYou #ForYouPage #FYP #FYP\u30b7 #FYPage #TikTok #TikTokViral #TikTokTrend #TikTokTrending #TikTokVideo #TikTokCreator #TikTokContent \ud83d\udcc8 Reach & Engagement #WatchTillEnd #WatchToTheEnd #DontSkip #WaitForIt #StayTuned #MustSee #WorthWatching #ShareThis #ShareWithFriends #LikeAndShare #CommentBelow #TellMe #WhatDoYouThink #TagYourFriends #FollowForMore #FollowMe #MoreToCome #NewPost #DailyContent #DailyPosts \ud83d\udd25 Content & Creator #ContentCreator #Creator #DigitalCreator #ContentCreation #CreativeContent #OriginalContent #CreatorLife #VideoCreator #VideoContent #ShortVideo #Shorts #Reels #ReelsVideo #Edit #VideoEdit #Editing #Editor #Amazing #Awesome #Incredible #Satisfying #Interesting #Unexpected #Epic #BestOf #TopContent #MustWatchVideo \ud83c\udf0d General Audience #Entertainment #Fun #Funny #Memes #Comedy #Lifestyle #Motivation #Inspiration #Facts #AmazingFacts #InterestingFacts #LifeHacks #TipsAndTricks #StoryTime #Reaction #Challenge #ChallengeVideo #DailyVlog #Vlog #BehindTheScenes #Community \ud83c\udfae Gaming #Gaming #GamingTikTok #TikTokGaming #Gamer #GamingCommunity #GamingVideos #GamingContent #Gameplay #GamingClips #GameClips #EpicGaming #ViralGaming #GamingHighlights #FunnyGaming #ProGamer #MobileGaming #PCGaming #ConsoleGaming #GameEdit #GamingEdit #GamingTrend #GamingLife #GamersOfTikTok #GamingReels#Gaming #GamingTikTok #TikTokGaming #Gamer #GamingCommunity #GamingVideos #GamingContent #Gameplay #GamePlay #VideoGames #Gamers #GamingLife #GamingClips #GameClips #EpicGaming #ViralGaming #GamingHighlights #BestGamingMoments #FunnyGaming #ProGamer #MobileGaming #PCGaming #ConsoleGaming #TrendingGaming #GamingTrend",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 0,
+          "likes": 5,
+          "shares": 0,
+          "views": 95
+        },
+        "engagement_score": 5,
+        "freshness": 95,
+        "item_id": "TK13",
+        "local_rank_score": 0.2425,
+        "local_relevance": 0.0,
+        "metadata": {
+          "hashtags": [
+            "aniimo",
+            "aniimocreator",
+            "aniimogloballaunch",
+            "viral",
+            "trending",
+            "viralvideo",
+            "trendingnow",
+            "viralcontent",
+            "trend",
+            "trendingvideo",
+            "mustwatch",
+            "popular",
+            "hottrend",
+            "goingviral",
+            "internetviral",
+            "viralpost",
+            "viralmoment",
+            "explore",
+            "explorepage",
+            "discover",
+            "discovermore",
+            "foryou",
+            "foryoupage",
+            "fyp",
+            "fyp\u30b7",
+            "fypage",
+            "tiktok",
+            "tiktokviral",
+            "tiktoktrend",
+            "tiktoktrending",
+            "tiktokvideo",
+            "tiktokcreator",
+            "tiktokcontent",
+            "watchtillend",
+            "watchtotheend",
+            "dontskip",
+            "waitforit",
+            "staytuned",
+            "mustsee",
+            "worthwatching",
+            "sharethis",
+            "sharewithfriends",
+            "likeandshare",
+            "commentbelow",
+            "tellme",
+            "whatdoyouthink",
+            "tagyourfriends",
+            "followformore",
+            "followme",
+            "moretocome",
+            "newpost",
+            "dailycontent",
+            "dailyposts",
+            "contentcreator",
+            "creator",
+            "digitalcreator",
+            "contentcreation",
+            "creativecontent",
+            "originalcontent",
+            "creatorlife",
+            "videocreator",
+            "videocontent",
+            "shortvideo",
+            "shorts",
+            "reels",
+            "reelsvideo",
+            "edit",
+            "videoedit",
+            "editing",
+            "editor",
+            "amazing",
+            "awesome",
+            "incredible",
+            "satisfying",
+            "interesting",
+            "unexpected",
+            "epic",
+            "bestof",
+            "topcontent",
+            "mustwatchvideo",
+            "entertainment",
+            "fun",
+            "funny",
+            "memes",
+            "comedy",
+            "lifestyle",
+            "motivation",
+            "inspiration",
+            "facts",
+            "amazingfacts",
+            "interestingfacts",
+            "lifehacks",
+            "tipsandtricks",
+            "storytime",
+            "reaction",
+            "challenge",
+            "challengevideo",
+            "dailyvlog",
+            "vlog",
+            "behindthescenes",
+            "community",
+            "gaming",
+            "gamingtiktok",
+            "tiktokgaming",
+            "gamer",
+            "gamingcommunity",
+            "gamingvideos",
+            "gamingcontent",
+            "gameplay",
+            "gamingclips",
+            "gameclips",
+            "epicgaming",
+            "viralgaming",
+            "gaminghighlights",
+            "funnygaming",
+            "progamer",
+            "mobilegaming",
+            "pcgaming",
+            "consolegaming",
+            "gameedit",
+            "gamingedit",
+            "gamingtrend",
+            "gaminglife",
+            "gamersoftiktok",
+            "gamingreels",
+            "gaming",
+            "gamingtiktok",
+            "tiktokgaming",
+            "gamer",
+            "gamingcommunity",
+            "gamingvideos",
+            "gamingcontent",
+            "gameplay",
+            "gameplay",
+            "videogames",
+            "gamers",
+            "gaminglife",
+            "gamingclips",
+            "gameclips",
+            "epicgaming",
+            "viralgaming",
+            "gaminghighlights",
+            "bestgamingmoments",
+            "funnygaming",
+            "progamer",
+            "mobilegaming",
+            "pcgaming",
+            "consolegaming",
+            "trendinggaming",
+            "gamingtrend"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-22",
+        "relevance_hint": 0.4,
+        "snippet": "#Aniimo #AniimoCreator #AniimoGlobalLaunch #Viral #Trending #ViralVideo #TrendingNow #ViralContent #Trend #TrendingVideo #MustWatch #Popular #HotTrend #GoingViral #InternetViral #ViralPost #ViralMoment #Explore #ExplorePage #Discover #DiscoverMore #ForYou #ForYouPage #FYP #FYP\u30b7 #FYPage #TikTok #TikTokViral #TikTokTrend #TikTokTrending #TikTokVideo #TikTokCreator #TikTokContent \ud83d\udcc8 Reach & Engagement #WatchTillEnd #WatchToTheEnd #DontSkip #WaitForIt #StayTuned #MustSee #WorthWatching #ShareThis #ShareWithFriends #LikeAndShare #CommentBelow #TellMe #WhatDoYouThink #TagYourFriends #FollowForMore #FollowMe #MoreToCome #NewPost #DailyContent #DailyPosts \ud83d\udd25 Content & Creator #ContentCreator #Creator #DigitalCreator #ContentCreation #CreativeContent #OriginalContent #CreatorLife #VideoCreator #VideoContent #ShortVideo #Shorts #Reels #ReelsVideo #Edit #VideoEdit #Editing #Editor #Amazing #Awesome #Incredible #Satisfying #Interesting #Unexpected #Epic #BestOf #TopContent #MustWatchVideo \ud83c\udf0d General Audience #Entertainment #Fun #Funny #Memes #Comedy #Lifestyle #Motivation #Inspiration #Facts #AmazingFacts #InterestingFacts #LifeHacks #TipsAndTricks #StoryTime #Reaction #Challenge #ChallengeVideo #DailyVlog #Vlog",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "#Aniimo #AniimoCreator #AniimoGlobalLaunch #Viral #Trending #ViralVideo #TrendingNow #ViralContent #Trend #TrendingVideo #MustWatch #Popular",
+        "url": "https://www.tiktok.com/@islamic.worlld389/video/7688451865515658503",
+        "why_relevant": "TikTok: #Aniimo #AniimoCreator #AniimoGlobalLaunch #Viral #Trending"
+      },
+      {
+        "author": "downloadcorsaview",
+        "body": "It\u2019s called #corsaview !",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 0,
+          "likes": 17,
+          "shares": 0,
+          "views": 315
+        },
+        "engagement_score": 17,
+        "freshness": 88,
+        "item_id": "TK10",
+        "local_rank_score": 0.237,
+        "local_relevance": 0.0,
+        "metadata": {
+          "hashtags": [
+            "corsaview"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-18",
+        "relevance_hint": 0.0,
+        "snippet": "It\u2019s called #corsaview !",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "It\u2019s called #corsaview !",
+        "url": "https://www.tiktok.com/@downloadcorsaview/video/7686938056263339278",
+        "why_relevant": "TikTok: It\u2019s called #corsaview !"
+      },
+      {
+        "author": "jyanscarandbikeshow",
+        "body": "Y\u2019all on #corsaview  yet?",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 13,
+          "likes": 12,
+          "shares": 0,
+          "views": 284
+        },
+        "engagement_score": 22,
+        "freshness": 85,
+        "item_id": "TK11",
+        "local_rank_score": 0.2345,
+        "local_relevance": 0.0,
+        "metadata": {
+          "hashtags": [
+            "corsaview"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-17",
+        "relevance_hint": 0.0,
+        "snippet": "Y\u2019all on #corsaview yet?",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "Y\u2019all on #corsaview  yet?",
+        "url": "https://www.tiktok.com/@jyanscarandbikeshow/video/7686531279768177933",
+        "why_relevant": "TikTok: Y\u2019all on #corsaview  yet?"
+      },
+      {
+        "author": "davina.createss",
+        "body": "why would you use CapCut when this exists?? \ud83e\udd2f\ud83e\udd2f #creatortools #videoediting #contentcreator #creatortips",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 2,
+          "likes": 19,
+          "shares": 2,
+          "views": 366
+        },
+        "engagement_score": 21,
+        "freshness": 85,
+        "item_id": "TK9",
+        "local_rank_score": 0.23349999999999999,
+        "local_relevance": 0.0,
+        "metadata": {
+          "hashtags": [
+            "creatortools",
+            "videoediting",
+            "contentcreator",
+            "creatortips"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-17",
+        "relevance_hint": 0.11,
+        "snippet": "why would you use CapCut when this exists?? \ud83e\udd2f\ud83e\udd2f #creatortools #videoediting #contentcreator #creatortips",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "why would you use CapCut when this exists?? \ud83e\udd2f\ud83e\udd2f #creatortools #videoediting #contentcreator #creatortips",
+        "url": "https://www.tiktok.com/@davina.createss/video/7686326822740479245",
+        "why_relevant": "TikTok: why would you use CapCut when this exists?? \ud83e\udd2f\ud83e\udd2f #creatortools"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "evergreen_ok",
+    "intent": "concept",
+    "notes": [
+      "fallback-plan (LLM error: HTTPError)"
+    ],
+    "raw_topic": "\"I wish there was an app for\"",
+    "source_weights": {
+      "instagram": 0.5,
+      "tiktok": 0.5
+    },
+    "subqueries": [
+      {
+        "label": "primary",
+        "ranking_query": "What recent evidence from the last 30 days is most relevant to \"I wish there was an app for\", especially about \"i wish there app for\"?",
+        "search_query": "\"i wish there app for\"",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 1.0
+      }
+    ]
+  },
+  "range_from": "2026-08-25",
+  "range_to": "2026-09-24",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://tiktok.com/@imoletok1/video/7681768327106137358",
+      "cluster_id": "cluster-1",
+      "engagement": 100,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 59,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 50,
+      "item_id": "TK1",
+      "local_relevance": 0.06,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK1",
+            "native_rank": 4,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 4
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.0078125,
+      "snippet": "And in my head I will stop. Let me show you how to create this character side profile from the edit. Simply open CapCut and tap Edit Photo, then import your character image. Next, select AI Edit and choose Seedream 5.0 Pro as your model. Finally, paste in the prompt I'll show at the end of this video, then tap generate. Within a few seconds, CapCut will generate a clean side profile of your character ready to use in your edits.",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "imoletok1",
+          "body": "#CapCut Like what else do u want bro? \ud83d\ude2d\ud83d\ude4f\ud83c\udffc |Capcut is the forever the best app wether you like it or not twin  #capcutphoto #capcutpioneer #CapCut |How to make good edits in capcut|Imole chess edit results|Imole edits\nAnd in my head I will stop. Let me show you how to create this character side profile from the edit. Simply open CapCut and tap Edit Photo, then import your character image. Next, select AI Edit and choose Seedream 5.0 Pro as your model. Finally, paste in the prompt I'll show at the end of this video, then tap generate. Within a few seconds, CapCut will generate a clean side profile of your character ready to use in your edits.",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 534,
+            "likes": 10618,
+            "shares": 528,
+            "views": 243876
+          },
+          "engagement_score": 100,
+          "freshness": 59,
+          "item_id": "TK1",
+          "local_rank_score": 0.2865,
+          "local_relevance": 0.06,
+          "metadata": {
+            "hashtags": [
+              "capcut",
+              "capcutphoto",
+              "capcutpioneer",
+              "capcut"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-04",
+          "relevance_hint": 0.25,
+          "snippet": "And in my head I will stop. Let me show you how to create this character side profile from the edit. Simply open CapCut and tap Edit Photo, then import your character image. Next, select AI Edit and choose Seedream 5.0 Pro as your model. Finally, paste in the prompt I'll show at the end of this video, then tap generate. Within a few seconds, CapCut will generate a clean side profile of your character ready to use in your edits.",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "#CapCut Like what else do u want bro? \ud83d\ude2d\ud83d\ude4f\ud83c\udffc |Capcut is the forever the best app wether you like it or not twin  #capcutphoto #capcutpioneer #C",
+          "url": "https://www.tiktok.com/@imoletok1/video/7681768327106137358",
+          "why_relevant": "TikTok: #CapCut Like what else do u want bro? \ud83d\ude2d\ud83d\ude4f\ud83c\udffc |Capcut is the for"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "#CapCut Like what else do u want bro? \ud83d\ude2d\ud83d\ude4f\ud83c\udffc |Capcut is the forever the best app wether you like it or not twin  #capcutphoto #capcutpioneer #C",
+      "url": "https://www.tiktok.com/@imoletok1/video/7681768327106137358"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@brandonwongp/video/7683190361027579150",
+      "cluster_id": "cluster-2",
+      "engagement": 45,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 67,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 40,
+      "item_id": "TK2",
+      "local_relevance": 0.06,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK2",
+            "native_rank": 5,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 5
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.007692307692307693,
+      "snippet": "If you're not posting consistently because editing is holding you back, you need to try the captions app because I've been using this for a few months now and it has absolutely changed the game. Even though I love to make content, editing can be a pain sometimes, which makes having a good platform how much more important. I'll be using AI Edit in the captions app and it has been taking my videos from raw to professionally edited in just a few minutes. All I need to do is choose a style and their AI editing tool automatically add B roll, custom graphics, sound effects, and of course, captions based on my video look. Posting content has opened so...",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "brandonwongp",
+          "body": "AI Edit is a GAME CHANGER for content creators. I kid you not, it has taken my editing time from 1 hour -> 10 minutes. Download @Captions and try AI Edit.  #contentcreator #editing #editing101 #socialmedia\nIf you're not posting consistently because editing is holding you back, you need to try the captions app because I've been using this for a few months now and it has absolutely changed the game. Even though I love to make content, editing can be a pain sometimes, which makes having a good platform how much more important. I'll be using AI Edit in the captions app and it has been taking my videos from raw to professionally edited in just a few minutes. All I need to do is choose a style and their AI editing tool automatically add B roll, custom graphics, sound effects, and of course, captions based on my video look. Posting content has opened so many doors for me and having a tool like this allows me to keep doing what I love while also making the entire editing process so much easier. Download the captions app today and try AI edit.",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 1,
+            "likes": 51,
+            "shares": 2,
+            "views": 10241
+          },
+          "engagement_score": 45,
+          "freshness": 67,
+          "item_id": "TK2",
+          "local_rank_score": 0.2515,
+          "local_relevance": 0.06,
+          "metadata": {
+            "hashtags": [
+              "contentcreator",
+              "editing",
+              "editing101",
+              "socialmedia"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-08",
+          "relevance_hint": 0.11,
+          "snippet": "If you're not posting consistently because editing is holding you back, you need to try the captions app because I've been using this for a few months now and it has absolutely changed the game. Even though I love to make content, editing can be a pain sometimes, which makes having a good platform how much more important. I'll be using AI Edit in the captions app and it has been taking my videos from raw to professionally edited in just a few minutes. All I need to do is choose a style and their AI editing tool automatically add B roll, custom graphics, sound effects, and of course, captions based on my video look. Posting content has opened so...",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "AI Edit is a GAME CHANGER for content creators. I kid you not, it has taken my editing time from 1 hour -> 10 minutes. Download @Captions an",
+          "url": "https://www.tiktok.com/@brandonwongp/video/7683190361027579150",
+          "why_relevant": "TikTok: AI Edit is a GAME CHANGER for content creators. I kid you no"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "AI Edit is a GAME CHANGER for content creators. I kid you not, it has taken my editing time from 1 hour -> 10 minutes. Download @Captions an",
+      "url": "https://www.tiktok.com/@brandonwongp/video/7683190361027579150"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@corsaviewconvoyteam/video/7686192318994533646",
+      "cluster_id": "cluster-3",
+      "engagement": 36,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 83,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 60.849999999999994,
+      "item_id": "TK3",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK3",
+            "native_rank": 8,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 8
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.007352941176470588,
+      "snippet": "Meet. Share. Drive. #corsaview",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "corsaviewconvoyteam",
+          "body": "Meet. Share. Drive. #corsaview\nMeet. Share. Drive. #corsaview",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 5,
+            "likes": 74,
+            "shares": 0,
+            "views": 1267
+          },
+          "engagement_score": 36,
+          "freshness": 83,
+          "item_id": "TK3",
+          "local_rank_score": 0.2435,
+          "local_relevance": 0.0,
+          "metadata": {
+            "hashtags": [
+              "corsaview"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-16",
+          "relevance_hint": 0.0,
+          "snippet": "Meet. Share. Drive. #corsaview",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "Meet. Share. Drive. #corsaview",
+          "url": "https://www.tiktok.com/@corsaviewconvoyteam/video/7686192318994533646",
+          "why_relevant": "TikTok: Meet. Share. Drive. #corsaview"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Meet. Share. Drive. #corsaview",
+      "url": "https://www.tiktok.com/@corsaviewconvoyteam/video/7686192318994533646"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@selintechz/video/7687078587698105630",
+      "cluster_id": "cluster-4",
+      "engagement": 34,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 89,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 43.75,
+      "item_id": "TK6",
+      "local_relevance": 0.06,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK6",
+            "native_rank": 2,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 2
+      },
+      "rerank_score": 2.8000000000000007,
+      "rrf_score": 0.008064516129032258,
+      "snippet": "#sidehustle #fyp #makemoneyonline #vibecoding #reaction code VIBE for 20% off newly.app",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "selintechz",
+          "body": "#sidehustle #fyp #makemoneyonline #vibecoding #reaction code VIBE for 20% off newly.app",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 7,
+            "likes": 79,
+            "shares": 33,
+            "views": 794
+          },
+          "engagement_score": 34,
+          "freshness": 89,
+          "item_id": "TK6",
+          "local_rank_score": 0.2955,
+          "local_relevance": 0.06,
+          "metadata": {
+            "hashtags": [
+              "sidehustle",
+              "fyp",
+              "makemoneyonline",
+              "vibecoding",
+              "reaction"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-19",
+          "relevance_hint": 0.25,
+          "snippet": "#sidehustle #fyp #makemoneyonline #vibecoding #reaction code VIBE for 20% off newly.app",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "#sidehustle #fyp #makemoneyonline #vibecoding #reaction code VIBE for 20% off newly.app",
+          "url": "https://www.tiktok.com/@selintechz/video/7687078587698105630",
+          "why_relevant": "TikTok: #sidehustle #fyp #makemoneyonline #vibecoding #reaction code"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "#sidehustle #fyp #makemoneyonline #vibecoding #reaction code VIBE for 20% off newly.app",
+      "url": "https://www.tiktok.com/@selintechz/video/7687078587698105630"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@tiareeditss/video/7686736796243332365",
+      "cluster_id": "cluster-5",
+      "engagement": 29,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 88,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 45.55,
+      "item_id": "TK4",
+      "local_relevance": 0.07,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK4",
+            "native_rank": 3,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 3
+      },
+      "rerank_score": 3.3000000000000007,
+      "rrf_score": 0.007936507936507936,
+      "snippet": "likeeee game changer #edit #editor #digitalmarketing #digitalcreator #editingapps",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "tiareeditss",
+          "body": "likeeee game changer #edit #editor #digitalmarketing #digitalcreator #editingapps\nlikeeee game changer #edit #editor #digitalmarketing #digitalcreator #editingapps",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 1,
+            "likes": 41,
+            "shares": 2,
+            "views": 990
+          },
+          "engagement_score": 29,
+          "freshness": 88,
+          "item_id": "TK4",
+          "local_rank_score": 0.2945,
+          "local_relevance": 0.07,
+          "metadata": {
+            "hashtags": [
+              "edit",
+              "editor",
+              "digitalmarketing",
+              "digitalcreator",
+              "editingapps"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-18",
+          "relevance_hint": 0.25,
+          "snippet": "likeeee game changer #edit #editor #digitalmarketing #digitalcreator #editingapps",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "likeeee game changer #edit #editor #digitalmarketing #digitalcreator #editingapps",
+          "url": "https://www.tiktok.com/@tiareeditss/video/7686736796243332365",
+          "why_relevant": "TikTok: likeeee game changer #edit #editor #digitalmarketing #digita"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "likeeee game changer #edit #editor #digitalmarketing #digitalcreator #editingapps",
+      "url": "https://www.tiktok.com/@tiareeditss/video/7686736796243332365"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@corsaview/video/7686941878016593166",
+      "cluster_id": "cluster-6",
+      "engagement": 25,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 88,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 44.05,
+      "item_id": "TK5",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK5",
+            "native_rank": 7,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 7
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.007462686567164179,
+      "snippet": "Real drivers, real people and tons of events worldwide! Have you hopped on? #corsaview",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "corsaview",
+          "body": "Real drivers, real people and tons of events worldwide! Have you hopped on? #corsaview\nReal drivers, real people and tons of events worldwide! Have you hopped on? #corsaview",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 0,
+            "likes": 23,
+            "shares": 3,
+            "views": 889
+          },
+          "engagement_score": 25,
+          "freshness": 88,
+          "item_id": "TK5",
+          "local_rank_score": 0.245,
+          "local_relevance": 0.0,
+          "metadata": {
+            "hashtags": [
+              "corsaview"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-18",
+          "relevance_hint": 0.0,
+          "snippet": "Real drivers, real people and tons of events worldwide! Have you hopped on? #corsaview",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "Real drivers, real people and tons of events worldwide! Have you hopped on? #corsaview",
+          "url": "https://www.tiktok.com/@corsaview/video/7686941878016593166",
+          "why_relevant": "TikTok: Real drivers, real people and tons of events worldwide! Have"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Real drivers, real people and tons of events worldwide! Have you hopped on? #corsaview",
+      "url": "https://www.tiktok.com/@corsaview/video/7686941878016593166"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@jyanscarandbikeshow/video/7687768307411209486",
+      "cluster_id": "cluster-7",
+      "engagement": 24,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 91,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 58.45,
+      "item_id": "TK8",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK8",
+            "native_rank": 6,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 6
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.007575757575757576,
+      "snippet": "I thought it was just a game at first\u2026",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "jyanscarandbikeshow",
+          "body": "I thought it was just a game at first\u2026",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 4,
+            "likes": 24,
+            "shares": 0,
+            "views": 430
+          },
+          "engagement_score": 24,
+          "freshness": 91,
+          "item_id": "TK8",
+          "local_rank_score": 0.2515,
+          "local_relevance": 0.0,
+          "metadata": {
+            "hashtags": [],
+            "top_comments": []
+          },
+          "published_at": "2026-09-20",
+          "relevance_hint": 0.0,
+          "snippet": "I thought it was just a game at first\u2026",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "I thought it was just a game at first\u2026",
+          "url": "https://www.tiktok.com/@jyanscarandbikeshow/video/7687768307411209486",
+          "why_relevant": "TikTok: I thought it was just a game at first\u2026"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "I thought it was just a game at first\u2026",
+      "url": "https://www.tiktok.com/@jyanscarandbikeshow/video/7687768307411209486"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@jyanscarandbikeshow/video/7686531279768177933",
+      "cluster_id": "cluster-8",
+      "engagement": 22,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 85,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 62.5,
+      "item_id": "TK11",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK11",
+            "native_rank": 11,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 11
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.007042253521126761,
+      "snippet": "Y\u2019all on #corsaview yet?",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "jyanscarandbikeshow",
+          "body": "Y\u2019all on #corsaview  yet?",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 13,
+            "likes": 12,
+            "shares": 0,
+            "views": 284
+          },
+          "engagement_score": 22,
+          "freshness": 85,
+          "item_id": "TK11",
+          "local_rank_score": 0.2345,
+          "local_relevance": 0.0,
+          "metadata": {
+            "hashtags": [
+              "corsaview"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-17",
+          "relevance_hint": 0.0,
+          "snippet": "Y\u2019all on #corsaview yet?",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "Y\u2019all on #corsaview  yet?",
+          "url": "https://www.tiktok.com/@jyanscarandbikeshow/video/7686531279768177933",
+          "why_relevant": "TikTok: Y\u2019all on #corsaview  yet?"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Y\u2019all on #corsaview  yet?",
+      "url": "https://www.tiktok.com/@jyanscarandbikeshow/video/7686531279768177933"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@davina.createss/video/7686326822740479245",
+      "cluster_id": "cluster-9",
+      "engagement": 21,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 85,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 40,
+      "item_id": "TK9",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK9",
+            "native_rank": 12,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 12
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.006944444444444444,
+      "snippet": "why would you use CapCut when this exists?? \ud83e\udd2f\ud83e\udd2f #creatortools #videoediting #contentcreator #creatortips",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "davina.createss",
+          "body": "why would you use CapCut when this exists?? \ud83e\udd2f\ud83e\udd2f #creatortools #videoediting #contentcreator #creatortips",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 2,
+            "likes": 19,
+            "shares": 2,
+            "views": 366
+          },
+          "engagement_score": 21,
+          "freshness": 85,
+          "item_id": "TK9",
+          "local_rank_score": 0.23349999999999999,
+          "local_relevance": 0.0,
+          "metadata": {
+            "hashtags": [
+              "creatortools",
+              "videoediting",
+              "contentcreator",
+              "creatortips"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-17",
+          "relevance_hint": 0.11,
+          "snippet": "why would you use CapCut when this exists?? \ud83e\udd2f\ud83e\udd2f #creatortools #videoediting #contentcreator #creatortips",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "why would you use CapCut when this exists?? \ud83e\udd2f\ud83e\udd2f #creatortools #videoediting #contentcreator #creatortips",
+          "url": "https://www.tiktok.com/@davina.createss/video/7686326822740479245",
+          "why_relevant": "TikTok: why would you use CapCut when this exists?? \ud83e\udd2f\ud83e\udd2f #creatortools"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "why would you use CapCut when this exists?? \ud83e\udd2f\ud83e\udd2f #creatortools #videoediting #contentcreator #creatortips",
+      "url": "https://www.tiktok.com/@davina.createss/video/7686326822740479245"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@downloadcorsaview/video/7686938056263339278",
+      "cluster_id": "cluster-10",
+      "engagement": 17,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 88,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 56.65,
+      "item_id": "TK10",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK10",
+            "native_rank": 10,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 10
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.007142857142857143,
+      "snippet": "It\u2019s called #corsaview !",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "downloadcorsaview",
+          "body": "It\u2019s called #corsaview !",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 0,
+            "likes": 17,
+            "shares": 0,
+            "views": 315
+          },
+          "engagement_score": 17,
+          "freshness": 88,
+          "item_id": "TK10",
+          "local_rank_score": 0.237,
+          "local_relevance": 0.0,
+          "metadata": {
+            "hashtags": [
+              "corsaview"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-18",
+          "relevance_hint": 0.0,
+          "snippet": "It\u2019s called #corsaview !",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "It\u2019s called #corsaview !",
+          "url": "https://www.tiktok.com/@downloadcorsaview/video/7686938056263339278",
+          "why_relevant": "TikTok: It\u2019s called #corsaview !"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "It\u2019s called #corsaview !",
+      "url": "https://www.tiktok.com/@downloadcorsaview/video/7686938056263339278"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@islamic.worlld389/video/7688451865515658503",
+      "cluster_id": "cluster-11",
+      "engagement": 5,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 95,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 20.0,
+      "item_id": "TK13",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK13",
+            "native_rank": 9,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 9
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.007246376811594203,
+      "snippet": "#Aniimo #AniimoCreator #AniimoGlobalLaunch #Viral #Trending #ViralVideo #TrendingNow #ViralContent #Trend #TrendingVideo #MustWatch #Popular #HotTrend #GoingViral #InternetViral #ViralPost #ViralMoment #Explore #ExplorePage #Discover #DiscoverMore #ForYou #ForYouPage #FYP #FYP\u30b7 #FYPage #TikTok #TikTokViral #TikTokTrend #TikTokTrending #TikTokVideo #TikTokCreator #TikTokContent \ud83d\udcc8 Reach & Engagement #WatchTillEnd #WatchToTheEnd #DontSkip #WaitForIt #StayTuned #MustSee #WorthWatching #ShareThis #ShareWithFriends #LikeAndShare #CommentBelow #TellMe #WhatDoYouThink #TagYourFriends #FollowForMore #FollowMe #MoreToCome #NewPost #DailyContent #DailyPosts \ud83d\udd25 Content & Creator #ContentCreator #Creator #DigitalCreator #ContentCreation #CreativeContent #OriginalContent #CreatorLife #VideoCreator #VideoContent #ShortVideo #Shorts #Reels #ReelsVideo #Edit #VideoEdit #Editing #Editor #Amazing #Awesome #Incredible #Satisfying #Interesting #Unexpected #Epic #BestOf #TopContent #MustWatchVideo \ud83c\udf0d General Audience #Entertainment #Fun #Funny #Memes #Comedy #Lifestyle #Motivation #Inspiration #Facts #AmazingFacts #InterestingFacts #LifeHacks #TipsAndTricks #StoryTime #Reaction #Challenge #ChallengeVideo #DailyVlog #Vlog",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "islamic.worlld389",
+          "body": "#Aniimo #AniimoCreator #AniimoGlobalLaunch #Viral #Trending #ViralVideo #TrendingNow #ViralContent #Trend #TrendingVideo #MustWatch #Popular #HotTrend #GoingViral #InternetViral #ViralPost #ViralMoment #Explore #ExplorePage #Discover #DiscoverMore #ForYou #ForYouPage #FYP #FYP\u30b7 #FYPage #TikTok #TikTokViral #TikTokTrend #TikTokTrending #TikTokVideo #TikTokCreator #TikTokContent \ud83d\udcc8 Reach & Engagement #WatchTillEnd #WatchToTheEnd #DontSkip #WaitForIt #StayTuned #MustSee #WorthWatching #ShareThis #ShareWithFriends #LikeAndShare #CommentBelow #TellMe #WhatDoYouThink #TagYourFriends #FollowForMore #FollowMe #MoreToCome #NewPost #DailyContent #DailyPosts \ud83d\udd25 Content & Creator #ContentCreator #Creator #DigitalCreator #ContentCreation #CreativeContent #OriginalContent #CreatorLife #VideoCreator #VideoContent #ShortVideo #Shorts #Reels #ReelsVideo #Edit #VideoEdit #Editing #Editor #Amazing #Awesome #Incredible #Satisfying #Interesting #Unexpected #Epic #BestOf #TopContent #MustWatchVideo \ud83c\udf0d General Audience #Entertainment #Fun #Funny #Memes #Comedy #Lifestyle #Motivation #Inspiration #Facts #AmazingFacts #InterestingFacts #LifeHacks #TipsAndTricks #StoryTime #Reaction #Challenge #ChallengeVideo #DailyVlog #Vlog #BehindTheScenes #Community \ud83c\udfae Gaming #Gaming #GamingTikTok #TikTokGaming #Gamer #GamingCommunity #GamingVideos #GamingContent #Gameplay #GamingClips #GameClips #EpicGaming #ViralGaming #GamingHighlights #FunnyGaming #ProGamer #MobileGaming #PCGaming #ConsoleGaming #GameEdit #GamingEdit #GamingTrend #GamingLife #GamersOfTikTok #GamingReels#Gaming #GamingTikTok #TikTokGaming #Gamer #GamingCommunity #GamingVideos #GamingContent #Gameplay #GamePlay #VideoGames #Gamers #GamingLife #GamingClips #GameClips #EpicGaming #ViralGaming #GamingHighlights #BestGamingMoments #FunnyGaming #ProGamer #MobileGaming #PCGaming #ConsoleGaming #TrendingGaming #GamingTrend",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 0,
+            "likes": 5,
+            "shares": 0,
+            "views": 95
+          },
+          "engagement_score": 5,
+          "freshness": 95,
+          "item_id": "TK13",
+          "local_rank_score": 0.2425,
+          "local_relevance": 0.0,
+          "metadata": {
+            "hashtags": [
+              "aniimo",
+              "aniimocreator",
+              "aniimogloballaunch",
+              "viral",
+              "trending",
+              "viralvideo",
+              "trendingnow",
+              "viralcontent",
+              "trend",
+              "trendingvideo",
+              "mustwatch",
+              "popular",
+              "hottrend",
+              "goingviral",
+              "internetviral",
+              "viralpost",
+              "viralmoment",
+              "explore",
+              "explorepage",
+              "discover",
+              "discovermore",
+              "foryou",
+              "foryoupage",
+              "fyp",
+              "fyp\u30b7",
+              "fypage",
+              "tiktok",
+              "tiktokviral",
+              "tiktoktrend",
+              "tiktoktrending",
+              "tiktokvideo",
+              "tiktokcreator",
+              "tiktokcontent",
+              "watchtillend",
+              "watchtotheend",
+              "dontskip",
+              "waitforit",
+              "staytuned",
+              "mustsee",
+              "worthwatching",
+              "sharethis",
+              "sharewithfriends",
+              "likeandshare",
+              "commentbelow",
+              "tellme",
+              "whatdoyouthink",
+              "tagyourfriends",
+              "followformore",
+              "followme",
+              "moretocome",
+              "newpost",
+              "dailycontent",
+              "dailyposts",
+              "contentcreator",
+              "creator",
+              "digitalcreator",
+              "contentcreation",
+              "creativecontent",
+              "originalcontent",
+              "creatorlife",
+              "videocreator",
+              "videocontent",
+              "shortvideo",
+              "shorts",
+              "reels",
+              "reelsvideo",
+              "edit",
+              "videoedit",
+              "editing",
+              "editor",
+              "amazing",
+              "awesome",
+              "incredible",
+              "satisfying",
+              "interesting",
+              "unexpected",
+              "epic",
+              "bestof",
+              "topcontent",
+              "mustwatchvideo",
+              "entertainment",
+              "fun",
+              "funny",
+              "memes",
+              "comedy",
+              "lifestyle",
+              "motivation",
+              "inspiration",
+              "facts",
+              "amazingfacts",
+              "interestingfacts",
+              "lifehacks",
+              "tipsandtricks",
+              "storytime",
+              "reaction",
+              "challenge",
+              "challengevideo",
+              "dailyvlog",
+              "vlog",
+              "behindthescenes",
+              "community",
+              "gaming",
+              "gamingtiktok",
+              "tiktokgaming",
+              "gamer",
+              "gamingcommunity",
+              "gamingvideos",
+              "gamingcontent",
+              "gameplay",
+              "gamingclips",
+              "gameclips",
+              "epicgaming",
+              "viralgaming",
+              "gaminghighlights",
+              "funnygaming",
+              "progamer",
+              "mobilegaming",
+              "pcgaming",
+              "consolegaming",
+              "gameedit",
+              "gamingedit",
+              "gamingtrend",
+              "gaminglife",
+              "gamersoftiktok",
+              "gamingreels",
+              "gaming",
+              "gamingtiktok",
+              "tiktokgaming",
+              "gamer",
+              "gamingcommunity",
+              "gamingvideos",
+              "gamingcontent",
+              "gameplay",
+              "gameplay",
+              "videogames",
+              "gamers",
+              "gaminglife",
+              "gamingclips",
+              "gameclips",
+              "epicgaming",
+              "viralgaming",
+              "gaminghighlights",
+              "bestgamingmoments",
+              "funnygaming",
+              "progamer",
+              "mobilegaming",
+              "pcgaming",
+              "consolegaming",
+              "trendinggaming",
+              "gamingtrend"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-22",
+          "relevance_hint": 0.4,
+          "snippet": "#Aniimo #AniimoCreator #AniimoGlobalLaunch #Viral #Trending #ViralVideo #TrendingNow #ViralContent #Trend #TrendingVideo #MustWatch #Popular #HotTrend #GoingViral #InternetViral #ViralPost #ViralMoment #Explore #ExplorePage #Discover #DiscoverMore #ForYou #ForYouPage #FYP #FYP\u30b7 #FYPage #TikTok #TikTokViral #TikTokTrend #TikTokTrending #TikTokVideo #TikTokCreator #TikTokContent \ud83d\udcc8 Reach & Engagement #WatchTillEnd #WatchToTheEnd #DontSkip #WaitForIt #StayTuned #MustSee #WorthWatching #ShareThis #ShareWithFriends #LikeAndShare #CommentBelow #TellMe #WhatDoYouThink #TagYourFriends #FollowForMore #FollowMe #MoreToCome #NewPost #DailyContent #DailyPosts \ud83d\udd25 Content & Creator #ContentCreator #Creator #DigitalCreator #ContentCreation #CreativeContent #OriginalContent #CreatorLife #VideoCreator #VideoContent #ShortVideo #Shorts #Reels #ReelsVideo #Edit #VideoEdit #Editing #Editor #Amazing #Awesome #Incredible #Satisfying #Interesting #Unexpected #Epic #BestOf #TopContent #MustWatchVideo \ud83c\udf0d General Audience #Entertainment #Fun #Funny #Memes #Comedy #Lifestyle #Motivation #Inspiration #Facts #AmazingFacts #InterestingFacts #LifeHacks #TipsAndTricks #StoryTime #Reaction #Challenge #ChallengeVideo #DailyVlog #Vlog",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "#Aniimo #AniimoCreator #AniimoGlobalLaunch #Viral #Trending #ViralVideo #TrendingNow #ViralContent #Trend #TrendingVideo #MustWatch #Popular",
+          "url": "https://www.tiktok.com/@islamic.worlld389/video/7688451865515658503",
+          "why_relevant": "TikTok: #Aniimo #AniimoCreator #AniimoGlobalLaunch #Viral #Trending"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "#Aniimo #AniimoCreator #AniimoGlobalLaunch #Viral #Trending #ViralVideo #TrendingNow #ViralContent #Trend #TrendingVideo #MustWatch #Popular",
+      "url": "https://www.tiktok.com/@islamic.worlld389/video/7688451865515658503"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@brittanybuildapps/video/7688960662285978911",
+      "cluster_id": "cluster-12",
+      "engagement": 0,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 100,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "TK12",
+      "local_relevance": 0.13,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK12",
+            "native_rank": 1,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 1
+      },
+      "rerank_score": 9.899999999999999,
+      "rrf_score": 0.00819672131147541,
+      "snippet": "You know that app you wish existed because it would make your life easier? Being able to just\u2026 make it is pretty cool. #vibecodingapp #vibecoding #codingtiktok #coding #codinglife",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "brittanybuildapps",
+          "body": "You know that app you wish existed because it would make your life easier? Being able to just\u2026 make it is pretty cool. #vibecodingapp #vibecoding #codingtiktok #coding #codinglife",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 0,
+            "likes": 0,
+            "shares": 0,
+            "views": 114
+          },
+          "engagement_score": 0,
+          "freshness": 100,
+          "item_id": "TK12",
+          "local_rank_score": 0.3345,
+          "local_relevance": 0.13,
+          "metadata": {
+            "hashtags": [
+              "vibecodingapp",
+              "vibecoding",
+              "codingtiktok",
+              "coding",
+              "codinglife"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.54,
+          "snippet": "You know that app you wish existed because it would make your life easier? Being able to just\u2026 make it is pretty cool. #vibecodingapp #vibecoding #codingtiktok #coding #codinglife",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "You know that app you wish existed because it would make your life easier? Being able to just\u2026 make it is pretty cool. #vibecodingapp #vibec",
+          "url": "https://www.tiktok.com/@brittanybuildapps/video/7688960662285978911",
+          "why_relevant": "TikTok: You know that app you wish existed because it would make you"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "You know that app you wish existed because it would make your life easier? Being able to just\u2026 make it is pretty cool. #vibecodingapp #vibec",
+      "url": "https://www.tiktok.com/@brittanybuildapps/video/7688960662285978911"
+    }
+  ],
+  "topic": "\"I wish there was an app for\"",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}

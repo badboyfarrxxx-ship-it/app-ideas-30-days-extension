@@ -1,0 +1,185 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "deterministic",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "site:producthunt.com mobile app comments",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@ai_vanta_ai/video/7688891775666162977"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://tiktok.com/@ai_vanta_ai/video/7688891775666162977"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "Claude Code lets you build and launch a full mobile app to the App Store without any coding skills. The process uses React Native and Expo f"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-24T12:20:25.337182+00:00",
+  "items_by_source": {
+    "instagram": [],
+    "tiktok": [
+      {
+        "author": "ai_vanta_ai",
+        "body": "Claude Code lets you build and launch a full mobile app to the App Store without any coding skills. The process uses React Native and Expo for fast cross-platform development, from MVP to polished launch-ready apps, including automated screenshots and submission. #AI #AppDevelopment #NoCode #ReactNative #MobileApps\nYou can now build a full mobile app with Claude code and launch it to the App Store with zero coding skills required. Here's the full process first, ask Claude to install React Native and Expo into your terminal. This is by far the fastest stack for building iOS and Android apps together using one code base. Next, build the most basic version of your idea, the MVP, and then slowly start adding more advanced features and tiny things to bring people back. Start a reactivation loop, then test it in Chrome. Scan the Expo QR code to confirm it works on your phone as well. Once ready, ask Claude to write the title description certificates and use this Claude skill to generate a polished App Store screenshot set automatically. Finally submit it for approval, and once apple gives you the green light, your app is live for anyone to download. That's the entire workflow to launch something in the App Store today.",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 1,
+          "likes": 213,
+          "shares": 73,
+          "views": 6403
+        },
+        "engagement_score": 68,
+        "freshness": 100,
+        "item_id": "TK5",
+        "local_rank_score": 0.42850000000000005,
+        "local_relevance": 0.17,
+        "metadata": {
+          "hashtags": [
+            "ai",
+            "appdevelopment",
+            "nocode",
+            "reactnative",
+            "mobileapps"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.25,
+        "snippet": "You can now build a full mobile app with Claude code and launch it to the App Store with zero coding skills required. Here's the full process first, ask Claude to install React Native and Expo into your terminal. This is by far the fastest stack for building iOS and Android apps together using one code base. Next, build the most basic version of your idea, the MVP, and then slowly start adding more advanced features and tiny things to bring people back. Start a reactivation loop, then test it in Chrome. Scan the Expo QR code to confirm it works on your phone as well. Once ready, ask Claude to write the title description certificates and use this Claude...",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "Claude Code lets you build and launch a full mobile app to the App Store without any coding skills. The process uses React Native and Expo f",
+        "url": "https://www.tiktok.com/@ai_vanta_ai/video/7688891775666162977",
+        "why_relevant": "TikTok: Claude Code lets you build and launch a full mobile app to t"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "evergreen_ok",
+    "intent": "concept",
+    "notes": [
+      "fallback-plan (LLM error: HTTPError)"
+    ],
+    "raw_topic": "site:producthunt.com mobile app comments",
+    "source_weights": {
+      "instagram": 0.5,
+      "tiktok": 0.5
+    },
+    "subqueries": [
+      {
+        "label": "primary",
+        "ranking_query": "What recent evidence from the last 30 days is most relevant to site:producthunt.com mobile app comments?",
+        "search_query": "site:producthunt.com mobile app comments",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 1.0
+      }
+    ]
+  },
+  "range_from": "2026-08-25",
+  "range_to": "2026-09-24",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://tiktok.com/@ai_vanta_ai/video/7688891775666162977",
+      "cluster_id": "cluster-1",
+      "engagement": 68,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 100,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 40,
+      "item_id": "TK5",
+      "local_relevance": 0.17,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK5",
+            "native_rank": 1,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 1
+      },
+      "rerank_score": 12.699999999999996,
+      "rrf_score": 0.00819672131147541,
+      "snippet": "You can now build a full mobile app with Claude code and launch it to the App Store with zero coding skills required. Here's the full process first, ask Claude to install React Native and Expo into your terminal. This is by far the fastest stack for building iOS and Android apps together using one code base. Next, build the most basic version of your idea, the MVP, and then slowly start adding more advanced features and tiny things to bring people back. Start a reactivation loop, then test it in Chrome. Scan the Expo QR code to confirm it works on your phone as well. Once ready, ask Claude to write the title description certificates and use this Claude...",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "ai_vanta_ai",
+          "body": "Claude Code lets you build and launch a full mobile app to the App Store without any coding skills. The process uses React Native and Expo for fast cross-platform development, from MVP to polished launch-ready apps, including automated screenshots and submission. #AI #AppDevelopment #NoCode #ReactNative #MobileApps\nYou can now build a full mobile app with Claude code and launch it to the App Store with zero coding skills required. Here's the full process first, ask Claude to install React Native and Expo into your terminal. This is by far the fastest stack for building iOS and Android apps together using one code base. Next, build the most basic version of your idea, the MVP, and then slowly start adding more advanced features and tiny things to bring people back. Start a reactivation loop, then test it in Chrome. Scan the Expo QR code to confirm it works on your phone as well. Once ready, ask Claude to write the title description certificates and use this Claude skill to generate a polished App Store screenshot set automatically. Finally submit it for approval, and once apple gives you the green light, your app is live for anyone to download. That's the entire workflow to launch something in the App Store today.",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 1,
+            "likes": 213,
+            "shares": 73,
+            "views": 6403
+          },
+          "engagement_score": 68,
+          "freshness": 100,
+          "item_id": "TK5",
+          "local_rank_score": 0.42850000000000005,
+          "local_relevance": 0.17,
+          "metadata": {
+            "hashtags": [
+              "ai",
+              "appdevelopment",
+              "nocode",
+              "reactnative",
+              "mobileapps"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.25,
+          "snippet": "You can now build a full mobile app with Claude code and launch it to the App Store with zero coding skills required. Here's the full process first, ask Claude to install React Native and Expo into your terminal. This is by far the fastest stack for building iOS and Android apps together using one code base. Next, build the most basic version of your idea, the MVP, and then slowly start adding more advanced features and tiny things to bring people back. Start a reactivation loop, then test it in Chrome. Scan the Expo QR code to confirm it works on your phone as well. Once ready, ask Claude to write the title description certificates and use this Claude...",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "Claude Code lets you build and launch a full mobile app to the App Store without any coding skills. The process uses React Native and Expo f",
+          "url": "https://www.tiktok.com/@ai_vanta_ai/video/7688891775666162977",
+          "why_relevant": "TikTok: Claude Code lets you build and launch a full mobile app to t"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Claude Code lets you build and launch a full mobile app to the App Store without any coding skills. The process uses React Native and Expo f",
+      "url": "https://www.tiktok.com/@ai_vanta_ai/video/7688891775666162977"
+    }
+  ],
+  "topic": "site:producthunt.com mobile app comments",
+  "warnings": [
+    "Evidence is thin for this topic."
+  ]
+}

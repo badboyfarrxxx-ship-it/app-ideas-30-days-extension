@@ -1,0 +1,1638 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "deterministic",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "AI mobile app gaps \"would pay\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@millee.md/video/7686250038611250452"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://tiktok.com/@millee.md/video/7686250038611250452"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "Don\u2019t want your app to get into legal trouble? Do these things. #claudeai #buildinpublic #app #ai #vibecode"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@user17181292010103/video/7681700546075512097"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://tiktok.com/@user17181292010103/video/7681700546075512097"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "SWERVE IS THE BEST APP!#swerve #swerveai #ai #fyp #xyzabc"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@melathaile2027/video/7688340198098357524"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://tiktok.com/@melathaile2027/video/7688340198098357524"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "These 5 AI tools could completely change what you\u2019re able to build \ud83d\udc40 1\ufe0f\u20e3 Dyad \u2014 Have an app idea but can\u2019t afford developers? Start building"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@officialloucameron/video/7685537375988092174"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://tiktok.com/@officialloucameron/video/7685537375988092174"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "#makemoneyonline #ai #affiliatemarketing #digitalmarketingforbeginners"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@maverickgpt/video/7685382533684546847"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://tiktok.com/@maverickgpt/video/7685382533684546847"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "Comment \"Edit\" and I'll send you the full setup guide \ud83d\udc47 ChatGPT can now edit videos for you. Upload any video and it adds captions, cuts out"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@nthl.n0r/video/7685488738243218720"
+      ],
+      "cluster_id": "cluster-6",
+      "representative_ids": [
+        "https://tiktok.com/@nthl.n0r/video/7685488738243218720"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "#chai #characterai #ai #bot #swerve"
+    },
+    {
+      "candidate_ids": [
+        "https://instagram.com/reel/dcezzz9plxc"
+      ],
+      "cluster_id": "cluster-7",
+      "representative_ids": [
+        "https://instagram.com/reel/dcezzz9plxc"
+      ],
+      "score": 0.0,
+      "sources": [
+        "instagram"
+      ],
+      "title": "Save this, then go rewrite the last prompt you sent.\n\nMost people ask AI for a $5 answer without realizing it. \u201cWrite me a marketing email.\u201d"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@treveon.lee/video/7687343889933552909"
+      ],
+      "cluster_id": "cluster-8",
+      "representative_ids": [
+        "https://tiktok.com/@treveon.lee/video/7687343889933552909"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "How to make $10k/month with Ai #sidehustle #aisidehustle #ai"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@destiny.hustles/video/7687099192086465822"
+      ],
+      "cluster_id": "cluster-9",
+      "representative_ids": [
+        "https://tiktok.com/@destiny.hustles/video/7687099192086465822"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "Everyone's chasing the next side hustle. \ud83d\udc40 I used ChatGPT + Wron AI  to build an app and get it ready for the App Store. \ud83d\ude80 Comment APP to le"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@imjonathanacuna/video/7688874542575455518"
+      ],
+      "cluster_id": "cluster-10",
+      "representative_ids": [
+        "https://tiktok.com/@imjonathanacuna/video/7688874542575455518"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "cam is my content automation app and it replaced 5 full time jobs. video editor, script writer, social media manager, the whole team, all re"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@destiny.hustles/video/7685561876284968223"
+      ],
+      "cluster_id": "cluster-11",
+      "representative_ids": [
+        "https://tiktok.com/@destiny.hustles/video/7685561876284968223"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "almost kept this private... \ud83d\udc40 I asked ChatGPT for a profitable app idea, pasted the prompt into Wron AI, added a paywall, and now it's ready"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@aniksingal/video/7688773417528495391"
+      ],
+      "cluster_id": "cluster-12",
+      "representative_ids": [
+        "https://tiktok.com/@aniksingal/video/7688773417528495391"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "A billion-dollar bet on losing on purpose A Higgsfield employee offered $50,000 to anyone who could out-build Higgsfield using Higgsfield's"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@kaycodes_/video/7682544242547313933"
+      ],
+      "cluster_id": "cluster-13",
+      "representative_ids": [
+        "https://tiktok.com/@kaycodes_/video/7682544242547313933"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "Comment APP if you want the link \ud83d\udd17  #mobile #app #sidehustle #ai #mobilegaming"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-24T12:20:47.395857+00:00",
+  "items_by_source": {
+    "instagram": [
+      {
+        "author": "alicialyttle",
+        "body": "Save this, then go rewrite the last prompt you sent.\n\nMost people ask AI for a $5 answer without realizing it. \u201cWrite me a marketing email.\u201d \u201cGive me some content ideas.\u201d The output isn\u2019t bad, it\u2019s just the tier you asked for.\n\nThe fix is one sentence. Tell it what the work is worth. \u201cWrite me the marketing email a $50,000 consultant would hand a client.\u201d Same request, completely different standard.\n\nBecause AI doesn\u2019t set the bar. You do. \ud83d\udcb0\ud83e\udd16\n\nComment \u201cSUMMIT\u201d if you want more ways to get real work out of AI \ud83c\udf89\nAI knows the difference between a $5 job and a $50,000 job. AI has been trained on data, right? It and the data it's been trained on, it knows what a $5 job looks like for a marketing email and what a $50,000 job looks like to write a marketing email from a top-level consultant at a firm like McKinsey, right? That a whole group of people might write it might use it. So when you ask AI, it defaults to giving you what everybody else will get. Right? But since we're not everybody else, we're setting our standard up here. You need to tell AI what the value of the output needs to be as you assign it the job. Yes? Say money money. Right? You pay ChatGPT $20 a month. Get the most you can out of it. You're like, ChatGPT, I pay you $20 a month. You're going to write this marketing email like I paid you $50,000 and you're not going to stop until I get the best thing on the planet, right? So expect more out of your AI tools. You're just telling them to do something for you, but you're not setting the standard. You're not asking for premium, but it's about time that you did.",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 57,
+          "likes": 258,
+          "views": 3613
+        },
+        "engagement_score": 50,
+        "freshness": 40,
+        "item_id": "IG1",
+        "local_rank_score": 0.4035,
+        "local_relevance": 0.39,
+        "metadata": {
+          "hashtags": [],
+          "top_comments": []
+        },
+        "published_at": "2026-08-25",
+        "relevance_hint": 0.41,
+        "snippet": "AI knows the difference between a $5 job and a $50,000 job. AI has been trained on data, right? It and the data it's been trained on, it knows what a $5 job looks like for a marketing email and what a $50,000 job looks like to write a marketing email from a top-level consultant at a firm like McKinsey, right? That a whole group of people might write it might use it. So when you ask AI, it defaults to giving you what everybody else will get. Right? But since we're not everybody else, we're setting our standard up here. You need to tell AI what the value of the output needs to be as you assign it the...",
+        "source": "instagram",
+        "source_quality": 0.58,
+        "title": "Save this, then go rewrite the last prompt you sent.\n\nMost people ask AI for a $5 answer without realizing it. \u201cWrite me a marketing email.\u201d",
+        "url": "https://www.instagram.com/reel/DceZZZ9pLXC/",
+        "why_relevant": "Instagram: Save this, then go rewrite the last prompt you sent.\n\nMost p"
+      }
+    ],
+    "tiktok": [
+      {
+        "author": "melathaile2027",
+        "body": "These 5 AI tools could completely change what you\u2019re able to build \ud83d\udc40 1\ufe0f\u20e3 Dyad \u2014 Have an app idea but can\u2019t afford developers? Start building it yourself with AI. 2\ufe0f\u20e3 Hugging Face Spaces \u2014 A hidden universe of AI tools for images, audio, translation, coding & more. 3\ufe0f\u20e3 ComfyUI \u2014 Learn this and you can start building your own AI creative studio for images, ads, product concepts and designs. 4\ufe0f\u20e3 Whisper \u2014 Free, open-source speech recognition. Learn it and you could even build your own transcription or subtitling service. 5\ufe0f\u20e3 Ollama \u2014 Run AI models locally and learn why you don\u2019t always need to pay a company to access powerful AI. The opportunity isn\u2019t just using AI. It\u2019s learning how to build with it. \ud83d\ude80 Save this. Pick ONE tool. Learn it. Build something. #AI #AITools #entrepreneur #TechTok #Tech",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 40,
+          "likes": 2130,
+          "shares": 255,
+          "views": 42151
+        },
+        "engagement_score": 60,
+        "freshness": 95,
+        "item_id": "TK6",
+        "local_rank_score": 0.46649999999999997,
+        "local_relevance": 0.26,
+        "metadata": {
+          "hashtags": [
+            "ai",
+            "aitools",
+            "entrepreneur",
+            "techtok",
+            "tech"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-22",
+        "relevance_hint": 0.53,
+        "snippet": "These 5 AI tools could completely change what you\u2019re able to build \ud83d\udc40 1\ufe0f\u20e3 Dyad \u2014 Have an app idea but can\u2019t afford developers? Start building it yourself with AI. 2\ufe0f\u20e3 Hugging Face Spaces \u2014 A hidden universe of AI tools for images, audio, translation, coding & more. 3\ufe0f\u20e3 ComfyUI \u2014 Learn this and you can start building your own AI creative studio for images, ads, product concepts and designs. 4\ufe0f\u20e3 Whisper \u2014 Free, open-source speech recognition. Learn it and you could even build your own transcription or subtitling service. 5\ufe0f\u20e3 Ollama \u2014 Run AI models locally and learn why you don\u2019t always need to pay a company to access",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "These 5 AI tools could completely change what you\u2019re able to build \ud83d\udc40 1\ufe0f\u20e3 Dyad \u2014 Have an app idea but can\u2019t afford developers? Start building",
+        "url": "https://www.tiktok.com/@melathaile2027/video/7688340198098357524",
+        "why_relevant": "TikTok: These 5 AI tools could completely change what you\u2019re able to"
+      },
+      {
+        "author": "imjonathanacuna",
+        "body": "cam is my content automation app and it replaced 5 full time jobs. video editor, script writer, social media manager, the whole team, all reduced to code with claude code. now each video costs about $3 for every 30 seconds. #ai #automation #contentcreation #business #SmallBusiness",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 2,
+          "likes": 9,
+          "shares": 1,
+          "views": 389
+        },
+        "engagement_score": 12,
+        "freshness": 97,
+        "item_id": "TK21",
+        "local_rank_score": 0.4235,
+        "local_relevance": 0.26,
+        "metadata": {
+          "hashtags": [
+            "ai",
+            "automation",
+            "contentcreation",
+            "business",
+            "smallbusiness"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.41,
+        "snippet": "cam is my content automation app and it replaced 5 full time jobs. video editor, script writer, social media manager, the whole team, all reduced to code with claude code. now each video costs about $3 for every 30 seconds. #ai #automation #contentcreation #business #SmallBusiness",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "cam is my content automation app and it replaced 5 full time jobs. video editor, script writer, social media manager, the whole team, all re",
+        "url": "https://www.tiktok.com/@imjonathanacuna/video/7688874542575455518",
+        "why_relevant": "TikTok: cam is my content automation app and it replaced 5 full time"
+      },
+      {
+        "author": "aniksingal",
+        "body": "A billion-dollar bet on losing on purpose A Higgsfield employee offered $50,000 to anyone who could out-build Higgsfield using Higgsfield's own API. Seems reckless, until you see the strategy. Higgsfield's API puts 50+ AI image and video models, Kling, Seedance, MiniMax, and its own, behind one connection. Developers pay per use, no separate integration for each. So even if someone builds a better app on top of it, they own the design and the users, but every generation still runs through Higgsfield, and Higgsfield still gets paid. The bet isn't winning the model war. It's owning the layer everyone accesses those models through. Share this with a developer thinking about the AI stack. Save it, this strategy is worth studying. #Higgsfield #AIStrategy #StartupStrategy #anik #AI #ai2026 #dailyai #aitech #ainews #futureofai #aiforbeginners #artificialintelligence #aiupdates #higgsfieldai",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 0,
+          "likes": 7,
+          "shares": 0,
+          "views": 120
+        },
+        "engagement_score": 3,
+        "freshness": 97,
+        "item_id": "TK28",
+        "local_rank_score": 0.4145,
+        "local_relevance": 0.26,
+        "metadata": {
+          "hashtags": [
+            "ai2026",
+            "dailyai",
+            "aitech",
+            "ainews",
+            "futureofai",
+            "aiforbeginners",
+            "artificialintelligence",
+            "aiupdates",
+            "higgsfieldai"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.53,
+        "snippet": "A billion-dollar bet on losing on purpose A Higgsfield employee offered $50,000 to anyone who could out-build Higgsfield using Higgsfield's own API. Seems reckless, until you see the strategy. Higgsfield's API puts 50+ AI image and video models, Kling, Seedance, MiniMax, and its own, behind one connection. Developers pay per use, no separate integration for each. So even if someone builds a better app on top of it, they own the design and the users, but every generation still runs through Higgsfield, and Higgsfield still gets paid. The bet isn't winning the model war. It's owning the layer everyone accesses those models through. Share this with a developer thinking about",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "A billion-dollar bet on losing on purpose A Higgsfield employee offered $50,000 to anyone who could out-build Higgsfield using Higgsfield's",
+        "url": "https://www.tiktok.com/@aniksingal/video/7688773417528495391",
+        "why_relevant": "TikTok: A billion-dollar bet on losing on purpose A Higgsfield emplo"
+      },
+      {
+        "author": "millee.md",
+        "body": "Don\u2019t want your app to get into legal trouble? Do these things. #claudeai #buildinpublic #app #ai #vibecode\nAdd a privacy policy, add terms of service, add a refund policy, add a cookie policy. Add a cookie consent banner. Check your form consents. Don't collect unnecessary data. Audit your third party SC cases. Remove dark patterns, remove hidden fees, remove fake reviews, remove unsupported claims. Add accessibility alt text. Fix your color contrast ratio. Add keyboard navigation. Add your business details. Get age consent. If you collect kids data, add an unsubscribe link to your emails. License any fonts and images to use. Add a data deletion request option.",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 32,
+          "likes": 7504,
+          "shares": 836,
+          "views": 130961
+        },
+        "engagement_score": 69,
+        "freshness": 83,
+        "item_id": "TK4",
+        "local_rank_score": 0.40650000000000003,
+        "local_relevance": 0.2,
+        "metadata": {
+          "hashtags": [
+            "claudeai",
+            "buildinpublic",
+            "app",
+            "ai",
+            "vibecode"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-16",
+        "relevance_hint": 0.41,
+        "snippet": "Add a privacy policy, add terms of service, add a refund policy, add a cookie policy. Add a cookie consent banner. Check your form consents. Don't collect unnecessary data. Audit your third party SC cases. Remove dark patterns, remove hidden fees, remove fake reviews, remove unsupported claims. Add accessibility alt text. Fix your color contrast ratio. Add keyboard navigation. Add your business details. Get age consent. If you collect kids data, add an unsubscribe link to your emails. License any fonts and images to use. Add a data deletion request option.",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "Don\u2019t want your app to get into legal trouble? Do these things. #claudeai #buildinpublic #app #ai #vibecode",
+        "url": "https://www.tiktok.com/@millee.md/video/7686250038611250452",
+        "why_relevant": "TikTok: Don\u2019t want your app to get into legal trouble? Do these thin"
+      },
+      {
+        "author": "destiny.hustles",
+        "body": "Everyone's chasing the next side hustle. \ud83d\udc40 I used ChatGPT + Wron AI  to build an app and get it ready for the App Store. \ud83d\ude80 Comment APP to learn more!  #ai  #appdeveloper #wronai #aitools  #mobileapp",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 4,
+          "likes": 14,
+          "shares": 2,
+          "views": 329
+        },
+        "engagement_score": 14,
+        "freshness": 89,
+        "item_id": "TK24",
+        "local_rank_score": 0.4055,
+        "local_relevance": 0.26,
+        "metadata": {
+          "hashtags": [
+            "ai",
+            "appdeveloper",
+            "wronai",
+            "aitools",
+            "mobileapp"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-19",
+        "relevance_hint": 0.53,
+        "snippet": "Everyone's chasing the next side hustle. \ud83d\udc40 I used ChatGPT + Wron AI to build an app and get it ready for the App Store. \ud83d\ude80 Comment APP to learn more! #ai #appdeveloper #wronai #aitools #mobileapp",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "Everyone's chasing the next side hustle. \ud83d\udc40 I used ChatGPT + Wron AI  to build an app and get it ready for the App Store. \ud83d\ude80 Comment APP to le",
+        "url": "https://www.tiktok.com/@destiny.hustles/video/7687099192086465822",
+        "why_relevant": "TikTok: Everyone's chasing the next side hustle. \ud83d\udc40 I used ChatGPT +"
+      },
+      {
+        "author": "officialloucameron",
+        "body": "#makemoneyonline #ai #affiliatemarketing #digitalmarketingforbeginners",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 41,
+          "likes": 1242,
+          "shares": 402,
+          "views": 24598
+        },
+        "engagement_score": 55,
+        "freshness": 79,
+        "item_id": "TK9",
+        "local_rank_score": 0.389,
+        "local_relevance": 0.21,
+        "metadata": {
+          "hashtags": [
+            "makemoneyonline",
+            "ai",
+            "affiliatemarketing",
+            "digitalmarketingforbeginners"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-14",
+        "relevance_hint": 0.34,
+        "snippet": "#makemoneyonline #ai #affiliatemarketing #digitalmarketingforbeginners",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "#makemoneyonline #ai #affiliatemarketing #digitalmarketingforbeginners",
+        "url": "https://www.tiktok.com/@officialloucameron/video/7685537375988092174",
+        "why_relevant": "TikTok: #makemoneyonline #ai #affiliatemarketing #digitalmarketingfo"
+      },
+      {
+        "author": "destiny.hustles",
+        "body": "almost kept this private... \ud83d\udc40 I asked ChatGPT for a profitable app idea, pasted the prompt into Wron AI, added a paywall, and now it's ready for the App Store. No coding. Just a prompt. \ud83e\udd2f Comment APP and I'll send you the prompt. \ud83d\ude80 #wronai  #aitools  #mobileapps #appdevelopment #nocode",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 0,
+          "likes": 18,
+          "shares": 1,
+          "views": 349
+        },
+        "engagement_score": 11,
+        "freshness": 82,
+        "item_id": "TK22",
+        "local_rank_score": 0.385,
+        "local_relevance": 0.26,
+        "metadata": {
+          "hashtags": [
+            "wronai",
+            "aitools",
+            "mobileapps",
+            "appdevelopment",
+            "nocode"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-15",
+        "relevance_hint": 0.37,
+        "snippet": "almost kept this private... \ud83d\udc40 I asked ChatGPT for a profitable app idea, pasted the prompt into Wron AI, added a paywall, and now it's ready for the App Store. No coding. Just a prompt. \ud83e\udd2f Comment APP and I'll send you the prompt. \ud83d\ude80 #wronai #aitools #mobileapps #appdevelopment #nocode",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "almost kept this private... \ud83d\udc40 I asked ChatGPT for a profitable app idea, pasted the prompt into Wron AI, added a paywall, and now it's ready",
+        "url": "https://www.tiktok.com/@destiny.hustles/video/7685561876284968223",
+        "why_relevant": "TikTok: almost kept this private... \ud83d\udc40 I asked ChatGPT for a profitab"
+      },
+      {
+        "author": "maverickgpt",
+        "body": "Comment \"Edit\" and I'll send you the full setup guide \ud83d\udc47 ChatGPT can now edit videos for you. Upload any video and it adds captions, cuts out dead space, and even adds full on screen animations. Here's how to set it up in 30 seconds: Go to ChatGPT \u2192 choose Codex (top left) Click Plugins \u2192 search \"Remotion\" \u2192 Install Plugin Drag and drop any video into Codex Say: \"Edit this video, add on screen captions, cut every silence, and animate the key moments on screen\" ChatGPT hands you back a perfectly edited video ready to post. #chatgpt #ai #videoediting #remotion #aitools",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 152,
+          "likes": 864,
+          "shares": 191,
+          "views": 19652
+        },
+        "engagement_score": 55,
+        "freshness": 79,
+        "item_id": "TK10",
+        "local_rank_score": 0.3825,
+        "local_relevance": 0.2,
+        "metadata": {
+          "hashtags": [
+            "chatgpt",
+            "ai",
+            "videoediting",
+            "remotion",
+            "aitools"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-14",
+        "relevance_hint": 0.28,
+        "snippet": "Comment \"Edit\" and I'll send you the full setup guide \ud83d\udc47 ChatGPT can now edit videos for you. Upload any video and it adds captions, cuts out dead space, and even adds full on screen animations. Here's how to set it up in 30 seconds: Go to ChatGPT \u2192 choose Codex (top left) Click Plugins \u2192 search \"Remotion\" \u2192 Install Plugin Drag and drop any video into Codex Say: \"Edit this video, add on screen captions, cut every silence, and animate the key moments on screen\" ChatGPT hands you back a perfectly edited video ready to post. #chatgpt #ai #videoediting #remotion #aitools",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "Comment \"Edit\" and I'll send you the full setup guide \ud83d\udc47 ChatGPT can now edit videos for you. Upload any video and it adds captions, cuts out",
+        "url": "https://www.tiktok.com/@maverickgpt/video/7685382533684546847",
+        "why_relevant": "TikTok: Comment \"Edit\" and I'll send you the full setup guide \ud83d\udc47 Chat"
+      },
+      {
+        "author": "nthl.n0r",
+        "body": "#chai #characterai #ai #bot #swerve",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 61,
+          "likes": 534,
+          "shares": 42,
+          "views": 27068
+        },
+        "engagement_score": 54,
+        "freshness": 79,
+        "item_id": "TK8",
+        "local_rank_score": 0.3815,
+        "local_relevance": 0.2,
+        "metadata": {
+          "hashtags": [
+            "chai",
+            "characterai",
+            "ai",
+            "bot",
+            "swerve"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-14",
+        "relevance_hint": 0.33,
+        "snippet": "#chai #characterai #ai #bot #swerve",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "#chai #characterai #ai #bot #swerve",
+        "url": "https://www.tiktok.com/@nthl.n0r/video/7685488738243218720",
+        "why_relevant": "TikTok: #chai #characterai #ai #bot #swerve"
+      },
+      {
+        "author": "user17181292010103",
+        "body": "SWERVE IS THE BEST APP!#swerve #swerveai #ai #fyp #xyzabc\nSWERVE IS THE BEST APP!#swerve #swerveai #ai #fyp #xyzabc",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 103,
+          "likes": 1267,
+          "shares": 161,
+          "views": 53930
+        },
+        "engagement_score": 61,
+        "freshness": 59,
+        "item_id": "TK5",
+        "local_rank_score": 0.371,
+        "local_relevance": 0.25,
+        "metadata": {
+          "hashtags": [
+            "swerve",
+            "swerveai",
+            "ai",
+            "fyp",
+            "xyzabc"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-04",
+        "relevance_hint": 0.32,
+        "snippet": "SWERVE IS THE BEST APP!#swerve #swerveai #ai #fyp #xyzabc",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "SWERVE IS THE BEST APP!#swerve #swerveai #ai #fyp #xyzabc",
+        "url": "https://www.tiktok.com/@user17181292010103/video/7681700546075512097",
+        "why_relevant": "TikTok: SWERVE IS THE BEST APP!#swerve #swerveai #ai #fyp #xyzabc"
+      },
+      {
+        "author": "kaycodes_",
+        "body": "Comment APP if you want the link \ud83d\udd17  #mobile #app #sidehustle #ai #mobilegaming",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 0,
+          "likes": 6,
+          "shares": 1,
+          "views": 147
+        },
+        "engagement_score": 3,
+        "freshness": 64,
+        "item_id": "TK26",
+        "local_rank_score": 0.36450000000000005,
+        "local_relevance": 0.31,
+        "metadata": {
+          "hashtags": [
+            "mobile",
+            "app",
+            "sidehustle",
+            "ai",
+            "mobilegaming"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-06",
+        "relevance_hint": 0.55,
+        "snippet": "Comment APP if you want the link \ud83d\udd17 #mobile #app #sidehustle #ai #mobilegaming",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "Comment APP if you want the link \ud83d\udd17  #mobile #app #sidehustle #ai #mobilegaming",
+        "url": "https://www.tiktok.com/@kaycodes_/video/7682544242547313933",
+        "why_relevant": "TikTok: Comment APP if you want the link \ud83d\udd17  #mobile #app #sidehustle"
+      },
+      {
+        "author": "treveon.lee",
+        "body": "How to make $10k/month with Ai #sidehustle #aisidehustle #ai",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 2,
+          "likes": 27,
+          "shares": 0,
+          "views": 402
+        },
+        "engagement_score": 16,
+        "freshness": 89,
+        "item_id": "TK20",
+        "local_rank_score": 0.36200000000000004,
+        "local_relevance": 0.19,
+        "metadata": {
+          "hashtags": [
+            "sidehustle",
+            "aisidehustle",
+            "ai"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-19",
+        "relevance_hint": 0.32,
+        "snippet": "How to make $10k/month with Ai #sidehustle #aisidehustle #ai",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "How to make $10k/month with Ai #sidehustle #aisidehustle #ai",
+        "url": "https://www.tiktok.com/@treveon.lee/video/7687343889933552909",
+        "why_relevant": "TikTok: How to make $10k/month with Ai #sidehustle #aisidehustle #ai"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "evergreen_ok",
+    "intent": "concept",
+    "notes": [
+      "fallback-plan (LLM error: HTTPError)"
+    ],
+    "raw_topic": "AI mobile app gaps \"would pay\"",
+    "source_weights": {
+      "instagram": 0.5,
+      "tiktok": 0.5
+    },
+    "subqueries": [
+      {
+        "label": "primary",
+        "ranking_query": "What recent evidence from the last 30 days is most relevant to AI mobile app gaps \"would pay\"?",
+        "search_query": "ai mobile app gaps \"would pay\"",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 1.0
+      }
+    ]
+  },
+  "range_from": "2026-08-25",
+  "range_to": "2026-09-24",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://tiktok.com/@millee.md/video/7686250038611250452",
+      "cluster_id": "cluster-1",
+      "engagement": 69,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 83,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 50,
+      "item_id": "TK4",
+      "local_relevance": 0.2,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK4",
+            "native_rank": 4,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 4
+      },
+      "rerank_score": 11.399999999999999,
+      "rrf_score": 0.0078125,
+      "snippet": "Add a privacy policy, add terms of service, add a refund policy, add a cookie policy. Add a cookie consent banner. Check your form consents. Don't collect unnecessary data. Audit your third party SC cases. Remove dark patterns, remove hidden fees, remove fake reviews, remove unsupported claims. Add accessibility alt text. Fix your color contrast ratio. Add keyboard navigation. Add your business details. Get age consent. If you collect kids data, add an unsubscribe link to your emails. License any fonts and images to use. Add a data deletion request option.",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "millee.md",
+          "body": "Don\u2019t want your app to get into legal trouble? Do these things. #claudeai #buildinpublic #app #ai #vibecode\nAdd a privacy policy, add terms of service, add a refund policy, add a cookie policy. Add a cookie consent banner. Check your form consents. Don't collect unnecessary data. Audit your third party SC cases. Remove dark patterns, remove hidden fees, remove fake reviews, remove unsupported claims. Add accessibility alt text. Fix your color contrast ratio. Add keyboard navigation. Add your business details. Get age consent. If you collect kids data, add an unsubscribe link to your emails. License any fonts and images to use. Add a data deletion request option.",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 32,
+            "likes": 7504,
+            "shares": 836,
+            "views": 130961
+          },
+          "engagement_score": 69,
+          "freshness": 83,
+          "item_id": "TK4",
+          "local_rank_score": 0.40650000000000003,
+          "local_relevance": 0.2,
+          "metadata": {
+            "hashtags": [
+              "claudeai",
+              "buildinpublic",
+              "app",
+              "ai",
+              "vibecode"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-16",
+          "relevance_hint": 0.41,
+          "snippet": "Add a privacy policy, add terms of service, add a refund policy, add a cookie policy. Add a cookie consent banner. Check your form consents. Don't collect unnecessary data. Audit your third party SC cases. Remove dark patterns, remove hidden fees, remove fake reviews, remove unsupported claims. Add accessibility alt text. Fix your color contrast ratio. Add keyboard navigation. Add your business details. Get age consent. If you collect kids data, add an unsubscribe link to your emails. License any fonts and images to use. Add a data deletion request option.",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "Don\u2019t want your app to get into legal trouble? Do these things. #claudeai #buildinpublic #app #ai #vibecode",
+          "url": "https://www.tiktok.com/@millee.md/video/7686250038611250452",
+          "why_relevant": "TikTok: Don\u2019t want your app to get into legal trouble? Do these thin"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Don\u2019t want your app to get into legal trouble? Do these things. #claudeai #buildinpublic #app #ai #vibecode",
+      "url": "https://www.tiktok.com/@millee.md/video/7686250038611250452"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@user17181292010103/video/7681700546075512097",
+      "cluster_id": "cluster-2",
+      "engagement": 61,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 59,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 52.75,
+      "item_id": "TK5",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK5",
+            "native_rank": 10,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 10
+      },
+      "rerank_score": 10.100000000000001,
+      "rrf_score": 0.007142857142857143,
+      "snippet": "SWERVE IS THE BEST APP!#swerve #swerveai #ai #fyp #xyzabc",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "user17181292010103",
+          "body": "SWERVE IS THE BEST APP!#swerve #swerveai #ai #fyp #xyzabc\nSWERVE IS THE BEST APP!#swerve #swerveai #ai #fyp #xyzabc",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 103,
+            "likes": 1267,
+            "shares": 161,
+            "views": 53930
+          },
+          "engagement_score": 61,
+          "freshness": 59,
+          "item_id": "TK5",
+          "local_rank_score": 0.371,
+          "local_relevance": 0.25,
+          "metadata": {
+            "hashtags": [
+              "swerve",
+              "swerveai",
+              "ai",
+              "fyp",
+              "xyzabc"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-04",
+          "relevance_hint": 0.32,
+          "snippet": "SWERVE IS THE BEST APP!#swerve #swerveai #ai #fyp #xyzabc",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "SWERVE IS THE BEST APP!#swerve #swerveai #ai #fyp #xyzabc",
+          "url": "https://www.tiktok.com/@user17181292010103/video/7681700546075512097",
+          "why_relevant": "TikTok: SWERVE IS THE BEST APP!#swerve #swerveai #ai #fyp #xyzabc"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "SWERVE IS THE BEST APP!#swerve #swerveai #ai #fyp #xyzabc",
+      "url": "https://www.tiktok.com/@user17181292010103/video/7681700546075512097"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@melathaile2027/video/7688340198098357524",
+      "cluster_id": "cluster-3",
+      "engagement": 60,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 95,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 40,
+      "item_id": "TK6",
+      "local_relevance": 0.26,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK6",
+            "native_rank": 1,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 1
+      },
+      "rerank_score": 18.0,
+      "rrf_score": 0.00819672131147541,
+      "snippet": "These 5 AI tools could completely change what you\u2019re able to build \ud83d\udc40 1\ufe0f\u20e3 Dyad \u2014 Have an app idea but can\u2019t afford developers? Start building it yourself with AI. 2\ufe0f\u20e3 Hugging Face Spaces \u2014 A hidden universe of AI tools for images, audio, translation, coding & more. 3\ufe0f\u20e3 ComfyUI \u2014 Learn this and you can start building your own AI creative studio for images, ads, product concepts and designs. 4\ufe0f\u20e3 Whisper \u2014 Free, open-source speech recognition. Learn it and you could even build your own transcription or subtitling service. 5\ufe0f\u20e3 Ollama \u2014 Run AI models locally and learn why you don\u2019t always need to pay a company to access",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "melathaile2027",
+          "body": "These 5 AI tools could completely change what you\u2019re able to build \ud83d\udc40 1\ufe0f\u20e3 Dyad \u2014 Have an app idea but can\u2019t afford developers? Start building it yourself with AI. 2\ufe0f\u20e3 Hugging Face Spaces \u2014 A hidden universe of AI tools for images, audio, translation, coding & more. 3\ufe0f\u20e3 ComfyUI \u2014 Learn this and you can start building your own AI creative studio for images, ads, product concepts and designs. 4\ufe0f\u20e3 Whisper \u2014 Free, open-source speech recognition. Learn it and you could even build your own transcription or subtitling service. 5\ufe0f\u20e3 Ollama \u2014 Run AI models locally and learn why you don\u2019t always need to pay a company to access powerful AI. The opportunity isn\u2019t just using AI. It\u2019s learning how to build with it. \ud83d\ude80 Save this. Pick ONE tool. Learn it. Build something. #AI #AITools #entrepreneur #TechTok #Tech",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 40,
+            "likes": 2130,
+            "shares": 255,
+            "views": 42151
+          },
+          "engagement_score": 60,
+          "freshness": 95,
+          "item_id": "TK6",
+          "local_rank_score": 0.46649999999999997,
+          "local_relevance": 0.26,
+          "metadata": {
+            "hashtags": [
+              "ai",
+              "aitools",
+              "entrepreneur",
+              "techtok",
+              "tech"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-22",
+          "relevance_hint": 0.53,
+          "snippet": "These 5 AI tools could completely change what you\u2019re able to build \ud83d\udc40 1\ufe0f\u20e3 Dyad \u2014 Have an app idea but can\u2019t afford developers? Start building it yourself with AI. 2\ufe0f\u20e3 Hugging Face Spaces \u2014 A hidden universe of AI tools for images, audio, translation, coding & more. 3\ufe0f\u20e3 ComfyUI \u2014 Learn this and you can start building your own AI creative studio for images, ads, product concepts and designs. 4\ufe0f\u20e3 Whisper \u2014 Free, open-source speech recognition. Learn it and you could even build your own transcription or subtitling service. 5\ufe0f\u20e3 Ollama \u2014 Run AI models locally and learn why you don\u2019t always need to pay a company to access",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "These 5 AI tools could completely change what you\u2019re able to build \ud83d\udc40 1\ufe0f\u20e3 Dyad \u2014 Have an app idea but can\u2019t afford developers? Start building",
+          "url": "https://www.tiktok.com/@melathaile2027/video/7688340198098357524",
+          "why_relevant": "TikTok: These 5 AI tools could completely change what you\u2019re able to"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "These 5 AI tools could completely change what you\u2019re able to build \ud83d\udc40 1\ufe0f\u20e3 Dyad \u2014 Have an app idea but can\u2019t afford developers? Start building",
+      "url": "https://www.tiktok.com/@melathaile2027/video/7688340198098357524"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@officialloucameron/video/7685537375988092174",
+      "cluster_id": "cluster-4",
+      "engagement": 55,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 79,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 48.85,
+      "item_id": "TK9",
+      "local_relevance": 0.21,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK9",
+            "native_rank": 6,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 6
+      },
+      "rerank_score": 11.299999999999997,
+      "rrf_score": 0.007575757575757576,
+      "snippet": "#makemoneyonline #ai #affiliatemarketing #digitalmarketingforbeginners",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "officialloucameron",
+          "body": "#makemoneyonline #ai #affiliatemarketing #digitalmarketingforbeginners",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 41,
+            "likes": 1242,
+            "shares": 402,
+            "views": 24598
+          },
+          "engagement_score": 55,
+          "freshness": 79,
+          "item_id": "TK9",
+          "local_rank_score": 0.389,
+          "local_relevance": 0.21,
+          "metadata": {
+            "hashtags": [
+              "makemoneyonline",
+              "ai",
+              "affiliatemarketing",
+              "digitalmarketingforbeginners"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-14",
+          "relevance_hint": 0.34,
+          "snippet": "#makemoneyonline #ai #affiliatemarketing #digitalmarketingforbeginners",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "#makemoneyonline #ai #affiliatemarketing #digitalmarketingforbeginners",
+          "url": "https://www.tiktok.com/@officialloucameron/video/7685537375988092174",
+          "why_relevant": "TikTok: #makemoneyonline #ai #affiliatemarketing #digitalmarketingfo"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "#makemoneyonline #ai #affiliatemarketing #digitalmarketingforbeginners",
+      "url": "https://www.tiktok.com/@officialloucameron/video/7685537375988092174"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@maverickgpt/video/7685382533684546847",
+      "cluster_id": "cluster-5",
+      "engagement": 55,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 79,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 50,
+      "item_id": "TK10",
+      "local_relevance": 0.2,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK10",
+            "native_rank": 8,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 8
+      },
+      "rerank_score": 10.600000000000001,
+      "rrf_score": 0.007352941176470588,
+      "snippet": "Comment \"Edit\" and I'll send you the full setup guide \ud83d\udc47 ChatGPT can now edit videos for you. Upload any video and it adds captions, cuts out dead space, and even adds full on screen animations. Here's how to set it up in 30 seconds: Go to ChatGPT \u2192 choose Codex (top left) Click Plugins \u2192 search \"Remotion\" \u2192 Install Plugin Drag and drop any video into Codex Say: \"Edit this video, add on screen captions, cut every silence, and animate the key moments on screen\" ChatGPT hands you back a perfectly edited video ready to post. #chatgpt #ai #videoediting #remotion #aitools",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "maverickgpt",
+          "body": "Comment \"Edit\" and I'll send you the full setup guide \ud83d\udc47 ChatGPT can now edit videos for you. Upload any video and it adds captions, cuts out dead space, and even adds full on screen animations. Here's how to set it up in 30 seconds: Go to ChatGPT \u2192 choose Codex (top left) Click Plugins \u2192 search \"Remotion\" \u2192 Install Plugin Drag and drop any video into Codex Say: \"Edit this video, add on screen captions, cut every silence, and animate the key moments on screen\" ChatGPT hands you back a perfectly edited video ready to post. #chatgpt #ai #videoediting #remotion #aitools",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 152,
+            "likes": 864,
+            "shares": 191,
+            "views": 19652
+          },
+          "engagement_score": 55,
+          "freshness": 79,
+          "item_id": "TK10",
+          "local_rank_score": 0.3825,
+          "local_relevance": 0.2,
+          "metadata": {
+            "hashtags": [
+              "chatgpt",
+              "ai",
+              "videoediting",
+              "remotion",
+              "aitools"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-14",
+          "relevance_hint": 0.28,
+          "snippet": "Comment \"Edit\" and I'll send you the full setup guide \ud83d\udc47 ChatGPT can now edit videos for you. Upload any video and it adds captions, cuts out dead space, and even adds full on screen animations. Here's how to set it up in 30 seconds: Go to ChatGPT \u2192 choose Codex (top left) Click Plugins \u2192 search \"Remotion\" \u2192 Install Plugin Drag and drop any video into Codex Say: \"Edit this video, add on screen captions, cut every silence, and animate the key moments on screen\" ChatGPT hands you back a perfectly edited video ready to post. #chatgpt #ai #videoediting #remotion #aitools",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "Comment \"Edit\" and I'll send you the full setup guide \ud83d\udc47 ChatGPT can now edit videos for you. Upload any video and it adds captions, cuts out",
+          "url": "https://www.tiktok.com/@maverickgpt/video/7685382533684546847",
+          "why_relevant": "TikTok: Comment \"Edit\" and I'll send you the full setup guide \ud83d\udc47 Chat"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Comment \"Edit\" and I'll send you the full setup guide \ud83d\udc47 ChatGPT can now edit videos for you. Upload any video and it adds captions, cuts out",
+      "url": "https://www.tiktok.com/@maverickgpt/video/7685382533684546847"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@nthl.n0r/video/7685488738243218720",
+      "cluster_id": "cluster-6",
+      "engagement": 54,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 79,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 59.35,
+      "item_id": "TK8",
+      "local_relevance": 0.2,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK8",
+            "native_rank": 9,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 9
+      },
+      "rerank_score": 10.600000000000001,
+      "rrf_score": 0.007246376811594203,
+      "snippet": "#chai #characterai #ai #bot #swerve",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "nthl.n0r",
+          "body": "#chai #characterai #ai #bot #swerve",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 61,
+            "likes": 534,
+            "shares": 42,
+            "views": 27068
+          },
+          "engagement_score": 54,
+          "freshness": 79,
+          "item_id": "TK8",
+          "local_rank_score": 0.3815,
+          "local_relevance": 0.2,
+          "metadata": {
+            "hashtags": [
+              "chai",
+              "characterai",
+              "ai",
+              "bot",
+              "swerve"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-14",
+          "relevance_hint": 0.33,
+          "snippet": "#chai #characterai #ai #bot #swerve",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "#chai #characterai #ai #bot #swerve",
+          "url": "https://www.tiktok.com/@nthl.n0r/video/7685488738243218720",
+          "why_relevant": "TikTok: #chai #characterai #ai #bot #swerve"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "#chai #characterai #ai #bot #swerve",
+      "url": "https://www.tiktok.com/@nthl.n0r/video/7685488738243218720"
+    },
+    {
+      "candidate_id": "https://instagram.com/reel/dcezzz9plxc",
+      "cluster_id": "cluster-7",
+      "engagement": 50,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 40,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 40,
+      "item_id": "IG1",
+      "local_relevance": 0.39,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "IG1",
+            "native_rank": 1,
+            "source": "instagram",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:instagram": 1
+      },
+      "rerank_score": 16.099999999999994,
+      "rrf_score": 0.00819672131147541,
+      "snippet": "AI knows the difference between a $5 job and a $50,000 job. AI has been trained on data, right? It and the data it's been trained on, it knows what a $5 job looks like for a marketing email and what a $50,000 job looks like to write a marketing email from a top-level consultant at a firm like McKinsey, right? That a whole group of people might write it might use it. So when you ask AI, it defaults to giving you what everybody else will get. Right? But since we're not everybody else, we're setting our standard up here. You need to tell AI what the value of the output needs to be as you assign it the...",
+      "source": "instagram",
+      "source_items": [
+        {
+          "author": "alicialyttle",
+          "body": "Save this, then go rewrite the last prompt you sent.\n\nMost people ask AI for a $5 answer without realizing it. \u201cWrite me a marketing email.\u201d \u201cGive me some content ideas.\u201d The output isn\u2019t bad, it\u2019s just the tier you asked for.\n\nThe fix is one sentence. Tell it what the work is worth. \u201cWrite me the marketing email a $50,000 consultant would hand a client.\u201d Same request, completely different standard.\n\nBecause AI doesn\u2019t set the bar. You do. \ud83d\udcb0\ud83e\udd16\n\nComment \u201cSUMMIT\u201d if you want more ways to get real work out of AI \ud83c\udf89\nAI knows the difference between a $5 job and a $50,000 job. AI has been trained on data, right? It and the data it's been trained on, it knows what a $5 job looks like for a marketing email and what a $50,000 job looks like to write a marketing email from a top-level consultant at a firm like McKinsey, right? That a whole group of people might write it might use it. So when you ask AI, it defaults to giving you what everybody else will get. Right? But since we're not everybody else, we're setting our standard up here. You need to tell AI what the value of the output needs to be as you assign it the job. Yes? Say money money. Right? You pay ChatGPT $20 a month. Get the most you can out of it. You're like, ChatGPT, I pay you $20 a month. You're going to write this marketing email like I paid you $50,000 and you're not going to stop until I get the best thing on the planet, right? So expect more out of your AI tools. You're just telling them to do something for you, but you're not setting the standard. You're not asking for premium, but it's about time that you did.",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 57,
+            "likes": 258,
+            "views": 3613
+          },
+          "engagement_score": 50,
+          "freshness": 40,
+          "item_id": "IG1",
+          "local_rank_score": 0.4035,
+          "local_relevance": 0.39,
+          "metadata": {
+            "hashtags": [],
+            "top_comments": []
+          },
+          "published_at": "2026-08-25",
+          "relevance_hint": 0.41,
+          "snippet": "AI knows the difference between a $5 job and a $50,000 job. AI has been trained on data, right? It and the data it's been trained on, it knows what a $5 job looks like for a marketing email and what a $50,000 job looks like to write a marketing email from a top-level consultant at a firm like McKinsey, right? That a whole group of people might write it might use it. So when you ask AI, it defaults to giving you what everybody else will get. Right? But since we're not everybody else, we're setting our standard up here. You need to tell AI what the value of the output needs to be as you assign it the...",
+          "source": "instagram",
+          "source_quality": 0.58,
+          "title": "Save this, then go rewrite the last prompt you sent.\n\nMost people ask AI for a $5 answer without realizing it. \u201cWrite me a marketing email.\u201d",
+          "url": "https://www.instagram.com/reel/DceZZZ9pLXC/",
+          "why_relevant": "Instagram: Save this, then go rewrite the last prompt you sent.\n\nMost p"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "instagram"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Save this, then go rewrite the last prompt you sent.\n\nMost people ask AI for a $5 answer without realizing it. \u201cWrite me a marketing email.\u201d",
+      "url": "https://www.instagram.com/reel/DceZZZ9pLXC/"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@treveon.lee/video/7687343889933552909",
+      "cluster_id": "cluster-8",
+      "engagement": 16,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 89,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 43.85,
+      "item_id": "TK20",
+      "local_relevance": 0.19,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK20",
+            "native_rank": 12,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 12
+      },
+      "rerank_score": 11.899999999999999,
+      "rrf_score": 0.006944444444444444,
+      "snippet": "How to make $10k/month with Ai #sidehustle #aisidehustle #ai",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "treveon.lee",
+          "body": "How to make $10k/month with Ai #sidehustle #aisidehustle #ai",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 2,
+            "likes": 27,
+            "shares": 0,
+            "views": 402
+          },
+          "engagement_score": 16,
+          "freshness": 89,
+          "item_id": "TK20",
+          "local_rank_score": 0.36200000000000004,
+          "local_relevance": 0.19,
+          "metadata": {
+            "hashtags": [
+              "sidehustle",
+              "aisidehustle",
+              "ai"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-19",
+          "relevance_hint": 0.32,
+          "snippet": "How to make $10k/month with Ai #sidehustle #aisidehustle #ai",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "How to make $10k/month with Ai #sidehustle #aisidehustle #ai",
+          "url": "https://www.tiktok.com/@treveon.lee/video/7687343889933552909",
+          "why_relevant": "TikTok: How to make $10k/month with Ai #sidehustle #aisidehustle #ai"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "How to make $10k/month with Ai #sidehustle #aisidehustle #ai",
+      "url": "https://www.tiktok.com/@treveon.lee/video/7687343889933552909"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@destiny.hustles/video/7687099192086465822",
+      "cluster_id": "cluster-9",
+      "engagement": 14,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 89,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 28.0,
+      "item_id": "TK24",
+      "local_relevance": 0.26,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK24",
+            "native_rank": 5,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 5
+      },
+      "rerank_score": 16.799999999999997,
+      "rrf_score": 0.007692307692307693,
+      "snippet": "Everyone's chasing the next side hustle. \ud83d\udc40 I used ChatGPT + Wron AI to build an app and get it ready for the App Store. \ud83d\ude80 Comment APP to learn more! #ai #appdeveloper #wronai #aitools #mobileapp",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "destiny.hustles",
+          "body": "Everyone's chasing the next side hustle. \ud83d\udc40 I used ChatGPT + Wron AI  to build an app and get it ready for the App Store. \ud83d\ude80 Comment APP to learn more!  #ai  #appdeveloper #wronai #aitools  #mobileapp",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 4,
+            "likes": 14,
+            "shares": 2,
+            "views": 329
+          },
+          "engagement_score": 14,
+          "freshness": 89,
+          "item_id": "TK24",
+          "local_rank_score": 0.4055,
+          "local_relevance": 0.26,
+          "metadata": {
+            "hashtags": [
+              "ai",
+              "appdeveloper",
+              "wronai",
+              "aitools",
+              "mobileapp"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-19",
+          "relevance_hint": 0.53,
+          "snippet": "Everyone's chasing the next side hustle. \ud83d\udc40 I used ChatGPT + Wron AI to build an app and get it ready for the App Store. \ud83d\ude80 Comment APP to learn more! #ai #appdeveloper #wronai #aitools #mobileapp",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "Everyone's chasing the next side hustle. \ud83d\udc40 I used ChatGPT + Wron AI  to build an app and get it ready for the App Store. \ud83d\ude80 Comment APP to le",
+          "url": "https://www.tiktok.com/@destiny.hustles/video/7687099192086465822",
+          "why_relevant": "TikTok: Everyone's chasing the next side hustle. \ud83d\udc40 I used ChatGPT +"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Everyone's chasing the next side hustle. \ud83d\udc40 I used ChatGPT + Wron AI  to build an app and get it ready for the App Store. \ud83d\ude80 Comment APP to le",
+      "url": "https://www.tiktok.com/@destiny.hustles/video/7687099192086465822"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@imjonathanacuna/video/7688874542575455518",
+      "cluster_id": "cluster-10",
+      "engagement": 12,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 97,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 24.0,
+      "item_id": "TK21",
+      "local_relevance": 0.26,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK21",
+            "native_rank": 2,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 2
+      },
+      "rerank_score": 18.4,
+      "rrf_score": 0.008064516129032258,
+      "snippet": "cam is my content automation app and it replaced 5 full time jobs. video editor, script writer, social media manager, the whole team, all reduced to code with claude code. now each video costs about $3 for every 30 seconds. #ai #automation #contentcreation #business #SmallBusiness",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "imjonathanacuna",
+          "body": "cam is my content automation app and it replaced 5 full time jobs. video editor, script writer, social media manager, the whole team, all reduced to code with claude code. now each video costs about $3 for every 30 seconds. #ai #automation #contentcreation #business #SmallBusiness",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 2,
+            "likes": 9,
+            "shares": 1,
+            "views": 389
+          },
+          "engagement_score": 12,
+          "freshness": 97,
+          "item_id": "TK21",
+          "local_rank_score": 0.4235,
+          "local_relevance": 0.26,
+          "metadata": {
+            "hashtags": [
+              "ai",
+              "automation",
+              "contentcreation",
+              "business",
+              "smallbusiness"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.41,
+          "snippet": "cam is my content automation app and it replaced 5 full time jobs. video editor, script writer, social media manager, the whole team, all reduced to code with claude code. now each video costs about $3 for every 30 seconds. #ai #automation #contentcreation #business #SmallBusiness",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "cam is my content automation app and it replaced 5 full time jobs. video editor, script writer, social media manager, the whole team, all re",
+          "url": "https://www.tiktok.com/@imjonathanacuna/video/7688874542575455518",
+          "why_relevant": "TikTok: cam is my content automation app and it replaced 5 full time"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "cam is my content automation app and it replaced 5 full time jobs. video editor, script writer, social media manager, the whole team, all re",
+      "url": "https://www.tiktok.com/@imjonathanacuna/video/7688874542575455518"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@destiny.hustles/video/7685561876284968223",
+      "cluster_id": "cluster-11",
+      "engagement": 11,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 82,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 22.0,
+      "item_id": "TK22",
+      "local_relevance": 0.26,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK22",
+            "native_rank": 7,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 7
+      },
+      "rerank_score": 15.399999999999999,
+      "rrf_score": 0.007462686567164179,
+      "snippet": "almost kept this private... \ud83d\udc40 I asked ChatGPT for a profitable app idea, pasted the prompt into Wron AI, added a paywall, and now it's ready for the App Store. No coding. Just a prompt. \ud83e\udd2f Comment APP and I'll send you the prompt. \ud83d\ude80 #wronai #aitools #mobileapps #appdevelopment #nocode",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "destiny.hustles",
+          "body": "almost kept this private... \ud83d\udc40 I asked ChatGPT for a profitable app idea, pasted the prompt into Wron AI, added a paywall, and now it's ready for the App Store. No coding. Just a prompt. \ud83e\udd2f Comment APP and I'll send you the prompt. \ud83d\ude80 #wronai  #aitools  #mobileapps #appdevelopment #nocode",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 0,
+            "likes": 18,
+            "shares": 1,
+            "views": 349
+          },
+          "engagement_score": 11,
+          "freshness": 82,
+          "item_id": "TK22",
+          "local_rank_score": 0.385,
+          "local_relevance": 0.26,
+          "metadata": {
+            "hashtags": [
+              "wronai",
+              "aitools",
+              "mobileapps",
+              "appdevelopment",
+              "nocode"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-15",
+          "relevance_hint": 0.37,
+          "snippet": "almost kept this private... \ud83d\udc40 I asked ChatGPT for a profitable app idea, pasted the prompt into Wron AI, added a paywall, and now it's ready for the App Store. No coding. Just a prompt. \ud83e\udd2f Comment APP and I'll send you the prompt. \ud83d\ude80 #wronai #aitools #mobileapps #appdevelopment #nocode",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "almost kept this private... \ud83d\udc40 I asked ChatGPT for a profitable app idea, pasted the prompt into Wron AI, added a paywall, and now it's ready",
+          "url": "https://www.tiktok.com/@destiny.hustles/video/7685561876284968223",
+          "why_relevant": "TikTok: almost kept this private... \ud83d\udc40 I asked ChatGPT for a profitab"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "almost kept this private... \ud83d\udc40 I asked ChatGPT for a profitable app idea, pasted the prompt into Wron AI, added a paywall, and now it's ready",
+      "url": "https://www.tiktok.com/@destiny.hustles/video/7685561876284968223"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@aniksingal/video/7688773417528495391",
+      "cluster_id": "cluster-12",
+      "engagement": 3,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 97,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 16.0,
+      "item_id": "TK28",
+      "local_relevance": 0.26,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK28",
+            "native_rank": 3,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 3
+      },
+      "rerank_score": 18.4,
+      "rrf_score": 0.007936507936507936,
+      "snippet": "A billion-dollar bet on losing on purpose A Higgsfield employee offered $50,000 to anyone who could out-build Higgsfield using Higgsfield's own API. Seems reckless, until you see the strategy. Higgsfield's API puts 50+ AI image and video models, Kling, Seedance, MiniMax, and its own, behind one connection. Developers pay per use, no separate integration for each. So even if someone builds a better app on top of it, they own the design and the users, but every generation still runs through Higgsfield, and Higgsfield still gets paid. The bet isn't winning the model war. It's owning the layer everyone accesses those models through. Share this with a developer thinking about",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "aniksingal",
+          "body": "A billion-dollar bet on losing on purpose A Higgsfield employee offered $50,000 to anyone who could out-build Higgsfield using Higgsfield's own API. Seems reckless, until you see the strategy. Higgsfield's API puts 50+ AI image and video models, Kling, Seedance, MiniMax, and its own, behind one connection. Developers pay per use, no separate integration for each. So even if someone builds a better app on top of it, they own the design and the users, but every generation still runs through Higgsfield, and Higgsfield still gets paid. The bet isn't winning the model war. It's owning the layer everyone accesses those models through. Share this with a developer thinking about the AI stack. Save it, this strategy is worth studying. #Higgsfield #AIStrategy #StartupStrategy #anik #AI #ai2026 #dailyai #aitech #ainews #futureofai #aiforbeginners #artificialintelligence #aiupdates #higgsfieldai",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 0,
+            "likes": 7,
+            "shares": 0,
+            "views": 120
+          },
+          "engagement_score": 3,
+          "freshness": 97,
+          "item_id": "TK28",
+          "local_rank_score": 0.4145,
+          "local_relevance": 0.26,
+          "metadata": {
+            "hashtags": [
+              "ai2026",
+              "dailyai",
+              "aitech",
+              "ainews",
+              "futureofai",
+              "aiforbeginners",
+              "artificialintelligence",
+              "aiupdates",
+              "higgsfieldai"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.53,
+          "snippet": "A billion-dollar bet on losing on purpose A Higgsfield employee offered $50,000 to anyone who could out-build Higgsfield using Higgsfield's own API. Seems reckless, until you see the strategy. Higgsfield's API puts 50+ AI image and video models, Kling, Seedance, MiniMax, and its own, behind one connection. Developers pay per use, no separate integration for each. So even if someone builds a better app on top of it, they own the design and the users, but every generation still runs through Higgsfield, and Higgsfield still gets paid. The bet isn't winning the model war. It's owning the layer everyone accesses those models through. Share this with a developer thinking about",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "A billion-dollar bet on losing on purpose A Higgsfield employee offered $50,000 to anyone who could out-build Higgsfield using Higgsfield's",
+          "url": "https://www.tiktok.com/@aniksingal/video/7688773417528495391",
+          "why_relevant": "TikTok: A billion-dollar bet on losing on purpose A Higgsfield emplo"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "A billion-dollar bet on losing on purpose A Higgsfield employee offered $50,000 to anyone who could out-build Higgsfield using Higgsfield's",
+      "url": "https://www.tiktok.com/@aniksingal/video/7688773417528495391"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@kaycodes_/video/7682544242547313933",
+      "cluster_id": "cluster-13",
+      "engagement": 3,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 64,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 12.6,
+      "item_id": "TK26",
+      "local_relevance": 0.31,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK26",
+            "native_rank": 11,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 11
+      },
+      "rerank_score": 15.299999999999997,
+      "rrf_score": 0.007042253521126761,
+      "snippet": "Comment APP if you want the link \ud83d\udd17 #mobile #app #sidehustle #ai #mobilegaming",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "kaycodes_",
+          "body": "Comment APP if you want the link \ud83d\udd17  #mobile #app #sidehustle #ai #mobilegaming",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 0,
+            "likes": 6,
+            "shares": 1,
+            "views": 147
+          },
+          "engagement_score": 3,
+          "freshness": 64,
+          "item_id": "TK26",
+          "local_rank_score": 0.36450000000000005,
+          "local_relevance": 0.31,
+          "metadata": {
+            "hashtags": [
+              "mobile",
+              "app",
+              "sidehustle",
+              "ai",
+              "mobilegaming"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-06",
+          "relevance_hint": 0.55,
+          "snippet": "Comment APP if you want the link \ud83d\udd17 #mobile #app #sidehustle #ai #mobilegaming",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "Comment APP if you want the link \ud83d\udd17  #mobile #app #sidehustle #ai #mobilegaming",
+          "url": "https://www.tiktok.com/@kaycodes_/video/7682544242547313933",
+          "why_relevant": "TikTok: Comment APP if you want the link \ud83d\udd17  #mobile #app #sidehustle"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Comment APP if you want the link \ud83d\udd17  #mobile #app #sidehustle #ai #mobilegaming",
+      "url": "https://www.tiktok.com/@kaycodes_/video/7682544242547313933"
+    }
+  ],
+  "topic": "AI mobile app gaps \"would pay\"",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}

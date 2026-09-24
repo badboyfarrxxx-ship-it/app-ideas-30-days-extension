@@ -1,0 +1,424 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "deterministic",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "productivity mobile app \"worth paying\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://instagram.com/reel/dcgqs_1azd8"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://instagram.com/reel/dcgqs_1azd8"
+      ],
+      "score": 0.0,
+      "sources": [
+        "instagram"
+      ],
+      "title": "This is the app I open before any other app now \ud83d\udc7e\n\n#raycast #productivity #buildinpublic #founderlife #aiworkflow \n\n{ Raycast, Mac productiv"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@angelzzheng/video/7678650686392782100"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://tiktok.com/@angelzzheng/video/7678650686392782100"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "Part 2 of the subscriptions I think are worth paying for!! (From someone who takes her tech stack VERY seriously) #appsworthpayingfor #produ"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@pinchify/video/7688388316152040717"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://tiktok.com/@pinchify/video/7688388316152040717"
+      ],
+      "score": 0.0,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "I built my own iPhone fitness app with @ChatGPT Codex \ud83d\udcf1 OpenAI Codex is an AI coding assistant available directly inside the ChatGPT app. It"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-24T12:21:41.969312+00:00",
+  "items_by_source": {
+    "instagram": [
+      {
+        "author": "xaifhimself",
+        "body": "This is the app I open before any other app now \ud83d\udc7e\n\n#raycast #productivity #buildinpublic #founderlife #aiworkflow \n\n{ Raycast, Mac productivity, AI workflow, founder tools, productivity hacks, app declutter, Mac setup, automation tools, launcher app, workflow automation, tech stack, solopreneur tools, AI for founders }\nI spent \u20b920,000 on this app, and honestly, I love it. It has replaced five different apps on my Mac, as well as on my iPhone. The first feature that it has is basically clipboard history. History which is there for at least one year. So if I want to copy-paste anything else, I can do it in just a few seconds. Apart from that, there is a button called as command Shift I. So if I want to improve my grammar or my text, I can do it. I have replaced my whisper flow with this app. Now, the last and my favorite feature is basically AI. If I want to use any other AI model, the pre-thing is under one umbrella. The name of the app is Raycast. To be honest, it's one of my favorite app that I use it every day. If you want to try it out, it's a free app, as well as there is a paid version of it. Try it out and let me know what do you think.",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 2,
+          "likes": 86,
+          "views": 1236
+        },
+        "engagement_score": 69,
+        "freshness": 41,
+        "item_id": "IG2",
+        "local_rank_score": 0.295,
+        "local_relevance": 0.19,
+        "metadata": {
+          "hashtags": [
+            "raycast",
+            "productivity",
+            "buildinpublic",
+            "founderlife",
+            "aiworkflow"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-08-26",
+        "relevance_hint": 0.33,
+        "snippet": "I spent \u20b920,000 on this app, and honestly, I love it. It has replaced five different apps on my Mac, as well as on my iPhone. The first feature that it has is basically clipboard history. History which is there for at least one year. So if I want to copy-paste anything else, I can do it in just a few seconds. Apart from that, there is a button called as command Shift I. So if I want to improve my grammar or my text, I can do it. I have replaced my whisper flow with this app. Now, the last and my favorite feature is basically AI. If I want to use any other AI model, the pre-thing is...",
+        "source": "instagram",
+        "source_quality": 0.58,
+        "title": "This is the app I open before any other app now \ud83d\udc7e\n\n#raycast #productivity #buildinpublic #founderlife #aiworkflow \n\n{ Raycast, Mac productiv",
+        "url": "https://www.instagram.com/reel/DcgQs_1AZd8/",
+        "why_relevant": "Instagram: This is the app I open before any other app now \ud83d\udc7e\n\n#raycast"
+      }
+    ],
+    "tiktok": [
+      {
+        "author": "pinchify",
+        "body": "I built my own iPhone fitness app with @ChatGPT Codex \ud83d\udcf1 OpenAI Codex is an AI coding assistant available directly inside the ChatGPT app. It combines AI coding and app-building tools for vibe coding and mobile app development \u2014 just describe what you want, and Codex can write, edit, debug, and test the code. This has definitely been one of my favorite ways to use ChatGPT, but it also has tons of other implications that can help with productivity, content creation, learning, automation, etc. #Tech #chatgpt #openaicodex #codex #chatgpt_partner",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 20,
+          "likes": 66,
+          "shares": 4,
+          "views": 1158
+        },
+        "engagement_score": 46,
+        "freshness": 95,
+        "item_id": "TK15",
+        "local_rank_score": 0.407,
+        "local_relevance": 0.19,
+        "metadata": {
+          "hashtags": [
+            "tech",
+            "chatgpt",
+            "openaicodex",
+            "codex",
+            "chatgpt_partner"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-22",
+        "relevance_hint": 0.43,
+        "snippet": "I built my own iPhone fitness app with @ChatGPT Codex \ud83d\udcf1 OpenAI Codex is an AI coding assistant available directly inside the ChatGPT app. It combines AI coding and app-building tools for vibe coding and mobile app development \u2014 just describe what you want, and Codex can write, edit, debug, and test the code. This has definitely been one of my favorite ways to use ChatGPT, but it also has tons of other implications that can help with productivity, content creation, learning, automation, etc. #Tech #chatgpt #openaicodex #codex #chatgpt_partner",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "I built my own iPhone fitness app with @ChatGPT Codex \ud83d\udcf1 OpenAI Codex is an AI coding assistant available directly inside the ChatGPT app. It",
+        "url": "https://www.tiktok.com/@pinchify/video/7688388316152040717",
+        "why_relevant": "TikTok: I built my own iPhone fitness app with @ChatGPT Codex \ud83d\udcf1 Open"
+      },
+      {
+        "author": "angelzzheng",
+        "body": "Part 2 of the subscriptions I think are worth paying for!! (From someone who takes her tech stack VERY seriously) #appsworthpayingfor #productivitytools #notetaking",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 3,
+          "likes": 939,
+          "shares": 21,
+          "views": 20952
+        },
+        "engagement_score": 64,
+        "freshness": 43,
+        "item_id": "TK8",
+        "local_rank_score": 0.3275,
+        "local_relevance": 0.24,
+        "metadata": {
+          "hashtags": [
+            "appsworthpayingfor",
+            "productivitytools",
+            "notetaking"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-08-27",
+        "relevance_hint": 0.68,
+        "snippet": "Part 2 of the subscriptions I think are worth paying for!! (From someone who takes her tech stack VERY seriously) #appsworthpayingfor #productivitytools #notetaking",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "Part 2 of the subscriptions I think are worth paying for!! (From someone who takes her tech stack VERY seriously) #appsworthpayingfor #produ",
+        "url": "https://www.tiktok.com/@angelzzheng/video/7678650686392782100",
+        "why_relevant": "TikTok: Part 2 of the subscriptions I think are worth paying for!! ("
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "evergreen_ok",
+    "intent": "concept",
+    "notes": [
+      "fallback-plan (LLM error: HTTPError)"
+    ],
+    "raw_topic": "productivity mobile app \"worth paying\"",
+    "source_weights": {
+      "instagram": 0.5,
+      "tiktok": 0.5
+    },
+    "subqueries": [
+      {
+        "label": "primary",
+        "ranking_query": "What recent evidence from the last 30 days is most relevant to productivity mobile app \"worth paying\"?",
+        "search_query": "productivity mobile app \"worth paying\"",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 1.0
+      }
+    ]
+  },
+  "range_from": "2026-08-25",
+  "range_to": "2026-09-24",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://instagram.com/reel/dcgqs_1azd8",
+      "cluster_id": "cluster-1",
+      "engagement": 69,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 41,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 40,
+      "item_id": "IG2",
+      "local_relevance": 0.19,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "IG2",
+            "native_rank": 1,
+            "source": "instagram",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:instagram": 1
+      },
+      "rerank_score": 2.3000000000000007,
+      "rrf_score": 0.00819672131147541,
+      "snippet": "I spent \u20b920,000 on this app, and honestly, I love it. It has replaced five different apps on my Mac, as well as on my iPhone. The first feature that it has is basically clipboard history. History which is there for at least one year. So if I want to copy-paste anything else, I can do it in just a few seconds. Apart from that, there is a button called as command Shift I. So if I want to improve my grammar or my text, I can do it. I have replaced my whisper flow with this app. Now, the last and my favorite feature is basically AI. If I want to use any other AI model, the pre-thing is...",
+      "source": "instagram",
+      "source_items": [
+        {
+          "author": "xaifhimself",
+          "body": "This is the app I open before any other app now \ud83d\udc7e\n\n#raycast #productivity #buildinpublic #founderlife #aiworkflow \n\n{ Raycast, Mac productivity, AI workflow, founder tools, productivity hacks, app declutter, Mac setup, automation tools, launcher app, workflow automation, tech stack, solopreneur tools, AI for founders }\nI spent \u20b920,000 on this app, and honestly, I love it. It has replaced five different apps on my Mac, as well as on my iPhone. The first feature that it has is basically clipboard history. History which is there for at least one year. So if I want to copy-paste anything else, I can do it in just a few seconds. Apart from that, there is a button called as command Shift I. So if I want to improve my grammar or my text, I can do it. I have replaced my whisper flow with this app. Now, the last and my favorite feature is basically AI. If I want to use any other AI model, the pre-thing is under one umbrella. The name of the app is Raycast. To be honest, it's one of my favorite app that I use it every day. If you want to try it out, it's a free app, as well as there is a paid version of it. Try it out and let me know what do you think.",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 2,
+            "likes": 86,
+            "views": 1236
+          },
+          "engagement_score": 69,
+          "freshness": 41,
+          "item_id": "IG2",
+          "local_rank_score": 0.295,
+          "local_relevance": 0.19,
+          "metadata": {
+            "hashtags": [
+              "raycast",
+              "productivity",
+              "buildinpublic",
+              "founderlife",
+              "aiworkflow"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-08-26",
+          "relevance_hint": 0.33,
+          "snippet": "I spent \u20b920,000 on this app, and honestly, I love it. It has replaced five different apps on my Mac, as well as on my iPhone. The first feature that it has is basically clipboard history. History which is there for at least one year. So if I want to copy-paste anything else, I can do it in just a few seconds. Apart from that, there is a button called as command Shift I. So if I want to improve my grammar or my text, I can do it. I have replaced my whisper flow with this app. Now, the last and my favorite feature is basically AI. If I want to use any other AI model, the pre-thing is...",
+          "source": "instagram",
+          "source_quality": 0.58,
+          "title": "This is the app I open before any other app now \ud83d\udc7e\n\n#raycast #productivity #buildinpublic #founderlife #aiworkflow \n\n{ Raycast, Mac productiv",
+          "url": "https://www.instagram.com/reel/DcgQs_1AZd8/",
+          "why_relevant": "Instagram: This is the app I open before any other app now \ud83d\udc7e\n\n#raycast"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "instagram"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "This is the app I open before any other app now \ud83d\udc7e\n\n#raycast #productivity #buildinpublic #founderlife #aiworkflow \n\n{ Raycast, Mac productiv",
+      "url": "https://www.instagram.com/reel/DcgQs_1AZd8/"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@angelzzheng/video/7678650686392782100",
+      "cluster_id": "cluster-2",
+      "engagement": 64,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 43,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 40,
+      "item_id": "TK8",
+      "local_relevance": 0.24,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK8",
+            "native_rank": 2,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 2
+      },
+      "rerank_score": 6.199999999999999,
+      "rrf_score": 0.008064516129032258,
+      "snippet": "Part 2 of the subscriptions I think are worth paying for!! (From someone who takes her tech stack VERY seriously) #appsworthpayingfor #productivitytools #notetaking",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "angelzzheng",
+          "body": "Part 2 of the subscriptions I think are worth paying for!! (From someone who takes her tech stack VERY seriously) #appsworthpayingfor #productivitytools #notetaking",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 3,
+            "likes": 939,
+            "shares": 21,
+            "views": 20952
+          },
+          "engagement_score": 64,
+          "freshness": 43,
+          "item_id": "TK8",
+          "local_rank_score": 0.3275,
+          "local_relevance": 0.24,
+          "metadata": {
+            "hashtags": [
+              "appsworthpayingfor",
+              "productivitytools",
+              "notetaking"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-08-27",
+          "relevance_hint": 0.68,
+          "snippet": "Part 2 of the subscriptions I think are worth paying for!! (From someone who takes her tech stack VERY seriously) #appsworthpayingfor #productivitytools #notetaking",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "Part 2 of the subscriptions I think are worth paying for!! (From someone who takes her tech stack VERY seriously) #appsworthpayingfor #produ",
+          "url": "https://www.tiktok.com/@angelzzheng/video/7678650686392782100",
+          "why_relevant": "TikTok: Part 2 of the subscriptions I think are worth paying for!! ("
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Part 2 of the subscriptions I think are worth paying for!! (From someone who takes her tech stack VERY seriously) #appsworthpayingfor #produ",
+      "url": "https://www.tiktok.com/@angelzzheng/video/7678650686392782100"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@pinchify/video/7688388316152040717",
+      "cluster_id": "cluster-3",
+      "engagement": 46,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 95,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 40,
+      "item_id": "TK15",
+      "local_relevance": 0.19,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK15",
+            "native_rank": 1,
+            "source": "tiktok",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:tiktok": 1
+      },
+      "rerank_score": 13.099999999999994,
+      "rrf_score": 0.00819672131147541,
+      "snippet": "I built my own iPhone fitness app with @ChatGPT Codex \ud83d\udcf1 OpenAI Codex is an AI coding assistant available directly inside the ChatGPT app. It combines AI coding and app-building tools for vibe coding and mobile app development \u2014 just describe what you want, and Codex can write, edit, debug, and test the code. This has definitely been one of my favorite ways to use ChatGPT, but it also has tons of other implications that can help with productivity, content creation, learning, automation, etc. #Tech #chatgpt #openaicodex #codex #chatgpt_partner",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "pinchify",
+          "body": "I built my own iPhone fitness app with @ChatGPT Codex \ud83d\udcf1 OpenAI Codex is an AI coding assistant available directly inside the ChatGPT app. It combines AI coding and app-building tools for vibe coding and mobile app development \u2014 just describe what you want, and Codex can write, edit, debug, and test the code. This has definitely been one of my favorite ways to use ChatGPT, but it also has tons of other implications that can help with productivity, content creation, learning, automation, etc. #Tech #chatgpt #openaicodex #codex #chatgpt_partner",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 20,
+            "likes": 66,
+            "shares": 4,
+            "views": 1158
+          },
+          "engagement_score": 46,
+          "freshness": 95,
+          "item_id": "TK15",
+          "local_rank_score": 0.407,
+          "local_relevance": 0.19,
+          "metadata": {
+            "hashtags": [
+              "tech",
+              "chatgpt",
+              "openaicodex",
+              "codex",
+              "chatgpt_partner"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-22",
+          "relevance_hint": 0.43,
+          "snippet": "I built my own iPhone fitness app with @ChatGPT Codex \ud83d\udcf1 OpenAI Codex is an AI coding assistant available directly inside the ChatGPT app. It combines AI coding and app-building tools for vibe coding and mobile app development \u2014 just describe what you want, and Codex can write, edit, debug, and test the code. This has definitely been one of my favorite ways to use ChatGPT, but it also has tons of other implications that can help with productivity, content creation, learning, automation, etc. #Tech #chatgpt #openaicodex #codex #chatgpt_partner",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "I built my own iPhone fitness app with @ChatGPT Codex \ud83d\udcf1 OpenAI Codex is an AI coding assistant available directly inside the ChatGPT app. It",
+          "url": "https://www.tiktok.com/@pinchify/video/7688388316152040717",
+          "why_relevant": "TikTok: I built my own iPhone fitness app with @ChatGPT Codex \ud83d\udcf1 Open"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "I built my own iPhone fitness app with @ChatGPT Codex \ud83d\udcf1 OpenAI Codex is an AI coding assistant available directly inside the ChatGPT app. It",
+      "url": "https://www.tiktok.com/@pinchify/video/7688388316152040717"
+    }
+  ],
+  "topic": "productivity mobile app \"worth paying\"",
+  "warnings": [
+    "Evidence is thin for this topic."
+  ]
+}
