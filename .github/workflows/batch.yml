@@ -111,7 +111,7 @@ jobs:
             B) SOURCES=x,bluesky ;;
             C) SOURCES=youtube ;;
             D) SOURCES=tiktok,instagram ;;
-            E) SOURCES=github,polymarket ;;
+            E) SOURCES=github ;;  # polymarket dropped: betting markets are not app ideas
             F) SOURCES=grounding,perplexity ;;
             *) echo "Unknown group $GROUP"; exit 1 ;;
           esac
