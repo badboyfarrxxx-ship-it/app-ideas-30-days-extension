@@ -1,0 +1,104 @@
+Batch E sources=github,polymarket
+Started at 2026-09-24T16:45:30Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/36029553528
+----
+
+===== Seed: "I would pay for an app" =====
+/last30days · researching: "I would pay for an app"
+⏳ [95mProcessing[0m Crunching the data...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=market, subqueries=3, source=llm
+[Planner]   sq1 label=github paid apps search="paid app OR "willing to pay" OR monetization OR subscription" sources=[polymarket,github]
+[Planner]   sq2 label=polymarket app markets search="app OR mobile OR software" sources=[polymarket,github]
+[Planner]   sq3 label=github monetization feedback search="paywall OR premium OR "open source" monetization" sources=[polymarket,github]
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+✓ Research complete (26.9s) - Polymarket: 0 markets, Github: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-24/1645-i-would-pay-for-an-app.json
+[OK] seed succeeded
+
+===== Seed: "I.d pay for an app" =====
+/last30days · researching: "I.d pay for an app"
+⏳ [95mProcessing[0m Crunching the data...
+[Planner] Plan: intent=opinion, freshness=balanced_recent, cluster_mode=market, subqueries=4, source=llm
+[Planner]   sq1 label=paid app demand search="pay OR paid OR subscription app OR tool" sources=[polymarket,github]
+[Planner]   sq2 label=monetized github projects search="paid OR sponsor OR pro github repo OR tool" sources=[polymarket,github]
+[Planner]   sq3 label=polymarket app bets search="app OR software market OR prediction" sources=[polymarket,github]
+[Planner]   sq4 label=willingness to pay signals search="willing to pay OR paid tier OR premium feature" sources=[polymarket,github]
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[FunJudge] LLM scoring failed: JSONDecodeError: Expecting ':' delimiter: line 7 column 153 (char 858)
+✓ Research complete (32.8s) - Polymarket: 0 markets, Github: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-24/1646-i-d-pay-for-an-app.json
+[OK] seed succeeded
+
+===== Seed: "is there a paid app" =====
+/last30days · researching: "is there a paid app"
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] Plan: intent=factual, freshness=evergreen_ok, cluster_mode=none, subqueries=2, source=llm
+[Planner]   sq1 label=GitHub paid app search="paid app github" sources=[polymarket,github]
+[Planner]   sq2 label=Polymarket paid app search="paid app polymarket" sources=[polymarket,github]
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+✓ Research complete (21.6s) - Polymarket: 2 markets, Github: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-24/1646-is-there-a-paid-app.json
+[OK] seed succeeded
+
+===== Seed: "is there an app that" "pay" =====
+/last30days · researching: "is there an app that" "pay"
+⏳ [95mProcessing[0m Removing duplicates...
+[Planner] Plan: intent=product, freshness=evergreen_ok, cluster_mode=none, subqueries=3, source=llm
+[Planner]   sq1 label=github payment repos search="payment pay app OR sdk OR library OR gateway" sources=[polymarket,github]
+[Planner]   sq2 label=github pay integrations search="pay OR stripe OR paypal integration app" sources=[polymarket,github]
+[Planner]   sq3 label=polymarket pay app markets search="payment app OR pay app market" sources=[polymarket,github]
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+✓ Research complete (25.1s) - Polymarket: 4 markets, Github: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-24/1647-is-there-an-app-that-pay.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed

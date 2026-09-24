@@ -1,0 +1,694 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"is there an app that\" \"pay\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://polymarket.com/event/will-stripe-acquire-any-part-of-paypal-in-2026"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://polymarket.com/event/will-stripe-acquire-any-part-of-paypal-in-2026"
+      ],
+      "score": 29.807377049180328,
+      "sources": [
+        "polymarket"
+      ],
+      "title": "Will Stripe acquire any part of Paypal in 2026?"
+    },
+    {
+      "candidate_ids": [
+        "https://polymarket.com/event/will-there-be-a-power-grid-emergency-before-october-1-1786552244191"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://polymarket.com/event/will-there-be-a-power-grid-emergency-before-october-1-1786552244191"
+      ],
+      "score": 6.252459016393442,
+      "sources": [
+        "polymarket"
+      ],
+      "title": "Will there be a power grid emergency before October 1?"
+    },
+    {
+      "candidate_ids": [
+        "https://polymarket.com/event/will-there-be-a-super-el-nino-this-winter-202627-20260721221614682"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://polymarket.com/event/will-there-be-a-super-el-nino-this-winter-202627-20260721221614682"
+      ],
+      "score": 6.250806451612903,
+      "sources": [
+        "polymarket"
+      ],
+      "title": "Will there be a Super El Ni\u00f1o this winter (2026\u201327)?"
+    },
+    {
+      "candidate_ids": [
+        "https://polymarket.com/event/will-there-be-an-ace-in-the-valorant-champions-2026-grand-final"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://polymarket.com/event/will-there-be-an-ace-in-the-valorant-champions-2026-grand-final"
+      ],
+      "score": 4.749206349206349,
+      "sources": [
+        "polymarket"
+      ],
+      "title": "Will there be an ace in the VALORANT Champions 2026 Grand Final?"
+    },
+    {
+      "candidate_ids": [
+        "https://polymarket.com/event/pro-football-will-there-be-a-supplemental-draft-in-2026"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://polymarket.com/event/pro-football-will-there-be-a-supplemental-draft-in-2026"
+      ],
+      "score": 4.74765625,
+      "sources": [
+        "polymarket"
+      ],
+      "title": "Pro Football: Will There Be a Supplemental Draft in 2026?"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-24T16:47:17.957840+00:00",
+  "items_by_source": {
+    "github": [],
+    "polymarket": [
+      {
+        "body": "Will there be a power grid emergency before October 1?\nWill there be a power grid emergency in New York before October 1?\ndown 39.1% this month",
+        "container": "Polymarket",
+        "date_confidence": "high",
+        "engagement": {
+          "liquidity": 6213.50554,
+          "volume": 0
+        },
+        "engagement_score": 100,
+        "freshness": 100,
+        "item_id": "PM1",
+        "local_rank_score": 0.402,
+        "local_relevance": 0.08,
+        "metadata": {
+          "end_date": "2026-10-02",
+          "outcome_prices": [
+            [
+              "there",
+              0.016
+            ],
+            [
+              "there",
+              0.0105
+            ],
+            [
+              "there",
+              0.006
+            ]
+          ],
+          "outcomes_remaining": 1,
+          "question": "Will there be a power grid emergency in New York before October 1?"
+        },
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.31,
+        "snippet": "down 39.1% this month",
+        "source": "polymarket",
+        "source_quality": 0.5,
+        "title": "Will there be a power grid emergency before October 1?",
+        "url": "https://polymarket.com/event/will-there-be-a-power-grid-emergency-before-october-1-1786552244191",
+        "why_relevant": "Prediction market: Will there be a power grid emergency before October 1?"
+      },
+      {
+        "body": "Will there be a Super El Ni\u00f1o this winter (2026\u201327)?\nWill there be a Super El Ni\u00f1o this winter (2026\u201327)?\nup 4.2% this month",
+        "container": "Polymarket",
+        "date_confidence": "high",
+        "engagement": {
+          "liquidity": 2769.96302,
+          "volume": 0
+        },
+        "engagement_score": 86,
+        "freshness": 100,
+        "item_id": "PM2",
+        "local_rank_score": 0.3945,
+        "local_relevance": 0.09,
+        "metadata": {
+          "end_date": "2027-04-01",
+          "outcome_prices": [
+            [
+              "Yes",
+              0.9445
+            ],
+            [
+              "No",
+              0.0555
+            ]
+          ],
+          "outcomes_remaining": 0,
+          "question": "Will there be a Super El Ni\u00f1o this winter (2026\u201327)?"
+        },
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.3,
+        "snippet": "up 4.2% this month",
+        "source": "polymarket",
+        "source_quality": 0.5,
+        "title": "Will there be a Super El Ni\u00f1o this winter (2026\u201327)?",
+        "url": "https://polymarket.com/event/will-there-be-a-super-el-nino-this-winter-202627-20260721221614682",
+        "why_relevant": "Prediction market: Will there be a Super El Ni\u00f1o this winter (2026\u201327)?"
+      },
+      {
+        "body": "Will there be an ace in the VALORANT Champions 2026 Grand Final?\nWill there be an ace in the VALORANT Champions 2026 Grand Final?\nup 8.0% today",
+        "container": "Polymarket",
+        "date_confidence": "high",
+        "engagement": {
+          "liquidity": 16.8433,
+          "volume": 0
+        },
+        "engagement_score": 0,
+        "freshness": 100,
+        "item_id": "PM3",
+        "local_rank_score": 0.3085,
+        "local_relevance": 0.09,
+        "metadata": {
+          "end_date": "2026-11-18",
+          "outcome_prices": [
+            [
+              "Yes",
+              0.475
+            ],
+            [
+              "No",
+              0.525
+            ]
+          ],
+          "outcomes_remaining": 0,
+          "question": "Will there be an ace in the VALORANT Champions 2026 Grand Final?"
+        },
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.3,
+        "snippet": "up 8.0% today",
+        "source": "polymarket",
+        "source_quality": 0.5,
+        "title": "Will there be an ace in the VALORANT Champions 2026 Grand Final?",
+        "url": "https://polymarket.com/event/will-there-be-an-ace-in-the-valorant-champions-2026-grand-final",
+        "why_relevant": "Prediction market: Will there be an ace in the VALORANT Champions 2026 Grand Fi"
+      },
+      {
+        "body": "Pro Football: Will There Be a Supplemental Draft in 2026?\nPro Football: Will There Be a Supplemental Draft in 2026?\ndown 42.0% this month",
+        "container": "Polymarket",
+        "date_confidence": "high",
+        "engagement": {
+          "liquidity": 17.223,
+          "volume": 0
+        },
+        "engagement_score": 0,
+        "freshness": 100,
+        "item_id": "PM4",
+        "local_rank_score": 0.3085,
+        "local_relevance": 0.09,
+        "metadata": {
+          "end_date": "2027-01-01",
+          "outcome_prices": [
+            [
+              "Yes",
+              0.06
+            ],
+            [
+              "No",
+              0.94
+            ]
+          ],
+          "outcomes_remaining": 0,
+          "question": "Pro Football: Will There Be a Supplemental Draft in 2026?"
+        },
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.3,
+        "snippet": "down 42.0% this month",
+        "source": "polymarket",
+        "source_quality": 0.5,
+        "title": "Pro Football: Will There Be a Supplemental Draft in 2026?",
+        "url": "https://polymarket.com/event/pro-football-will-there-be-a-supplemental-draft-in-2026",
+        "why_relevant": "Prediction market: Pro Football: Will There Be a Supplemental Draft in 2026?"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "evergreen_ok",
+    "intent": "product",
+    "notes": [
+      "github prioritized for open-source payment tooling; polymarket only for any related prediction markets"
+    ],
+    "raw_topic": "\"is there an app that\" \"pay\"",
+    "source_weights": {
+      "github": 0.8,
+      "polymarket": 0.2
+    },
+    "subqueries": [
+      {
+        "label": "github payment repos",
+        "ranking_query": "open source GitHub repositories for building or running a payment app",
+        "search_query": "payment pay app OR sdk OR library OR gateway",
+        "sources": [
+          "polymarket",
+          "github"
+        ],
+        "weight": 0.4166666666666667
+      },
+      {
+        "label": "github pay integrations",
+        "ranking_query": "GitHub repos that implement payment or pay features in an app",
+        "search_query": "pay OR stripe OR paypal integration app",
+        "sources": [
+          "polymarket",
+          "github"
+        ],
+        "weight": 0.375
+      },
+      {
+        "label": "polymarket pay app markets",
+        "ranking_query": "prediction markets on Polymarket related to payment apps or pay features",
+        "search_query": "payment app OR pay app market",
+        "sources": [
+          "polymarket",
+          "github"
+        ],
+        "weight": 0.20833333333333334
+      }
+    ]
+  },
+  "range_from": "2026-08-25",
+  "range_to": "2026-09-24",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://polymarket.com/event/will-stripe-acquire-any-part-of-paypal-in-2026",
+      "cluster_id": "cluster-1",
+      "engagement": 100,
+      "explanation": "mentions payments via PayPal but unrelated to finding a pay app; weak entity match",
+      "final_score": 29.807377049180328,
+      "freshness": 100,
+      "fun_explanation": "dry market title, mild pay pun",
+      "fun_score": 12.0,
+      "item_id": "PM2",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "PM2",
+            "native_rank": 1,
+            "source": "polymarket",
+            "subquery_label": "github pay integrations"
+          }
+        ]
+      },
+      "native_ranks": {
+        "github pay integrations:polymarket": 1
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.0012295081967213116,
+      "snippet": "down 46.0% this month",
+      "source": "polymarket",
+      "source_items": [
+        {
+          "body": "Will Stripe acquire any part of Paypal in 2026?\nWill Stripe acquire any part of Paypal in 2026?\ndown 46.0% this month",
+          "container": "Polymarket",
+          "date_confidence": "high",
+          "engagement": {
+            "liquidity": 9322.6907,
+            "volume": 12882.009891999998
+          },
+          "engagement_score": 100,
+          "freshness": 100,
+          "item_id": "PM2",
+          "local_rank_score": 0.35,
+          "local_relevance": 0.0,
+          "metadata": {
+            "end_date": "2027-01-01",
+            "outcome_prices": [
+              [
+                "Yes",
+                0.095
+              ],
+              [
+                "No",
+                0.905
+              ]
+            ],
+            "outcomes_remaining": 0,
+            "question": "Will Stripe acquire any part of Paypal in 2026?"
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.3,
+          "snippet": "down 46.0% this month",
+          "source": "polymarket",
+          "source_quality": 0.5,
+          "title": "Will Stripe acquire any part of Paypal in 2026?",
+          "url": "https://polymarket.com/event/will-stripe-acquire-any-part-of-paypal-in-2026",
+          "why_relevant": "Prediction market: Will Stripe acquire any part of Paypal in 2026?"
+        }
+      ],
+      "source_quality": 0.5,
+      "sources": [
+        "polymarket"
+      ],
+      "subquery_labels": [
+        "github pay integrations"
+      ],
+      "title": "Will Stripe acquire any part of Paypal in 2026?",
+      "url": "https://polymarket.com/event/will-stripe-acquire-any-part-of-paypal-in-2026"
+    },
+    {
+      "candidate_id": "https://polymarket.com/event/will-there-be-a-power-grid-emergency-before-october-1-1786552244191",
+      "cluster_id": "cluster-2",
+      "engagement": 100,
+      "explanation": "off-topic prediction market, no match to payment app entity",
+      "final_score": 6.252459016393442,
+      "freshness": 100,
+      "fun_explanation": "straight news, zero wit",
+      "fun_score": 5.0,
+      "item_id": "PM1",
+      "local_relevance": 0.08,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "PM1",
+            "native_rank": 1,
+            "source": "polymarket",
+            "subquery_label": "github payment repos"
+          }
+        ]
+      },
+      "native_ranks": {
+        "github payment repos:polymarket": 1
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.0013661202185792352,
+      "snippet": "down 39.1% this month",
+      "source": "polymarket",
+      "source_items": [
+        {
+          "body": "Will there be a power grid emergency before October 1?\nWill there be a power grid emergency in New York before October 1?\ndown 39.1% this month",
+          "container": "Polymarket",
+          "date_confidence": "high",
+          "engagement": {
+            "liquidity": 6213.50554,
+            "volume": 0
+          },
+          "engagement_score": 100,
+          "freshness": 100,
+          "item_id": "PM1",
+          "local_rank_score": 0.402,
+          "local_relevance": 0.08,
+          "metadata": {
+            "end_date": "2026-10-02",
+            "outcome_prices": [
+              [
+                "there",
+                0.016
+              ],
+              [
+                "there",
+                0.0105
+              ],
+              [
+                "there",
+                0.006
+              ]
+            ],
+            "outcomes_remaining": 1,
+            "question": "Will there be a power grid emergency in New York before October 1?"
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.31,
+          "snippet": "down 39.1% this month",
+          "source": "polymarket",
+          "source_quality": 0.5,
+          "title": "Will there be a power grid emergency before October 1?",
+          "url": "https://polymarket.com/event/will-there-be-a-power-grid-emergency-before-october-1-1786552244191",
+          "why_relevant": "Prediction market: Will there be a power grid emergency before October 1?"
+        }
+      ],
+      "source_quality": 0.5,
+      "sources": [
+        "polymarket"
+      ],
+      "subquery_labels": [
+        "github payment repos"
+      ],
+      "title": "Will there be a power grid emergency before October 1?",
+      "url": "https://polymarket.com/event/will-there-be-a-power-grid-emergency-before-october-1-1786552244191"
+    },
+    {
+      "candidate_id": "https://polymarket.com/event/will-there-be-a-super-el-nino-this-winter-202627-20260721221614682",
+      "cluster_id": "cluster-3",
+      "engagement": 86,
+      "explanation": "off-topic prediction market, no match to payment app entity",
+      "final_score": 6.250806451612903,
+      "freshness": 100,
+      "fun_explanation": "boring forecast question",
+      "fun_score": 4.0,
+      "item_id": "PM2",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "PM2",
+            "native_rank": 2,
+            "source": "polymarket",
+            "subquery_label": "github payment repos"
+          }
+        ]
+      },
+      "native_ranks": {
+        "github payment repos:polymarket": 2
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.0013440860215053765,
+      "snippet": "up 4.2% this month",
+      "source": "polymarket",
+      "source_items": [
+        {
+          "body": "Will there be a Super El Ni\u00f1o this winter (2026\u201327)?\nWill there be a Super El Ni\u00f1o this winter (2026\u201327)?\nup 4.2% this month",
+          "container": "Polymarket",
+          "date_confidence": "high",
+          "engagement": {
+            "liquidity": 2769.96302,
+            "volume": 0
+          },
+          "engagement_score": 86,
+          "freshness": 100,
+          "item_id": "PM2",
+          "local_rank_score": 0.3945,
+          "local_relevance": 0.09,
+          "metadata": {
+            "end_date": "2027-04-01",
+            "outcome_prices": [
+              [
+                "Yes",
+                0.9445
+              ],
+              [
+                "No",
+                0.0555
+              ]
+            ],
+            "outcomes_remaining": 0,
+            "question": "Will there be a Super El Ni\u00f1o this winter (2026\u201327)?"
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.3,
+          "snippet": "up 4.2% this month",
+          "source": "polymarket",
+          "source_quality": 0.5,
+          "title": "Will there be a Super El Ni\u00f1o this winter (2026\u201327)?",
+          "url": "https://polymarket.com/event/will-there-be-a-super-el-nino-this-winter-202627-20260721221614682",
+          "why_relevant": "Prediction market: Will there be a Super El Ni\u00f1o this winter (2026\u201327)?"
+        }
+      ],
+      "source_quality": 0.5,
+      "sources": [
+        "polymarket"
+      ],
+      "subquery_labels": [
+        "github payment repos"
+      ],
+      "title": "Will there be a Super El Ni\u00f1o this winter (2026\u201327)?",
+      "url": "https://polymarket.com/event/will-there-be-a-super-el-nino-this-winter-202627-20260721221614682"
+    },
+    {
+      "candidate_id": "https://polymarket.com/event/will-there-be-an-ace-in-the-valorant-champions-2026-grand-final",
+      "cluster_id": "cluster-4",
+      "engagement": 0,
+      "explanation": "off-topic prediction market, no match to payment app entity",
+      "final_score": 4.749206349206349,
+      "freshness": 100,
+      "fun_explanation": "gaming niche, still flat",
+      "fun_score": 8.0,
+      "item_id": "PM3",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "PM3",
+            "native_rank": 3,
+            "source": "polymarket",
+            "subquery_label": "github payment repos"
+          }
+        ]
+      },
+      "native_ranks": {
+        "github payment repos:polymarket": 3
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.001322751322751323,
+      "snippet": "up 8.0% today",
+      "source": "polymarket",
+      "source_items": [
+        {
+          "body": "Will there be an ace in the VALORANT Champions 2026 Grand Final?\nWill there be an ace in the VALORANT Champions 2026 Grand Final?\nup 8.0% today",
+          "container": "Polymarket",
+          "date_confidence": "high",
+          "engagement": {
+            "liquidity": 16.8433,
+            "volume": 0
+          },
+          "engagement_score": 0,
+          "freshness": 100,
+          "item_id": "PM3",
+          "local_rank_score": 0.3085,
+          "local_relevance": 0.09,
+          "metadata": {
+            "end_date": "2026-11-18",
+            "outcome_prices": [
+              [
+                "Yes",
+                0.475
+              ],
+              [
+                "No",
+                0.525
+              ]
+            ],
+            "outcomes_remaining": 0,
+            "question": "Will there be an ace in the VALORANT Champions 2026 Grand Final?"
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.3,
+          "snippet": "up 8.0% today",
+          "source": "polymarket",
+          "source_quality": 0.5,
+          "title": "Will there be an ace in the VALORANT Champions 2026 Grand Final?",
+          "url": "https://polymarket.com/event/will-there-be-an-ace-in-the-valorant-champions-2026-grand-final",
+          "why_relevant": "Prediction market: Will there be an ace in the VALORANT Champions 2026 Grand Fi"
+        }
+      ],
+      "source_quality": 0.5,
+      "sources": [
+        "polymarket"
+      ],
+      "subquery_labels": [
+        "github payment repos"
+      ],
+      "title": "Will there be an ace in the VALORANT Champions 2026 Grand Final?",
+      "url": "https://polymarket.com/event/will-there-be-an-ace-in-the-valorant-champions-2026-grand-final"
+    },
+    {
+      "candidate_id": "https://polymarket.com/event/pro-football-will-there-be-a-supplemental-draft-in-2026",
+      "cluster_id": "cluster-5",
+      "engagement": 0,
+      "explanation": "off-topic prediction market, no match to payment app entity",
+      "final_score": 4.74765625,
+      "freshness": 100,
+      "fun_explanation": "sports betting boilerplate",
+      "fun_score": 6.0,
+      "item_id": "PM4",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "PM4",
+            "native_rank": 4,
+            "source": "polymarket",
+            "subquery_label": "github payment repos"
+          }
+        ]
+      },
+      "native_ranks": {
+        "github payment repos:polymarket": 4
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.0013020833333333335,
+      "snippet": "down 42.0% this month",
+      "source": "polymarket",
+      "source_items": [
+        {
+          "body": "Pro Football: Will There Be a Supplemental Draft in 2026?\nPro Football: Will There Be a Supplemental Draft in 2026?\ndown 42.0% this month",
+          "container": "Polymarket",
+          "date_confidence": "high",
+          "engagement": {
+            "liquidity": 17.223,
+            "volume": 0
+          },
+          "engagement_score": 0,
+          "freshness": 100,
+          "item_id": "PM4",
+          "local_rank_score": 0.3085,
+          "local_relevance": 0.09,
+          "metadata": {
+            "end_date": "2027-01-01",
+            "outcome_prices": [
+              [
+                "Yes",
+                0.06
+              ],
+              [
+                "No",
+                0.94
+              ]
+            ],
+            "outcomes_remaining": 0,
+            "question": "Pro Football: Will There Be a Supplemental Draft in 2026?"
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.3,
+          "snippet": "down 42.0% this month",
+          "source": "polymarket",
+          "source_quality": 0.5,
+          "title": "Pro Football: Will There Be a Supplemental Draft in 2026?",
+          "url": "https://polymarket.com/event/pro-football-will-there-be-a-supplemental-draft-in-2026",
+          "why_relevant": "Prediction market: Pro Football: Will There Be a Supplemental Draft in 2026?"
+        }
+      ],
+      "source_quality": 0.5,
+      "sources": [
+        "polymarket"
+      ],
+      "subquery_labels": [
+        "github payment repos"
+      ],
+      "title": "Pro Football: Will There Be a Supplemental Draft in 2026?",
+      "url": "https://polymarket.com/event/pro-football-will-there-be-a-supplemental-draft-in-2026"
+    }
+  ],
+  "topic": "\"is there an app that\" \"pay\"",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}

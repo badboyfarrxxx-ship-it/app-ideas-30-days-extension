@@ -1,0 +1,351 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"is there a paid app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://polymarket.com/event/1-paid-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://polymarket.com/event/1-paid-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z"
+      ],
+      "score": 8.318852459016393,
+      "sources": [
+        "polymarket"
+      ],
+      "title": "#1 Paid App in the US Apple App Store on September 25?"
+    },
+    {
+      "candidate_ids": [
+        "https://polymarket.com/event/2-paid-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://polymarket.com/event/2-paid-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z"
+      ],
+      "score": 8.312903225806451,
+      "sources": [
+        "polymarket"
+      ],
+      "title": "#2 Paid App in the US Apple App Store on September 25?"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-24T16:46:52.692574+00:00",
+  "items_by_source": {
+    "github": [],
+    "polymarket": [
+      {
+        "body": "#1 Paid App in the US Apple App Store on September 25?\nWill play_music_theory be #1 Paid App in the US Apple App Store on September 25?\nup 6.5% today",
+        "container": "Polymarket",
+        "date_confidence": "high",
+        "engagement": {
+          "liquidity": 931.43299,
+          "volume": 3194.385894
+        },
+        "engagement_score": 75,
+        "freshness": 100,
+        "item_id": "PM1",
+        "local_rank_score": 0.4875,
+        "local_relevance": 0.25,
+        "metadata": {
+          "end_date": "2026-09-25",
+          "outcome_prices": [
+            [
+              "Shadowrocket",
+              0.5
+            ],
+            [
+              "play_music_theory",
+              0.4645
+            ]
+          ],
+          "outcomes_remaining": 0,
+          "question": "Will play_music_theory be #1 Paid App in the US Apple App Store on September 25?"
+        },
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.49,
+        "snippet": "up 6.5% today",
+        "source": "polymarket",
+        "source_quality": 0.5,
+        "title": "#1 Paid App in the US Apple App Store on September 25?",
+        "url": "https://polymarket.com/event/1-paid-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z",
+        "why_relevant": "Prediction market: #1 Paid App in the US Apple App Store on September 25?"
+      },
+      {
+        "body": "#2 Paid App in the US Apple App Store on September 25?\nWill Shadowrocket be #2 Paid App in the US Apple App Store on September 25?\ndown 23.2% today",
+        "container": "Polymarket",
+        "date_confidence": "high",
+        "engagement": {
+          "liquidity": 788.51854,
+          "volume": 2333.693398
+        },
+        "engagement_score": 71,
+        "freshness": 100,
+        "item_id": "PM2",
+        "local_rank_score": 0.4835,
+        "local_relevance": 0.25,
+        "metadata": {
+          "end_date": "2026-09-25",
+          "outcome_prices": [
+            [
+              "play_music_theory",
+              0.44
+            ],
+            [
+              "HotSchedules",
+              0.39
+            ],
+            [
+              "Shadowrocket",
+              0.353
+            ]
+          ],
+          "outcomes_remaining": 1,
+          "question": "Will Shadowrocket be #2 Paid App in the US Apple App Store on September 25?"
+        },
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.48,
+        "snippet": "down 23.2% today",
+        "source": "polymarket",
+        "source_quality": 0.5,
+        "title": "#2 Paid App in the US Apple App Store on September 25?",
+        "url": "https://polymarket.com/event/2-paid-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z",
+        "why_relevant": "Prediction market: #2 Paid App in the US Apple App Store on September 25?"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "evergreen_ok",
+    "intent": "factual",
+    "notes": [],
+    "raw_topic": "\"is there a paid app\"",
+    "source_weights": {
+      "github": 0.7,
+      "polymarket": 0.3
+    },
+    "subqueries": [
+      {
+        "label": "GitHub paid app",
+        "ranking_query": "Is there a paid app or paid plan available on GitHub?",
+        "search_query": "paid app github",
+        "sources": [
+          "polymarket",
+          "github"
+        ],
+        "weight": 0.5
+      },
+      {
+        "label": "Polymarket paid app",
+        "ranking_query": "Is there a paid app or paid version related to Polymarket?",
+        "search_query": "paid app polymarket",
+        "sources": [
+          "polymarket",
+          "github"
+        ],
+        "weight": 0.5
+      }
+    ]
+  },
+  "range_from": "2026-08-25",
+  "range_to": "2026-09-24",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://polymarket.com/event/1-paid-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z",
+      "cluster_id": "cluster-1",
+      "engagement": 75,
+      "explanation": "Off-target Polymarket market on App Store rankings; no mention of GitHub/Polymarket paid app or plan",
+      "final_score": 8.318852459016393,
+      "freshness": 100,
+      "fun_explanation": "dry market odds, zero punch",
+      "fun_score": 8.0,
+      "item_id": "PM1",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "PM1",
+            "native_rank": 1,
+            "source": "polymarket",
+            "subquery_label": "GitHub paid app"
+          },
+          {
+            "item_id": "PM1",
+            "native_rank": 1,
+            "source": "polymarket",
+            "subquery_label": "Polymarket paid app"
+          }
+        ]
+      },
+      "native_ranks": {
+        "GitHub paid app:polymarket": 1,
+        "Polymarket paid app:polymarket": 1
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.0049180327868852455,
+      "snippet": "up 6.5% today",
+      "source": "polymarket",
+      "source_items": [
+        {
+          "body": "#1 Paid App in the US Apple App Store on September 25?\nWill play_music_theory be #1 Paid App in the US Apple App Store on September 25?\nup 6.5% today",
+          "container": "Polymarket",
+          "date_confidence": "high",
+          "engagement": {
+            "liquidity": 931.43299,
+            "volume": 3194.385894
+          },
+          "engagement_score": 75,
+          "freshness": 100,
+          "item_id": "PM1",
+          "local_rank_score": 0.4875,
+          "local_relevance": 0.25,
+          "metadata": {
+            "end_date": "2026-09-25",
+            "outcome_prices": [
+              [
+                "Shadowrocket",
+                0.5
+              ],
+              [
+                "play_music_theory",
+                0.4645
+              ]
+            ],
+            "outcomes_remaining": 0,
+            "question": "Will play_music_theory be #1 Paid App in the US Apple App Store on September 25?"
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.49,
+          "snippet": "up 6.5% today",
+          "source": "polymarket",
+          "source_quality": 0.5,
+          "title": "#1 Paid App in the US Apple App Store on September 25?",
+          "url": "https://polymarket.com/event/1-paid-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z",
+          "why_relevant": "Prediction market: #1 Paid App in the US Apple App Store on September 25?"
+        }
+      ],
+      "source_quality": 0.5,
+      "sources": [
+        "polymarket"
+      ],
+      "subquery_labels": [
+        "GitHub paid app",
+        "Polymarket paid app"
+      ],
+      "title": "#1 Paid App in the US Apple App Store on September 25?",
+      "url": "https://polymarket.com/event/1-paid-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z"
+    },
+    {
+      "candidate_id": "https://polymarket.com/event/2-paid-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z",
+      "cluster_id": "cluster-2",
+      "engagement": 71,
+      "explanation": "Off-target Polymarket market on App Store rankings; no mention of GitHub/Polymarket paid app or plan",
+      "final_score": 8.312903225806451,
+      "freshness": 100,
+      "fun_explanation": "plain betting line, no wit",
+      "fun_score": 7.0,
+      "item_id": "PM2",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "PM2",
+            "native_rank": 2,
+            "source": "polymarket",
+            "subquery_label": "GitHub paid app"
+          },
+          {
+            "item_id": "PM2",
+            "native_rank": 2,
+            "source": "polymarket",
+            "subquery_label": "Polymarket paid app"
+          }
+        ]
+      },
+      "native_ranks": {
+        "GitHub paid app:polymarket": 2,
+        "Polymarket paid app:polymarket": 2
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.004838709677419355,
+      "snippet": "down 23.2% today",
+      "source": "polymarket",
+      "source_items": [
+        {
+          "body": "#2 Paid App in the US Apple App Store on September 25?\nWill Shadowrocket be #2 Paid App in the US Apple App Store on September 25?\ndown 23.2% today",
+          "container": "Polymarket",
+          "date_confidence": "high",
+          "engagement": {
+            "liquidity": 788.51854,
+            "volume": 2333.693398
+          },
+          "engagement_score": 71,
+          "freshness": 100,
+          "item_id": "PM2",
+          "local_rank_score": 0.4835,
+          "local_relevance": 0.25,
+          "metadata": {
+            "end_date": "2026-09-25",
+            "outcome_prices": [
+              [
+                "play_music_theory",
+                0.44
+              ],
+              [
+                "HotSchedules",
+                0.39
+              ],
+              [
+                "Shadowrocket",
+                0.353
+              ]
+            ],
+            "outcomes_remaining": 1,
+            "question": "Will Shadowrocket be #2 Paid App in the US Apple App Store on September 25?"
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.48,
+          "snippet": "down 23.2% today",
+          "source": "polymarket",
+          "source_quality": 0.5,
+          "title": "#2 Paid App in the US Apple App Store on September 25?",
+          "url": "https://polymarket.com/event/2-paid-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z",
+          "why_relevant": "Prediction market: #2 Paid App in the US Apple App Store on September 25?"
+        }
+      ],
+      "source_quality": 0.5,
+      "sources": [
+        "polymarket"
+      ],
+      "subquery_labels": [
+        "GitHub paid app",
+        "Polymarket paid app"
+      ],
+      "title": "#2 Paid App in the US Apple App Store on September 25?",
+      "url": "https://polymarket.com/event/2-paid-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z"
+    }
+  ],
+  "topic": "\"is there a paid app\"",
+  "warnings": [
+    "Evidence is thin for this topic."
+  ]
+}

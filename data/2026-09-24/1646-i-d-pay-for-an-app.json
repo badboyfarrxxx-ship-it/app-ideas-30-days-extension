@@ -1,0 +1,623 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"I.d pay for an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://polymarket.com/event/1-paid-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z",
+        "https://polymarket.com/event/2-paid-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z",
+        "https://polymarket.com/event/1-free-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z",
+        "https://polymarket.com/event/2-free-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://polymarket.com/event/1-paid-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z",
+        "https://polymarket.com/event/1-free-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z",
+        "https://polymarket.com/event/2-free-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z"
+      ],
+      "score": 31.88572806171649,
+      "sources": [
+        "polymarket"
+      ],
+      "title": "#1 Paid App in the US Apple App Store on September 25?",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://polymarket.com/event/ncaa-football-2026-sun-belt-conference-winner-20260731205118486"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://polymarket.com/event/ncaa-football-2026-sun-belt-conference-winner-20260731205118486"
+      ],
+      "score": 5.96204481792717,
+      "sources": [
+        "polymarket"
+      ],
+      "title": "NCAA Football 2026 Sun Belt Conference: Winner",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://polymarket.com/event/ncaa-football-team-to-qualify-for-2026-sun-belt-championship-game"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://polymarket.com/event/ncaa-football-team-to-qualify-for-2026-sun-belt-championship-game"
+      ],
+      "score": 4.456951871657753,
+      "sources": [
+        "polymarket"
+      ],
+      "title": "NCAA Football: Team to Qualify for 2026 Sun Belt Championship Game",
+      "uncertainty": "single-source"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-24T16:46:30.908580+00:00",
+  "items_by_source": {
+    "github": [],
+    "polymarket": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "market",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [
+      "Focus on monetization signals from GitHub repos and Polymarket markets"
+    ],
+    "raw_topic": "\"I.d pay for an app\"",
+    "source_weights": {
+      "github": 0.6,
+      "polymarket": 0.4
+    },
+    "subqueries": [
+      {
+        "label": "paid app demand",
+        "ranking_query": "What kinds of apps or tools would users actually pay for?",
+        "search_query": "pay OR paid OR subscription app OR tool",
+        "sources": [
+          "polymarket",
+          "github"
+        ],
+        "weight": 0.29411764705882354
+      },
+      {
+        "label": "monetized github projects",
+        "ranking_query": "Which open source GitHub projects successfully charge users?",
+        "search_query": "paid OR sponsor OR pro github repo OR tool",
+        "sources": [
+          "polymarket",
+          "github"
+        ],
+        "weight": 0.2647058823529412
+      },
+      {
+        "label": "polymarket app bets",
+        "ranking_query": "Are there Polymarket markets related to paid apps or software adoption?",
+        "search_query": "app OR software market OR prediction",
+        "sources": [
+          "polymarket",
+          "github"
+        ],
+        "weight": 0.23529411764705885
+      },
+      {
+        "label": "willingness to pay signals",
+        "ranking_query": "What signals show users are willing to pay for an app?",
+        "search_query": "willing to pay OR paid tier OR premium feature",
+        "sources": [
+          "polymarket",
+          "github"
+        ],
+        "weight": 0.20588235294117646
+      }
+    ]
+  },
+  "range_from": "2026-08-25",
+  "range_to": "2026-09-24",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://polymarket.com/event/1-paid-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z",
+      "cluster_id": "cluster-1",
+      "engagement": 74,
+      "explanation": "No mention of primary entity; only loosely related via paid app market",
+      "final_score": 31.88572806171649,
+      "freshness": 90,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 59.8,
+      "item_id": "PM3",
+      "local_relevance": 0.08,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "PM3",
+            "native_rank": 1,
+            "source": "polymarket",
+            "subquery_label": "polymarket app bets"
+          }
+        ]
+      },
+      "native_ranks": {
+        "polymarket app bets:polymarket": 1
+      },
+      "rerank_score": 25.0,
+      "rrf_score": 0.0015429122468659598,
+      "snippet": "up 6.5% today",
+      "source": "polymarket",
+      "source_items": [
+        {
+          "body": "#1 Paid App in the US Apple App Store on September 25?\nWill play_music_theory be #1 Paid App in the US Apple App Store on September 25?\nup 6.5% today",
+          "container": "Polymarket",
+          "date_confidence": "high",
+          "engagement": {
+            "liquidity": 931.43299,
+            "volume": 3194.385894
+          },
+          "engagement_score": 74,
+          "freshness": 90,
+          "item_id": "PM3",
+          "local_rank_score": 0.35100000000000003,
+          "local_relevance": 0.08,
+          "metadata": {
+            "end_date": "2026-09-25",
+            "outcome_prices": [
+              [
+                "Shadowrocket",
+                0.5
+              ],
+              [
+                "play_music_theory",
+                0.4645
+              ]
+            ],
+            "outcomes_remaining": 0,
+            "question": "Will play_music_theory be #1 Paid App in the US Apple App Store on September 25?"
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.18,
+          "snippet": "up 6.5% today",
+          "source": "polymarket",
+          "source_quality": 0.5,
+          "title": "#1 Paid App in the US Apple App Store on September 25?",
+          "url": "https://polymarket.com/event/1-paid-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z",
+          "why_relevant": "Prediction market: #1 Paid App in the US Apple App Store on September 25?"
+        }
+      ],
+      "source_quality": 0.5,
+      "sources": [
+        "polymarket"
+      ],
+      "subquery_labels": [
+        "polymarket app bets"
+      ],
+      "title": "#1 Paid App in the US Apple App Store on September 25?",
+      "url": "https://polymarket.com/event/1-paid-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z"
+    },
+    {
+      "candidate_id": "https://polymarket.com/event/2-paid-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z",
+      "cluster_id": "cluster-1",
+      "engagement": 70,
+      "explanation": "No mention of primary entity; only loosely related via paid app market",
+      "final_score": 31.879506641366223,
+      "freshness": 90,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 59.35,
+      "item_id": "PM2",
+      "local_relevance": 0.08,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "PM2",
+            "native_rank": 2,
+            "source": "polymarket",
+            "subquery_label": "polymarket app bets"
+          }
+        ]
+      },
+      "native_ranks": {
+        "polymarket app bets:polymarket": 2
+      },
+      "rerank_score": 25.0,
+      "rrf_score": 0.0015180265654648958,
+      "snippet": "down 23.2% today",
+      "source": "polymarket",
+      "source_items": [
+        {
+          "body": "#2 Paid App in the US Apple App Store on September 25?\nWill Shadowrocket be #2 Paid App in the US Apple App Store on September 25?\ndown 23.2% today",
+          "container": "Polymarket",
+          "date_confidence": "high",
+          "engagement": {
+            "liquidity": 788.51854,
+            "volume": 2333.693398
+          },
+          "engagement_score": 70,
+          "freshness": 90,
+          "item_id": "PM2",
+          "local_rank_score": 0.34700000000000003,
+          "local_relevance": 0.08,
+          "metadata": {
+            "end_date": "2026-09-25",
+            "outcome_prices": [
+              [
+                "play_music_theory",
+                0.44
+              ],
+              [
+                "HotSchedules",
+                0.41
+              ],
+              [
+                "Shadowrocket",
+                0.353
+              ]
+            ],
+            "outcomes_remaining": 1,
+            "question": "Will Shadowrocket be #2 Paid App in the US Apple App Store on September 25?"
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.18,
+          "snippet": "down 23.2% today",
+          "source": "polymarket",
+          "source_quality": 0.5,
+          "title": "#2 Paid App in the US Apple App Store on September 25?",
+          "url": "https://polymarket.com/event/2-paid-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z",
+          "why_relevant": "Prediction market: #2 Paid App in the US Apple App Store on September 25?"
+        }
+      ],
+      "source_quality": 0.5,
+      "sources": [
+        "polymarket"
+      ],
+      "subquery_labels": [
+        "polymarket app bets"
+      ],
+      "title": "#2 Paid App in the US Apple App Store on September 25?",
+      "url": "https://polymarket.com/event/2-paid-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z"
+    },
+    {
+      "candidate_id": "https://polymarket.com/event/1-free-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z",
+      "cluster_id": "cluster-1",
+      "engagement": 83,
+      "explanation": "No mention of primary entity; related to app store rankings but free not paid",
+      "final_score": 28.86764705882353,
+      "freshness": 90,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 43.0,
+      "item_id": "PM1",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "PM1",
+            "native_rank": 4,
+            "source": "polymarket",
+            "subquery_label": "polymarket app bets"
+          }
+        ]
+      },
+      "native_ranks": {
+        "polymarket app bets:polymarket": 4
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.0014705882352941178,
+      "snippet": "#1 Free App in the US Apple App Store on September 25? Will ChatGPT be #1 Free App in the US Apple App Store on September 25?",
+      "source": "polymarket",
+      "source_items": [
+        {
+          "body": "#1 Free App in the US Apple App Store on September 25?\nWill ChatGPT be #1 Free App in the US Apple App Store on September 25?",
+          "container": "Polymarket",
+          "date_confidence": "high",
+          "engagement": {
+            "liquidity": 1821.37156,
+            "volume": 6415.607744
+          },
+          "engagement_score": 83,
+          "freshness": 90,
+          "item_id": "PM1",
+          "local_rank_score": 0.308,
+          "local_relevance": 0.0,
+          "metadata": {
+            "end_date": "2026-09-25",
+            "outcome_prices": [
+              [
+                "Muse from Meta",
+                0.69
+              ],
+              [
+                "ChatGPT",
+                0.235
+              ],
+              [
+                "Amazon Prime Video",
+                0.024
+              ]
+            ],
+            "outcomes_remaining": 0,
+            "question": "Will ChatGPT be #1 Free App in the US Apple App Store on September 25?"
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.18,
+          "snippet": "#1 Free App in the US Apple App Store on September 25? Will ChatGPT be #1 Free App in the US Apple App Store on September 25?",
+          "source": "polymarket",
+          "source_quality": 0.5,
+          "title": "#1 Free App in the US Apple App Store on September 25?",
+          "url": "https://polymarket.com/event/1-free-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z",
+          "why_relevant": "Prediction market: #1 Free App in the US Apple App Store on September 25?"
+        }
+      ],
+      "source_quality": 0.5,
+      "sources": [
+        "polymarket"
+      ],
+      "subquery_labels": [
+        "polymarket app bets"
+      ],
+      "title": "#1 Free App in the US Apple App Store on September 25?",
+      "url": "https://polymarket.com/event/1-free-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z"
+    },
+    {
+      "candidate_id": "https://polymarket.com/event/2-free-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z",
+      "cluster_id": "cluster-1",
+      "engagement": 75,
+      "explanation": "No mention of primary entity; related to app store rankings but free not paid",
+      "final_score": 28.861990950226243,
+      "freshness": 90,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 59.5,
+      "item_id": "PM4",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "PM4",
+            "native_rank": 5,
+            "source": "polymarket",
+            "subquery_label": "polymarket app bets"
+          }
+        ]
+      },
+      "native_ranks": {
+        "polymarket app bets:polymarket": 5
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.0014479638009049776,
+      "snippet": "down 3.8% today",
+      "source": "polymarket",
+      "source_items": [
+        {
+          "body": "#2 Free App in the US Apple App Store on September 25?\nWill Muse from Meta be #2 Free App in the US Apple App Store on September 25?\ndown 3.8% today",
+          "container": "Polymarket",
+          "date_confidence": "high",
+          "engagement": {
+            "liquidity": 1831.71775,
+            "volume": 2370.453191
+          },
+          "engagement_score": 75,
+          "freshness": 90,
+          "item_id": "PM4",
+          "local_rank_score": 0.30000000000000004,
+          "local_relevance": 0.0,
+          "metadata": {
+            "end_date": "2026-09-25",
+            "outcome_prices": [
+              [
+                "Vinted: Pre-loved marketplace",
+                0.15
+              ],
+              [
+                "ChatGPT",
+                0.72
+              ],
+              [
+                "Muse from Meta",
+                0.141
+              ]
+            ],
+            "outcomes_remaining": 2,
+            "question": "Will Muse from Meta be #2 Free App in the US Apple App Store on September 25?"
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.18,
+          "snippet": "down 3.8% today",
+          "source": "polymarket",
+          "source_quality": 0.5,
+          "title": "#2 Free App in the US Apple App Store on September 25?",
+          "url": "https://polymarket.com/event/2-free-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z",
+          "why_relevant": "Prediction market: #2 Free App in the US Apple App Store on September 25?"
+        }
+      ],
+      "source_quality": 0.5,
+      "sources": [
+        "polymarket"
+      ],
+      "subquery_labels": [
+        "polymarket app bets"
+      ],
+      "title": "#2 Free App in the US Apple App Store on September 25?",
+      "url": "https://polymarket.com/event/2-free-app-in-the-us-apple-app-store-on-september-25-20260918t180000000z"
+    },
+    {
+      "candidate_id": "https://polymarket.com/event/ncaa-football-2026-sun-belt-conference-winner-20260731205118486",
+      "cluster_id": "cluster-2",
+      "engagement": 100,
+      "explanation": "No mention of primary entity; completely off-topic NCAA market",
+      "final_score": 5.96204481792717,
+      "freshness": 90,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 60.1,
+      "item_id": "PM5",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "PM5",
+            "native_rank": 3,
+            "source": "polymarket",
+            "subquery_label": "polymarket app bets"
+          }
+        ]
+      },
+      "native_ranks": {
+        "polymarket app bets:polymarket": 3
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.0014939309056956117,
+      "snippet": "down 2.5% this week",
+      "source": "polymarket",
+      "source_items": [
+        {
+          "body": "NCAA Football 2026 Sun Belt Conference: Winner\nWill Louisiana Tech Bulldogs Win the 2026 Sun Belt Championship?\ndown 2.5% this week",
+          "container": "Polymarket",
+          "date_confidence": "high",
+          "engagement": {
+            "liquidity": 58378.41696,
+            "volume": 4512.0
+          },
+          "engagement_score": 100,
+          "freshness": 90,
+          "item_id": "PM5",
+          "local_rank_score": 0.325,
+          "local_relevance": 0.0,
+          "metadata": {
+            "outcome_prices": [
+              [
+                "App State Mountaineers",
+                0.371
+              ],
+              [
+                "James Madison Dukes",
+                0.35
+              ],
+              [
+                "Troy Trojans",
+                0.34
+              ]
+            ],
+            "outcomes_remaining": 11,
+            "question": "Will Louisiana Tech Bulldogs Win the 2026 Sun Belt Championship?"
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.17,
+          "snippet": "down 2.5% this week",
+          "source": "polymarket",
+          "source_quality": 0.5,
+          "title": "NCAA Football 2026 Sun Belt Conference: Winner",
+          "url": "https://polymarket.com/event/ncaa-football-2026-sun-belt-conference-winner-20260731205118486",
+          "why_relevant": "Prediction market: NCAA Football 2026 Sun Belt Conference: Winner"
+        }
+      ],
+      "source_quality": 0.5,
+      "sources": [
+        "polymarket"
+      ],
+      "subquery_labels": [
+        "polymarket app bets"
+      ],
+      "title": "NCAA Football 2026 Sun Belt Conference: Winner",
+      "url": "https://polymarket.com/event/ncaa-football-2026-sun-belt-conference-winner-20260731205118486"
+    },
+    {
+      "candidate_id": "https://polymarket.com/event/ncaa-football-team-to-qualify-for-2026-sun-belt-championship-game",
+      "cluster_id": "cluster-3",
+      "engagement": 0,
+      "explanation": "No mention of primary entity; completely off-topic NCAA market",
+      "final_score": 4.456951871657753,
+      "freshness": 90,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "PM6",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "PM6",
+            "native_rank": 6,
+            "source": "polymarket",
+            "subquery_label": "polymarket app bets"
+          }
+        ]
+      },
+      "native_ranks": {
+        "polymarket app bets:polymarket": 6
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.0014260249554367203,
+      "snippet": "NCAA Football: Team to Qualify for 2026 Sun Belt Championship Game Will App State Mountaineers advance to the 2026 Sun Belt Championship Game?",
+      "source": "polymarket",
+      "source_items": [
+        {
+          "body": "NCAA Football: Team to Qualify for 2026 Sun Belt Championship Game\nWill App State Mountaineers advance to the 2026 Sun Belt Championship Game?",
+          "container": "Polymarket",
+          "date_confidence": "high",
+          "engagement": {
+            "liquidity": 219.5272,
+            "volume": 0
+          },
+          "engagement_score": 0,
+          "freshness": 90,
+          "item_id": "PM6",
+          "local_rank_score": 0.225,
+          "local_relevance": 0.0,
+          "metadata": {
+            "end_date": "2026-12-06",
+            "outcome_prices": [
+              [
+                "App State Mountaineers",
+                0.375
+              ],
+              [
+                "Marshall Thundering Herd",
+                0.49
+              ],
+              [
+                "Louisiana Ragin' Cajuns",
+                0.49
+              ]
+            ],
+            "outcomes_remaining": 11,
+            "question": "Will App State Mountaineers advance to the 2026 Sun Belt Championship Game?"
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.15,
+          "snippet": "NCAA Football: Team to Qualify for 2026 Sun Belt Championship Game Will App State Mountaineers advance to the 2026 Sun Belt Championship Game?",
+          "source": "polymarket",
+          "source_quality": 0.5,
+          "title": "NCAA Football: Team to Qualify for 2026 Sun Belt Championship Game",
+          "url": "https://polymarket.com/event/ncaa-football-team-to-qualify-for-2026-sun-belt-championship-game",
+          "why_relevant": "Prediction market: NCAA Football: Team to Qualify for 2026 Sun Belt Championshi"
+        }
+      ],
+      "source_quality": 0.5,
+      "sources": [
+        "polymarket"
+      ],
+      "subquery_labels": [
+        "polymarket app bets"
+      ],
+      "title": "NCAA Football: Team to Qualify for 2026 Sun Belt Championship Game",
+      "url": "https://polymarket.com/event/ncaa-football-team-to-qualify-for-2026-sun-belt-championship-game"
+    }
+  ],
+  "topic": "\"I.d pay for an app\"",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}

@@ -1,0 +1,1263 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"I would pay for an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://polymarket.com/event/mlbb-oe-tncpt-2026-09-27"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://polymarket.com/event/mlbb-oe-tncpt-2026-09-27"
+      ],
+      "score": 6.025644028103044,
+      "sources": [
+        "polymarket"
+      ],
+      "title": "Mobile Legends Bang Bang: Omega Esports vs TNC Pro Team (BO3) - MPL Philippines Regular Season"
+    },
+    {
+      "candidate_ids": [
+        "https://polymarket.com/event/mlbb-falcon-onic1-2026-09-26"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://polymarket.com/event/mlbb-falcon-onic1-2026-09-26"
+      ],
+      "score": 6.022811059907833,
+      "sources": [
+        "polymarket"
+      ],
+      "title": "Mobile Legends Bang Bang: Team Falcons PH vs ONIC PH (BO3) - MPL Philippines Regular Season"
+    },
+    {
+      "candidate_ids": [
+        "https://polymarket.com/event/mlbb-omnix-aurevi-2026-09-26"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://polymarket.com/event/mlbb-omnix-aurevi-2026-09-26"
+      ],
+      "score": 6.0200680272108835,
+      "sources": [
+        "polymarket"
+      ],
+      "title": "Mobile Legends Bang Bang: Omnix vs Aurevia Team (BO3) - MLBB Continental Championships Regular Season"
+    },
+    {
+      "candidate_ids": [
+        "https://polymarket.com/event/mlbb-lvlup-rakuza-2026-09-26"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://polymarket.com/event/mlbb-lvlup-rakuza-2026-09-26"
+      ],
+      "score": 6.017410714285714,
+      "sources": [
+        "polymarket"
+      ],
+      "title": "Mobile Legends Bang Bang: Level UP vs Rakuzan (BO3) - MLBB Continental Championships Regular Season"
+    },
+    {
+      "candidate_ids": [
+        "https://polymarket.com/event/mlbb-ts-re1-2026-09-26"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://polymarket.com/event/mlbb-ts-re1-2026-09-26"
+      ],
+      "score": 6.014835164835164,
+      "sources": [
+        "polymarket"
+      ],
+      "title": "Mobile Legends Bang Bang: Team Spirit vs Rune Eaters Esports (BO3) - MLBB Continental Championships Regular Season"
+    },
+    {
+      "candidate_ids": [
+        "https://polymarket.com/event/mlbb-apbr-ar-2026-09-26"
+      ],
+      "cluster_id": "cluster-6",
+      "representative_ids": [
+        "https://polymarket.com/event/mlbb-apbr-ar-2026-09-26"
+      ],
+      "score": 6.0123376623376625,
+      "sources": [
+        "polymarket"
+      ],
+      "title": "Mobile Legends Bang Bang: AP.Bren vs Aurora Gaming PH (BO3) - MPL Philippines Regular Season"
+    },
+    {
+      "candidate_ids": [
+        "https://polymarket.com/event/mlbb-btr1-rrq-2026-10-03"
+      ],
+      "cluster_id": "cluster-7",
+      "representative_ids": [
+        "https://polymarket.com/event/mlbb-btr1-rrq-2026-10-03"
+      ],
+      "score": 6.009914712153518,
+      "sources": [
+        "polymarket"
+      ],
+      "title": "Mobile Legends Bang Bang: Bigetron by Vitality vs RRQ Hoshi (BO3) - MPL Indonesia Regular Season"
+    },
+    {
+      "candidate_ids": [
+        "https://polymarket.com/event/mlbb-geek-dewa-2026-10-03"
+      ],
+      "cluster_id": "cluster-8",
+      "representative_ids": [
+        "https://polymarket.com/event/mlbb-geek-dewa-2026-10-03"
+      ],
+      "score": 6.007563025210084,
+      "sources": [
+        "polymarket"
+      ],
+      "title": "Mobile Legends Bang Bang: Geek Fam ID vs Dewa United Esports (BO3) - MPL Indonesia Regular Season"
+    },
+    {
+      "candidate_ids": [
+        "https://polymarket.com/event/mlbb-evos-dewa-2026-09-11"
+      ],
+      "cluster_id": "cluster-9",
+      "representative_ids": [
+        "https://polymarket.com/event/mlbb-evos-dewa-2026-09-11"
+      ],
+      "score": 6.00527950310559,
+      "sources": [
+        "polymarket"
+      ],
+      "title": "Mobile Legends Bang Bang: EVOS vs Dewa United Esports (BO3) - MPL Indonesia Regular Season"
+    },
+    {
+      "candidate_ids": [
+        "https://polymarket.com/event/mlbb-srg1-fl-2026-10-08"
+      ],
+      "cluster_id": "cluster-10",
+      "representative_ids": [
+        "https://polymarket.com/event/mlbb-srg1-fl-2026-10-08"
+      ],
+      "score": 6.003061224489795,
+      "sources": [
+        "polymarket"
+      ],
+      "title": "Mobile Legends Bang Bang: Selangor Red Giants vs Team Flash (BO3) - MPL Malaysia Regular Season"
+    },
+    {
+      "candidate_ids": [
+        "https://polymarket.com/event/t-mobile-us-spacex-mergeracquisition-announced-in-2026-20260701221224490"
+      ],
+      "cluster_id": "cluster-11",
+      "representative_ids": [
+        "https://polymarket.com/event/t-mobile-us-spacex-mergeracquisition-announced-in-2026-20260701221224490"
+      ],
+      "score": 6.000905432595573,
+      "sources": [
+        "polymarket"
+      ],
+      "title": "T-Mobile US & SpaceX merger/acquisition announced in 2026?"
+    },
+    {
+      "candidate_ids": [
+        "https://polymarket.com/event/mlbb-rey-btr-2026-10-08"
+      ],
+      "cluster_id": "cluster-12",
+      "representative_ids": [
+        "https://polymarket.com/event/mlbb-rey-btr-2026-10-08"
+      ],
+      "score": 5.998809523809524,
+      "sources": [
+        "polymarket"
+      ],
+      "title": "Mobile Legends Bang Bang: Team Rey vs Bigetron MY by VIT (BO3) - MPL Malaysia Regular Season"
+    },
+    {
+      "candidate_ids": [
+        "https://polymarket.com/event/us-government-bans-an-open-source-ai-model-in-2026-20260703221501747"
+      ],
+      "cluster_id": "cluster-13",
+      "representative_ids": [
+        "https://polymarket.com/event/us-government-bans-an-open-source-ai-model-in-2026-20260703221501747"
+      ],
+      "score": 5.990515222482436,
+      "sources": [
+        "polymarket"
+      ],
+      "title": "US government bans an open source AI model in 2026?"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-24T16:45:57.942861+00:00",
+  "items_by_source": {
+    "github": [],
+    "polymarket": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "market",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [],
+    "raw_topic": "\"I would pay for an app\"",
+    "source_weights": {
+      "github": 0.6,
+      "polymarket": 0.4
+    },
+    "subqueries": [
+      {
+        "label": "github paid apps",
+        "ranking_query": "GitHub issues or repos discussing apps or features users would actually pay for",
+        "search_query": "paid app OR \"willing to pay\" OR monetization OR subscription",
+        "sources": [
+          "polymarket",
+          "github"
+        ],
+        "weight": 0.35714285714285715
+      },
+      {
+        "label": "polymarket app markets",
+        "ranking_query": "Polymarket prediction markets related to app success, adoption, or revenue",
+        "search_query": "app OR mobile OR software",
+        "sources": [
+          "polymarket",
+          "github"
+        ],
+        "weight": 0.35714285714285715
+      },
+      {
+        "label": "github monetization feedback",
+        "ranking_query": "Developer discussions on GitHub about what makes users pay for apps or tools",
+        "search_query": "paywall OR premium OR \"open source\" monetization",
+        "sources": [
+          "polymarket",
+          "github"
+        ],
+        "weight": 0.28571428571428575
+      }
+    ]
+  },
+  "range_from": "2026-08-25",
+  "range_to": "2026-09-24",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://polymarket.com/event/mlbb-oe-tncpt-2026-09-27",
+      "cluster_id": "cluster-1",
+      "engagement": 100,
+      "explanation": "Unrelated esports market; no entity match",
+      "final_score": 6.025644028103044,
+      "freshness": 90,
+      "fun_explanation": "dry esports betting line",
+      "fun_score": 8.0,
+      "item_id": "PM2",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "PM2",
+            "native_rank": 1,
+            "source": "polymarket",
+            "subquery_label": "polymarket app markets"
+          }
+        ]
+      },
+      "native_ranks": {
+        "polymarket app markets:polymarket": 1
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.0023419203747072604,
+      "snippet": "up 2.0% today",
+      "source": "polymarket",
+      "source_items": [
+        {
+          "body": "Mobile Legends Bang Bang: Omega Esports vs TNC Pro Team (BO3) - MPL Philippines Regular Season\nMobile Legends Bang Bang: Omega Esports vs TNC Pro Team (BO3) - MPL Philippines Regular Season\nup 2.0% today",
+          "container": "Polymarket",
+          "date_confidence": "high",
+          "engagement": {
+            "liquidity": 4108.3234,
+            "volume": 307.24138
+          },
+          "engagement_score": 100,
+          "freshness": 90,
+          "item_id": "PM2",
+          "local_rank_score": 0.325,
+          "local_relevance": 0.0,
+          "metadata": {
+            "end_date": "2026-09-27",
+            "outcome_prices": [
+              [
+                "Omega Esports",
+                0.565
+              ],
+              [
+                "TNC Pro Team",
+                0.435
+              ]
+            ],
+            "outcomes_remaining": 0,
+            "question": "Mobile Legends Bang Bang: Omega Esports vs TNC Pro Team (BO3) - MPL Philippines Regular Season"
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.21,
+          "snippet": "up 2.0% today",
+          "source": "polymarket",
+          "source_quality": 0.5,
+          "title": "Mobile Legends Bang Bang: Omega Esports vs TNC Pro Team (BO3) - MPL Philippines Regular Season",
+          "url": "https://polymarket.com/event/mlbb-oe-tncpt-2026-09-27",
+          "why_relevant": "Prediction market: Mobile Legends Bang Bang: Omega Esports vs TNC Pro Team (BO3"
+        }
+      ],
+      "source_quality": 0.5,
+      "sources": [
+        "polymarket"
+      ],
+      "subquery_labels": [
+        "polymarket app markets"
+      ],
+      "title": "Mobile Legends Bang Bang: Omega Esports vs TNC Pro Team (BO3) - MPL Philippines Regular Season",
+      "url": "https://polymarket.com/event/mlbb-oe-tncpt-2026-09-27"
+    },
+    {
+      "candidate_id": "https://polymarket.com/event/mlbb-falcon-onic1-2026-09-26",
+      "cluster_id": "cluster-2",
+      "engagement": 95,
+      "explanation": "Unrelated esports market; no entity match",
+      "final_score": 6.022811059907833,
+      "freshness": 90,
+      "fun_explanation": "dry esports betting line",
+      "fun_score": 7.0,
+      "item_id": "PM1",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "PM1",
+            "native_rank": 2,
+            "source": "polymarket",
+            "subquery_label": "polymarket app markets"
+          }
+        ]
+      },
+      "native_ranks": {
+        "polymarket app markets:polymarket": 2
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.0023041474654377885,
+      "snippet": "up 2.0% today",
+      "source": "polymarket",
+      "source_items": [
+        {
+          "body": "Mobile Legends Bang Bang: Team Falcons PH vs ONIC PH (BO3) - MPL Philippines Regular Season\nMobile Legends Bang Bang: Team Falcons PH vs ONIC PH (BO3) - MPL Philippines Regular Season\nup 2.0% today",
+          "container": "Polymarket",
+          "date_confidence": "high",
+          "engagement": {
+            "liquidity": 10034.2844,
+            "volume": 105.6
+          },
+          "engagement_score": 95,
+          "freshness": 90,
+          "item_id": "PM1",
+          "local_rank_score": 0.32,
+          "local_relevance": 0.0,
+          "metadata": {
+            "end_date": "2026-09-26",
+            "outcome_prices": [
+              [
+                "Team Falcons PH",
+                0.545
+              ],
+              [
+                "ONIC PH",
+                0.455
+              ]
+            ],
+            "outcomes_remaining": 0,
+            "question": "Mobile Legends Bang Bang: Team Falcons PH vs ONIC PH (BO3) - MPL Philippines Regular Season"
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.21,
+          "snippet": "up 2.0% today",
+          "source": "polymarket",
+          "source_quality": 0.5,
+          "title": "Mobile Legends Bang Bang: Team Falcons PH vs ONIC PH (BO3) - MPL Philippines Regular Season",
+          "url": "https://polymarket.com/event/mlbb-falcon-onic1-2026-09-26",
+          "why_relevant": "Prediction market: Mobile Legends Bang Bang: Team Falcons PH vs ONIC PH (BO3) -"
+        }
+      ],
+      "source_quality": 0.5,
+      "sources": [
+        "polymarket"
+      ],
+      "subquery_labels": [
+        "polymarket app markets"
+      ],
+      "title": "Mobile Legends Bang Bang: Team Falcons PH vs ONIC PH (BO3) - MPL Philippines Regular Season",
+      "url": "https://polymarket.com/event/mlbb-falcon-onic1-2026-09-26"
+    },
+    {
+      "candidate_id": "https://polymarket.com/event/mlbb-omnix-aurevi-2026-09-26",
+      "cluster_id": "cluster-3",
+      "engagement": 58,
+      "explanation": "Unrelated esports market; no entity match",
+      "final_score": 6.0200680272108835,
+      "freshness": 90,
+      "fun_explanation": "repetitive dry title",
+      "fun_score": 5.0,
+      "item_id": "PM10",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "PM10",
+            "native_rank": 3,
+            "source": "polymarket",
+            "subquery_label": "polymarket app markets"
+          }
+        ]
+      },
+      "native_ranks": {
+        "polymarket app markets:polymarket": 3
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.002267573696145125,
+      "snippet": "Mobile Legends Bang Bang: Omnix vs Aurevia Team (BO3) - MLBB Continental Championships Regular Season Mobile Legends Bang Bang: Omnix vs Aurevia Team (BO3) - MLBB Continental Championships Regular Season",
+      "source": "polymarket",
+      "source_items": [
+        {
+          "body": "Mobile Legends Bang Bang: Omnix vs Aurevia Team (BO3) - MLBB Continental Championships Regular Season\nMobile Legends Bang Bang: Omnix vs Aurevia Team (BO3) - MLBB Continental Championships Regular Season",
+          "container": "Polymarket",
+          "date_confidence": "high",
+          "engagement": {
+            "liquidity": 3414.6741,
+            "volume": 2.325582
+          },
+          "engagement_score": 58,
+          "freshness": 90,
+          "item_id": "PM10",
+          "local_rank_score": 0.28300000000000003,
+          "local_relevance": 0.0,
+          "metadata": {
+            "end_date": "2026-09-26",
+            "outcome_prices": [
+              [
+                "Omnix",
+                0.255
+              ],
+              [
+                "Aurevia Team",
+                0.745
+              ]
+            ],
+            "outcomes_remaining": 0,
+            "question": "Mobile Legends Bang Bang: Omnix vs Aurevia Team (BO3) - MLBB Continental Championships Regular Season"
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.19,
+          "snippet": "Mobile Legends Bang Bang: Omnix vs Aurevia Team (BO3) - MLBB Continental Championships Regular Season Mobile Legends Bang Bang: Omnix vs Aurevia Team (BO3) - MLBB Continental Championships Regular Season",
+          "source": "polymarket",
+          "source_quality": 0.5,
+          "title": "Mobile Legends Bang Bang: Omnix vs Aurevia Team (BO3) - MLBB Continental Championships Regular Season",
+          "url": "https://polymarket.com/event/mlbb-omnix-aurevi-2026-09-26",
+          "why_relevant": "Prediction market: Mobile Legends Bang Bang: Omnix vs Aurevia Team (BO3) - MLBB"
+        }
+      ],
+      "source_quality": 0.5,
+      "sources": [
+        "polymarket"
+      ],
+      "subquery_labels": [
+        "polymarket app markets"
+      ],
+      "title": "Mobile Legends Bang Bang: Omnix vs Aurevia Team (BO3) - MLBB Continental Championships Regular Season",
+      "url": "https://polymarket.com/event/mlbb-omnix-aurevi-2026-09-26"
+    },
+    {
+      "candidate_id": "https://polymarket.com/event/mlbb-lvlup-rakuza-2026-09-26",
+      "cluster_id": "cluster-4",
+      "engagement": 54,
+      "explanation": "Unrelated esports market; no entity match",
+      "final_score": 6.017410714285714,
+      "freshness": 90,
+      "fun_explanation": "dry esports betting line",
+      "fun_score": 9.0,
+      "item_id": "PM6",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "PM6",
+            "native_rank": 4,
+            "source": "polymarket",
+            "subquery_label": "polymarket app markets"
+          }
+        ]
+      },
+      "native_ranks": {
+        "polymarket app markets:polymarket": 4
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.0022321428571428575,
+      "snippet": "up 1.5% today",
+      "source": "polymarket",
+      "source_items": [
+        {
+          "body": "Mobile Legends Bang Bang: Level UP vs Rakuzan (BO3) - MLBB Continental Championships Regular Season\nMobile Legends Bang Bang: Level UP vs Rakuzan (BO3) - MLBB Continental Championships Regular Season\nup 1.5% today",
+          "container": "Polymarket",
+          "date_confidence": "high",
+          "engagement": {
+            "liquidity": 3578.7368,
+            "volume": 1.08695
+          },
+          "engagement_score": 54,
+          "freshness": 90,
+          "item_id": "PM6",
+          "local_rank_score": 0.279,
+          "local_relevance": 0.0,
+          "metadata": {
+            "end_date": "2026-09-26",
+            "outcome_prices": [
+              [
+                "Level UP",
+                0.335
+              ],
+              [
+                "Rakuzan",
+                0.665
+              ]
+            ],
+            "outcomes_remaining": 0,
+            "question": "Mobile Legends Bang Bang: Level UP vs Rakuzan (BO3) - MLBB Continental Championships Regular Season"
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.2,
+          "snippet": "up 1.5% today",
+          "source": "polymarket",
+          "source_quality": 0.5,
+          "title": "Mobile Legends Bang Bang: Level UP vs Rakuzan (BO3) - MLBB Continental Championships Regular Season",
+          "url": "https://polymarket.com/event/mlbb-lvlup-rakuza-2026-09-26",
+          "why_relevant": "Prediction market: Mobile Legends Bang Bang: Level UP vs Rakuzan (BO3) - MLBB C"
+        }
+      ],
+      "source_quality": 0.5,
+      "sources": [
+        "polymarket"
+      ],
+      "subquery_labels": [
+        "polymarket app markets"
+      ],
+      "title": "Mobile Legends Bang Bang: Level UP vs Rakuzan (BO3) - MLBB Continental Championships Regular Season",
+      "url": "https://polymarket.com/event/mlbb-lvlup-rakuza-2026-09-26"
+    },
+    {
+      "candidate_id": "https://polymarket.com/event/mlbb-ts-re1-2026-09-26",
+      "cluster_id": "cluster-5",
+      "engagement": 52,
+      "explanation": "Unrelated esports market; no entity match",
+      "final_score": 6.014835164835164,
+      "freshness": 90,
+      "fun_explanation": "dry esports betting line",
+      "fun_score": 10.0,
+      "item_id": "PM3",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "PM3",
+            "native_rank": 5,
+            "source": "polymarket",
+            "subquery_label": "polymarket app markets"
+          }
+        ]
+      },
+      "native_ranks": {
+        "polymarket app markets:polymarket": 5
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.0021978021978021982,
+      "snippet": "up 5.5% today",
+      "source": "polymarket",
+      "source_items": [
+        {
+          "body": "Mobile Legends Bang Bang: Team Spirit vs Rune Eaters Esports (BO3) - MLBB Continental Championships Regular Season\nMobile Legends Bang Bang: Team Spirit vs Rune Eaters Esports (BO3) - MLBB Continental Championships Regular Season\nup 5.5% today",
+          "container": "Polymarket",
+          "date_confidence": "high",
+          "engagement": {
+            "liquidity": 2730.4626,
+            "volume": 1.04165
+          },
+          "engagement_score": 52,
+          "freshness": 90,
+          "item_id": "PM3",
+          "local_rank_score": 0.277,
+          "local_relevance": 0.0,
+          "metadata": {
+            "end_date": "2026-09-26",
+            "outcome_prices": [
+              [
+                "Team Spirit",
+                0.555
+              ],
+              [
+                "Rune Eaters Esports",
+                0.445
+              ]
+            ],
+            "outcomes_remaining": 0,
+            "question": "Mobile Legends Bang Bang: Team Spirit vs Rune Eaters Esports (BO3) - MLBB Continental Championships Regular Season"
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.2,
+          "snippet": "up 5.5% today",
+          "source": "polymarket",
+          "source_quality": 0.5,
+          "title": "Mobile Legends Bang Bang: Team Spirit vs Rune Eaters Esports (BO3) - MLBB Continental Championships Regular Season",
+          "url": "https://polymarket.com/event/mlbb-ts-re1-2026-09-26",
+          "why_relevant": "Prediction market: Mobile Legends Bang Bang: Team Spirit vs Rune Eaters Esports"
+        }
+      ],
+      "source_quality": 0.5,
+      "sources": [
+        "polymarket"
+      ],
+      "subquery_labels": [
+        "polymarket app markets"
+      ],
+      "title": "Mobile Legends Bang Bang: Team Spirit vs Rune Eaters Esports (BO3) - MLBB Continental Championships Regular Season",
+      "url": "https://polymarket.com/event/mlbb-ts-re1-2026-09-26"
+    },
+    {
+      "candidate_id": "https://polymarket.com/event/mlbb-apbr-ar-2026-09-26",
+      "cluster_id": "cluster-6",
+      "engagement": 50,
+      "explanation": "Unrelated esports market; no entity match",
+      "final_score": 6.0123376623376625,
+      "freshness": 90,
+      "fun_explanation": "repetitive dry title",
+      "fun_score": 6.0,
+      "item_id": "PM7",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "PM7",
+            "native_rank": 6,
+            "source": "polymarket",
+            "subquery_label": "polymarket app markets"
+          }
+        ]
+      },
+      "native_ranks": {
+        "polymarket app markets:polymarket": 6
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.002164502164502165,
+      "snippet": "Mobile Legends Bang Bang: AP.Bren vs Aurora Gaming PH (BO3) - MPL Philippines Regular Season Mobile Legends Bang Bang: AP.Bren vs Aurora Gaming PH (BO3) - MPL Philippines Regular Season",
+      "source": "polymarket",
+      "source_items": [
+        {
+          "body": "Mobile Legends Bang Bang: AP.Bren vs Aurora Gaming PH (BO3) - MPL Philippines Regular Season\nMobile Legends Bang Bang: AP.Bren vs Aurora Gaming PH (BO3) - MPL Philippines Regular Season",
+          "container": "Polymarket",
+          "date_confidence": "high",
+          "engagement": {
+            "liquidity": 5727.4582,
+            "volume": 0
+          },
+          "engagement_score": 50,
+          "freshness": 90,
+          "item_id": "PM7",
+          "local_rank_score": 0.275,
+          "local_relevance": 0.0,
+          "metadata": {
+            "end_date": "2026-09-26",
+            "outcome_prices": [
+              [
+                "AP.Bren",
+                0.215
+              ],
+              [
+                "Aurora Gaming PH",
+                0.785
+              ]
+            ],
+            "outcomes_remaining": 0,
+            "question": "Mobile Legends Bang Bang: AP.Bren vs Aurora Gaming PH (BO3) - MPL Philippines Regular Season"
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.2,
+          "snippet": "Mobile Legends Bang Bang: AP.Bren vs Aurora Gaming PH (BO3) - MPL Philippines Regular Season Mobile Legends Bang Bang: AP.Bren vs Aurora Gaming PH (BO3) - MPL Philippines Regular Season",
+          "source": "polymarket",
+          "source_quality": 0.5,
+          "title": "Mobile Legends Bang Bang: AP.Bren vs Aurora Gaming PH (BO3) - MPL Philippines Regular Season",
+          "url": "https://polymarket.com/event/mlbb-apbr-ar-2026-09-26",
+          "why_relevant": "Prediction market: Mobile Legends Bang Bang: AP.Bren vs Aurora Gaming PH (BO3)"
+        }
+      ],
+      "source_quality": 0.5,
+      "sources": [
+        "polymarket"
+      ],
+      "subquery_labels": [
+        "polymarket app markets"
+      ],
+      "title": "Mobile Legends Bang Bang: AP.Bren vs Aurora Gaming PH (BO3) - MPL Philippines Regular Season",
+      "url": "https://polymarket.com/event/mlbb-apbr-ar-2026-09-26"
+    },
+    {
+      "candidate_id": "https://polymarket.com/event/mlbb-btr1-rrq-2026-10-03",
+      "cluster_id": "cluster-7",
+      "engagement": 50,
+      "explanation": "Unrelated esports market; no entity match",
+      "final_score": 6.009914712153518,
+      "freshness": 90,
+      "fun_explanation": "dry esports betting line",
+      "fun_score": 8.0,
+      "item_id": "PM14",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "PM14",
+            "native_rank": 7,
+            "source": "polymarket",
+            "subquery_label": "polymarket app markets"
+          }
+        ]
+      },
+      "native_ranks": {
+        "polymarket app markets:polymarket": 7
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.0021321961620469087,
+      "snippet": "down 1.0% today",
+      "source": "polymarket",
+      "source_items": [
+        {
+          "body": "Mobile Legends Bang Bang: Bigetron by Vitality vs RRQ Hoshi (BO3) - MPL Indonesia Regular Season\nMobile Legends Bang Bang: Bigetron by Vitality vs RRQ Hoshi - Game 1 Winner\ndown 1.0% today",
+          "container": "Polymarket",
+          "date_confidence": "high",
+          "engagement": {
+            "liquidity": 5653.1918,
+            "volume": 0
+          },
+          "engagement_score": 50,
+          "freshness": 90,
+          "item_id": "PM14",
+          "local_rank_score": 0.275,
+          "local_relevance": 0.0,
+          "metadata": {
+            "end_date": "2026-10-03",
+            "outcome_prices": [
+              [
+                "Bigetron by Vitality",
+                0.5
+              ],
+              [
+                "RRQ Hoshi",
+                0.5
+              ]
+            ],
+            "outcomes_remaining": 0,
+            "question": "Mobile Legends Bang Bang: Bigetron by Vitality vs RRQ Hoshi - Game 1 Winner"
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.19,
+          "snippet": "down 1.0% today",
+          "source": "polymarket",
+          "source_quality": 0.5,
+          "title": "Mobile Legends Bang Bang: Bigetron by Vitality vs RRQ Hoshi (BO3) - MPL Indonesia Regular Season",
+          "url": "https://polymarket.com/event/mlbb-btr1-rrq-2026-10-03",
+          "why_relevant": "Prediction market: Mobile Legends Bang Bang: Bigetron by Vitality vs RRQ Hoshi"
+        }
+      ],
+      "source_quality": 0.5,
+      "sources": [
+        "polymarket"
+      ],
+      "subquery_labels": [
+        "polymarket app markets"
+      ],
+      "title": "Mobile Legends Bang Bang: Bigetron by Vitality vs RRQ Hoshi (BO3) - MPL Indonesia Regular Season",
+      "url": "https://polymarket.com/event/mlbb-btr1-rrq-2026-10-03"
+    },
+    {
+      "candidate_id": "https://polymarket.com/event/mlbb-geek-dewa-2026-10-03",
+      "cluster_id": "cluster-8",
+      "engagement": 49,
+      "explanation": "Unrelated esports market; no entity match",
+      "final_score": 6.007563025210084,
+      "freshness": 90,
+      "fun_explanation": "repetitive dry title",
+      "fun_score": 7.0,
+      "item_id": "PM13",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "PM13",
+            "native_rank": 8,
+            "source": "polymarket",
+            "subquery_label": "polymarket app markets"
+          }
+        ]
+      },
+      "native_ranks": {
+        "polymarket app markets:polymarket": 8
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.002100840336134454,
+      "snippet": "Mobile Legends Bang Bang: Geek Fam ID vs Dewa United Esports (BO3) - MPL Indonesia Regular Season Mobile Legends Bang Bang: Geek Fam ID vs Dewa United Esports - Game 1 Winner",
+      "source": "polymarket",
+      "source_items": [
+        {
+          "body": "Mobile Legends Bang Bang: Geek Fam ID vs Dewa United Esports (BO3) - MPL Indonesia Regular Season\nMobile Legends Bang Bang: Geek Fam ID vs Dewa United Esports - Game 1 Winner",
+          "container": "Polymarket",
+          "date_confidence": "high",
+          "engagement": {
+            "liquidity": 4926.1383,
+            "volume": 0
+          },
+          "engagement_score": 49,
+          "freshness": 90,
+          "item_id": "PM13",
+          "local_rank_score": 0.274,
+          "local_relevance": 0.0,
+          "metadata": {
+            "end_date": "2026-10-03",
+            "outcome_prices": [
+              [
+                "Geek Fam ID",
+                0.505
+              ],
+              [
+                "Dewa United Esports",
+                0.495
+              ]
+            ],
+            "outcomes_remaining": 0,
+            "question": "Mobile Legends Bang Bang: Geek Fam ID vs Dewa United Esports - Game 1 Winner"
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.19,
+          "snippet": "Mobile Legends Bang Bang: Geek Fam ID vs Dewa United Esports (BO3) - MPL Indonesia Regular Season Mobile Legends Bang Bang: Geek Fam ID vs Dewa United Esports - Game 1 Winner",
+          "source": "polymarket",
+          "source_quality": 0.5,
+          "title": "Mobile Legends Bang Bang: Geek Fam ID vs Dewa United Esports (BO3) - MPL Indonesia Regular Season",
+          "url": "https://polymarket.com/event/mlbb-geek-dewa-2026-10-03",
+          "why_relevant": "Prediction market: Mobile Legends Bang Bang: Geek Fam ID vs Dewa United Esports"
+        }
+      ],
+      "source_quality": 0.5,
+      "sources": [
+        "polymarket"
+      ],
+      "subquery_labels": [
+        "polymarket app markets"
+      ],
+      "title": "Mobile Legends Bang Bang: Geek Fam ID vs Dewa United Esports (BO3) - MPL Indonesia Regular Season",
+      "url": "https://polymarket.com/event/mlbb-geek-dewa-2026-10-03"
+    },
+    {
+      "candidate_id": "https://polymarket.com/event/mlbb-evos-dewa-2026-09-11",
+      "cluster_id": "cluster-9",
+      "engagement": 48,
+      "explanation": "Unrelated esports market; no entity match",
+      "final_score": 6.00527950310559,
+      "freshness": 90,
+      "fun_explanation": "dry esports betting line",
+      "fun_score": 9.0,
+      "item_id": "PM4",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "PM4",
+            "native_rank": 9,
+            "source": "polymarket",
+            "subquery_label": "polymarket app markets"
+          }
+        ]
+      },
+      "native_ranks": {
+        "polymarket app markets:polymarket": 9
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.002070393374741201,
+      "snippet": "down 6.0% this week",
+      "source": "polymarket",
+      "source_items": [
+        {
+          "body": "Mobile Legends Bang Bang: EVOS vs Dewa United Esports (BO3) - MPL Indonesia Regular Season\nMobile Legends Bang Bang: EVOS vs Dewa United Esports (BO3) - MPL Indonesia Regular Season\ndown 6.0% this week",
+          "container": "Polymarket",
+          "date_confidence": "high",
+          "engagement": {
+            "liquidity": 3647.3593,
+            "volume": 0
+          },
+          "engagement_score": 48,
+          "freshness": 90,
+          "item_id": "PM4",
+          "local_rank_score": 0.273,
+          "local_relevance": 0.0,
+          "metadata": {
+            "end_date": "2026-09-11",
+            "outcome_prices": [
+              [
+                "EVOS",
+                0.43
+              ],
+              [
+                "Dewa United Esports",
+                0.57
+              ]
+            ],
+            "outcomes_remaining": 0,
+            "question": "Mobile Legends Bang Bang: EVOS vs Dewa United Esports (BO3) - MPL Indonesia Regular Season"
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.2,
+          "snippet": "down 6.0% this week",
+          "source": "polymarket",
+          "source_quality": 0.5,
+          "title": "Mobile Legends Bang Bang: EVOS vs Dewa United Esports (BO3) - MPL Indonesia Regular Season",
+          "url": "https://polymarket.com/event/mlbb-evos-dewa-2026-09-11",
+          "why_relevant": "Prediction market: Mobile Legends Bang Bang: EVOS vs Dewa United Esports (BO3)"
+        }
+      ],
+      "source_quality": 0.5,
+      "sources": [
+        "polymarket"
+      ],
+      "subquery_labels": [
+        "polymarket app markets"
+      ],
+      "title": "Mobile Legends Bang Bang: EVOS vs Dewa United Esports (BO3) - MPL Indonesia Regular Season",
+      "url": "https://polymarket.com/event/mlbb-evos-dewa-2026-09-11"
+    },
+    {
+      "candidate_id": "https://polymarket.com/event/mlbb-srg1-fl-2026-10-08",
+      "cluster_id": "cluster-10",
+      "engagement": 48,
+      "explanation": "Unrelated esports market; no entity match",
+      "final_score": 6.003061224489795,
+      "freshness": 90,
+      "fun_explanation": "repetitive dry title",
+      "fun_score": 6.0,
+      "item_id": "PM11",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "PM11",
+            "native_rank": 10,
+            "source": "polymarket",
+            "subquery_label": "polymarket app markets"
+          }
+        ]
+      },
+      "native_ranks": {
+        "polymarket app markets:polymarket": 10
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.0020408163265306124,
+      "snippet": "Mobile Legends Bang Bang: Selangor Red Giants vs Team Flash (BO3) - MPL Malaysia Regular Season Mobile Legends Bang Bang: Selangor Red Giants vs Team Flash - Game 1 Winner",
+      "source": "polymarket",
+      "source_items": [
+        {
+          "body": "Mobile Legends Bang Bang: Selangor Red Giants vs Team Flash (BO3) - MPL Malaysia Regular Season\nMobile Legends Bang Bang: Selangor Red Giants vs Team Flash - Game 1 Winner",
+          "container": "Polymarket",
+          "date_confidence": "high",
+          "engagement": {
+            "liquidity": 4114.1676,
+            "volume": 0
+          },
+          "engagement_score": 48,
+          "freshness": 90,
+          "item_id": "PM11",
+          "local_rank_score": 0.273,
+          "local_relevance": 0.0,
+          "metadata": {
+            "end_date": "2026-10-08",
+            "outcome_prices": [
+              [
+                "Selangor Red Giants",
+                0.5
+              ],
+              [
+                "Team Flash",
+                0.5
+              ]
+            ],
+            "outcomes_remaining": 0,
+            "question": "Mobile Legends Bang Bang: Selangor Red Giants vs Team Flash - Game 1 Winner"
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.19,
+          "snippet": "Mobile Legends Bang Bang: Selangor Red Giants vs Team Flash (BO3) - MPL Malaysia Regular Season Mobile Legends Bang Bang: Selangor Red Giants vs Team Flash - Game 1 Winner",
+          "source": "polymarket",
+          "source_quality": 0.5,
+          "title": "Mobile Legends Bang Bang: Selangor Red Giants vs Team Flash (BO3) - MPL Malaysia Regular Season",
+          "url": "https://polymarket.com/event/mlbb-srg1-fl-2026-10-08",
+          "why_relevant": "Prediction market: Mobile Legends Bang Bang: Selangor Red Giants vs Team Flash"
+        }
+      ],
+      "source_quality": 0.5,
+      "sources": [
+        "polymarket"
+      ],
+      "subquery_labels": [
+        "polymarket app markets"
+      ],
+      "title": "Mobile Legends Bang Bang: Selangor Red Giants vs Team Flash (BO3) - MPL Malaysia Regular Season",
+      "url": "https://polymarket.com/event/mlbb-srg1-fl-2026-10-08"
+    },
+    {
+      "candidate_id": "https://polymarket.com/event/t-mobile-us-spacex-mergeracquisition-announced-in-2026-20260701221224490",
+      "cluster_id": "cluster-11",
+      "engagement": 47,
+      "explanation": "Unrelated merger market; no entity match",
+      "final_score": 6.000905432595573,
+      "freshness": 90,
+      "fun_explanation": "mildly odd future event",
+      "fun_score": 12.0,
+      "item_id": "PM8",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "PM8",
+            "native_rank": 11,
+            "source": "polymarket",
+            "subquery_label": "polymarket app markets"
+          }
+        ]
+      },
+      "native_ranks": {
+        "polymarket app markets:polymarket": 11
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.002012072434607646,
+      "snippet": "down 1.5% this week",
+      "source": "polymarket",
+      "source_items": [
+        {
+          "body": "T-Mobile US & SpaceX merger/acquisition announced in 2026?\nT-Mobile US & SpaceX merger/acquisition announced in 2026?\ndown 1.5% this week",
+          "container": "Polymarket",
+          "date_confidence": "high",
+          "engagement": {
+            "liquidity": 3204.8922,
+            "volume": 0
+          },
+          "engagement_score": 47,
+          "freshness": 90,
+          "item_id": "PM8",
+          "local_rank_score": 0.272,
+          "local_relevance": 0.0,
+          "metadata": {
+            "end_date": "2027-01-01",
+            "outcome_prices": [
+              [
+                "Yes",
+                0.05
+              ],
+              [
+                "No",
+                0.95
+              ]
+            ],
+            "outcomes_remaining": 0,
+            "question": "T-Mobile US & SpaceX merger/acquisition announced in 2026?"
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.19,
+          "snippet": "down 1.5% this week",
+          "source": "polymarket",
+          "source_quality": 0.5,
+          "title": "T-Mobile US & SpaceX merger/acquisition announced in 2026?",
+          "url": "https://polymarket.com/event/t-mobile-us-spacex-mergeracquisition-announced-in-2026-20260701221224490",
+          "why_relevant": "Prediction market: T-Mobile US & SpaceX merger/acquisition announced in 2026?"
+        }
+      ],
+      "source_quality": 0.5,
+      "sources": [
+        "polymarket"
+      ],
+      "subquery_labels": [
+        "polymarket app markets"
+      ],
+      "title": "T-Mobile US & SpaceX merger/acquisition announced in 2026?",
+      "url": "https://polymarket.com/event/t-mobile-us-spacex-mergeracquisition-announced-in-2026-20260701221224490"
+    },
+    {
+      "candidate_id": "https://polymarket.com/event/mlbb-rey-btr-2026-10-08",
+      "cluster_id": "cluster-12",
+      "engagement": 47,
+      "explanation": "Unrelated esports market; no entity match",
+      "final_score": 5.998809523809524,
+      "freshness": 90,
+      "fun_explanation": "repetitive dry title",
+      "fun_score": 7.0,
+      "item_id": "PM12",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "PM12",
+            "native_rank": 12,
+            "source": "polymarket",
+            "subquery_label": "polymarket app markets"
+          }
+        ]
+      },
+      "native_ranks": {
+        "polymarket app markets:polymarket": 12
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.0019841269841269845,
+      "snippet": "Mobile Legends Bang Bang: Team Rey vs Bigetron MY by VIT (BO3) - MPL Malaysia Regular Season Mobile Legends Bang Bang: Team Rey vs Bigetron MY by VIT - Game 1 Winner",
+      "source": "polymarket",
+      "source_items": [
+        {
+          "body": "Mobile Legends Bang Bang: Team Rey vs Bigetron MY by VIT (BO3) - MPL Malaysia Regular Season\nMobile Legends Bang Bang: Team Rey vs Bigetron MY by VIT - Game 1 Winner",
+          "container": "Polymarket",
+          "date_confidence": "high",
+          "engagement": {
+            "liquidity": 3265.0061,
+            "volume": 0
+          },
+          "engagement_score": 47,
+          "freshness": 90,
+          "item_id": "PM12",
+          "local_rank_score": 0.272,
+          "local_relevance": 0.0,
+          "metadata": {
+            "end_date": "2026-10-08",
+            "outcome_prices": [
+              [
+                "Team Rey",
+                0.49
+              ],
+              [
+                "Bigetron MY by VIT",
+                0.51
+              ]
+            ],
+            "outcomes_remaining": 0,
+            "question": "Mobile Legends Bang Bang: Team Rey vs Bigetron MY by VIT - Game 1 Winner"
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.19,
+          "snippet": "Mobile Legends Bang Bang: Team Rey vs Bigetron MY by VIT (BO3) - MPL Malaysia Regular Season Mobile Legends Bang Bang: Team Rey vs Bigetron MY by VIT - Game 1 Winner",
+          "source": "polymarket",
+          "source_quality": 0.5,
+          "title": "Mobile Legends Bang Bang: Team Rey vs Bigetron MY by VIT (BO3) - MPL Malaysia Regular Season",
+          "url": "https://polymarket.com/event/mlbb-rey-btr-2026-10-08",
+          "why_relevant": "Prediction market: Mobile Legends Bang Bang: Team Rey vs Bigetron MY by VIT (BO"
+        }
+      ],
+      "source_quality": 0.5,
+      "sources": [
+        "polymarket"
+      ],
+      "subquery_labels": [
+        "polymarket app markets"
+      ],
+      "title": "Mobile Legends Bang Bang: Team Rey vs Bigetron MY by VIT (BO3) - MPL Malaysia Regular Season",
+      "url": "https://polymarket.com/event/mlbb-rey-btr-2026-10-08"
+    },
+    {
+      "candidate_id": "https://polymarket.com/event/us-government-bans-an-open-source-ai-model-in-2026-20260703221501747",
+      "cluster_id": "cluster-13",
+      "engagement": 50,
+      "explanation": "Unrelated policy market; no entity match",
+      "final_score": 5.990515222482436,
+      "freshness": 90,
+      "fun_explanation": "slightly provocative topic",
+      "fun_score": 15.0,
+      "item_id": "PM1",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "PM1",
+            "native_rank": 1,
+            "source": "polymarket",
+            "subquery_label": "github monetization feedback"
+          }
+        ]
+      },
+      "native_ranks": {
+        "github monetization feedback:polymarket": 1
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.0018735362997658084,
+      "snippet": "down 7.0% this month",
+      "source": "polymarket",
+      "source_items": [
+        {
+          "body": "US government bans an open source AI model in 2026?\nUS government bans an open source AI model in 2026?\ndown 7.0% this month",
+          "container": "Polymarket",
+          "date_confidence": "high",
+          "engagement": {
+            "liquidity": 1217.2614,
+            "volume": 1638.3701130000002
+          },
+          "engagement_score": 50,
+          "freshness": 90,
+          "item_id": "PM1",
+          "local_rank_score": 0.275,
+          "local_relevance": 0.0,
+          "metadata": {
+            "end_date": "2027-01-01",
+            "outcome_prices": [
+              [
+                "Yes",
+                0.07
+              ],
+              [
+                "No",
+                0.93
+              ]
+            ],
+            "outcomes_remaining": 0,
+            "question": "US government bans an open source AI model in 2026?"
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.26,
+          "snippet": "down 7.0% this month",
+          "source": "polymarket",
+          "source_quality": 0.5,
+          "title": "US government bans an open source AI model in 2026?",
+          "url": "https://polymarket.com/event/us-government-bans-an-open-source-ai-model-in-2026-20260703221501747",
+          "why_relevant": "Prediction market: US government bans an open source AI model in 2026?"
+        }
+      ],
+      "source_quality": 0.5,
+      "sources": [
+        "polymarket"
+      ],
+      "subquery_labels": [
+        "github monetization feedback"
+      ],
+      "title": "US government bans an open source AI model in 2026?",
+      "url": "https://polymarket.com/event/us-government-bans-an-open-source-ai-model-in-2026-20260703221501747"
+    }
+  ],
+  "topic": "\"I would pay for an app\"",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}
