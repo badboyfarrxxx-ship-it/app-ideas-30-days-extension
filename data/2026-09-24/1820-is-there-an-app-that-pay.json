@@ -1,0 +1,652 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"is there an app that\" \"pay\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://reddit.com/r/personalfinance/comments/1watwtp/looking_for_temporary_joint_account_app_or_site"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://reddit.com/r/personalfinance/comments/1watwtp/looking_for_temporary_joint_account_app_or_site"
+      ],
+      "score": 27.468852459016393,
+      "sources": [
+        "reddit"
+      ],
+      "title": "Looking for temporary joint account app or site"
+    },
+    {
+      "candidate_ids": [
+        "https://reddit.com/r/supplements/comments/1w1mmgl/app_for_supplements_timing"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://reddit.com/r/supplements/comments/1w1mmgl/app_for_supplements_timing"
+      ],
+      "score": 4.7467741935483865,
+      "sources": [
+        "reddit"
+      ],
+      "title": "App for Supplements timing"
+    },
+    {
+      "candidate_ids": [
+        "https://reddit.com/r/ukpersonalfinance/comments/1vzpevc/filing_self_assessment_for_savings_income"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://reddit.com/r/ukpersonalfinance/comments/1vzpevc/filing_self_assessment_for_savings_income"
+      ],
+      "score": 4.553333333333333,
+      "sources": [
+        "reddit"
+      ],
+      "title": "Filing self assessment for savings income"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-24T18:20:25.996741+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": [
+      {
+        "body": "Looking for temporary joint account app or site\nI do lots of shared money activities, like deposits for vacations, roomates coordination for rent, etc. Is there an app that lets you make temporary pools for money seeing who paid and can be a real account you both can pay from, not like just a spread sheet, but real temporary joint accounts that can open and then close when the purpose of the joint account is no longer needed, and the sign up doesnt come with lots of KYC / overhead or credit checks?\nYou're looking for something like splitwise. SplitWise doesn't let you pay, but each individual pays and tracks what they paid, and the app splits the cost amonsts your group, and identifies what each person owes, and to whom. Splitwise is the way to go. It can let you directly payoff balances owed with a linked paypal account. So it almost does exactly what you are looking for. It's much easier then anything else I've tried!",
+        "container": "personalfinance",
+        "date_confidence": "high",
+        "engagement": {
+          "num_comments": 5,
+          "score": 0
+        },
+        "engagement_score": 47,
+        "freshness": 46,
+        "item_id": "R3",
+        "local_rank_score": 0.383,
+        "local_relevance": 0.34,
+        "metadata": {
+          "comment_insights": [
+            "You're looking for something like splitwise.",
+            "SplitWise doesn't let you pay, but each individual pays and tracks what they paid, and the app splits the cost amonsts your group, and identifies what...",
+            "Splitwise is the way to go. It can let you directly payoff balances owed with a linked paypal account."
+          ],
+          "top_comments": [
+            {
+              "author": "mrkmrrsn",
+              "date": "2026-09-08",
+              "excerpt": "You're looking for something like splitwise.",
+              "score": 15,
+              "url": "https://reddit.com/r/personalfinance/comments/1watwtp/comment/p8ktm62/"
+            },
+            {
+              "author": "pancak3d",
+              "date": "2026-09-08",
+              "excerpt": "SplitWise doesn't let you pay, but each individual pays and tracks what they paid, and the app splits the cost amonsts your group, and identifies what each person owes, and to whom.",
+              "score": 6,
+              "url": "https://reddit.com/r/personalfinance/comments/1watwtp/comment/p8kygym/"
+            },
+            {
+              "author": "GossamerLens",
+              "date": "2026-09-08",
+              "excerpt": "Splitwise is the way to go. It can let you directly payoff balances owed with a linked paypal account. So it almost does exactly what you are looking for. It's much easier then anything else I've tried!",
+              "score": 3,
+              "url": "https://reddit.com/r/personalfinance/comments/1watwtp/comment/p8lpk4t/"
+            }
+          ]
+        },
+        "published_at": "2026-09-08",
+        "relevance_hint": 0.4,
+        "snippet": "You're looking for something like splitwise. SplitWise doesn't let you pay, but each individual pays and tracks what they paid, and the app splits the cost amonsts your group, and identifies what each person owes, and to whom. Splitwise is the way to go. It can let you directly payoff balances owed with a linked paypal account. So it almost does exactly what you are looking for. It's much easier then anything else I've tried!",
+        "source": "reddit",
+        "source_quality": 0.6,
+        "title": "Looking for temporary joint account app or site",
+        "url": "https://www.reddit.com/r/personalfinance/comments/1watwtp/looking_for_temporary_joint_account_app_or_site/",
+        "why_relevant": "Reddit global search"
+      },
+      {
+        "body": "App for Supplements timing\nIs there an app that can tell me which supplements I should take at what time? Morning, afternoon, night. And which ones I shouldn\u2019t take at the same time? Etc I don\u2019t mind paying for it if the app is great\nRules of r/supplements\n\n Do Not Suggest Prescription Drugs Posts & Comments Reported as: Do Not Suggest Prescription Drugs Prescription drugs are not Supplements; do not recommend prescription medication. Sensible/Suggest talking to DR. can be allowable etc\n\n 2. Dangerous Grey Area Substance Posts & Comments Reported as: Dangerous Grey Area Substance Potentially dangerous grey area substances can a spreadsheet works better than most apps for this sort of thing, just colour code your AM/PM slots and leave a column for conflicts .buffering-track-fill {\n stroke-dasharray: 100;\n stroke-dashoffset: 50;\n }\n\n Sorry, something went wrong when loading this video.\n\n View in app\n\n Building an app for exactly this, based on all the data I have (freely available) on suplmnt, if you are interested in testing and have iOS lmk.",
+        "container": "Supplements",
+        "date_confidence": "high",
+        "engagement": {
+          "num_comments": 5,
+          "score": 3
+        },
+        "engagement_score": 100,
+        "freshness": 20,
+        "item_id": "R2",
+        "local_rank_score": 0.2865,
+        "local_relevance": 0.21,
+        "metadata": {
+          "comment_insights": [
+            "a spreadsheet works better than most apps for this sort of thing, just colour code your AM/PM slots and leave a column for conflicts",
+            ".buffering-track-fill {\n stroke-dasharray: 100;\n stroke-dashoffset: 50;\n }\n\n Sorry, something went wrong when loading this video."
+          ],
+          "top_comments": [
+            {
+              "author": "AutoModerator",
+              "date": "2026-08-29",
+              "excerpt": "Rules of r/supplements\n\n Do Not Suggest Prescription Drugs Posts & Comments Reported as: Do Not Suggest Prescription Drugs Prescription drugs are not Supplements; do not recommend prescription medication. Sensible/Suggest talking to DR. can be allowable etc\n\n 2. Dangerous Grey Area Substance Posts & Comments Reported as: Dangerous Grey Area Substance Potentially dangerous grey area substances can ",
+              "score": 1,
+              "url": "https://reddit.com/r/Supplements/comments/1w1mmgl/comment/p6lue6j/"
+            },
+            {
+              "author": "Unlikely_Net_4488",
+              "date": "2026-08-29",
+              "excerpt": "a spreadsheet works better than most apps for this sort of thing, just colour code your AM/PM slots and leave a column for conflicts",
+              "score": 1,
+              "url": "https://reddit.com/r/Supplements/comments/1w1mmgl/comment/p6lz25o/"
+            },
+            {
+              "author": "dataoops",
+              "date": "2026-08-29",
+              "excerpt": ".buffering-track-fill {\n stroke-dasharray: 100;\n stroke-dashoffset: 50;\n }\n\n Sorry, something went wrong when loading this video.\n\n View in app\n\n Building an app for exactly this, based on all the data I have (freely available) on suplmnt, if you are interested in testing and have iOS lmk.",
+              "score": 1,
+              "url": "https://reddit.com/r/Supplements/comments/1w1mmgl/comment/p6mx7tc/"
+            }
+          ]
+        },
+        "published_at": "2026-08-29",
+        "relevance_hint": 0.34,
+        "snippet": "Rules of r/supplements Do Not Suggest Prescription Drugs Posts & Comments Reported as: Do Not Suggest Prescription Drugs Prescription drugs are not Supplements; do not recommend prescription medication. Sensible/Suggest talking to DR. can be allowable etc 2. Dangerous Grey Area Substance Posts & Comments Reported as: Dangerous Grey Area Substance Potentially dangerous grey area substances can a spreadsheet works better than most apps for this sort of thing, just colour code your AM/PM slots and leave a column for conflicts .buffering-track-fill { stroke-dasharray: 100; stroke-dashoffset: 50; } Sorry, something went wrong when loading this video. View in app Building an app for exactly this, based on all the data I have (freely available) on suplmnt, if you are interested in...",
+        "source": "reddit",
+        "source_quality": 0.6,
+        "title": "App for Supplements timing",
+        "url": "https://www.reddit.com/r/Supplements/comments/1w1mmgl/app_for_supplements_timing/",
+        "why_relevant": "Reddit global search"
+      },
+      {
+        "body": "Filing self assessment for savings income\nFor the 25/26 year I earned over the personal allowance of savings interest which I now need to pay tax for. This savings income will also put me in the 40% tax bracket. How easy is it to fill this out myself and is there an app that I can use to help me. Had the same thing last year and used an accountant but I\u2019ve now bought my first home and am trying to save some money.\nIn most cases you don't need to submit a self assessment for savings income, unless you already submit a self assessment for another reason, then you just include the savings interest on that form, or you receive over \u00a310k in interest.\n\n Are you sure you need to submit a self assessment? For the 25/26 year I earned over the personal allowance of savings interest\n\n How much over?\n\n Generally you are only required to do self assessment for savings interest if that interest is \u00a310k or more.\n\n For amounts below \u00a310k HMRC should write to you with a calculation which you can pay directly It\u2019s the most annoying bit of self assessment for me because I have a lot of accounts that pay interest. Some of them give me an interest certificate but it\u2019s hit and miss.\n\n I just use a spreadsheet though to do all the adding up. Ultimately it all goes in one box on the self assessment.\n\n Doubt th",
+        "container": "UKPersonalFinance",
+        "date_confidence": "high",
+        "engagement": {
+          "num_comments": 12,
+          "score": 0
+        },
+        "engagement_score": 67,
+        "freshness": 14,
+        "item_id": "R1",
+        "local_rank_score": 0.23850000000000002,
+        "local_relevance": 0.21,
+        "metadata": {
+          "comment_insights": [
+            "In most cases you don't need to submit a self assessment for savings income, unless you already submit a self assessment for another reason, then you...",
+            "For the 25/26 year I earned over the personal allowance of savings interest\n\n How much over?",
+            "It\u2019s the most annoying bit of self assessment for me because I have a lot of accounts that pay interest.",
+            "Double check whether or not you actually need to do this.",
+            "Check HMRC's site when you log in to prepare your SA return.",
+            "hmrc stock answer is to do self assessment.\n\n for savings interest , you can let the bank provide it or use your online tax account or submit other in..."
+          ],
+          "top_comments": [
+            {
+              "author": "UKActuary1",
+              "date": "2026-08-27",
+              "excerpt": "In most cases you don't need to submit a self assessment for savings income, unless you already submit a self assessment for another reason, then you just include the savings interest on that form, or you receive over \u00a310k in interest.\n\n Are you sure you need to submit a self assessment?",
+              "score": 6,
+              "url": "https://reddit.com/r/UKPersonalFinance/comments/1vzpevc/comment/p66k1t9/"
+            },
+            {
+              "author": "IxionS3",
+              "date": "2026-08-27",
+              "excerpt": "For the 25/26 year I earned over the personal allowance of savings interest\n\n How much over?\n\n Generally you are only required to do self assessment for savings interest if that interest is \u00a310k or more.\n\n For amounts below \u00a310k HMRC should write to you with a calculation which you can pay directly ",
+              "score": 3,
+              "url": "https://reddit.com/r/UKPersonalFinance/comments/1vzpevc/comment/p66ol25/"
+            },
+            {
+              "author": "QueefInMyKisser",
+              "date": "2026-08-27",
+              "excerpt": "It\u2019s the most annoying bit of self assessment for me because I have a lot of accounts that pay interest. Some of them give me an interest certificate but it\u2019s hit and miss.\n\n I just use a spreadsheet though to do all the adding up. Ultimately it all goes in one box on the self assessment.\n\n Doubt th",
+              "score": 1,
+              "url": "https://reddit.com/r/UKPersonalFinance/comments/1vzpevc/comment/p66jp6h/"
+            },
+            {
+              "author": "samtheman268",
+              "date": "2026-08-27",
+              "excerpt": "Double check whether or not you actually need to do this. If you are PAYE then you probably don't, your tax code will be adjusted automatically to compensate with your bank information HMRC of your earning. If you're making a considerable amount from savings then you might still have to do this. See",
+              "score": 1,
+              "url": "https://reddit.com/r/UKPersonalFinance/comments/1vzpevc/comment/p66k90c/"
+            },
+            {
+              "author": "berkorich",
+              "date": "2026-08-27",
+              "excerpt": "Check HMRC's site when you log in to prepare your SA return. There always used to be an online interest worksheet, where you can list the accounts and interest received, to drop the total into your return.",
+              "score": 1,
+              "url": "https://reddit.com/r/UKPersonalFinance/comments/1vzpevc/comment/p66lcwb/"
+            },
+            {
+              "author": "Frequent_Field_6894",
+              "date": "2026-08-27",
+              "excerpt": "hmrc stock answer is to do self assessment.\n\n for savings interest , you can let the bank provide it or use your online tax account or submit other income source.\n\n avoid self assessment if you can.",
+              "score": 1,
+              "url": "https://reddit.com/r/UKPersonalFinance/comments/1vzpevc/comment/p6aichb/"
+            }
+          ]
+        },
+        "published_at": "2026-08-27",
+        "relevance_hint": 0.22,
+        "snippet": "In most cases you don't need to submit a self assessment for savings income, unless you already submit a self assessment for another reason, then you just include the savings interest on that form, or you receive over \u00a310k in interest. Are you sure you need to submit a self assessment? For the 25/26 year I earned over the personal allowance of savings interest How much over? Generally you are only required to do self assessment for savings interest if that interest is \u00a310k or more. For amounts below \u00a310k HMRC should write to you with a calculation which you can pay directly It\u2019s the most annoying bit of self assessment for me because I have a lot of accounts...",
+        "source": "reddit",
+        "source_quality": 0.6,
+        "title": "Filing self assessment for savings income",
+        "url": "https://www.reddit.com/r/UKPersonalFinance/comments/1vzpevc/filing_self_assessment_for_savings_income/",
+        "why_relevant": "Reddit global search"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [
+      "Focus on existence and user reports of payout apps"
+    ],
+    "raw_topic": "\"is there an app that\" \"pay\"",
+    "source_weights": {
+      "hackernews": 0.3,
+      "reddit": 0.7
+    },
+    "subqueries": [
+      {
+        "label": "apps that pay",
+        "ranking_query": "Is there an app that pays users or gives cash rewards?",
+        "search_query": "app (pays OR pay OR payment) users OR rewards",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.37037037037037035
+      },
+      {
+        "label": "payment apps",
+        "ranking_query": "What apps exist for making payments or sending money?",
+        "search_query": "app that lets you pay OR send money",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.3333333333333333
+      },
+      {
+        "label": "paying apps discussion",
+        "ranking_query": "Real user experiences with apps that actually pay out",
+        "search_query": "\"app that pays\" OR \"apps that pay\"",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.2962962962962963
+      }
+    ]
+  },
+  "range_from": "2026-08-25",
+  "range_to": "2026-09-24",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://reddit.com/r/personalfinance/comments/1watwtp/looking_for_temporary_joint_account_app_or_site",
+      "cluster_id": "cluster-1",
+      "engagement": 47,
+      "explanation": "Mentions app and pay but topic is joint accounts/splitting, not apps that pay users",
+      "final_score": 27.468852459016393,
+      "freshness": 46,
+      "fun_explanation": "dry app rec, zero wit",
+      "fun_score": 12.0,
+      "item_id": "R3",
+      "local_relevance": 0.34,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "R3",
+            "native_rank": 1,
+            "source": "reddit",
+            "subquery_label": "apps that pay"
+          },
+          {
+            "item_id": "R3",
+            "native_rank": 1,
+            "source": "reddit",
+            "subquery_label": "payment apps"
+          },
+          {
+            "item_id": "R3",
+            "native_rank": 1,
+            "source": "reddit",
+            "subquery_label": "paying apps discussion"
+          }
+        ]
+      },
+      "native_ranks": {
+        "apps that pay:reddit": 1,
+        "paying apps discussion:reddit": 1,
+        "payment apps:reddit": 1
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.011475409836065572,
+      "snippet": "You're looking for something like splitwise. SplitWise doesn't let you pay, but each individual pays and tracks what they paid, and the app splits the cost amonsts your group, and identifies what each person owes, and to whom. Splitwise is the way to go. It can let you directly payoff balances owed with a linked paypal account. So it almost does exactly what you are looking for. It's much easier then anything else I've tried!",
+      "source": "reddit",
+      "source_items": [
+        {
+          "body": "Looking for temporary joint account app or site\nI do lots of shared money activities, like deposits for vacations, roomates coordination for rent, etc. Is there an app that lets you make temporary pools for money seeing who paid and can be a real account you both can pay from, not like just a spread sheet, but real temporary joint accounts that can open and then close when the purpose of the joint account is no longer needed, and the sign up doesnt come with lots of KYC / overhead or credit checks?\nYou're looking for something like splitwise. SplitWise doesn't let you pay, but each individual pays and tracks what they paid, and the app splits the cost amonsts your group, and identifies what each person owes, and to whom. Splitwise is the way to go. It can let you directly payoff balances owed with a linked paypal account. So it almost does exactly what you are looking for. It's much easier then anything else I've tried!",
+          "container": "personalfinance",
+          "date_confidence": "high",
+          "engagement": {
+            "num_comments": 5,
+            "score": 0
+          },
+          "engagement_score": 47,
+          "freshness": 46,
+          "item_id": "R3",
+          "local_rank_score": 0.383,
+          "local_relevance": 0.34,
+          "metadata": {
+            "comment_insights": [
+              "You're looking for something like splitwise.",
+              "SplitWise doesn't let you pay, but each individual pays and tracks what they paid, and the app splits the cost amonsts your group, and identifies what...",
+              "Splitwise is the way to go. It can let you directly payoff balances owed with a linked paypal account."
+            ],
+            "top_comments": [
+              {
+                "author": "mrkmrrsn",
+                "date": "2026-09-08",
+                "excerpt": "You're looking for something like splitwise.",
+                "score": 15,
+                "url": "https://reddit.com/r/personalfinance/comments/1watwtp/comment/p8ktm62/"
+              },
+              {
+                "author": "pancak3d",
+                "date": "2026-09-08",
+                "excerpt": "SplitWise doesn't let you pay, but each individual pays and tracks what they paid, and the app splits the cost amonsts your group, and identifies what each person owes, and to whom.",
+                "score": 6,
+                "url": "https://reddit.com/r/personalfinance/comments/1watwtp/comment/p8kygym/"
+              },
+              {
+                "author": "GossamerLens",
+                "date": "2026-09-08",
+                "excerpt": "Splitwise is the way to go. It can let you directly payoff balances owed with a linked paypal account. So it almost does exactly what you are looking for. It's much easier then anything else I've tried!",
+                "score": 3,
+                "url": "https://reddit.com/r/personalfinance/comments/1watwtp/comment/p8lpk4t/"
+              }
+            ]
+          },
+          "published_at": "2026-09-08",
+          "relevance_hint": 0.4,
+          "snippet": "You're looking for something like splitwise. SplitWise doesn't let you pay, but each individual pays and tracks what they paid, and the app splits the cost amonsts your group, and identifies what each person owes, and to whom. Splitwise is the way to go. It can let you directly payoff balances owed with a linked paypal account. So it almost does exactly what you are looking for. It's much easier then anything else I've tried!",
+          "source": "reddit",
+          "source_quality": 0.6,
+          "title": "Looking for temporary joint account app or site",
+          "url": "https://www.reddit.com/r/personalfinance/comments/1watwtp/looking_for_temporary_joint_account_app_or_site/",
+          "why_relevant": "Reddit global search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "reddit"
+      ],
+      "subquery_labels": [
+        "apps that pay",
+        "payment apps",
+        "paying apps discussion"
+      ],
+      "title": "Looking for temporary joint account app or site",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1watwtp/looking_for_temporary_joint_account_app_or_site/"
+    },
+    {
+      "candidate_id": "https://reddit.com/r/supplements/comments/1w1mmgl/app_for_supplements_timing",
+      "cluster_id": "cluster-2",
+      "engagement": 100,
+      "explanation": "Completely unrelated to apps that pay; no entity match",
+      "final_score": 4.7467741935483865,
+      "freshness": 20,
+      "fun_explanation": "spreadsheet tip, irrelevant to pay",
+      "fun_score": 5.0,
+      "item_id": "R2",
+      "local_relevance": 0.21,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "R2",
+            "native_rank": 2,
+            "source": "reddit",
+            "subquery_label": "apps that pay"
+          },
+          {
+            "item_id": "R2",
+            "native_rank": 2,
+            "source": "reddit",
+            "subquery_label": "payment apps"
+          },
+          {
+            "item_id": "R2",
+            "native_rank": 2,
+            "source": "reddit",
+            "subquery_label": "paying apps discussion"
+          }
+        ]
+      },
+      "native_ranks": {
+        "apps that pay:reddit": 2,
+        "paying apps discussion:reddit": 2,
+        "payment apps:reddit": 2
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.01129032258064516,
+      "snippet": "Rules of r/supplements Do Not Suggest Prescription Drugs Posts & Comments Reported as: Do Not Suggest Prescription Drugs Prescription drugs are not Supplements; do not recommend prescription medication. Sensible/Suggest talking to DR. can be allowable etc 2. Dangerous Grey Area Substance Posts & Comments Reported as: Dangerous Grey Area Substance Potentially dangerous grey area substances can a spreadsheet works better than most apps for this sort of thing, just colour code your AM/PM slots and leave a column for conflicts .buffering-track-fill { stroke-dasharray: 100; stroke-dashoffset: 50; } Sorry, something went wrong when loading this video. View in app Building an app for exactly this, based on all the data I have (freely available) on suplmnt, if you are interested in...",
+      "source": "reddit",
+      "source_items": [
+        {
+          "body": "App for Supplements timing\nIs there an app that can tell me which supplements I should take at what time? Morning, afternoon, night. And which ones I shouldn\u2019t take at the same time? Etc I don\u2019t mind paying for it if the app is great\nRules of r/supplements\n\n Do Not Suggest Prescription Drugs Posts & Comments Reported as: Do Not Suggest Prescription Drugs Prescription drugs are not Supplements; do not recommend prescription medication. Sensible/Suggest talking to DR. can be allowable etc\n\n 2. Dangerous Grey Area Substance Posts & Comments Reported as: Dangerous Grey Area Substance Potentially dangerous grey area substances can a spreadsheet works better than most apps for this sort of thing, just colour code your AM/PM slots and leave a column for conflicts .buffering-track-fill {\n stroke-dasharray: 100;\n stroke-dashoffset: 50;\n }\n\n Sorry, something went wrong when loading this video.\n\n View in app\n\n Building an app for exactly this, based on all the data I have (freely available) on suplmnt, if you are interested in testing and have iOS lmk.",
+          "container": "Supplements",
+          "date_confidence": "high",
+          "engagement": {
+            "num_comments": 5,
+            "score": 3
+          },
+          "engagement_score": 100,
+          "freshness": 20,
+          "item_id": "R2",
+          "local_rank_score": 0.2865,
+          "local_relevance": 0.21,
+          "metadata": {
+            "comment_insights": [
+              "a spreadsheet works better than most apps for this sort of thing, just colour code your AM/PM slots and leave a column for conflicts",
+              ".buffering-track-fill {\n stroke-dasharray: 100;\n stroke-dashoffset: 50;\n }\n\n Sorry, something went wrong when loading this video."
+            ],
+            "top_comments": [
+              {
+                "author": "AutoModerator",
+                "date": "2026-08-29",
+                "excerpt": "Rules of r/supplements\n\n Do Not Suggest Prescription Drugs Posts & Comments Reported as: Do Not Suggest Prescription Drugs Prescription drugs are not Supplements; do not recommend prescription medication. Sensible/Suggest talking to DR. can be allowable etc\n\n 2. Dangerous Grey Area Substance Posts & Comments Reported as: Dangerous Grey Area Substance Potentially dangerous grey area substances can ",
+                "score": 1,
+                "url": "https://reddit.com/r/Supplements/comments/1w1mmgl/comment/p6lue6j/"
+              },
+              {
+                "author": "Unlikely_Net_4488",
+                "date": "2026-08-29",
+                "excerpt": "a spreadsheet works better than most apps for this sort of thing, just colour code your AM/PM slots and leave a column for conflicts",
+                "score": 1,
+                "url": "https://reddit.com/r/Supplements/comments/1w1mmgl/comment/p6lz25o/"
+              },
+              {
+                "author": "dataoops",
+                "date": "2026-08-29",
+                "excerpt": ".buffering-track-fill {\n stroke-dasharray: 100;\n stroke-dashoffset: 50;\n }\n\n Sorry, something went wrong when loading this video.\n\n View in app\n\n Building an app for exactly this, based on all the data I have (freely available) on suplmnt, if you are interested in testing and have iOS lmk.",
+                "score": 1,
+                "url": "https://reddit.com/r/Supplements/comments/1w1mmgl/comment/p6mx7tc/"
+              }
+            ]
+          },
+          "published_at": "2026-08-29",
+          "relevance_hint": 0.34,
+          "snippet": "Rules of r/supplements Do Not Suggest Prescription Drugs Posts & Comments Reported as: Do Not Suggest Prescription Drugs Prescription drugs are not Supplements; do not recommend prescription medication. Sensible/Suggest talking to DR. can be allowable etc 2. Dangerous Grey Area Substance Posts & Comments Reported as: Dangerous Grey Area Substance Potentially dangerous grey area substances can a spreadsheet works better than most apps for this sort of thing, just colour code your AM/PM slots and leave a column for conflicts .buffering-track-fill { stroke-dasharray: 100; stroke-dashoffset: 50; } Sorry, something went wrong when loading this video. View in app Building an app for exactly this, based on all the data I have (freely available) on suplmnt, if you are interested in...",
+          "source": "reddit",
+          "source_quality": 0.6,
+          "title": "App for Supplements timing",
+          "url": "https://www.reddit.com/r/Supplements/comments/1w1mmgl/app_for_supplements_timing/",
+          "why_relevant": "Reddit global search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "reddit"
+      ],
+      "subquery_labels": [
+        "apps that pay",
+        "payment apps",
+        "paying apps discussion"
+      ],
+      "title": "App for Supplements timing",
+      "url": "https://www.reddit.com/r/Supplements/comments/1w1mmgl/app_for_supplements_timing/"
+    },
+    {
+      "candidate_id": "https://reddit.com/r/ukpersonalfinance/comments/1vzpevc/filing_self_assessment_for_savings_income",
+      "cluster_id": "cluster-3",
+      "engagement": 67,
+      "explanation": "Off-target tax discussion; no app or pay entity match",
+      "final_score": 4.553333333333333,
+      "freshness": 14,
+      "fun_explanation": "tax advice, no humor or punch",
+      "fun_score": 3.0,
+      "item_id": "R1",
+      "local_relevance": 0.21,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "R1",
+            "native_rank": 3,
+            "source": "reddit",
+            "subquery_label": "apps that pay"
+          },
+          {
+            "item_id": "R1",
+            "native_rank": 3,
+            "source": "reddit",
+            "subquery_label": "payment apps"
+          },
+          {
+            "item_id": "R1",
+            "native_rank": 3,
+            "source": "reddit",
+            "subquery_label": "paying apps discussion"
+          }
+        ]
+      },
+      "native_ranks": {
+        "apps that pay:reddit": 3,
+        "paying apps discussion:reddit": 3,
+        "payment apps:reddit": 3
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.01111111111111111,
+      "snippet": "In most cases you don't need to submit a self assessment for savings income, unless you already submit a self assessment for another reason, then you just include the savings interest on that form, or you receive over \u00a310k in interest. Are you sure you need to submit a self assessment? For the 25/26 year I earned over the personal allowance of savings interest How much over? Generally you are only required to do self assessment for savings interest if that interest is \u00a310k or more. For amounts below \u00a310k HMRC should write to you with a calculation which you can pay directly It\u2019s the most annoying bit of self assessment for me because I have a lot of accounts...",
+      "source": "reddit",
+      "source_items": [
+        {
+          "body": "Filing self assessment for savings income\nFor the 25/26 year I earned over the personal allowance of savings interest which I now need to pay tax for. This savings income will also put me in the 40% tax bracket. How easy is it to fill this out myself and is there an app that I can use to help me. Had the same thing last year and used an accountant but I\u2019ve now bought my first home and am trying to save some money.\nIn most cases you don't need to submit a self assessment for savings income, unless you already submit a self assessment for another reason, then you just include the savings interest on that form, or you receive over \u00a310k in interest.\n\n Are you sure you need to submit a self assessment? For the 25/26 year I earned over the personal allowance of savings interest\n\n How much over?\n\n Generally you are only required to do self assessment for savings interest if that interest is \u00a310k or more.\n\n For amounts below \u00a310k HMRC should write to you with a calculation which you can pay directly It\u2019s the most annoying bit of self assessment for me because I have a lot of accounts that pay interest. Some of them give me an interest certificate but it\u2019s hit and miss.\n\n I just use a spreadsheet though to do all the adding up. Ultimately it all goes in one box on the self assessment.\n\n Doubt th",
+          "container": "UKPersonalFinance",
+          "date_confidence": "high",
+          "engagement": {
+            "num_comments": 12,
+            "score": 0
+          },
+          "engagement_score": 67,
+          "freshness": 14,
+          "item_id": "R1",
+          "local_rank_score": 0.23850000000000002,
+          "local_relevance": 0.21,
+          "metadata": {
+            "comment_insights": [
+              "In most cases you don't need to submit a self assessment for savings income, unless you already submit a self assessment for another reason, then you...",
+              "For the 25/26 year I earned over the personal allowance of savings interest\n\n How much over?",
+              "It\u2019s the most annoying bit of self assessment for me because I have a lot of accounts that pay interest.",
+              "Double check whether or not you actually need to do this.",
+              "Check HMRC's site when you log in to prepare your SA return.",
+              "hmrc stock answer is to do self assessment.\n\n for savings interest , you can let the bank provide it or use your online tax account or submit other in..."
+            ],
+            "top_comments": [
+              {
+                "author": "UKActuary1",
+                "date": "2026-08-27",
+                "excerpt": "In most cases you don't need to submit a self assessment for savings income, unless you already submit a self assessment for another reason, then you just include the savings interest on that form, or you receive over \u00a310k in interest.\n\n Are you sure you need to submit a self assessment?",
+                "score": 6,
+                "url": "https://reddit.com/r/UKPersonalFinance/comments/1vzpevc/comment/p66k1t9/"
+              },
+              {
+                "author": "IxionS3",
+                "date": "2026-08-27",
+                "excerpt": "For the 25/26 year I earned over the personal allowance of savings interest\n\n How much over?\n\n Generally you are only required to do self assessment for savings interest if that interest is \u00a310k or more.\n\n For amounts below \u00a310k HMRC should write to you with a calculation which you can pay directly ",
+                "score": 3,
+                "url": "https://reddit.com/r/UKPersonalFinance/comments/1vzpevc/comment/p66ol25/"
+              },
+              {
+                "author": "QueefInMyKisser",
+                "date": "2026-08-27",
+                "excerpt": "It\u2019s the most annoying bit of self assessment for me because I have a lot of accounts that pay interest. Some of them give me an interest certificate but it\u2019s hit and miss.\n\n I just use a spreadsheet though to do all the adding up. Ultimately it all goes in one box on the self assessment.\n\n Doubt th",
+                "score": 1,
+                "url": "https://reddit.com/r/UKPersonalFinance/comments/1vzpevc/comment/p66jp6h/"
+              },
+              {
+                "author": "samtheman268",
+                "date": "2026-08-27",
+                "excerpt": "Double check whether or not you actually need to do this. If you are PAYE then you probably don't, your tax code will be adjusted automatically to compensate with your bank information HMRC of your earning. If you're making a considerable amount from savings then you might still have to do this. See",
+                "score": 1,
+                "url": "https://reddit.com/r/UKPersonalFinance/comments/1vzpevc/comment/p66k90c/"
+              },
+              {
+                "author": "berkorich",
+                "date": "2026-08-27",
+                "excerpt": "Check HMRC's site when you log in to prepare your SA return. There always used to be an online interest worksheet, where you can list the accounts and interest received, to drop the total into your return.",
+                "score": 1,
+                "url": "https://reddit.com/r/UKPersonalFinance/comments/1vzpevc/comment/p66lcwb/"
+              },
+              {
+                "author": "Frequent_Field_6894",
+                "date": "2026-08-27",
+                "excerpt": "hmrc stock answer is to do self assessment.\n\n for savings interest , you can let the bank provide it or use your online tax account or submit other income source.\n\n avoid self assessment if you can.",
+                "score": 1,
+                "url": "https://reddit.com/r/UKPersonalFinance/comments/1vzpevc/comment/p6aichb/"
+              }
+            ]
+          },
+          "published_at": "2026-08-27",
+          "relevance_hint": 0.22,
+          "snippet": "In most cases you don't need to submit a self assessment for savings income, unless you already submit a self assessment for another reason, then you just include the savings interest on that form, or you receive over \u00a310k in interest. Are you sure you need to submit a self assessment? For the 25/26 year I earned over the personal allowance of savings interest How much over? Generally you are only required to do self assessment for savings interest if that interest is \u00a310k or more. For amounts below \u00a310k HMRC should write to you with a calculation which you can pay directly It\u2019s the most annoying bit of self assessment for me because I have a lot of accounts...",
+          "source": "reddit",
+          "source_quality": 0.6,
+          "title": "Filing self assessment for savings income",
+          "url": "https://www.reddit.com/r/UKPersonalFinance/comments/1vzpevc/filing_self_assessment_for_savings_income/",
+          "why_relevant": "Reddit global search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "reddit"
+      ],
+      "subquery_labels": [
+        "apps that pay",
+        "payment apps",
+        "paying apps discussion"
+      ],
+      "title": "Filing self assessment for savings income",
+      "url": "https://www.reddit.com/r/UKPersonalFinance/comments/1vzpevc/filing_self_assessment_for_savings_income/"
+    }
+  ],
+  "topic": "\"is there an app that\" \"pay\"",
+  "warnings": [
+    "Evidence is thin for this topic.",
+    "Top evidence is highly concentrated in one source."
+  ]
+}

@@ -1,0 +1,1523 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"any good app for\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://reddit.com/r/yumeshipping/comments/1woq90y/question_are_there_any_good_apps_for_yumeshipping"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://reddit.com/r/yumeshipping/comments/1woq90y/question_are_there_any_good_apps_for_yumeshipping"
+      ],
+      "score": 71.07377049180329,
+      "sources": [
+        "reddit"
+      ],
+      "title": "Question: Are there any good apps for yumeshipping? (specifically on Windows or Android)",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://reddit.com/r/radiologycareers/comments/1w9zoun/are_there_any_good_apps_for_a_rad_tech_student"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://reddit.com/r/radiologycareers/comments/1w9zoun/are_there_any_good_apps_for_a_rad_tech_student"
+      ],
+      "score": 69.3296875,
+      "sources": [
+        "reddit"
+      ],
+      "title": "Are there any good apps for a rad tech student?",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://reddit.com/r/studying/comments/1wd2mfn/good_apps_for_studying"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://reddit.com/r/studying/comments/1wd2mfn/good_apps_for_studying"
+      ],
+      "score": 64.2409090909091,
+      "sources": [
+        "reddit"
+      ],
+      "title": "Good apps for studying?",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://reddit.com/r/gnome/comments/1wk64tr/any_good_pdf_and_epub_reader"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://reddit.com/r/gnome/comments/1wk64tr/any_good_pdf_and_epub_reader"
+      ],
+      "score": 57.424193548387095,
+      "sources": [
+        "reddit"
+      ],
+      "title": "Any good pdf and epub reader?",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://reddit.com/r/getstudying/comments/1w8pnec/suggests_some_studying_tips"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://reddit.com/r/getstudying/comments/1w8pnec/suggests_some_studying_tips"
+      ],
+      "score": 48.08461538461539,
+      "sources": [
+        "reddit"
+      ],
+      "title": "Suggests some studying tips!",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://reddit.com/r/nxtpaper/comments/1wd9fgg/tcl_phone"
+      ],
+      "cluster_id": "cluster-6",
+      "representative_ids": [
+        "https://reddit.com/r/nxtpaper/comments/1wd9fgg/tcl_phone"
+      ],
+      "score": 46.15735294117647,
+      "sources": [
+        "reddit"
+      ],
+      "title": "TCL phone",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://reddit.com/r/travelplanning/comments/1wft9qq/are_there_any_apps_for_meeting_people_when"
+      ],
+      "cluster_id": "cluster-7",
+      "representative_ids": [
+        "https://reddit.com/r/travelplanning/comments/1wft9qq/are_there_any_apps_for_meeting_people_when"
+      ],
+      "score": 36.89850746268656,
+      "sources": [
+        "reddit"
+      ],
+      "title": "Are there any apps for meeting people when travelling?",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://reddit.com/r/twentiesindia/comments/1wmwqub/any_idea_how_to_watch_matches_on_fancode_app_for"
+      ],
+      "cluster_id": "cluster-8",
+      "representative_ids": [
+        "https://reddit.com/r/twentiesindia/comments/1wmwqub/any_idea_how_to_watch_matches_on_fancode_app_for"
+      ],
+      "score": 8.512857142857143,
+      "sources": [
+        "reddit"
+      ],
+      "title": "Any idea how to watch matches on fancode app for free",
+      "uncertainty": "single-source"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-24T18:21:09.395930+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": [
+      {
+        "body": "Question: Are there any good apps for yumeshipping? (specifically on Windows or Android)\nHi! I didn't flair this post since I could not find a fitting flair, but, as the question in my title says, I'm trying to find a good app for yumeshipping! I've already tried one called Yumeshipper, but due to some controversial stuff they've done, which I won't get into for the sake of no drama, I ended up removing the app from my phone, and am now without an app.why am I using an app? because it makes it easier for me to organize stuff, and I like the idea of stuff like my F/O sending me notif",
+        "container": "yumeshipping",
+        "date_confidence": "high",
+        "engagement": {
+          "num_comments": 1,
+          "score": 7
+        },
+        "engagement_score": 30,
+        "freshness": 90,
+        "item_id": "R6",
+        "local_rank_score": 0.4760000000000001,
+        "local_relevance": 0.34,
+        "metadata": {
+          "comment_insights": [],
+          "top_comments": []
+        },
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.37,
+        "snippet": "Hi! I didn't flair this post since I could not find a fitting flair, but, as the question in my title says, I'm trying to find a good app for yumeshipping! I've already tried one called Yumeshipper, but due to some controversial stuff they've done, which I won't get into for the sake of no drama, I ended up removing the app from my phone, and am now without an app.why am I using an app? because it",
+        "source": "reddit",
+        "source_quality": 0.6,
+        "title": "Question: Are there any good apps for yumeshipping? (specifically on Windows or Android)",
+        "url": "https://www.reddit.com/r/yumeshipping/comments/1woq90y/question_are_there_any_good_apps_for_yumeshipping/",
+        "why_relevant": "Reddit global search"
+      },
+      {
+        "body": "Any good pdf and epub reader?\nI'm testing some apps like Foliate and Readest, but they're a bit buggy. Any good apps for reading books locally?\nCalibre has a built in reader. But never had any issues with foliate myself, what was the bugginess about that? Papers is the default PDF app for gnome Readest is the best epub reader for me, what was wrong?",
+        "container": "gnome",
+        "date_confidence": "high",
+        "engagement": {
+          "num_comments": 20,
+          "score": 8
+        },
+        "engagement_score": 90,
+        "freshness": 74,
+        "item_id": "R2",
+        "local_rank_score": 0.41150000000000003,
+        "local_relevance": 0.21,
+        "metadata": {
+          "comment_insights": [
+            "Readest is the best epub reader for me, what was wrong?",
+            "Calibre has a built in reader. But never had any issues with foliate myself, what was the bugginess about that?",
+            "try Flow Reader, but only support epub and txt, it's super fast compare to the 2 apps you mentioned",
+            "Papers is the default PDF app for gnome",
+            "I use Foliate. Seems solid to me."
+          ],
+          "top_comments": [
+            {
+              "author": "judasdisciple",
+              "date": "2026-09-19",
+              "excerpt": "Calibre has a built in reader. But never had any issues with foliate myself, what was the bugginess about that?",
+              "score": 5,
+              "url": "https://reddit.com/r/gnome/comments/1wk64tr/comment/paobwxg/"
+            },
+            {
+              "author": "blackcain",
+              "date": "2026-09-19",
+              "excerpt": "Papers is the default PDF app for gnome",
+              "score": 5,
+              "url": "https://reddit.com/r/gnome/comments/1wk64tr/comment/pap49b2/"
+            },
+            {
+              "author": "Disastrous_Pin556",
+              "date": "2026-09-19",
+              "excerpt": "Readest is the best epub reader for me, what was wrong?",
+              "score": 4,
+              "url": "https://reddit.com/r/gnome/comments/1wk64tr/comment/papkhva/"
+            },
+            {
+              "author": "Miserable-School-665",
+              "date": "2026-09-19",
+              "excerpt": "Okular, Foliate",
+              "score": 4,
+              "url": "https://reddit.com/r/gnome/comments/1wk64tr/comment/paohc95/"
+            },
+            {
+              "author": "Obelisk2000",
+              "date": "2026-09-19",
+              "excerpt": "I use Foliate. Seems solid to me.",
+              "score": 3,
+              "url": "https://reddit.com/r/gnome/comments/1wk64tr/comment/pap10q7/"
+            },
+            {
+              "author": "Consistent_Slide_447",
+              "date": "2026-09-19",
+              "excerpt": "try Flow Reader, but only support epub and txt, it's super fast compare to the 2 apps you mentioned",
+              "score": 2,
+              "url": "https://reddit.com/r/gnome/comments/1wk64tr/comment/paqbjxs/"
+            },
+            {
+              "author": "Temporary-Lead3182",
+              "date": "2026-09-19",
+              "excerpt": "sioyek if ur hardcore",
+              "score": 2,
+              "url": "https://reddit.com/r/gnome/comments/1wk64tr/comment/papwhh6/"
+            },
+            {
+              "author": "c4pl4b",
+              "date": "2026-09-19",
+              "excerpt": "Paper",
+              "score": 2,
+              "url": "https://reddit.com/r/gnome/comments/1wk64tr/comment/paq2e9n/"
+            },
+            {
+              "author": "AutoModerator",
+              "date": "2026-09-18",
+              "excerpt": "Thank you for your submission.\n\n You too can support GNOME! Become a Friend of GNOME and contribute to keeping our project going!\n\n I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns.",
+              "score": 1,
+              "url": "https://reddit.com/r/gnome/comments/1wk64tr/comment/pao7ur8/"
+            },
+            {
+              "author": "hdkaoskd",
+              "date": "2026-09-19",
+              "excerpt": "evince",
+              "score": 1,
+              "url": "https://reddit.com/r/gnome/comments/1wk64tr/comment/papdwyy/"
+            }
+          ]
+        },
+        "published_at": "2026-09-18",
+        "relevance_hint": 0.38,
+        "snippet": "Calibre has a built in reader. But never had any issues with foliate myself, what was the bugginess about that? Papers is the default PDF app for gnome Readest is the best epub reader for me, what was wrong?",
+        "source": "reddit",
+        "source_quality": 0.6,
+        "title": "Any good pdf and epub reader?",
+        "url": "https://www.reddit.com/r/gnome/comments/1wk64tr/any_good_pdf_and_epub_reader/",
+        "why_relevant": "Reddit global search"
+      },
+      {
+        "body": "Any idea how to watch matches on fancode app for free\nSame as title Any app for cricket matches without a subscription...\nHi u/Ok-Platform-2307\n\n Welcome to r/TwentiesIndia!\n\n If you enjoy the discussions here, please consider joining the community using the Join button. It helps you stay updated with new posts and supports the growth of the subreddit. Also, join our Discord server, We host live discussions, community events and have an awesome group of people.\n\n Before participating, please take a moment to read the Yaa plz go ahead If u have an android then i can send u an apk",
+        "container": "TwentiesIndia",
+        "date_confidence": "high",
+        "engagement": {
+          "num_comments": 19,
+          "score": 1
+        },
+        "engagement_score": 40,
+        "freshness": 84,
+        "item_id": "R3",
+        "local_rank_score": 0.38650000000000007,
+        "local_relevance": 0.21,
+        "metadata": {
+          "comment_insights": [
+            "If u have an android then i can send u an apk"
+          ],
+          "top_comments": [
+            {
+              "author": "AutoModerator",
+              "date": "2026-09-22",
+              "excerpt": "Hi u/Ok-Platform-2307\n\n Welcome to r/TwentiesIndia!\n\n If you enjoy the discussions here, please consider joining the community using the Join button. It helps you stay updated with new posts and supports the growth of the subreddit. Also, join our Discord server, We host live discussions, community events and have an awesome group of people.\n\n Before participating, please take a moment to read the",
+              "score": 1,
+              "url": "https://reddit.com/r/TwentiesIndia/comments/1wmwqub/comment/pbae5qg/"
+            },
+            {
+              "author": "Ok-Platform-2307",
+              "date": "2026-09-22",
+              "excerpt": "Yaa plz go ahead",
+              "score": 1,
+              "url": "https://reddit.com/r/TwentiesIndia/comments/1wmwqub/comment/pbafbrv/"
+            },
+            {
+              "author": "Koach_Son_18",
+              "date": "2026-09-22",
+              "excerpt": "If u have an android then i can send u an apk",
+              "score": 1,
+              "url": "https://reddit.com/r/TwentiesIndia/comments/1wmwqub/comment/pbaeqp4/"
+            },
+            {
+              "author": "Icy-Balance-5961",
+              "date": "2026-09-22",
+              "excerpt": "send ke also",
+              "score": 0,
+              "url": "https://reddit.com/r/TwentiesIndia/comments/1wmwqub/comment/pbb8oy4/"
+            }
+          ]
+        },
+        "published_at": "2026-09-22",
+        "relevance_hint": 0.9,
+        "snippet": "Hi u/Ok-Platform-2307\n\n Welcome to r/TwentiesIndia!\n\n If you enjoy the discussions here, please consider joining the community using the Join button. It helps you stay updated with new posts and supports the growth of the subreddit. Also, join our Discord server, We host live discussions, community events and have an awesome group of people.\n\n Before participating, please take a moment to read the Yaa plz go ahead If u have an android then i can send u an apk",
+        "source": "reddit",
+        "source_quality": 0.6,
+        "title": "Any idea how to watch matches on fancode app for free",
+        "url": "https://www.reddit.com/r/TwentiesIndia/comments/1wmwqub/any_idea_how_to_watch_matches_on_fancode_app_for/",
+        "why_relevant": "Reddit global search"
+      },
+      {
+        "body": "Are there any good apps for a rad tech student?\nFirst year student about to start my third week. Are there any good apps that you find helpful? Positioning or just general knowledge for when I eventually take the ARRT test. Something that's interactive and can quiz me when I'm tired of going through the same books and PowerPoints.\nhttps://www.purposegames.com/playlist/36WWSe8IpxM\n\n My Playlist for reviewing anatomy for positioning and comp reviews\n\n If your school doesnt provide it, clover learning is amazing. Fine videos, amazing quizzes. Just customize them so you dont get hit with too much you havent learned yet I used quizlet a lot 7 years ago, I\u2019m sure there\u2019s better website or apps now. But I would basically let it play the flash cards while I drive an hour to school. Make your own on Quizlet, or hop onto someone else's",
+        "container": "RadiologyCareers",
+        "date_confidence": "high",
+        "engagement": {
+          "num_comments": 10,
+          "score": 20
+        },
+        "engagement_score": 100,
+        "freshness": 44,
+        "item_id": "R1",
+        "local_rank_score": 0.34650000000000003,
+        "local_relevance": 0.21,
+        "metadata": {
+          "comment_insights": [
+            "https://www.purposegames.com/playlist/36WWSe8IpxM\n\n My Playlist for reviewing anatomy for positioning and comp reviews\n\n If your school doesnt provide...",
+            "I used quizlet a lot 7 years ago, I\u2019m sure there\u2019s better website or apps now.",
+            "Best thing you can do is an old fashioned notebook full of important concepts.",
+            "I have the anatomy learning app. I haven\u2019t applied to school yet but it\u2019s been really helpful in terms of me preparing!",
+            "Make your own on Quizlet, or hop onto someone else's"
+          ],
+          "top_comments": [
+            {
+              "author": "iceicig",
+              "date": "2026-09-07",
+              "excerpt": "https://www.purposegames.com/playlist/36WWSe8IpxM\n\n My Playlist for reviewing anatomy for positioning and comp reviews\n\n If your school doesnt provide it, clover learning is amazing. Fine videos, amazing quizzes. Just customize them so you dont get hit with too much you havent learned yet",
+              "score": 4,
+              "url": "https://reddit.com/r/RadiologyCareers/comments/1w9zoun/comment/p8fscyk/"
+            },
+            {
+              "author": "Hefty_Professor_3980",
+              "date": "2026-09-07",
+              "excerpt": "I used quizlet a lot 7 years ago, I\u2019m sure there\u2019s better website or apps now. But I would basically let it play the flash cards while I drive an hour to school.",
+              "score": 3,
+              "url": "https://reddit.com/r/RadiologyCareers/comments/1w9zoun/comment/p8g8j4l/"
+            },
+            {
+              "author": "Whyme660",
+              "date": "2026-09-07",
+              "excerpt": "Make your own on Quizlet, or hop onto someone else's",
+              "score": 3,
+              "url": "https://reddit.com/r/RadiologyCareers/comments/1w9zoun/comment/p8fupl2/"
+            },
+            {
+              "author": "RTR-ArmyVet",
+              "date": "2026-09-07",
+              "excerpt": "Best thing you can do is an old fashioned notebook full of important concepts. It will help massively with your retention of the stuff from the beginning all the way to the end. You\u2019ll want this for your registry.\n\n Apps, probably clover learning is the easiest and most palatable way to do what you\u2019",
+              "score": 2,
+              "url": "https://reddit.com/r/RadiologyCareers/comments/1w9zoun/comment/p8fxgau/"
+            },
+            {
+              "author": "TryingToFindMyself4",
+              "date": "2026-09-08",
+              "excerpt": "I have the anatomy learning app. I haven\u2019t applied to school yet but it\u2019s been really helpful in terms of me preparing!",
+              "score": 1,
+              "url": "https://reddit.com/r/RadiologyCareers/comments/1w9zoun/comment/p8iyixv/"
+            }
+          ]
+        },
+        "published_at": "2026-09-07",
+        "relevance_hint": 0.37,
+        "snippet": "https://www.purposegames.com/playlist/36WWSe8IpxM\n\n My Playlist for reviewing anatomy for positioning and comp reviews\n\n If your school doesnt provide it, clover learning is amazing. Fine videos, amazing quizzes. Just customize them so you dont get hit with too much you havent learned yet I used quizlet a lot 7 years ago, I\u2019m sure there\u2019s better website or apps now. But I would basically let it play the flash cards while I drive an hour to school. Make your own on Quizlet, or hop onto someone else's",
+        "source": "reddit",
+        "source_quality": 0.6,
+        "title": "Are there any good apps for a rad tech student?",
+        "url": "https://www.reddit.com/r/RadiologyCareers/comments/1w9zoun/are_there_any_good_apps_for_a_rad_tech_student/",
+        "why_relevant": "Reddit global search"
+      },
+      {
+        "body": "Suggests some studying tips!\nHi Im currently using a macbook air and I can\u2019t seem to find any good apps for studying, if yall have any, can you please recommend some!? My prelims and quizzes are near and I want to lock in for real! Some apps require money, and it\u2019s annoying. And please suggest some for writing!! Pretty please! And how to study without getting distracted huhu badly need it!",
+        "container": "GetStudying",
+        "date_confidence": "high",
+        "engagement": {
+          "num_comments": 2,
+          "score": 3
+        },
+        "engagement_score": 19,
+        "freshness": 42,
+        "item_id": "R11",
+        "local_rank_score": 0.34500000000000003,
+        "local_relevance": 0.34,
+        "metadata": {
+          "comment_insights": [],
+          "top_comments": []
+        },
+        "published_at": "2026-09-06",
+        "relevance_hint": 0.09,
+        "snippet": "Hi Im currently using a macbook air and I can\u2019t seem to find any good apps for studying, if yall have any, can you please recommend some!? My prelims and quizzes are near and I want to lock in for real! Some apps require money, and it\u2019s annoying. And please suggest some for writing!! Pretty please! And how to study without getting distracted huhu badly need it!",
+        "source": "reddit",
+        "source_quality": 0.6,
+        "title": "Suggests some studying tips!",
+        "url": "https://www.reddit.com/r/GetStudying/comments/1w8pnec/suggests_some_studying_tips/",
+        "why_relevant": "Reddit global search"
+      },
+      {
+        "body": "Good apps for studying?\nDoes anyone know any good apps for studying science/health science like terminology and anatomy and everything else? I\u2019m currently working on my bachelors in health science and want to be well prepared for med school\nfocusjungle study timer for accountability motivation, and tracking ur hours. If u want I own a guild on there. studipace for schedules, knowunity for cheatsheets I use Forest \ud83e\udeb4",
+        "container": "studying",
+        "date_confidence": "high",
+        "engagement": {
+          "num_comments": 11,
+          "score": 5
+        },
+        "engagement_score": 63,
+        "freshness": 54,
+        "item_id": "R4",
+        "local_rank_score": 0.3345,
+        "local_relevance": 0.21,
+        "metadata": {
+          "comment_insights": [
+            "focusjungle study timer for accountability motivation, and tracking ur hours. If u want I own a guild on there.",
+            "Try Sumizeit. You get 1000 book summaries in text, audio, and video format.",
+            "studipace for schedules, knowunity for cheatsheets",
+            "Get used to using anki. Very powerful space repetition flash card app. Either create your own flash cards or find them."
+          ],
+          "top_comments": [
+            {
+              "author": "Senior_Host2336",
+              "date": "2026-09-11",
+              "excerpt": "focusjungle study timer for accountability motivation, and tracking ur hours. If u want I own a guild on there.",
+              "score": 2,
+              "url": "https://reddit.com/r/studying/comments/1wd2mfn/comment/p93jc9q/"
+            },
+            {
+              "author": "StudentOnCrack22",
+              "date": "2026-09-11",
+              "excerpt": "studipace for schedules, knowunity for cheatsheets",
+              "score": 2,
+              "url": "https://reddit.com/r/studying/comments/1wd2mfn/comment/p94a3l2/"
+            },
+            {
+              "author": "KiraKira0_0",
+              "date": "2026-09-11",
+              "excerpt": "I use Forest \ud83e\udeb4",
+              "score": 2,
+              "url": "https://reddit.com/r/studying/comments/1wd2mfn/comment/p94gz1g/"
+            },
+            {
+              "author": "DiverOk9454",
+              "date": "2026-09-16",
+              "excerpt": "Get used to using anki. Very powerful space repetition flash card app. Either create your own flash cards or find them.",
+              "score": 2,
+              "url": "https://reddit.com/r/studying/comments/1wd2mfn/comment/pa2eoa1/"
+            },
+            {
+              "author": "sumizeit",
+              "date": "2026-09-14",
+              "excerpt": "Try Sumizeit. You get 1000 book summaries in text, audio, and video format. Podcast summaries. Daily challenges and riddles. Exercises. Expert analysis. Quizzes for retention. Streaks and gamification. Short videos with wisdom. Infographics and more. Courses. Meditation. It's the ultimate fun learni",
+              "score": 1,
+              "url": "https://reddit.com/r/studying/comments/1wd2mfn/comment/p9qfeog/"
+            }
+          ]
+        },
+        "published_at": "2026-09-11",
+        "relevance_hint": 0.09,
+        "snippet": "focusjungle study timer for accountability motivation, and tracking ur hours. If u want I own a guild on there. studipace for schedules, knowunity for cheatsheets I use Forest \ud83e\udeb4",
+        "source": "reddit",
+        "source_quality": 0.6,
+        "title": "Good apps for studying?",
+        "url": "https://www.reddit.com/r/studying/comments/1wd2mfn/good_apps_for_studying/",
+        "why_relevant": "Reddit global search"
+      },
+      {
+        "body": "Are there any apps for meeting people when travelling?\nAnd does anyone know how to get rid of social anxiety so that can enjoy meeting other travellers without fear of not being liked etc?",
+        "container": "travelplanning",
+        "date_confidence": "high",
+        "engagement": {
+          "num_comments": 5,
+          "score": 1
+        },
+        "engagement_score": 13,
+        "freshness": 62,
+        "item_id": "R10",
+        "local_rank_score": 0.3045,
+        "local_relevance": 0.21,
+        "metadata": {
+          "comment_insights": [],
+          "top_comments": []
+        },
+        "published_at": "2026-09-14",
+        "relevance_hint": 0.37,
+        "snippet": "And does anyone know how to get rid of social anxiety so that can enjoy meeting other travellers without fear of not being liked etc?",
+        "source": "reddit",
+        "source_quality": 0.6,
+        "title": "Are there any apps for meeting people when travelling?",
+        "url": "https://www.reddit.com/r/travelplanning/comments/1wft9qq/are_there_any_apps_for_meeting_people_when/",
+        "why_relevant": "Reddit global search"
+      },
+      {
+        "body": "TCL phone\nHello, any good app for the gallery? Without ads. I know there is a google pic. But as I understand it has a storage limit.",
+        "container": "nxtpaper",
+        "date_confidence": "high",
+        "engagement": {
+          "num_comments": 5,
+          "score": 3
+        },
+        "engagement_score": 32,
+        "freshness": 54,
+        "item_id": "R7",
+        "local_rank_score": 0.3035,
+        "local_relevance": 0.21,
+        "metadata": {
+          "comment_insights": [],
+          "top_comments": []
+        },
+        "published_at": "2026-09-11",
+        "relevance_hint": 0.22,
+        "snippet": "Hello, any good app for the gallery? Without ads. I know there is a google pic. But as I understand it has a storage limit.",
+        "source": "reddit",
+        "source_quality": 0.6,
+        "title": "TCL phone",
+        "url": "https://www.reddit.com/r/nxtpaper/comments/1wd9fgg/tcl_phone/",
+        "why_relevant": "Reddit global search"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "debate",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [
+      "Topic is very open-ended so broad keyword retrieval across both sources"
+    ],
+    "raw_topic": "\"any good app for\"",
+    "source_weights": {
+      "hackernews": 0.25,
+      "reddit": 0.75
+    },
+    "subqueries": [
+      {
+        "label": "good app recs",
+        "ranking_query": "What apps do people actually recommend as good or useful?",
+        "search_query": "good app OR best app recommendation",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.28169014084507044
+      },
+      {
+        "label": "app suggestions",
+        "ranking_query": "Any solid app suggestions worth trying?",
+        "search_query": "app suggestion OR app rec",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.2535211267605634
+      },
+      {
+        "label": "favorite apps thread",
+        "ranking_query": "What are some favorite or must-have apps shared in discussions?",
+        "search_query": "favorite app OR must have app",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.23943661971830987
+      },
+      {
+        "label": "app worth it",
+        "ranking_query": "Which apps are considered worth installing or paying for?",
+        "search_query": "app worth it OR worthwhile app",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.22535211267605637
+      }
+    ]
+  },
+  "range_from": "2026-08-25",
+  "range_to": "2026-09-24",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://reddit.com/r/yumeshipping/comments/1woq90y/question_are_there_any_good_apps_for_yumeshipping",
+      "cluster_id": "cluster-1",
+      "engagement": 30,
+      "explanation": "Direct match to entity phrase and opinion-seeking app recs",
+      "final_score": 71.07377049180329,
+      "freshness": 90,
+      "fun_explanation": "dry reddit query, zero wit",
+      "fun_score": 8.0,
+      "item_id": "R6",
+      "local_relevance": 0.34,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "R6",
+            "native_rank": 1,
+            "source": "reddit",
+            "subquery_label": "good app recs"
+          },
+          {
+            "item_id": "R6",
+            "native_rank": 1,
+            "source": "reddit",
+            "subquery_label": "app suggestions"
+          },
+          {
+            "item_id": "R6",
+            "native_rank": 1,
+            "source": "reddit",
+            "subquery_label": "favorite apps thread"
+          },
+          {
+            "item_id": "R6",
+            "native_rank": 1,
+            "source": "reddit",
+            "subquery_label": "app worth it"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app suggestions:reddit": 1,
+        "app worth it:reddit": 1,
+        "favorite apps thread:reddit": 1,
+        "good app recs:reddit": 1
+      },
+      "rerank_score": 85.0,
+      "rrf_score": 0.012295081967213115,
+      "snippet": "Hi! I didn't flair this post since I could not find a fitting flair, but, as the question in my title says, I'm trying to find a good app for yumeshipping! I've already tried one called Yumeshipper, but due to some controversial stuff they've done, which I won't get into for the sake of no drama, I ended up removing the app from my phone, and am now without an app.why am I using an app? because it",
+      "source": "reddit",
+      "source_items": [
+        {
+          "body": "Question: Are there any good apps for yumeshipping? (specifically on Windows or Android)\nHi! I didn't flair this post since I could not find a fitting flair, but, as the question in my title says, I'm trying to find a good app for yumeshipping! I've already tried one called Yumeshipper, but due to some controversial stuff they've done, which I won't get into for the sake of no drama, I ended up removing the app from my phone, and am now without an app.why am I using an app? because it makes it easier for me to organize stuff, and I like the idea of stuff like my F/O sending me notif",
+          "container": "yumeshipping",
+          "date_confidence": "high",
+          "engagement": {
+            "num_comments": 1,
+            "score": 7
+          },
+          "engagement_score": 30,
+          "freshness": 90,
+          "item_id": "R6",
+          "local_rank_score": 0.4760000000000001,
+          "local_relevance": 0.34,
+          "metadata": {
+            "comment_insights": [],
+            "top_comments": []
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.37,
+          "snippet": "Hi! I didn't flair this post since I could not find a fitting flair, but, as the question in my title says, I'm trying to find a good app for yumeshipping! I've already tried one called Yumeshipper, but due to some controversial stuff they've done, which I won't get into for the sake of no drama, I ended up removing the app from my phone, and am now without an app.why am I using an app? because it",
+          "source": "reddit",
+          "source_quality": 0.6,
+          "title": "Question: Are there any good apps for yumeshipping? (specifically on Windows or Android)",
+          "url": "https://www.reddit.com/r/yumeshipping/comments/1woq90y/question_are_there_any_good_apps_for_yumeshipping/",
+          "why_relevant": "Reddit global search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "reddit"
+      ],
+      "subquery_labels": [
+        "good app recs",
+        "app suggestions",
+        "favorite apps thread",
+        "app worth it"
+      ],
+      "title": "Question: Are there any good apps for yumeshipping? (specifically on Windows or Android)",
+      "url": "https://www.reddit.com/r/yumeshipping/comments/1woq90y/question_are_there_any_good_apps_for_yumeshipping/"
+    },
+    {
+      "candidate_id": "https://reddit.com/r/radiologycareers/comments/1w9zoun/are_there_any_good_apps_for_a_rad_tech_student",
+      "cluster_id": "cluster-2",
+      "engagement": 100,
+      "explanation": "Exact entity phrasing, substantive app suggestions",
+      "final_score": 69.3296875,
+      "freshness": 44,
+      "fun_explanation": "straightforward study app ask",
+      "fun_score": 6.0,
+      "item_id": "R1",
+      "local_relevance": 0.21,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "R1",
+            "native_rank": 4,
+            "source": "reddit",
+            "subquery_label": "good app recs"
+          },
+          {
+            "item_id": "R1",
+            "native_rank": 4,
+            "source": "reddit",
+            "subquery_label": "app suggestions"
+          },
+          {
+            "item_id": "R1",
+            "native_rank": 4,
+            "source": "reddit",
+            "subquery_label": "favorite apps thread"
+          },
+          {
+            "item_id": "R1",
+            "native_rank": 4,
+            "source": "reddit",
+            "subquery_label": "app worth it"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app suggestions:reddit": 4,
+        "app worth it:reddit": 4,
+        "favorite apps thread:reddit": 4,
+        "good app recs:reddit": 4
+      },
+      "rerank_score": 90.0,
+      "rrf_score": 0.01171875,
+      "snippet": "https://www.purposegames.com/playlist/36WWSe8IpxM\n\n My Playlist for reviewing anatomy for positioning and comp reviews\n\n If your school doesnt provide it, clover learning is amazing. Fine videos, amazing quizzes. Just customize them so you dont get hit with too much you havent learned yet I used quizlet a lot 7 years ago, I\u2019m sure there\u2019s better website or apps now. But I would basically let it play the flash cards while I drive an hour to school. Make your own on Quizlet, or hop onto someone else's",
+      "source": "reddit",
+      "source_items": [
+        {
+          "body": "Are there any good apps for a rad tech student?\nFirst year student about to start my third week. Are there any good apps that you find helpful? Positioning or just general knowledge for when I eventually take the ARRT test. Something that's interactive and can quiz me when I'm tired of going through the same books and PowerPoints.\nhttps://www.purposegames.com/playlist/36WWSe8IpxM\n\n My Playlist for reviewing anatomy for positioning and comp reviews\n\n If your school doesnt provide it, clover learning is amazing. Fine videos, amazing quizzes. Just customize them so you dont get hit with too much you havent learned yet I used quizlet a lot 7 years ago, I\u2019m sure there\u2019s better website or apps now. But I would basically let it play the flash cards while I drive an hour to school. Make your own on Quizlet, or hop onto someone else's",
+          "container": "RadiologyCareers",
+          "date_confidence": "high",
+          "engagement": {
+            "num_comments": 10,
+            "score": 20
+          },
+          "engagement_score": 100,
+          "freshness": 44,
+          "item_id": "R1",
+          "local_rank_score": 0.34650000000000003,
+          "local_relevance": 0.21,
+          "metadata": {
+            "comment_insights": [
+              "https://www.purposegames.com/playlist/36WWSe8IpxM\n\n My Playlist for reviewing anatomy for positioning and comp reviews\n\n If your school doesnt provide...",
+              "I used quizlet a lot 7 years ago, I\u2019m sure there\u2019s better website or apps now.",
+              "Best thing you can do is an old fashioned notebook full of important concepts.",
+              "I have the anatomy learning app. I haven\u2019t applied to school yet but it\u2019s been really helpful in terms of me preparing!",
+              "Make your own on Quizlet, or hop onto someone else's"
+            ],
+            "top_comments": [
+              {
+                "author": "iceicig",
+                "date": "2026-09-07",
+                "excerpt": "https://www.purposegames.com/playlist/36WWSe8IpxM\n\n My Playlist for reviewing anatomy for positioning and comp reviews\n\n If your school doesnt provide it, clover learning is amazing. Fine videos, amazing quizzes. Just customize them so you dont get hit with too much you havent learned yet",
+                "score": 4,
+                "url": "https://reddit.com/r/RadiologyCareers/comments/1w9zoun/comment/p8fscyk/"
+              },
+              {
+                "author": "Hefty_Professor_3980",
+                "date": "2026-09-07",
+                "excerpt": "I used quizlet a lot 7 years ago, I\u2019m sure there\u2019s better website or apps now. But I would basically let it play the flash cards while I drive an hour to school.",
+                "score": 3,
+                "url": "https://reddit.com/r/RadiologyCareers/comments/1w9zoun/comment/p8g8j4l/"
+              },
+              {
+                "author": "Whyme660",
+                "date": "2026-09-07",
+                "excerpt": "Make your own on Quizlet, or hop onto someone else's",
+                "score": 3,
+                "url": "https://reddit.com/r/RadiologyCareers/comments/1w9zoun/comment/p8fupl2/"
+              },
+              {
+                "author": "RTR-ArmyVet",
+                "date": "2026-09-07",
+                "excerpt": "Best thing you can do is an old fashioned notebook full of important concepts. It will help massively with your retention of the stuff from the beginning all the way to the end. You\u2019ll want this for your registry.\n\n Apps, probably clover learning is the easiest and most palatable way to do what you\u2019",
+                "score": 2,
+                "url": "https://reddit.com/r/RadiologyCareers/comments/1w9zoun/comment/p8fxgau/"
+              },
+              {
+                "author": "TryingToFindMyself4",
+                "date": "2026-09-08",
+                "excerpt": "I have the anatomy learning app. I haven\u2019t applied to school yet but it\u2019s been really helpful in terms of me preparing!",
+                "score": 1,
+                "url": "https://reddit.com/r/RadiologyCareers/comments/1w9zoun/comment/p8iyixv/"
+              }
+            ]
+          },
+          "published_at": "2026-09-07",
+          "relevance_hint": 0.37,
+          "snippet": "https://www.purposegames.com/playlist/36WWSe8IpxM\n\n My Playlist for reviewing anatomy for positioning and comp reviews\n\n If your school doesnt provide it, clover learning is amazing. Fine videos, amazing quizzes. Just customize them so you dont get hit with too much you havent learned yet I used quizlet a lot 7 years ago, I\u2019m sure there\u2019s better website or apps now. But I would basically let it play the flash cards while I drive an hour to school. Make your own on Quizlet, or hop onto someone else's",
+          "source": "reddit",
+          "source_quality": 0.6,
+          "title": "Are there any good apps for a rad tech student?",
+          "url": "https://www.reddit.com/r/RadiologyCareers/comments/1w9zoun/are_there_any_good_apps_for_a_rad_tech_student/",
+          "why_relevant": "Reddit global search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "reddit"
+      ],
+      "subquery_labels": [
+        "good app recs",
+        "app suggestions",
+        "favorite apps thread",
+        "app worth it"
+      ],
+      "title": "Are there any good apps for a rad tech student?",
+      "url": "https://www.reddit.com/r/RadiologyCareers/comments/1w9zoun/are_there_any_good_apps_for_a_rad_tech_student/"
+    },
+    {
+      "candidate_id": "https://reddit.com/r/studying/comments/1wd2mfn/good_apps_for_studying",
+      "cluster_id": "cluster-3",
+      "engagement": 63,
+      "explanation": "Strong match on app recommendations with user opinions",
+      "final_score": 64.2409090909091,
+      "freshness": 54,
+      "fun_explanation": "slightly punchier list but still bland",
+      "fun_score": 12.0,
+      "item_id": "R4",
+      "local_relevance": 0.21,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "R4",
+            "native_rank": 6,
+            "source": "reddit",
+            "subquery_label": "good app recs"
+          },
+          {
+            "item_id": "R4",
+            "native_rank": 6,
+            "source": "reddit",
+            "subquery_label": "app suggestions"
+          },
+          {
+            "item_id": "R4",
+            "native_rank": 6,
+            "source": "reddit",
+            "subquery_label": "favorite apps thread"
+          },
+          {
+            "item_id": "R4",
+            "native_rank": 6,
+            "source": "reddit",
+            "subquery_label": "app worth it"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app suggestions:reddit": 6,
+        "app worth it:reddit": 6,
+        "favorite apps thread:reddit": 6,
+        "good app recs:reddit": 6
+      },
+      "rerank_score": 80.0,
+      "rrf_score": 0.011363636363636364,
+      "snippet": "focusjungle study timer for accountability motivation, and tracking ur hours. If u want I own a guild on there. studipace for schedules, knowunity for cheatsheets I use Forest \ud83e\udeb4",
+      "source": "reddit",
+      "source_items": [
+        {
+          "body": "Good apps for studying?\nDoes anyone know any good apps for studying science/health science like terminology and anatomy and everything else? I\u2019m currently working on my bachelors in health science and want to be well prepared for med school\nfocusjungle study timer for accountability motivation, and tracking ur hours. If u want I own a guild on there. studipace for schedules, knowunity for cheatsheets I use Forest \ud83e\udeb4",
+          "container": "studying",
+          "date_confidence": "high",
+          "engagement": {
+            "num_comments": 11,
+            "score": 5
+          },
+          "engagement_score": 63,
+          "freshness": 54,
+          "item_id": "R4",
+          "local_rank_score": 0.3345,
+          "local_relevance": 0.21,
+          "metadata": {
+            "comment_insights": [
+              "focusjungle study timer for accountability motivation, and tracking ur hours. If u want I own a guild on there.",
+              "Try Sumizeit. You get 1000 book summaries in text, audio, and video format.",
+              "studipace for schedules, knowunity for cheatsheets",
+              "Get used to using anki. Very powerful space repetition flash card app. Either create your own flash cards or find them."
+            ],
+            "top_comments": [
+              {
+                "author": "Senior_Host2336",
+                "date": "2026-09-11",
+                "excerpt": "focusjungle study timer for accountability motivation, and tracking ur hours. If u want I own a guild on there.",
+                "score": 2,
+                "url": "https://reddit.com/r/studying/comments/1wd2mfn/comment/p93jc9q/"
+              },
+              {
+                "author": "StudentOnCrack22",
+                "date": "2026-09-11",
+                "excerpt": "studipace for schedules, knowunity for cheatsheets",
+                "score": 2,
+                "url": "https://reddit.com/r/studying/comments/1wd2mfn/comment/p94a3l2/"
+              },
+              {
+                "author": "KiraKira0_0",
+                "date": "2026-09-11",
+                "excerpt": "I use Forest \ud83e\udeb4",
+                "score": 2,
+                "url": "https://reddit.com/r/studying/comments/1wd2mfn/comment/p94gz1g/"
+              },
+              {
+                "author": "DiverOk9454",
+                "date": "2026-09-16",
+                "excerpt": "Get used to using anki. Very powerful space repetition flash card app. Either create your own flash cards or find them.",
+                "score": 2,
+                "url": "https://reddit.com/r/studying/comments/1wd2mfn/comment/pa2eoa1/"
+              },
+              {
+                "author": "sumizeit",
+                "date": "2026-09-14",
+                "excerpt": "Try Sumizeit. You get 1000 book summaries in text, audio, and video format. Podcast summaries. Daily challenges and riddles. Exercises. Expert analysis. Quizzes for retention. Streaks and gamification. Short videos with wisdom. Infographics and more. Courses. Meditation. It's the ultimate fun learni",
+                "score": 1,
+                "url": "https://reddit.com/r/studying/comments/1wd2mfn/comment/p9qfeog/"
+              }
+            ]
+          },
+          "published_at": "2026-09-11",
+          "relevance_hint": 0.09,
+          "snippet": "focusjungle study timer for accountability motivation, and tracking ur hours. If u want I own a guild on there. studipace for schedules, knowunity for cheatsheets I use Forest \ud83e\udeb4",
+          "source": "reddit",
+          "source_quality": 0.6,
+          "title": "Good apps for studying?",
+          "url": "https://www.reddit.com/r/studying/comments/1wd2mfn/good_apps_for_studying/",
+          "why_relevant": "Reddit global search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "reddit"
+      ],
+      "subquery_labels": [
+        "good app recs",
+        "app suggestions",
+        "favorite apps thread",
+        "app worth it"
+      ],
+      "title": "Good apps for studying?",
+      "url": "https://www.reddit.com/r/studying/comments/1wd2mfn/good_apps_for_studying/"
+    },
+    {
+      "candidate_id": "https://reddit.com/r/gnome/comments/1wk64tr/any_good_pdf_and_epub_reader",
+      "cluster_id": "cluster-4",
+      "engagement": 90,
+      "explanation": "Close phrasing, app recommendation thread",
+      "final_score": 57.424193548387095,
+      "freshness": 74,
+      "fun_explanation": "plain tech recommendation thread",
+      "fun_score": 7.0,
+      "item_id": "R2",
+      "local_relevance": 0.21,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "R2",
+            "native_rank": 2,
+            "source": "reddit",
+            "subquery_label": "good app recs"
+          },
+          {
+            "item_id": "R2",
+            "native_rank": 2,
+            "source": "reddit",
+            "subquery_label": "app suggestions"
+          },
+          {
+            "item_id": "R2",
+            "native_rank": 2,
+            "source": "reddit",
+            "subquery_label": "favorite apps thread"
+          },
+          {
+            "item_id": "R2",
+            "native_rank": 2,
+            "source": "reddit",
+            "subquery_label": "app worth it"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app suggestions:reddit": 2,
+        "app worth it:reddit": 2,
+        "favorite apps thread:reddit": 2,
+        "good app recs:reddit": 2
+      },
+      "rerank_score": 65.0,
+      "rrf_score": 0.012096774193548387,
+      "snippet": "Calibre has a built in reader. But never had any issues with foliate myself, what was the bugginess about that? Papers is the default PDF app for gnome Readest is the best epub reader for me, what was wrong?",
+      "source": "reddit",
+      "source_items": [
+        {
+          "body": "Any good pdf and epub reader?\nI'm testing some apps like Foliate and Readest, but they're a bit buggy. Any good apps for reading books locally?\nCalibre has a built in reader. But never had any issues with foliate myself, what was the bugginess about that? Papers is the default PDF app for gnome Readest is the best epub reader for me, what was wrong?",
+          "container": "gnome",
+          "date_confidence": "high",
+          "engagement": {
+            "num_comments": 20,
+            "score": 8
+          },
+          "engagement_score": 90,
+          "freshness": 74,
+          "item_id": "R2",
+          "local_rank_score": 0.41150000000000003,
+          "local_relevance": 0.21,
+          "metadata": {
+            "comment_insights": [
+              "Readest is the best epub reader for me, what was wrong?",
+              "Calibre has a built in reader. But never had any issues with foliate myself, what was the bugginess about that?",
+              "try Flow Reader, but only support epub and txt, it's super fast compare to the 2 apps you mentioned",
+              "Papers is the default PDF app for gnome",
+              "I use Foliate. Seems solid to me."
+            ],
+            "top_comments": [
+              {
+                "author": "judasdisciple",
+                "date": "2026-09-19",
+                "excerpt": "Calibre has a built in reader. But never had any issues with foliate myself, what was the bugginess about that?",
+                "score": 5,
+                "url": "https://reddit.com/r/gnome/comments/1wk64tr/comment/paobwxg/"
+              },
+              {
+                "author": "blackcain",
+                "date": "2026-09-19",
+                "excerpt": "Papers is the default PDF app for gnome",
+                "score": 5,
+                "url": "https://reddit.com/r/gnome/comments/1wk64tr/comment/pap49b2/"
+              },
+              {
+                "author": "Disastrous_Pin556",
+                "date": "2026-09-19",
+                "excerpt": "Readest is the best epub reader for me, what was wrong?",
+                "score": 4,
+                "url": "https://reddit.com/r/gnome/comments/1wk64tr/comment/papkhva/"
+              },
+              {
+                "author": "Miserable-School-665",
+                "date": "2026-09-19",
+                "excerpt": "Okular, Foliate",
+                "score": 4,
+                "url": "https://reddit.com/r/gnome/comments/1wk64tr/comment/paohc95/"
+              },
+              {
+                "author": "Obelisk2000",
+                "date": "2026-09-19",
+                "excerpt": "I use Foliate. Seems solid to me.",
+                "score": 3,
+                "url": "https://reddit.com/r/gnome/comments/1wk64tr/comment/pap10q7/"
+              },
+              {
+                "author": "Consistent_Slide_447",
+                "date": "2026-09-19",
+                "excerpt": "try Flow Reader, but only support epub and txt, it's super fast compare to the 2 apps you mentioned",
+                "score": 2,
+                "url": "https://reddit.com/r/gnome/comments/1wk64tr/comment/paqbjxs/"
+              },
+              {
+                "author": "Temporary-Lead3182",
+                "date": "2026-09-19",
+                "excerpt": "sioyek if ur hardcore",
+                "score": 2,
+                "url": "https://reddit.com/r/gnome/comments/1wk64tr/comment/papwhh6/"
+              },
+              {
+                "author": "c4pl4b",
+                "date": "2026-09-19",
+                "excerpt": "Paper",
+                "score": 2,
+                "url": "https://reddit.com/r/gnome/comments/1wk64tr/comment/paq2e9n/"
+              },
+              {
+                "author": "AutoModerator",
+                "date": "2026-09-18",
+                "excerpt": "Thank you for your submission.\n\n You too can support GNOME! Become a Friend of GNOME and contribute to keeping our project going!\n\n I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns.",
+                "score": 1,
+                "url": "https://reddit.com/r/gnome/comments/1wk64tr/comment/pao7ur8/"
+              },
+              {
+                "author": "hdkaoskd",
+                "date": "2026-09-19",
+                "excerpt": "evince",
+                "score": 1,
+                "url": "https://reddit.com/r/gnome/comments/1wk64tr/comment/papdwyy/"
+              }
+            ]
+          },
+          "published_at": "2026-09-18",
+          "relevance_hint": 0.38,
+          "snippet": "Calibre has a built in reader. But never had any issues with foliate myself, what was the bugginess about that? Papers is the default PDF app for gnome Readest is the best epub reader for me, what was wrong?",
+          "source": "reddit",
+          "source_quality": 0.6,
+          "title": "Any good pdf and epub reader?",
+          "url": "https://www.reddit.com/r/gnome/comments/1wk64tr/any_good_pdf_and_epub_reader/",
+          "why_relevant": "Reddit global search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "reddit"
+      ],
+      "subquery_labels": [
+        "good app recs",
+        "app suggestions",
+        "favorite apps thread",
+        "app worth it"
+      ],
+      "title": "Any good pdf and epub reader?",
+      "url": "https://www.reddit.com/r/gnome/comments/1wk64tr/any_good_pdf_and_epub_reader/"
+    },
+    {
+      "candidate_id": "https://reddit.com/r/getstudying/comments/1w8pnec/suggests_some_studying_tips",
+      "cluster_id": "cluster-5",
+      "engagement": 19,
+      "explanation": "Mentions entity in snippet, some app recs but mixed with tips",
+      "final_score": 48.08461538461539,
+      "freshness": 42,
+      "fun_explanation": "long dry request, no spark",
+      "fun_score": 5.0,
+      "item_id": "R11",
+      "local_relevance": 0.34,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "R11",
+            "native_rank": 5,
+            "source": "reddit",
+            "subquery_label": "good app recs"
+          },
+          {
+            "item_id": "R11",
+            "native_rank": 5,
+            "source": "reddit",
+            "subquery_label": "app suggestions"
+          },
+          {
+            "item_id": "R11",
+            "native_rank": 5,
+            "source": "reddit",
+            "subquery_label": "favorite apps thread"
+          },
+          {
+            "item_id": "R11",
+            "native_rank": 5,
+            "source": "reddit",
+            "subquery_label": "app worth it"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app suggestions:reddit": 5,
+        "app worth it:reddit": 5,
+        "favorite apps thread:reddit": 5,
+        "good app recs:reddit": 5
+      },
+      "rerank_score": 55.0,
+      "rrf_score": 0.011538461538461539,
+      "snippet": "Hi Im currently using a macbook air and I can\u2019t seem to find any good apps for studying, if yall have any, can you please recommend some!? My prelims and quizzes are near and I want to lock in for real! Some apps require money, and it\u2019s annoying. And please suggest some for writing!! Pretty please! And how to study without getting distracted huhu badly need it!",
+      "source": "reddit",
+      "source_items": [
+        {
+          "body": "Suggests some studying tips!\nHi Im currently using a macbook air and I can\u2019t seem to find any good apps for studying, if yall have any, can you please recommend some!? My prelims and quizzes are near and I want to lock in for real! Some apps require money, and it\u2019s annoying. And please suggest some for writing!! Pretty please! And how to study without getting distracted huhu badly need it!",
+          "container": "GetStudying",
+          "date_confidence": "high",
+          "engagement": {
+            "num_comments": 2,
+            "score": 3
+          },
+          "engagement_score": 19,
+          "freshness": 42,
+          "item_id": "R11",
+          "local_rank_score": 0.34500000000000003,
+          "local_relevance": 0.34,
+          "metadata": {
+            "comment_insights": [],
+            "top_comments": []
+          },
+          "published_at": "2026-09-06",
+          "relevance_hint": 0.09,
+          "snippet": "Hi Im currently using a macbook air and I can\u2019t seem to find any good apps for studying, if yall have any, can you please recommend some!? My prelims and quizzes are near and I want to lock in for real! Some apps require money, and it\u2019s annoying. And please suggest some for writing!! Pretty please! And how to study without getting distracted huhu badly need it!",
+          "source": "reddit",
+          "source_quality": 0.6,
+          "title": "Suggests some studying tips!",
+          "url": "https://www.reddit.com/r/GetStudying/comments/1w8pnec/suggests_some_studying_tips/",
+          "why_relevant": "Reddit global search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "reddit"
+      ],
+      "subquery_labels": [
+        "good app recs",
+        "app suggestions",
+        "favorite apps thread",
+        "app worth it"
+      ],
+      "title": "Suggests some studying tips!",
+      "url": "https://www.reddit.com/r/GetStudying/comments/1w8pnec/suggests_some_studying_tips/"
+    },
+    {
+      "candidate_id": "https://reddit.com/r/nxtpaper/comments/1wd9fgg/tcl_phone",
+      "cluster_id": "cluster-6",
+      "engagement": 32,
+      "explanation": "Mentions entity in snippet, narrow app request",
+      "final_score": 46.15735294117647,
+      "freshness": 54,
+      "fun_explanation": "basic ad-free app plea",
+      "fun_score": 9.0,
+      "item_id": "R7",
+      "local_relevance": 0.21,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "R7",
+            "native_rank": 8,
+            "source": "reddit",
+            "subquery_label": "good app recs"
+          },
+          {
+            "item_id": "R7",
+            "native_rank": 8,
+            "source": "reddit",
+            "subquery_label": "app suggestions"
+          },
+          {
+            "item_id": "R7",
+            "native_rank": 8,
+            "source": "reddit",
+            "subquery_label": "favorite apps thread"
+          },
+          {
+            "item_id": "R7",
+            "native_rank": 8,
+            "source": "reddit",
+            "subquery_label": "app worth it"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app suggestions:reddit": 8,
+        "app worth it:reddit": 8,
+        "favorite apps thread:reddit": 8,
+        "good app recs:reddit": 8
+      },
+      "rerank_score": 50.0,
+      "rrf_score": 0.011029411764705881,
+      "snippet": "Hello, any good app for the gallery? Without ads. I know there is a google pic. But as I understand it has a storage limit.",
+      "source": "reddit",
+      "source_items": [
+        {
+          "body": "TCL phone\nHello, any good app for the gallery? Without ads. I know there is a google pic. But as I understand it has a storage limit.",
+          "container": "nxtpaper",
+          "date_confidence": "high",
+          "engagement": {
+            "num_comments": 5,
+            "score": 3
+          },
+          "engagement_score": 32,
+          "freshness": 54,
+          "item_id": "R7",
+          "local_rank_score": 0.3035,
+          "local_relevance": 0.21,
+          "metadata": {
+            "comment_insights": [],
+            "top_comments": []
+          },
+          "published_at": "2026-09-11",
+          "relevance_hint": 0.22,
+          "snippet": "Hello, any good app for the gallery? Without ads. I know there is a google pic. But as I understand it has a storage limit.",
+          "source": "reddit",
+          "source_quality": 0.6,
+          "title": "TCL phone",
+          "url": "https://www.reddit.com/r/nxtpaper/comments/1wd9fgg/tcl_phone/",
+          "why_relevant": "Reddit global search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "reddit"
+      ],
+      "subquery_labels": [
+        "good app recs",
+        "app suggestions",
+        "favorite apps thread",
+        "app worth it"
+      ],
+      "title": "TCL phone",
+      "url": "https://www.reddit.com/r/nxtpaper/comments/1wd9fgg/tcl_phone/"
+    },
+    {
+      "candidate_id": "https://reddit.com/r/travelplanning/comments/1wft9qq/are_there_any_apps_for_meeting_people_when",
+      "cluster_id": "cluster-7",
+      "engagement": 13,
+      "explanation": "Partial entity match but weak on 'good' and opinion depth",
+      "final_score": 36.89850746268656,
+      "freshness": 62,
+      "fun_explanation": "mildly relatable but zero humor",
+      "fun_score": 10.0,
+      "item_id": "R10",
+      "local_relevance": 0.21,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "R10",
+            "native_rank": 7,
+            "source": "reddit",
+            "subquery_label": "good app recs"
+          },
+          {
+            "item_id": "R10",
+            "native_rank": 7,
+            "source": "reddit",
+            "subquery_label": "app suggestions"
+          },
+          {
+            "item_id": "R10",
+            "native_rank": 7,
+            "source": "reddit",
+            "subquery_label": "favorite apps thread"
+          },
+          {
+            "item_id": "R10",
+            "native_rank": 7,
+            "source": "reddit",
+            "subquery_label": "app worth it"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app suggestions:reddit": 7,
+        "app worth it:reddit": 7,
+        "favorite apps thread:reddit": 7,
+        "good app recs:reddit": 7
+      },
+      "rerank_score": 35.0,
+      "rrf_score": 0.011194029850746268,
+      "snippet": "And does anyone know how to get rid of social anxiety so that can enjoy meeting other travellers without fear of not being liked etc?",
+      "source": "reddit",
+      "source_items": [
+        {
+          "body": "Are there any apps for meeting people when travelling?\nAnd does anyone know how to get rid of social anxiety so that can enjoy meeting other travellers without fear of not being liked etc?",
+          "container": "travelplanning",
+          "date_confidence": "high",
+          "engagement": {
+            "num_comments": 5,
+            "score": 1
+          },
+          "engagement_score": 13,
+          "freshness": 62,
+          "item_id": "R10",
+          "local_rank_score": 0.3045,
+          "local_relevance": 0.21,
+          "metadata": {
+            "comment_insights": [],
+            "top_comments": []
+          },
+          "published_at": "2026-09-14",
+          "relevance_hint": 0.37,
+          "snippet": "And does anyone know how to get rid of social anxiety so that can enjoy meeting other travellers without fear of not being liked etc?",
+          "source": "reddit",
+          "source_quality": 0.6,
+          "title": "Are there any apps for meeting people when travelling?",
+          "url": "https://www.reddit.com/r/travelplanning/comments/1wft9qq/are_there_any_apps_for_meeting_people_when/",
+          "why_relevant": "Reddit global search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "reddit"
+      ],
+      "subquery_labels": [
+        "good app recs",
+        "app suggestions",
+        "favorite apps thread",
+        "app worth it"
+      ],
+      "title": "Are there any apps for meeting people when travelling?",
+      "url": "https://www.reddit.com/r/travelplanning/comments/1wft9qq/are_there_any_apps_for_meeting_people_when/"
+    },
+    {
+      "candidate_id": "https://reddit.com/r/twentiesindia/comments/1wmwqub/any_idea_how_to_watch_matches_on_fancode_app_for",
+      "cluster_id": "cluster-8",
+      "engagement": 40,
+      "explanation": "No entity match, unrelated topic",
+      "final_score": 8.512857142857143,
+      "freshness": 84,
+      "fun_explanation": "cheeky APK mention adds tiny edge",
+      "fun_score": 15.0,
+      "item_id": "R3",
+      "local_relevance": 0.21,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "R3",
+            "native_rank": 3,
+            "source": "reddit",
+            "subquery_label": "good app recs"
+          },
+          {
+            "item_id": "R3",
+            "native_rank": 3,
+            "source": "reddit",
+            "subquery_label": "app suggestions"
+          },
+          {
+            "item_id": "R3",
+            "native_rank": 3,
+            "source": "reddit",
+            "subquery_label": "favorite apps thread"
+          },
+          {
+            "item_id": "R3",
+            "native_rank": 3,
+            "source": "reddit",
+            "subquery_label": "app worth it"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app suggestions:reddit": 3,
+        "app worth it:reddit": 3,
+        "favorite apps thread:reddit": 3,
+        "good app recs:reddit": 3
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.011904761904761906,
+      "snippet": "Hi u/Ok-Platform-2307\n\n Welcome to r/TwentiesIndia!\n\n If you enjoy the discussions here, please consider joining the community using the Join button. It helps you stay updated with new posts and supports the growth of the subreddit. Also, join our Discord server, We host live discussions, community events and have an awesome group of people.\n\n Before participating, please take a moment to read the Yaa plz go ahead If u have an android then i can send u an apk",
+      "source": "reddit",
+      "source_items": [
+        {
+          "body": "Any idea how to watch matches on fancode app for free\nSame as title Any app for cricket matches without a subscription...\nHi u/Ok-Platform-2307\n\n Welcome to r/TwentiesIndia!\n\n If you enjoy the discussions here, please consider joining the community using the Join button. It helps you stay updated with new posts and supports the growth of the subreddit. Also, join our Discord server, We host live discussions, community events and have an awesome group of people.\n\n Before participating, please take a moment to read the Yaa plz go ahead If u have an android then i can send u an apk",
+          "container": "TwentiesIndia",
+          "date_confidence": "high",
+          "engagement": {
+            "num_comments": 19,
+            "score": 1
+          },
+          "engagement_score": 40,
+          "freshness": 84,
+          "item_id": "R3",
+          "local_rank_score": 0.38650000000000007,
+          "local_relevance": 0.21,
+          "metadata": {
+            "comment_insights": [
+              "If u have an android then i can send u an apk"
+            ],
+            "top_comments": [
+              {
+                "author": "AutoModerator",
+                "date": "2026-09-22",
+                "excerpt": "Hi u/Ok-Platform-2307\n\n Welcome to r/TwentiesIndia!\n\n If you enjoy the discussions here, please consider joining the community using the Join button. It helps you stay updated with new posts and supports the growth of the subreddit. Also, join our Discord server, We host live discussions, community events and have an awesome group of people.\n\n Before participating, please take a moment to read the",
+                "score": 1,
+                "url": "https://reddit.com/r/TwentiesIndia/comments/1wmwqub/comment/pbae5qg/"
+              },
+              {
+                "author": "Ok-Platform-2307",
+                "date": "2026-09-22",
+                "excerpt": "Yaa plz go ahead",
+                "score": 1,
+                "url": "https://reddit.com/r/TwentiesIndia/comments/1wmwqub/comment/pbafbrv/"
+              },
+              {
+                "author": "Koach_Son_18",
+                "date": "2026-09-22",
+                "excerpt": "If u have an android then i can send u an apk",
+                "score": 1,
+                "url": "https://reddit.com/r/TwentiesIndia/comments/1wmwqub/comment/pbaeqp4/"
+              },
+              {
+                "author": "Icy-Balance-5961",
+                "date": "2026-09-22",
+                "excerpt": "send ke also",
+                "score": 0,
+                "url": "https://reddit.com/r/TwentiesIndia/comments/1wmwqub/comment/pbb8oy4/"
+              }
+            ]
+          },
+          "published_at": "2026-09-22",
+          "relevance_hint": 0.9,
+          "snippet": "Hi u/Ok-Platform-2307\n\n Welcome to r/TwentiesIndia!\n\n If you enjoy the discussions here, please consider joining the community using the Join button. It helps you stay updated with new posts and supports the growth of the subreddit. Also, join our Discord server, We host live discussions, community events and have an awesome group of people.\n\n Before participating, please take a moment to read the Yaa plz go ahead If u have an android then i can send u an apk",
+          "source": "reddit",
+          "source_quality": 0.6,
+          "title": "Any idea how to watch matches on fancode app for free",
+          "url": "https://www.reddit.com/r/TwentiesIndia/comments/1wmwqub/any_idea_how_to_watch_matches_on_fancode_app_for/",
+          "why_relevant": "Reddit global search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "reddit"
+      ],
+      "subquery_labels": [
+        "good app recs",
+        "app suggestions",
+        "favorite apps thread",
+        "app worth it"
+      ],
+      "title": "Any idea how to watch matches on fancode app for free",
+      "url": "https://www.reddit.com/r/TwentiesIndia/comments/1wmwqub/any_idea_how_to_watch_matches_on_fancode_app_for/"
+    }
+  ],
+  "topic": "\"any good app for\"",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}

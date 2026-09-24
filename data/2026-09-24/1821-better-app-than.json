@@ -1,0 +1,1421 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"better app than\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://reddit.com/r/chineselanguage/comments/1w71mqh/is_there_a_better_app_than_duolingo_to_learn"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://reddit.com/r/chineselanguage/comments/1w71mqh/is_there_a_better_app_than_duolingo_to_learn"
+      ],
+      "score": 71.4688524590164,
+      "sources": [
+        "reddit"
+      ],
+      "title": "IS there a better App than Duolingo to learn Mandarin quickly?",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://reddit.com/r/pcmasterrace/comments/1w8dqfb/alternatives_to_adobe_acrobat"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://reddit.com/r/pcmasterrace/comments/1w8dqfb/alternatives_to_adobe_acrobat"
+      ],
+      "score": 67.29230769230769,
+      "sources": [
+        "reddit"
+      ],
+      "title": "Alternatives to Adobe Acrobat",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://reddit.com/r/utsa/comments/1wls5dp/recommendations_for_notetaking_apps_that_work"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://reddit.com/r/utsa/comments/1wls5dp/recommendations_for_notetaking_apps_that_work"
+      ],
+      "score": 33.62258064516129,
+      "sources": [
+        "reddit"
+      ],
+      "title": "Recommendations for note-taking apps that work without bugs on iOS",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://reddit.com/r/justplay/comments/1w5myoe/genuinely_this_app_sucks"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://reddit.com/r/justplay/comments/1w5myoe/genuinely_this_app_sucks"
+      ],
+      "score": 30.451515151515153,
+      "sources": [
+        "reddit"
+      ],
+      "title": "Genuinely this app sucks",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://reddit.com/r/phitness/comments/1wekbux/suggest_me_a_ai_calorie_tracking_app"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://reddit.com/r/phitness/comments/1wekbux/suggest_me_a_ai_calorie_tracking_app"
+      ],
+      "score": 28.534375,
+      "sources": [
+        "reddit"
+      ],
+      "title": "suggest me a AI calorie tracking app",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://reddit.com/r/firepakistan/comments/1wehwsv/portfolio_transfer_to_another_broker"
+      ],
+      "cluster_id": "cluster-6",
+      "representative_ids": [
+        "https://reddit.com/r/firepakistan/comments/1wehwsv/portfolio_transfer_to_another_broker"
+      ],
+      "score": 5.873333333333334,
+      "sources": [
+        "reddit"
+      ],
+      "title": "Portfolio Transfer to another Broker",
+      "uncertainty": "single-source"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-24T18:21:49.588107+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": [
+      {
+        "body": "IS there a better App than Duolingo to learn Mandarin quickly?\ni have been using Duolingo for the past almost 4 months and it seems i am NOT moving forward like i have to. is there a mentoring app you guys recommend or website?\nI feel like any app is better than Duolingo for Mandarin. First of all, there is no app that can help you learn Mandarin quickly. For most learners, Mandarin is a long, gruelling process. It is part of its charm. Second, yes, there are tons of good apps and resources. You can go through dozens of posts on this. \"I've been trying to cut down this tree in my garden, but this toothbrush doesn't seem to work, why?\"",
+        "container": "ChineseLanguage",
+        "date_confidence": "high",
+        "engagement": {
+          "num_comments": 50,
+          "score": 0
+        },
+        "engagement_score": 100,
+        "freshness": 36,
+        "item_id": "R1",
+        "local_rank_score": 0.398,
+        "local_relevance": 0.32,
+        "metadata": {
+          "comment_insights": [
+            "Google Maps is probably better than Duolingo to learn Mandarin.",
+            "Did you research any other apps before starting? Duo is probably the worst choice.",
+            "Considering Duolingo being absolutely horrible since they established their \"AI Feature\", there are tons of better apps.",
+            "I feel like any app is better than Duolingo for Mandarin.",
+            "First of all, there is no app that can help you learn Mandarin quickly.",
+            "\"I've been trying to cut down this tree in my garden, but this toothbrush doesn't seem to work, why?\"",
+            "YouTube, probably. Search HSK 1 Listening and try some of the beginner videos."
+          ],
+          "top_comments": [
+            {
+              "author": "Extreme_Pumpkin4283",
+              "date": "2026-09-04",
+              "excerpt": "I feel like any app is better than Duolingo for Mandarin.",
+              "score": 113,
+              "url": "https://reddit.com/r/ChineseLanguage/comments/1w71mqh/comment/p7rb50c/"
+            },
+            {
+              "author": "FunkySphinx",
+              "date": "2026-09-04",
+              "excerpt": "First of all, there is no app that can help you learn Mandarin quickly. For most learners, Mandarin is a long, gruelling process. It is part of its charm. Second, yes, there are tons of good apps and resources. You can go through dozens of posts on this.",
+              "score": 25,
+              "url": "https://reddit.com/r/ChineseLanguage/comments/1w71mqh/comment/p7rbf8b/"
+            },
+            {
+              "author": "Sleepy_Redditorrrrrr",
+              "date": "2026-09-04",
+              "excerpt": "\"I've been trying to cut down this tree in my garden, but this toothbrush doesn't seem to work, why?\"",
+              "score": 17,
+              "url": "https://reddit.com/r/ChineseLanguage/comments/1w71mqh/comment/p7rcjv5/"
+            },
+            {
+              "author": "No_Instance4233",
+              "date": "2026-09-04",
+              "excerpt": "HelloChinese",
+              "score": 16,
+              "url": "https://reddit.com/r/ChineseLanguage/comments/1w71mqh/comment/p7rw8pm/"
+            },
+            {
+              "author": "Putrid_Mind_4853",
+              "date": "2026-09-04",
+              "excerpt": "Did you research any other apps before starting? Duo is probably the worst choice.",
+              "score": 12,
+              "url": "https://reddit.com/r/ChineseLanguage/comments/1w71mqh/comment/p7rb7vm/"
+            },
+            {
+              "author": "Substantial_Bar8999",
+              "date": "2026-09-04",
+              "excerpt": "Google Maps is probably better than Duolingo to learn Mandarin.",
+              "score": 9,
+              "url": "https://reddit.com/r/ChineseLanguage/comments/1w71mqh/comment/p7s10us/"
+            },
+            {
+              "author": "Quulawl",
+              "date": "2026-09-04",
+              "excerpt": "Considering Duolingo being absolutely horrible since they established their \"AI Feature\", there are tons of better apps.\n\n HelloChinese\n\n Super Chinese\n\n Jade\n\n Hanzii Dict\n\n Pleco\n\n Hanly\n\n MyMandarin\n\n Just to mention a few, I am sure there are more good apps out there.",
+              "score": 7,
+              "url": "https://reddit.com/r/ChineseLanguage/comments/1w71mqh/comment/p7sinrq/"
+            },
+            {
+              "author": "1lyke1africa",
+              "date": "2026-09-04",
+              "excerpt": "YouTube, probably. Search HSK 1 Listening and try some of the beginner videos.",
+              "score": 5,
+              "url": "https://reddit.com/r/ChineseLanguage/comments/1w71mqh/comment/p7rgrfz/"
+            },
+            {
+              "author": "okdoktor",
+              "date": "2026-09-04",
+              "excerpt": "Hanly",
+              "score": 4,
+              "url": "https://reddit.com/r/ChineseLanguage/comments/1w71mqh/comment/p7smewz/"
+            },
+            {
+              "author": "oiseaublancc",
+              "date": "2026-09-04",
+              "excerpt": "Du Chinese",
+              "score": 4,
+              "url": "https://reddit.com/r/ChineseLanguage/comments/1w71mqh/comment/p7st7sw/"
+            }
+          ]
+        },
+        "published_at": "2026-09-04",
+        "relevance_hint": 1.0,
+        "snippet": "I feel like any app is better than Duolingo for Mandarin. First of all, there is no app that can help you learn Mandarin quickly. For most learners, Mandarin is a long, gruelling process. It is part of its charm. Second, yes, there are tons of good apps and resources. You can go through dozens of posts on this. \"I've been trying to cut down this tree in my garden, but this toothbrush doesn't seem to work, why?\"",
+        "source": "reddit",
+        "source_quality": 0.6,
+        "title": "IS there a better App than Duolingo to learn Mandarin quickly?",
+        "url": "https://www.reddit.com/r/ChineseLanguage/comments/1w71mqh/is_there_a_better_app_than_duolingo_to_learn/",
+        "why_relevant": "Reddit global search"
+      },
+      {
+        "body": "Recommendations for note-taking apps that work without bugs on iOS\nI'm considering the following apps for note-taking and audio recording during class. I read the one star reviews on Trustpilot of this apps being buggy, unable to download notes, having slow running time in uploading slides or pdf files, and deleting the the person's entire database of notes. I'm wondering if there is a correlation between these problems and the operating system (Apple iOS, Android, Windows 11) the person's tablet or laptop is using. If there are better apps than these and run o",
+        "container": "UTSA",
+        "date_confidence": "high",
+        "engagement": {
+          "num_comments": 3,
+          "score": 3
+        },
+        "engagement_score": 42,
+        "freshness": 78,
+        "item_id": "R6",
+        "local_rank_score": 0.3865,
+        "local_relevance": 0.23,
+        "metadata": {
+          "comment_insights": [],
+          "top_comments": []
+        },
+        "published_at": "2026-09-20",
+        "relevance_hint": 0.14,
+        "snippet": "I'm considering the following apps for note-taking and audio recording during class. I read the one star reviews on Trustpilot of this apps being buggy, unable to download notes, having slow running time in uploading slides or pdf files, and deleting the the person's entire database of notes. I'm wondering if there is a correlation between these problems and the operating system (Apple iOS, Androi",
+        "source": "reddit",
+        "source_quality": 0.6,
+        "title": "Recommendations for note-taking apps that work without bugs on iOS",
+        "url": "https://www.reddit.com/r/UTSA/comments/1wls5dp/recommendations_for_notetaking_apps_that_work/",
+        "why_relevant": "Reddit global search"
+      },
+      {
+        "body": "Portfolio Transfer to another Broker\nHello fellow investors, I am using Js Global for quiet sometime now and now i wanted to try Finqalab ( Next Capital ) because of better App than Js Global. So i went ahead and opened an account with Next Capital. I wanted to know if there's any option to Transfer my whole portfolio from Js to Finqalab. If yes then what's the procedure and are there any charges for that? Secondly if there's no option to transfer portfolio can i just use 2 different accounts separately? Or i have to pay additional\nI hope you are already aware of 0.25% fee on Finqalab versus 0.15% for JS Global (and almost every other broker) If you have CDC account, there's option to off load current broker and then select a new broker and once you select a new broker, all securities will appear in the new one. Other than CDC account, I don't know if there's any other method. Welcome to r/FIREPakistan\n\n If you're looking for beginner advice, please have a look at the weekly discussions thread for a collection of useful links for you, you may also ask simple questions and have general discussions over there.\n\n I am a bot, and this action was performed automatically. Pleas",
+        "container": "FIREPakistan",
+        "date_confidence": "high",
+        "engagement": {
+          "num_comments": 12,
+          "score": 3
+        },
+        "engagement_score": 91,
+        "freshness": 58,
+        "item_id": "R3",
+        "local_rank_score": 0.3855,
+        "local_relevance": 0.23,
+        "metadata": {
+          "comment_insights": [
+            "I hope you are already aware of 0.25% fee on Finqalab versus 0.15% for JS Global (and almost every other broker)",
+            "If you have CDC account, there's option to off load current broker and then select a new broker and once you select a new broker, all securities will...",
+            "Open account with new broker. And email old one to transfer. Email new one for your average prices.",
+            "Try Nafa. Great UI and same charges as everyone else"
+          ],
+          "top_comments": [
+            {
+              "author": "InjectorTheGood",
+              "date": "2026-09-12",
+              "excerpt": "I hope you are already aware of 0.25% fee on Finqalab versus 0.15% for JS Global (and almost every other broker)",
+              "score": 4,
+              "url": "https://reddit.com/r/FIREPakistan/comments/1wehwsv/comment/p9e7zve/"
+            },
+            {
+              "author": "msulaimanijaz",
+              "date": "2026-09-12",
+              "excerpt": "If you have CDC account, there's option to off load current broker and then select a new broker and once you select a new broker, all securities will appear in the new one. Other than CDC account, I don't know if there's any other method.",
+              "score": 3,
+              "url": "https://reddit.com/r/FIREPakistan/comments/1wehwsv/comment/p9dtyn0/"
+            },
+            {
+              "author": "AutoModerator",
+              "date": "2026-09-12",
+              "excerpt": "Welcome to r/FIREPakistan\n\n If you're looking for beginner advice, please have a look at the weekly discussions thread for a collection of useful links for you, you may also ask simple questions and have general discussions over there.\n\n I am a bot, and this action was performed automatically. Pleas",
+              "score": 1,
+              "url": "https://reddit.com/r/FIREPakistan/comments/1wehwsv/comment/p9dsz10/"
+            },
+            {
+              "author": "hi_aq_94",
+              "date": "2026-09-12",
+              "excerpt": "Open account with new broker. And email old one to transfer. Email new one for your average prices.",
+              "score": 1,
+              "url": "https://reddit.com/r/FIREPakistan/comments/1wehwsv/comment/p9g0vma/"
+            },
+            {
+              "author": "ziwwaom",
+              "date": "2026-09-14",
+              "excerpt": "Try Nafa. Great UI and same charges as everyone else",
+              "score": 1,
+              "url": "https://reddit.com/r/FIREPakistan/comments/1wehwsv/comment/p9pf9ia/"
+            }
+          ]
+        },
+        "published_at": "2026-09-12",
+        "relevance_hint": 0.25,
+        "snippet": "I hope you are already aware of 0.25% fee on Finqalab versus 0.15% for JS Global (and almost every other broker) If you have CDC account, there's option to off load current broker and then select a new broker and once you select a new broker, all securities will appear in the new one. Other than CDC account, I don't know if there's any other method. Welcome to r/FIREPakistan\n\n If you're looking for beginner advice, please have a look at the weekly discussions thread for a collection of useful links for you, you may also ask simple questions and have general discussions over there.\n\n I am a bot, and this action was performed automatically. Pleas",
+        "source": "reddit",
+        "source_quality": 0.6,
+        "title": "Portfolio Transfer to another Broker",
+        "url": "https://www.reddit.com/r/FIREPakistan/comments/1wehwsv/portfolio_transfer_to_another_broker/",
+        "why_relevant": "Reddit global search"
+      },
+      {
+        "body": "suggest me a AI calorie tracking app\nhello, i have been doing a cal def for a few months now. i was 84kg (overweight based on bmi) when i started, and now i am 79kg after 2-3 months of a cal def. however, i feel my weight is now kinda stuck at 75kg for at least 1 month now, so i wanted to get an app to track my calories, macros, and protein since i also go to the gym 2-3 times a week. btw, my target goal is 70kg. are there any good apps that are reliable for ai picture calorie tracking and have a wide database of filipino foods? bt\nThere are no reliable AI calorie tracking apps Measuring calories via pics (no matter what app) is inherently flawed with a large margin of error.\n\n You should always pair tracking apps with a food scale. Give the AI the best possible data (weight in grams, type of sauces/food compisition, etc) and always get the more conservative estimate.\n\n Ch Welcome to r/Phitness!\n\n Please read the WIKI and FAQ on our side bar.\n\n If you have questions, you can:\n\n Explore the links in the side bar\n\n search by flair\n\n search by keywords\n\n Create your own post or look up our monthly questions thread\n\n Make sure your post provide as much details as possible, including:\n\n height, weight, goal weight\n\n diet / dietary restrictions\n\n current program, etc\n\n We",
+        "container": "PHitness",
+        "date_confidence": "high",
+        "engagement": {
+          "num_comments": 17,
+          "score": 0
+        },
+        "engagement_score": 47,
+        "freshness": 58,
+        "item_id": "R2",
+        "local_rank_score": 0.34149999999999997,
+        "local_relevance": 0.23,
+        "metadata": {
+          "comment_insights": [
+            "There are no reliable AI calorie tracking apps",
+            "Measuring calories via pics (no matter what app) is inherently flawed with a large margin of error.",
+            "No reliable AI app as of this moment.\n\n The thing about cal def that people don't talk enough about is that your body will eventually adapt to your de...",
+            "Claude pro. Basta just use it for estimating calorie and macro count.",
+            "Cronometer and myfitnesspal. Libre lang pero hindi AI."
+          ],
+          "top_comments": [
+            {
+              "author": "Spiritual_Theme_1282",
+              "date": "2026-09-13",
+              "excerpt": "There are no reliable AI calorie tracking apps",
+              "score": 8,
+              "url": "https://reddit.com/r/PHitness/comments/1wekbux/comment/p9ikb3a/"
+            },
+            {
+              "author": "dunwall_scoundrel",
+              "date": "2026-09-13",
+              "excerpt": "Measuring calories via pics (no matter what app) is inherently flawed with a large margin of error.\n\n You should always pair tracking apps with a food scale. Give the AI the best possible data (weight in grams, type of sauces/food compisition, etc) and always get the more conservative estimate.\n\n Ch",
+              "score": 2,
+              "url": "https://reddit.com/r/PHitness/comments/1wekbux/comment/p9ilen0/"
+            },
+            {
+              "author": "AutoModerator",
+              "date": "2026-09-12",
+              "excerpt": "Welcome to r/Phitness!\n\n Please read the WIKI and FAQ on our side bar.\n\n If you have questions, you can:\n\n Explore the links in the side bar\n\n search by flair\n\n search by keywords\n\n Create your own post or look up our monthly questions thread\n\n Make sure your post provide as much details as possible, including:\n\n height, weight, goal weight\n\n diet / dietary restrictions\n\n current program, etc\n\n We",
+              "score": 1,
+              "url": "https://reddit.com/r/PHitness/comments/1wekbux/comment/p9edu05/"
+            },
+            {
+              "author": "AlltalkMe",
+              "date": "2026-09-13",
+              "excerpt": "No reliable AI app as of this moment.\n\n The thing about cal def that people don't talk enough about is that your body will eventually adapt to your deficit and will turn it to your maintenance. That's survival instinct.\n\n What you can do:\n\n recompute your caloric deficit base\n\n d on\n\n your new weigh",
+              "score": 1,
+              "url": "https://reddit.com/r/PHitness/comments/1wekbux/comment/p9ir22o/"
+            },
+            {
+              "author": "MrClintFlicks",
+              "date": "2026-09-13",
+              "excerpt": "Claude pro. Basta just use it for estimating calorie and macro count.",
+              "score": 1,
+              "url": "https://reddit.com/r/PHitness/comments/1wekbux/comment/p9irfua/"
+            },
+            {
+              "author": "Seymour_Butts316",
+              "date": "2026-09-13",
+              "excerpt": "Cronometer and myfitnesspal. Libre lang pero hindi AI. Kahit gumagamit ako ng AI tinitimbang ko parin food ko, ganito prompt ko \"give me the macros for my meal which consist of xx grams of skinless chicken thigh and 250ml of fresh milk\"",
+              "score": 1,
+              "url": "https://reddit.com/r/PHitness/comments/1wekbux/comment/p9iy895/"
+            },
+            {
+              "author": "QuietSync",
+              "date": "2026-09-13",
+              "excerpt": "Macrofactor",
+              "score": 1,
+              "url": "https://reddit.com/r/PHitness/comments/1wekbux/comment/p9jw0bi/"
+            },
+            {
+              "author": "CuriousLif3",
+              "date": "2026-09-16",
+              "excerpt": "Midstack",
+              "score": 0,
+              "url": "https://reddit.com/r/PHitness/comments/1wekbux/comment/pa3hcxk/"
+            }
+          ]
+        },
+        "published_at": "2026-09-12",
+        "relevance_hint": 0.4,
+        "snippet": "There are no reliable AI calorie tracking apps Measuring calories via pics (no matter what app) is inherently flawed with a large margin of error. You should always pair tracking apps with a food scale. Give the AI the best possible data (weight in grams, type of sauces/food compisition, etc) and always get the more conservative estimate. Ch Welcome to r/Phitness! Please read the WIKI and FAQ on our side bar. If you have questions, you can: Explore the links in the side bar search by flair search by keywords Create your own post or look up our monthly questions thread Make sure your post provide as much details as possible, including: height, weight, goal weight diet / dietary restrictions...",
+        "source": "reddit",
+        "source_quality": 0.6,
+        "title": "suggest me a AI calorie tracking app",
+        "url": "https://www.reddit.com/r/PHitness/comments/1wekbux/suggest_me_a_ai_calorie_tracking_app/",
+        "why_relevant": "Reddit global search"
+      },
+      {
+        "body": "Alternatives to Adobe Acrobat\nI work in the humanities and read a lot of .pdfs. I've used adobe since ever but now I'm sick of Adobe's shit. Every time I open a .pdf I gotta click out of a toolbar full of tools Adobe wants money for and an offer for AI to read the doc for me. And it keeps an updater and a notification program running on my pc all the time. And it keeps asking me to pay for more stuff. There've gotta be better apps than this. Literally all I want is to read, search, convert to, and print .pdfs. I don't want a\nI find Edge or Firefox (or most browsers) to work well enough. Top tip if you are going to use a browser: If you are going to print, use Edge. I forgot the exact details but there's some technical stuff that Edge does directly and Chrome does through an extra step that can mess things up. PDFGear does everything Acrobat Standard does, and is completely free.",
+        "container": "pcmasterrace",
+        "date_confidence": "high",
+        "engagement": {
+          "num_comments": 12,
+          "score": 2
+        },
+        "engagement_score": 85,
+        "freshness": 38,
+        "item_id": "R4",
+        "local_rank_score": 0.3295,
+        "local_relevance": 0.23,
+        "metadata": {
+          "comment_insights": [
+            "I find Edge or Firefox (or most browsers) to work well enough.",
+            "Thanks all! I'll check out your recommendations!",
+            "Top tip if you are going to use a browser: If you are going to print, use Edge.",
+            "PDFGear does everything Acrobat Standard does, and is completely free.",
+            "On Linux i use Okular and Windows Firefox",
+            "I use X-change PDF and it's honestly better than acrobat, great editing and markup tools",
+            "yeah, if you mainly read, search, convert and print, you really don\u2019t need all the extra adobe stuff.",
+            "If you need to create or fill some forms check this one out: https://pdf-forms.tools/"
+          ],
+          "top_comments": [
+            {
+              "author": "Born-Sky-5980",
+              "date": "2026-09-05",
+              "excerpt": "I find Edge or Firefox (or most browsers) to work well enough.",
+              "score": 9,
+              "url": "https://reddit.com/r/pcmasterrace/comments/1w8dqfb/comment/p81vrxq/"
+            },
+            {
+              "author": "BuryMikno",
+              "date": "2026-09-05",
+              "excerpt": "Top tip if you are going to use a browser: If you are going to print, use Edge. I forgot the exact details but there's some technical stuff that Edge does directly and Chrome does through an extra step that can mess things up.",
+              "score": 4,
+              "url": "https://reddit.com/r/pcmasterrace/comments/1w8dqfb/comment/p81wc2d/"
+            },
+            {
+              "author": "Wilbis",
+              "date": "2026-09-05",
+              "excerpt": "PDFGear does everything Acrobat Standard does, and is completely free.",
+              "score": 4,
+              "url": "https://reddit.com/r/pcmasterrace/comments/1w8dqfb/comment/p81yybn/"
+            },
+            {
+              "author": "Escalope-Nixiews",
+              "date": "2026-09-05",
+              "excerpt": "On Linux i use Okular and Windows Firefox",
+              "score": 3,
+              "url": "https://reddit.com/r/pcmasterrace/comments/1w8dqfb/comment/p81xopj/"
+            },
+            {
+              "author": "an_0w1",
+              "date": "2026-09-05",
+              "excerpt": "okular",
+              "score": 3,
+              "url": "https://reddit.com/r/pcmasterrace/comments/1w8dqfb/comment/p8268c3/"
+            },
+            {
+              "author": "Jackfruit-Maleficent",
+              "date": "2026-09-06",
+              "excerpt": "Sumatra PDF",
+              "score": 3,
+              "url": "https://reddit.com/r/pcmasterrace/comments/1w8dqfb/comment/p83u6gp/"
+            },
+            {
+              "author": "Beleg_Beornson",
+              "date": "2026-09-06",
+              "excerpt": "Thanks all! I'll check out your recommendations!",
+              "score": 1,
+              "url": "https://reddit.com/r/pcmasterrace/comments/1w8dqfb/comment/p82mum8/"
+            },
+            {
+              "author": "Kapetan_zaspan",
+              "date": "2026-09-06",
+              "excerpt": "I use X-change PDF and it's honestly better than acrobat, great editing and markup tools",
+              "score": 1,
+              "url": "https://reddit.com/r/pcmasterrace/comments/1w8dqfb/comment/p83vxrb/"
+            },
+            {
+              "author": "Cloudy_Day912",
+              "date": "2026-09-10",
+              "excerpt": "yeah, if you mainly read, search, convert and print, you really don\u2019t need all the extra adobe stuff. pdf element is worth checking since it covers those basics and also has editing if you ever need it, with a perpetual option if you don\u2019t want another subscription.",
+              "score": 1,
+              "url": "https://reddit.com/r/pcmasterrace/comments/1w8dqfb/comment/p8v8bhc/"
+            },
+            {
+              "author": "Successful-Rest-477",
+              "date": "2026-09-10",
+              "excerpt": "If you need to create or fill some forms check this one out: https://pdf-forms.tools/",
+              "score": 1,
+              "url": "https://reddit.com/r/pcmasterrace/comments/1w8dqfb/comment/p90omwj/"
+            }
+          ]
+        },
+        "published_at": "2026-09-05",
+        "relevance_hint": 0.22,
+        "snippet": "I find Edge or Firefox (or most browsers) to work well enough. Top tip if you are going to use a browser: If you are going to print, use Edge. I forgot the exact details but there's some technical stuff that Edge does directly and Chrome does through an extra step that can mess things up. PDFGear does everything Acrobat Standard does, and is completely free.",
+        "source": "reddit",
+        "source_quality": 0.6,
+        "title": "Alternatives to Adobe Acrobat",
+        "url": "https://www.reddit.com/r/pcmasterrace/comments/1w8dqfb/alternatives_to_adobe_acrobat/",
+        "why_relevant": "Reddit global search"
+      },
+      {
+        "body": "Genuinely this app sucks\nI\u2019ve been playing games for the past hour 30 minutes. I have yet to receive three gems. They just don\u2019t want me to get anything. so many more better apps than this.\nYou have a booster\n\n Use it",
+        "container": "JustPlay",
+        "date_confidence": "high",
+        "engagement": {
+          "num_comments": 2,
+          "score": 5
+        },
+        "engagement_score": 51,
+        "freshness": 30,
+        "item_id": "R5",
+        "local_rank_score": 0.2755,
+        "local_relevance": 0.23,
+        "metadata": {
+          "comment_insights": [],
+          "top_comments": [
+            {
+              "author": "Pockydo",
+              "date": "2026-09-03",
+              "excerpt": "You have a booster\n\n Use it",
+              "score": 0,
+              "url": "https://reddit.com/r/JustPlay/comments/1w5myoe/comment/p7hq7ei/"
+            }
+          ]
+        },
+        "published_at": "2026-09-02",
+        "relevance_hint": 0.34,
+        "snippet": "You have a booster\n\n Use it",
+        "source": "reddit",
+        "source_quality": 0.6,
+        "title": "Genuinely this app sucks",
+        "url": "https://www.reddit.com/r/JustPlay/comments/1w5myoe/genuinely_this_app_sucks/",
+        "why_relevant": "Reddit global search"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "debate",
+    "freshness_mode": "balanced_recent",
+    "intent": "comparison",
+    "notes": [
+      "Topic lacks specific app name so queries kept generic for broad retrieval"
+    ],
+    "raw_topic": "\"better app than\"",
+    "source_weights": {
+      "hackernews": 0.3,
+      "reddit": 0.7
+    },
+    "subqueries": [
+      {
+        "label": "reddit alternatives",
+        "ranking_query": "Which apps do users recommend as better than the current popular choice?",
+        "search_query": "better app than OR app alternative",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.2857142857142857
+      },
+      {
+        "label": "hacker news threads",
+        "ranking_query": "What developer or power-user discussions exist about switching to a superior app?",
+        "search_query": "better app than OR switch to app",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.2571428571428572
+      },
+      {
+        "label": "user complaints",
+        "ranking_query": "What frustrations lead people to look for a better app replacement?",
+        "search_query": "hate app OR tired of app better",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.2285714285714286
+      },
+      {
+        "label": "feature comparison talk",
+        "ranking_query": "How do users compare features when deciding on a better app alternative?",
+        "search_query": "app vs OR compare apps better",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.2285714285714286
+      }
+    ]
+  },
+  "range_from": "2026-08-25",
+  "range_to": "2026-09-24",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://reddit.com/r/chineselanguage/comments/1w71mqh/is_there_a_better_app_than_duolingo_to_learn",
+      "cluster_id": "cluster-1",
+      "engagement": 100,
+      "explanation": "Direct 'better app than' phrasing with explicit app comparison and user discussion",
+      "final_score": 71.4688524590164,
+      "freshness": 36,
+      "fun_explanation": "Google Maps joke + toothbrush tree analogy = sharp wit",
+      "fun_score": 82.0,
+      "item_id": "R1",
+      "local_relevance": 0.32,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "R1",
+            "native_rank": 1,
+            "source": "reddit",
+            "subquery_label": "reddit alternatives"
+          },
+          {
+            "item_id": "R1",
+            "native_rank": 1,
+            "source": "reddit",
+            "subquery_label": "hacker news threads"
+          },
+          {
+            "item_id": "R1",
+            "native_rank": 1,
+            "source": "reddit",
+            "subquery_label": "user complaints"
+          },
+          {
+            "item_id": "R1",
+            "native_rank": 1,
+            "source": "reddit",
+            "subquery_label": "feature comparison talk"
+          }
+        ]
+      },
+      "native_ranks": {
+        "feature comparison talk:reddit": 1,
+        "hacker news threads:reddit": 1,
+        "reddit alternatives:reddit": 1,
+        "user complaints:reddit": 1
+      },
+      "rerank_score": 95.0,
+      "rrf_score": 0.011475409836065573,
+      "snippet": "I feel like any app is better than Duolingo for Mandarin. First of all, there is no app that can help you learn Mandarin quickly. For most learners, Mandarin is a long, gruelling process. It is part of its charm. Second, yes, there are tons of good apps and resources. You can go through dozens of posts on this. \"I've been trying to cut down this tree in my garden, but this toothbrush doesn't seem to work, why?\"",
+      "source": "reddit",
+      "source_items": [
+        {
+          "body": "IS there a better App than Duolingo to learn Mandarin quickly?\ni have been using Duolingo for the past almost 4 months and it seems i am NOT moving forward like i have to. is there a mentoring app you guys recommend or website?\nI feel like any app is better than Duolingo for Mandarin. First of all, there is no app that can help you learn Mandarin quickly. For most learners, Mandarin is a long, gruelling process. It is part of its charm. Second, yes, there are tons of good apps and resources. You can go through dozens of posts on this. \"I've been trying to cut down this tree in my garden, but this toothbrush doesn't seem to work, why?\"",
+          "container": "ChineseLanguage",
+          "date_confidence": "high",
+          "engagement": {
+            "num_comments": 50,
+            "score": 0
+          },
+          "engagement_score": 100,
+          "freshness": 36,
+          "item_id": "R1",
+          "local_rank_score": 0.398,
+          "local_relevance": 0.32,
+          "metadata": {
+            "comment_insights": [
+              "Google Maps is probably better than Duolingo to learn Mandarin.",
+              "Did you research any other apps before starting? Duo is probably the worst choice.",
+              "Considering Duolingo being absolutely horrible since they established their \"AI Feature\", there are tons of better apps.",
+              "I feel like any app is better than Duolingo for Mandarin.",
+              "First of all, there is no app that can help you learn Mandarin quickly.",
+              "\"I've been trying to cut down this tree in my garden, but this toothbrush doesn't seem to work, why?\"",
+              "YouTube, probably. Search HSK 1 Listening and try some of the beginner videos."
+            ],
+            "top_comments": [
+              {
+                "author": "Extreme_Pumpkin4283",
+                "date": "2026-09-04",
+                "excerpt": "I feel like any app is better than Duolingo for Mandarin.",
+                "score": 113,
+                "url": "https://reddit.com/r/ChineseLanguage/comments/1w71mqh/comment/p7rb50c/"
+              },
+              {
+                "author": "FunkySphinx",
+                "date": "2026-09-04",
+                "excerpt": "First of all, there is no app that can help you learn Mandarin quickly. For most learners, Mandarin is a long, gruelling process. It is part of its charm. Second, yes, there are tons of good apps and resources. You can go through dozens of posts on this.",
+                "score": 25,
+                "url": "https://reddit.com/r/ChineseLanguage/comments/1w71mqh/comment/p7rbf8b/"
+              },
+              {
+                "author": "Sleepy_Redditorrrrrr",
+                "date": "2026-09-04",
+                "excerpt": "\"I've been trying to cut down this tree in my garden, but this toothbrush doesn't seem to work, why?\"",
+                "score": 17,
+                "url": "https://reddit.com/r/ChineseLanguage/comments/1w71mqh/comment/p7rcjv5/"
+              },
+              {
+                "author": "No_Instance4233",
+                "date": "2026-09-04",
+                "excerpt": "HelloChinese",
+                "score": 16,
+                "url": "https://reddit.com/r/ChineseLanguage/comments/1w71mqh/comment/p7rw8pm/"
+              },
+              {
+                "author": "Putrid_Mind_4853",
+                "date": "2026-09-04",
+                "excerpt": "Did you research any other apps before starting? Duo is probably the worst choice.",
+                "score": 12,
+                "url": "https://reddit.com/r/ChineseLanguage/comments/1w71mqh/comment/p7rb7vm/"
+              },
+              {
+                "author": "Substantial_Bar8999",
+                "date": "2026-09-04",
+                "excerpt": "Google Maps is probably better than Duolingo to learn Mandarin.",
+                "score": 9,
+                "url": "https://reddit.com/r/ChineseLanguage/comments/1w71mqh/comment/p7s10us/"
+              },
+              {
+                "author": "Quulawl",
+                "date": "2026-09-04",
+                "excerpt": "Considering Duolingo being absolutely horrible since they established their \"AI Feature\", there are tons of better apps.\n\n HelloChinese\n\n Super Chinese\n\n Jade\n\n Hanzii Dict\n\n Pleco\n\n Hanly\n\n MyMandarin\n\n Just to mention a few, I am sure there are more good apps out there.",
+                "score": 7,
+                "url": "https://reddit.com/r/ChineseLanguage/comments/1w71mqh/comment/p7sinrq/"
+              },
+              {
+                "author": "1lyke1africa",
+                "date": "2026-09-04",
+                "excerpt": "YouTube, probably. Search HSK 1 Listening and try some of the beginner videos.",
+                "score": 5,
+                "url": "https://reddit.com/r/ChineseLanguage/comments/1w71mqh/comment/p7rgrfz/"
+              },
+              {
+                "author": "okdoktor",
+                "date": "2026-09-04",
+                "excerpt": "Hanly",
+                "score": 4,
+                "url": "https://reddit.com/r/ChineseLanguage/comments/1w71mqh/comment/p7smewz/"
+              },
+              {
+                "author": "oiseaublancc",
+                "date": "2026-09-04",
+                "excerpt": "Du Chinese",
+                "score": 4,
+                "url": "https://reddit.com/r/ChineseLanguage/comments/1w71mqh/comment/p7st7sw/"
+              }
+            ]
+          },
+          "published_at": "2026-09-04",
+          "relevance_hint": 1.0,
+          "snippet": "I feel like any app is better than Duolingo for Mandarin. First of all, there is no app that can help you learn Mandarin quickly. For most learners, Mandarin is a long, gruelling process. It is part of its charm. Second, yes, there are tons of good apps and resources. You can go through dozens of posts on this. \"I've been trying to cut down this tree in my garden, but this toothbrush doesn't seem to work, why?\"",
+          "source": "reddit",
+          "source_quality": 0.6,
+          "title": "IS there a better App than Duolingo to learn Mandarin quickly?",
+          "url": "https://www.reddit.com/r/ChineseLanguage/comments/1w71mqh/is_there_a_better_app_than_duolingo_to_learn/",
+          "why_relevant": "Reddit global search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "reddit"
+      ],
+      "subquery_labels": [
+        "reddit alternatives",
+        "hacker news threads",
+        "user complaints",
+        "feature comparison talk"
+      ],
+      "title": "IS there a better App than Duolingo to learn Mandarin quickly?",
+      "url": "https://www.reddit.com/r/ChineseLanguage/comments/1w71mqh/is_there_a_better_app_than_duolingo_to_learn/"
+    },
+    {
+      "candidate_id": "https://reddit.com/r/pcmasterrace/comments/1w8dqfb/alternatives_to_adobe_acrobat",
+      "cluster_id": "cluster-2",
+      "engagement": 85,
+      "explanation": "Strong alternatives comparison synonymous with 'better app than'",
+      "final_score": 67.29230769230769,
+      "freshness": 38,
+      "fun_explanation": "Dry browser tips, zero punch",
+      "fun_score": 15.0,
+      "item_id": "R4",
+      "local_relevance": 0.23,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "R4",
+            "native_rank": 5,
+            "source": "reddit",
+            "subquery_label": "reddit alternatives"
+          },
+          {
+            "item_id": "R4",
+            "native_rank": 5,
+            "source": "reddit",
+            "subquery_label": "hacker news threads"
+          },
+          {
+            "item_id": "R4",
+            "native_rank": 5,
+            "source": "reddit",
+            "subquery_label": "user complaints"
+          },
+          {
+            "item_id": "R4",
+            "native_rank": 5,
+            "source": "reddit",
+            "subquery_label": "feature comparison talk"
+          }
+        ]
+      },
+      "native_ranks": {
+        "feature comparison talk:reddit": 5,
+        "hacker news threads:reddit": 5,
+        "reddit alternatives:reddit": 5,
+        "user complaints:reddit": 5
+      },
+      "rerank_score": 88.0,
+      "rrf_score": 0.010769230769230769,
+      "snippet": "I find Edge or Firefox (or most browsers) to work well enough. Top tip if you are going to use a browser: If you are going to print, use Edge. I forgot the exact details but there's some technical stuff that Edge does directly and Chrome does through an extra step that can mess things up. PDFGear does everything Acrobat Standard does, and is completely free.",
+      "source": "reddit",
+      "source_items": [
+        {
+          "body": "Alternatives to Adobe Acrobat\nI work in the humanities and read a lot of .pdfs. I've used adobe since ever but now I'm sick of Adobe's shit. Every time I open a .pdf I gotta click out of a toolbar full of tools Adobe wants money for and an offer for AI to read the doc for me. And it keeps an updater and a notification program running on my pc all the time. And it keeps asking me to pay for more stuff. There've gotta be better apps than this. Literally all I want is to read, search, convert to, and print .pdfs. I don't want a\nI find Edge or Firefox (or most browsers) to work well enough. Top tip if you are going to use a browser: If you are going to print, use Edge. I forgot the exact details but there's some technical stuff that Edge does directly and Chrome does through an extra step that can mess things up. PDFGear does everything Acrobat Standard does, and is completely free.",
+          "container": "pcmasterrace",
+          "date_confidence": "high",
+          "engagement": {
+            "num_comments": 12,
+            "score": 2
+          },
+          "engagement_score": 85,
+          "freshness": 38,
+          "item_id": "R4",
+          "local_rank_score": 0.3295,
+          "local_relevance": 0.23,
+          "metadata": {
+            "comment_insights": [
+              "I find Edge or Firefox (or most browsers) to work well enough.",
+              "Thanks all! I'll check out your recommendations!",
+              "Top tip if you are going to use a browser: If you are going to print, use Edge.",
+              "PDFGear does everything Acrobat Standard does, and is completely free.",
+              "On Linux i use Okular and Windows Firefox",
+              "I use X-change PDF and it's honestly better than acrobat, great editing and markup tools",
+              "yeah, if you mainly read, search, convert and print, you really don\u2019t need all the extra adobe stuff.",
+              "If you need to create or fill some forms check this one out: https://pdf-forms.tools/"
+            ],
+            "top_comments": [
+              {
+                "author": "Born-Sky-5980",
+                "date": "2026-09-05",
+                "excerpt": "I find Edge or Firefox (or most browsers) to work well enough.",
+                "score": 9,
+                "url": "https://reddit.com/r/pcmasterrace/comments/1w8dqfb/comment/p81vrxq/"
+              },
+              {
+                "author": "BuryMikno",
+                "date": "2026-09-05",
+                "excerpt": "Top tip if you are going to use a browser: If you are going to print, use Edge. I forgot the exact details but there's some technical stuff that Edge does directly and Chrome does through an extra step that can mess things up.",
+                "score": 4,
+                "url": "https://reddit.com/r/pcmasterrace/comments/1w8dqfb/comment/p81wc2d/"
+              },
+              {
+                "author": "Wilbis",
+                "date": "2026-09-05",
+                "excerpt": "PDFGear does everything Acrobat Standard does, and is completely free.",
+                "score": 4,
+                "url": "https://reddit.com/r/pcmasterrace/comments/1w8dqfb/comment/p81yybn/"
+              },
+              {
+                "author": "Escalope-Nixiews",
+                "date": "2026-09-05",
+                "excerpt": "On Linux i use Okular and Windows Firefox",
+                "score": 3,
+                "url": "https://reddit.com/r/pcmasterrace/comments/1w8dqfb/comment/p81xopj/"
+              },
+              {
+                "author": "an_0w1",
+                "date": "2026-09-05",
+                "excerpt": "okular",
+                "score": 3,
+                "url": "https://reddit.com/r/pcmasterrace/comments/1w8dqfb/comment/p8268c3/"
+              },
+              {
+                "author": "Jackfruit-Maleficent",
+                "date": "2026-09-06",
+                "excerpt": "Sumatra PDF",
+                "score": 3,
+                "url": "https://reddit.com/r/pcmasterrace/comments/1w8dqfb/comment/p83u6gp/"
+              },
+              {
+                "author": "Beleg_Beornson",
+                "date": "2026-09-06",
+                "excerpt": "Thanks all! I'll check out your recommendations!",
+                "score": 1,
+                "url": "https://reddit.com/r/pcmasterrace/comments/1w8dqfb/comment/p82mum8/"
+              },
+              {
+                "author": "Kapetan_zaspan",
+                "date": "2026-09-06",
+                "excerpt": "I use X-change PDF and it's honestly better than acrobat, great editing and markup tools",
+                "score": 1,
+                "url": "https://reddit.com/r/pcmasterrace/comments/1w8dqfb/comment/p83vxrb/"
+              },
+              {
+                "author": "Cloudy_Day912",
+                "date": "2026-09-10",
+                "excerpt": "yeah, if you mainly read, search, convert and print, you really don\u2019t need all the extra adobe stuff. pdf element is worth checking since it covers those basics and also has editing if you ever need it, with a perpetual option if you don\u2019t want another subscription.",
+                "score": 1,
+                "url": "https://reddit.com/r/pcmasterrace/comments/1w8dqfb/comment/p8v8bhc/"
+              },
+              {
+                "author": "Successful-Rest-477",
+                "date": "2026-09-10",
+                "excerpt": "If you need to create or fill some forms check this one out: https://pdf-forms.tools/",
+                "score": 1,
+                "url": "https://reddit.com/r/pcmasterrace/comments/1w8dqfb/comment/p90omwj/"
+              }
+            ]
+          },
+          "published_at": "2026-09-05",
+          "relevance_hint": 0.22,
+          "snippet": "I find Edge or Firefox (or most browsers) to work well enough. Top tip if you are going to use a browser: If you are going to print, use Edge. I forgot the exact details but there's some technical stuff that Edge does directly and Chrome does through an extra step that can mess things up. PDFGear does everything Acrobat Standard does, and is completely free.",
+          "source": "reddit",
+          "source_quality": 0.6,
+          "title": "Alternatives to Adobe Acrobat",
+          "url": "https://www.reddit.com/r/pcmasterrace/comments/1w8dqfb/alternatives_to_adobe_acrobat/",
+          "why_relevant": "Reddit global search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "reddit"
+      ],
+      "subquery_labels": [
+        "reddit alternatives",
+        "hacker news threads",
+        "user complaints",
+        "feature comparison talk"
+      ],
+      "title": "Alternatives to Adobe Acrobat",
+      "url": "https://www.reddit.com/r/pcmasterrace/comments/1w8dqfb/alternatives_to_adobe_acrobat/"
+    },
+    {
+      "candidate_id": "https://reddit.com/r/utsa/comments/1wls5dp/recommendations_for_notetaking_apps_that_work",
+      "cluster_id": "cluster-3",
+      "engagement": 42,
+      "explanation": "App recommendation and complaints but no mention of 'better app than' entity",
+      "final_score": 33.62258064516129,
+      "freshness": 78,
+      "fun_explanation": "Bug complaints, no humor",
+      "fun_score": 5.0,
+      "item_id": "R6",
+      "local_relevance": 0.23,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "R6",
+            "native_rank": 2,
+            "source": "reddit",
+            "subquery_label": "reddit alternatives"
+          },
+          {
+            "item_id": "R6",
+            "native_rank": 2,
+            "source": "reddit",
+            "subquery_label": "hacker news threads"
+          },
+          {
+            "item_id": "R6",
+            "native_rank": 2,
+            "source": "reddit",
+            "subquery_label": "user complaints"
+          },
+          {
+            "item_id": "R6",
+            "native_rank": 2,
+            "source": "reddit",
+            "subquery_label": "feature comparison talk"
+          }
+        ]
+      },
+      "native_ranks": {
+        "feature comparison talk:reddit": 2,
+        "hacker news threads:reddit": 2,
+        "reddit alternatives:reddit": 2,
+        "user complaints:reddit": 2
+      },
+      "rerank_score": 25.0,
+      "rrf_score": 0.01129032258064516,
+      "snippet": "I'm considering the following apps for note-taking and audio recording during class. I read the one star reviews on Trustpilot of this apps being buggy, unable to download notes, having slow running time in uploading slides or pdf files, and deleting the the person's entire database of notes. I'm wondering if there is a correlation between these problems and the operating system (Apple iOS, Androi",
+      "source": "reddit",
+      "source_items": [
+        {
+          "body": "Recommendations for note-taking apps that work without bugs on iOS\nI'm considering the following apps for note-taking and audio recording during class. I read the one star reviews on Trustpilot of this apps being buggy, unable to download notes, having slow running time in uploading slides or pdf files, and deleting the the person's entire database of notes. I'm wondering if there is a correlation between these problems and the operating system (Apple iOS, Android, Windows 11) the person's tablet or laptop is using. If there are better apps than these and run o",
+          "container": "UTSA",
+          "date_confidence": "high",
+          "engagement": {
+            "num_comments": 3,
+            "score": 3
+          },
+          "engagement_score": 42,
+          "freshness": 78,
+          "item_id": "R6",
+          "local_rank_score": 0.3865,
+          "local_relevance": 0.23,
+          "metadata": {
+            "comment_insights": [],
+            "top_comments": []
+          },
+          "published_at": "2026-09-20",
+          "relevance_hint": 0.14,
+          "snippet": "I'm considering the following apps for note-taking and audio recording during class. I read the one star reviews on Trustpilot of this apps being buggy, unable to download notes, having slow running time in uploading slides or pdf files, and deleting the the person's entire database of notes. I'm wondering if there is a correlation between these problems and the operating system (Apple iOS, Androi",
+          "source": "reddit",
+          "source_quality": 0.6,
+          "title": "Recommendations for note-taking apps that work without bugs on iOS",
+          "url": "https://www.reddit.com/r/UTSA/comments/1wls5dp/recommendations_for_notetaking_apps_that_work/",
+          "why_relevant": "Reddit global search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "reddit"
+      ],
+      "subquery_labels": [
+        "reddit alternatives",
+        "hacker news threads",
+        "user complaints",
+        "feature comparison talk"
+      ],
+      "title": "Recommendations for note-taking apps that work without bugs on iOS",
+      "url": "https://www.reddit.com/r/UTSA/comments/1wls5dp/recommendations_for_notetaking_apps_that_work/"
+    },
+    {
+      "candidate_id": "https://reddit.com/r/justplay/comments/1w5myoe/genuinely_this_app_sucks",
+      "cluster_id": "cluster-4",
+      "engagement": 51,
+      "explanation": "User complaint implying replacement need but no direct entity match",
+      "final_score": 30.451515151515153,
+      "freshness": 30,
+      "fun_explanation": "Blunt title, nothing clever",
+      "fun_score": 8.0,
+      "item_id": "R5",
+      "local_relevance": 0.23,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "R5",
+            "native_rank": 6,
+            "source": "reddit",
+            "subquery_label": "reddit alternatives"
+          },
+          {
+            "item_id": "R5",
+            "native_rank": 6,
+            "source": "reddit",
+            "subquery_label": "hacker news threads"
+          },
+          {
+            "item_id": "R5",
+            "native_rank": 6,
+            "source": "reddit",
+            "subquery_label": "user complaints"
+          },
+          {
+            "item_id": "R5",
+            "native_rank": 6,
+            "source": "reddit",
+            "subquery_label": "feature comparison talk"
+          }
+        ]
+      },
+      "native_ranks": {
+        "feature comparison talk:reddit": 6,
+        "hacker news threads:reddit": 6,
+        "reddit alternatives:reddit": 6,
+        "user complaints:reddit": 6
+      },
+      "rerank_score": 28.0,
+      "rrf_score": 0.010606060606060607,
+      "snippet": "You have a booster\n\n Use it",
+      "source": "reddit",
+      "source_items": [
+        {
+          "body": "Genuinely this app sucks\nI\u2019ve been playing games for the past hour 30 minutes. I have yet to receive three gems. They just don\u2019t want me to get anything. so many more better apps than this.\nYou have a booster\n\n Use it",
+          "container": "JustPlay",
+          "date_confidence": "high",
+          "engagement": {
+            "num_comments": 2,
+            "score": 5
+          },
+          "engagement_score": 51,
+          "freshness": 30,
+          "item_id": "R5",
+          "local_rank_score": 0.2755,
+          "local_relevance": 0.23,
+          "metadata": {
+            "comment_insights": [],
+            "top_comments": [
+              {
+                "author": "Pockydo",
+                "date": "2026-09-03",
+                "excerpt": "You have a booster\n\n Use it",
+                "score": 0,
+                "url": "https://reddit.com/r/JustPlay/comments/1w5myoe/comment/p7hq7ei/"
+              }
+            ]
+          },
+          "published_at": "2026-09-02",
+          "relevance_hint": 0.34,
+          "snippet": "You have a booster\n\n Use it",
+          "source": "reddit",
+          "source_quality": 0.6,
+          "title": "Genuinely this app sucks",
+          "url": "https://www.reddit.com/r/JustPlay/comments/1w5myoe/genuinely_this_app_sucks/",
+          "why_relevant": "Reddit global search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "reddit"
+      ],
+      "subquery_labels": [
+        "reddit alternatives",
+        "hacker news threads",
+        "user complaints",
+        "feature comparison talk"
+      ],
+      "title": "Genuinely this app sucks",
+      "url": "https://www.reddit.com/r/JustPlay/comments/1w5myoe/genuinely_this_app_sucks/"
+    },
+    {
+      "candidate_id": "https://reddit.com/r/phitness/comments/1wekbux/suggest_me_a_ai_calorie_tracking_app",
+      "cluster_id": "cluster-5",
+      "engagement": 47,
+      "explanation": "App suggestion with flaws noted but no 'better app than' entity match",
+      "final_score": 28.534375,
+      "freshness": 58,
+      "fun_explanation": "Straight calorie advice",
+      "fun_score": 12.0,
+      "item_id": "R2",
+      "local_relevance": 0.23,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "R2",
+            "native_rank": 4,
+            "source": "reddit",
+            "subquery_label": "reddit alternatives"
+          },
+          {
+            "item_id": "R2",
+            "native_rank": 4,
+            "source": "reddit",
+            "subquery_label": "hacker news threads"
+          },
+          {
+            "item_id": "R2",
+            "native_rank": 4,
+            "source": "reddit",
+            "subquery_label": "user complaints"
+          },
+          {
+            "item_id": "R2",
+            "native_rank": 4,
+            "source": "reddit",
+            "subquery_label": "feature comparison talk"
+          }
+        ]
+      },
+      "native_ranks": {
+        "feature comparison talk:reddit": 4,
+        "hacker news threads:reddit": 4,
+        "reddit alternatives:reddit": 4,
+        "user complaints:reddit": 4
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.010937500000000001,
+      "snippet": "There are no reliable AI calorie tracking apps Measuring calories via pics (no matter what app) is inherently flawed with a large margin of error. You should always pair tracking apps with a food scale. Give the AI the best possible data (weight in grams, type of sauces/food compisition, etc) and always get the more conservative estimate. Ch Welcome to r/Phitness! Please read the WIKI and FAQ on our side bar. If you have questions, you can: Explore the links in the side bar search by flair search by keywords Create your own post or look up our monthly questions thread Make sure your post provide as much details as possible, including: height, weight, goal weight diet / dietary restrictions...",
+      "source": "reddit",
+      "source_items": [
+        {
+          "body": "suggest me a AI calorie tracking app\nhello, i have been doing a cal def for a few months now. i was 84kg (overweight based on bmi) when i started, and now i am 79kg after 2-3 months of a cal def. however, i feel my weight is now kinda stuck at 75kg for at least 1 month now, so i wanted to get an app to track my calories, macros, and protein since i also go to the gym 2-3 times a week. btw, my target goal is 70kg. are there any good apps that are reliable for ai picture calorie tracking and have a wide database of filipino foods? bt\nThere are no reliable AI calorie tracking apps Measuring calories via pics (no matter what app) is inherently flawed with a large margin of error.\n\n You should always pair tracking apps with a food scale. Give the AI the best possible data (weight in grams, type of sauces/food compisition, etc) and always get the more conservative estimate.\n\n Ch Welcome to r/Phitness!\n\n Please read the WIKI and FAQ on our side bar.\n\n If you have questions, you can:\n\n Explore the links in the side bar\n\n search by flair\n\n search by keywords\n\n Create your own post or look up our monthly questions thread\n\n Make sure your post provide as much details as possible, including:\n\n height, weight, goal weight\n\n diet / dietary restrictions\n\n current program, etc\n\n We",
+          "container": "PHitness",
+          "date_confidence": "high",
+          "engagement": {
+            "num_comments": 17,
+            "score": 0
+          },
+          "engagement_score": 47,
+          "freshness": 58,
+          "item_id": "R2",
+          "local_rank_score": 0.34149999999999997,
+          "local_relevance": 0.23,
+          "metadata": {
+            "comment_insights": [
+              "There are no reliable AI calorie tracking apps",
+              "Measuring calories via pics (no matter what app) is inherently flawed with a large margin of error.",
+              "No reliable AI app as of this moment.\n\n The thing about cal def that people don't talk enough about is that your body will eventually adapt to your de...",
+              "Claude pro. Basta just use it for estimating calorie and macro count.",
+              "Cronometer and myfitnesspal. Libre lang pero hindi AI."
+            ],
+            "top_comments": [
+              {
+                "author": "Spiritual_Theme_1282",
+                "date": "2026-09-13",
+                "excerpt": "There are no reliable AI calorie tracking apps",
+                "score": 8,
+                "url": "https://reddit.com/r/PHitness/comments/1wekbux/comment/p9ikb3a/"
+              },
+              {
+                "author": "dunwall_scoundrel",
+                "date": "2026-09-13",
+                "excerpt": "Measuring calories via pics (no matter what app) is inherently flawed with a large margin of error.\n\n You should always pair tracking apps with a food scale. Give the AI the best possible data (weight in grams, type of sauces/food compisition, etc) and always get the more conservative estimate.\n\n Ch",
+                "score": 2,
+                "url": "https://reddit.com/r/PHitness/comments/1wekbux/comment/p9ilen0/"
+              },
+              {
+                "author": "AutoModerator",
+                "date": "2026-09-12",
+                "excerpt": "Welcome to r/Phitness!\n\n Please read the WIKI and FAQ on our side bar.\n\n If you have questions, you can:\n\n Explore the links in the side bar\n\n search by flair\n\n search by keywords\n\n Create your own post or look up our monthly questions thread\n\n Make sure your post provide as much details as possible, including:\n\n height, weight, goal weight\n\n diet / dietary restrictions\n\n current program, etc\n\n We",
+                "score": 1,
+                "url": "https://reddit.com/r/PHitness/comments/1wekbux/comment/p9edu05/"
+              },
+              {
+                "author": "AlltalkMe",
+                "date": "2026-09-13",
+                "excerpt": "No reliable AI app as of this moment.\n\n The thing about cal def that people don't talk enough about is that your body will eventually adapt to your deficit and will turn it to your maintenance. That's survival instinct.\n\n What you can do:\n\n recompute your caloric deficit base\n\n d on\n\n your new weigh",
+                "score": 1,
+                "url": "https://reddit.com/r/PHitness/comments/1wekbux/comment/p9ir22o/"
+              },
+              {
+                "author": "MrClintFlicks",
+                "date": "2026-09-13",
+                "excerpt": "Claude pro. Basta just use it for estimating calorie and macro count.",
+                "score": 1,
+                "url": "https://reddit.com/r/PHitness/comments/1wekbux/comment/p9irfua/"
+              },
+              {
+                "author": "Seymour_Butts316",
+                "date": "2026-09-13",
+                "excerpt": "Cronometer and myfitnesspal. Libre lang pero hindi AI. Kahit gumagamit ako ng AI tinitimbang ko parin food ko, ganito prompt ko \"give me the macros for my meal which consist of xx grams of skinless chicken thigh and 250ml of fresh milk\"",
+                "score": 1,
+                "url": "https://reddit.com/r/PHitness/comments/1wekbux/comment/p9iy895/"
+              },
+              {
+                "author": "QuietSync",
+                "date": "2026-09-13",
+                "excerpt": "Macrofactor",
+                "score": 1,
+                "url": "https://reddit.com/r/PHitness/comments/1wekbux/comment/p9jw0bi/"
+              },
+              {
+                "author": "CuriousLif3",
+                "date": "2026-09-16",
+                "excerpt": "Midstack",
+                "score": 0,
+                "url": "https://reddit.com/r/PHitness/comments/1wekbux/comment/pa3hcxk/"
+              }
+            ]
+          },
+          "published_at": "2026-09-12",
+          "relevance_hint": 0.4,
+          "snippet": "There are no reliable AI calorie tracking apps Measuring calories via pics (no matter what app) is inherently flawed with a large margin of error. You should always pair tracking apps with a food scale. Give the AI the best possible data (weight in grams, type of sauces/food compisition, etc) and always get the more conservative estimate. Ch Welcome to r/Phitness! Please read the WIKI and FAQ on our side bar. If you have questions, you can: Explore the links in the side bar search by flair search by keywords Create your own post or look up our monthly questions thread Make sure your post provide as much details as possible, including: height, weight, goal weight diet / dietary restrictions...",
+          "source": "reddit",
+          "source_quality": 0.6,
+          "title": "suggest me a AI calorie tracking app",
+          "url": "https://www.reddit.com/r/PHitness/comments/1wekbux/suggest_me_a_ai_calorie_tracking_app/",
+          "why_relevant": "Reddit global search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "reddit"
+      ],
+      "subquery_labels": [
+        "reddit alternatives",
+        "hacker news threads",
+        "user complaints",
+        "feature comparison talk"
+      ],
+      "title": "suggest me a AI calorie tracking app",
+      "url": "https://www.reddit.com/r/PHitness/comments/1wekbux/suggest_me_a_ai_calorie_tracking_app/"
+    },
+    {
+      "candidate_id": "https://reddit.com/r/firepakistan/comments/1wehwsv/portfolio_transfer_to_another_broker",
+      "cluster_id": "cluster-6",
+      "engagement": 91,
+      "explanation": "No app focus or comparison to 'better app than'",
+      "final_score": 5.873333333333334,
+      "freshness": 58,
+      "fun_explanation": "Fee talk, zero spark",
+      "fun_score": 3.0,
+      "item_id": "R3",
+      "local_relevance": 0.23,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "R3",
+            "native_rank": 3,
+            "source": "reddit",
+            "subquery_label": "reddit alternatives"
+          },
+          {
+            "item_id": "R3",
+            "native_rank": 3,
+            "source": "reddit",
+            "subquery_label": "hacker news threads"
+          },
+          {
+            "item_id": "R3",
+            "native_rank": 3,
+            "source": "reddit",
+            "subquery_label": "user complaints"
+          },
+          {
+            "item_id": "R3",
+            "native_rank": 3,
+            "source": "reddit",
+            "subquery_label": "feature comparison talk"
+          }
+        ]
+      },
+      "native_ranks": {
+        "feature comparison talk:reddit": 3,
+        "hacker news threads:reddit": 3,
+        "reddit alternatives:reddit": 3,
+        "user complaints:reddit": 3
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.011111111111111112,
+      "snippet": "I hope you are already aware of 0.25% fee on Finqalab versus 0.15% for JS Global (and almost every other broker) If you have CDC account, there's option to off load current broker and then select a new broker and once you select a new broker, all securities will appear in the new one. Other than CDC account, I don't know if there's any other method. Welcome to r/FIREPakistan\n\n If you're looking for beginner advice, please have a look at the weekly discussions thread for a collection of useful links for you, you may also ask simple questions and have general discussions over there.\n\n I am a bot, and this action was performed automatically. Pleas",
+      "source": "reddit",
+      "source_items": [
+        {
+          "body": "Portfolio Transfer to another Broker\nHello fellow investors, I am using Js Global for quiet sometime now and now i wanted to try Finqalab ( Next Capital ) because of better App than Js Global. So i went ahead and opened an account with Next Capital. I wanted to know if there's any option to Transfer my whole portfolio from Js to Finqalab. If yes then what's the procedure and are there any charges for that? Secondly if there's no option to transfer portfolio can i just use 2 different accounts separately? Or i have to pay additional\nI hope you are already aware of 0.25% fee on Finqalab versus 0.15% for JS Global (and almost every other broker) If you have CDC account, there's option to off load current broker and then select a new broker and once you select a new broker, all securities will appear in the new one. Other than CDC account, I don't know if there's any other method. Welcome to r/FIREPakistan\n\n If you're looking for beginner advice, please have a look at the weekly discussions thread for a collection of useful links for you, you may also ask simple questions and have general discussions over there.\n\n I am a bot, and this action was performed automatically. Pleas",
+          "container": "FIREPakistan",
+          "date_confidence": "high",
+          "engagement": {
+            "num_comments": 12,
+            "score": 3
+          },
+          "engagement_score": 91,
+          "freshness": 58,
+          "item_id": "R3",
+          "local_rank_score": 0.3855,
+          "local_relevance": 0.23,
+          "metadata": {
+            "comment_insights": [
+              "I hope you are already aware of 0.25% fee on Finqalab versus 0.15% for JS Global (and almost every other broker)",
+              "If you have CDC account, there's option to off load current broker and then select a new broker and once you select a new broker, all securities will...",
+              "Open account with new broker. And email old one to transfer. Email new one for your average prices.",
+              "Try Nafa. Great UI and same charges as everyone else"
+            ],
+            "top_comments": [
+              {
+                "author": "InjectorTheGood",
+                "date": "2026-09-12",
+                "excerpt": "I hope you are already aware of 0.25% fee on Finqalab versus 0.15% for JS Global (and almost every other broker)",
+                "score": 4,
+                "url": "https://reddit.com/r/FIREPakistan/comments/1wehwsv/comment/p9e7zve/"
+              },
+              {
+                "author": "msulaimanijaz",
+                "date": "2026-09-12",
+                "excerpt": "If you have CDC account, there's option to off load current broker and then select a new broker and once you select a new broker, all securities will appear in the new one. Other than CDC account, I don't know if there's any other method.",
+                "score": 3,
+                "url": "https://reddit.com/r/FIREPakistan/comments/1wehwsv/comment/p9dtyn0/"
+              },
+              {
+                "author": "AutoModerator",
+                "date": "2026-09-12",
+                "excerpt": "Welcome to r/FIREPakistan\n\n If you're looking for beginner advice, please have a look at the weekly discussions thread for a collection of useful links for you, you may also ask simple questions and have general discussions over there.\n\n I am a bot, and this action was performed automatically. Pleas",
+                "score": 1,
+                "url": "https://reddit.com/r/FIREPakistan/comments/1wehwsv/comment/p9dsz10/"
+              },
+              {
+                "author": "hi_aq_94",
+                "date": "2026-09-12",
+                "excerpt": "Open account with new broker. And email old one to transfer. Email new one for your average prices.",
+                "score": 1,
+                "url": "https://reddit.com/r/FIREPakistan/comments/1wehwsv/comment/p9g0vma/"
+              },
+              {
+                "author": "ziwwaom",
+                "date": "2026-09-14",
+                "excerpt": "Try Nafa. Great UI and same charges as everyone else",
+                "score": 1,
+                "url": "https://reddit.com/r/FIREPakistan/comments/1wehwsv/comment/p9pf9ia/"
+              }
+            ]
+          },
+          "published_at": "2026-09-12",
+          "relevance_hint": 0.25,
+          "snippet": "I hope you are already aware of 0.25% fee on Finqalab versus 0.15% for JS Global (and almost every other broker) If you have CDC account, there's option to off load current broker and then select a new broker and once you select a new broker, all securities will appear in the new one. Other than CDC account, I don't know if there's any other method. Welcome to r/FIREPakistan\n\n If you're looking for beginner advice, please have a look at the weekly discussions thread for a collection of useful links for you, you may also ask simple questions and have general discussions over there.\n\n I am a bot, and this action was performed automatically. Pleas",
+          "source": "reddit",
+          "source_quality": 0.6,
+          "title": "Portfolio Transfer to another Broker",
+          "url": "https://www.reddit.com/r/FIREPakistan/comments/1wehwsv/portfolio_transfer_to_another_broker/",
+          "why_relevant": "Reddit global search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "reddit"
+      ],
+      "subquery_labels": [
+        "reddit alternatives",
+        "hacker news threads",
+        "user complaints",
+        "feature comparison talk"
+      ],
+      "title": "Portfolio Transfer to another Broker",
+      "url": "https://www.reddit.com/r/FIREPakistan/comments/1wehwsv/portfolio_transfer_to_another_broker/"
+    }
+  ],
+  "topic": "\"better app than\"",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}

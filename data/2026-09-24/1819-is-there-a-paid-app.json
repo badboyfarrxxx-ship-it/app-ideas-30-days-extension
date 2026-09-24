@@ -1,0 +1,69 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"is there a paid app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-24T18:19:53.715237+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "evergreen_ok",
+    "intent": "factual",
+    "notes": [],
+    "raw_topic": "\"is there a paid app\"",
+    "source_weights": {
+      "hackernews": 0.5,
+      "reddit": 0.5
+    },
+    "subqueries": [
+      {
+        "label": "paid app mentions",
+        "ranking_query": "Does this app have a paid or premium version available?",
+        "search_query": "\"paid app\" OR \"premium app\" OR \"paid version\"",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.5555555555555556
+      },
+      {
+        "label": "app pricing discussion",
+        "ranking_query": "Are users discussing whether a paid version of the app exists?",
+        "search_query": "app pricing OR paid tier OR subscription app",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.4444444444444445
+      }
+    ]
+  },
+  "range_from": "2026-08-25",
+  "range_to": "2026-09-24",
+  "ranked_candidates": [],
+  "topic": "\"is there a paid app\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}
