@@ -1,0 +1,498 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "deterministic",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"I wish there was an app for\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://reddit.com/r/punebikers/comments/1wg15zj/if_you_could_build_one_app_for_riders_what_would"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://reddit.com/r/punebikers/comments/1wg15zj/if_you_could_build_one_app_for_riders_what_would"
+      ],
+      "score": 0.0,
+      "sources": [
+        "reddit"
+      ],
+      "title": "If you could build one app for riders, what would it do?"
+    },
+    {
+      "candidate_ids": [
+        "https://reddit.com/r/thane/comments/1w30kod/share_auto_details_nearby_office_thane_wagle"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://reddit.com/r/thane/comments/1w30kod/share_auto_details_nearby_office_thane_wagle"
+      ],
+      "score": 0.0,
+      "sources": [
+        "reddit"
+      ],
+      "title": "Share auto details nearby office \ud83d\udefa (Thane wagle estate)"
+    },
+    {
+      "candidate_ids": [
+        "https://reddit.com/user/fanmammoth1933/comments/1vzn3uk/best_ideas_for_an_app"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://reddit.com/user/fanmammoth1933/comments/1vzn3uk/best_ideas_for_an_app"
+      ],
+      "score": 0.0,
+      "sources": [
+        "reddit"
+      ],
+      "title": "Best ideas for an app"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-24T15:47:49.708770+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": [
+      {
+        "body": "If you could build one app for riders, what would it do?\nEven if it sounds stupid or overly specific, drop it below. I\u2019m particularly interested in things you\u2019ve personally experienced and thought: \u201cDamn, I wish there was an app for this.\u201d \ud83d\ude02 Looking for real rider problems rather than generic feature suggestions.\nOne app which can connect any BT device over BT with each other irrespective of device being used Reminder: Follow subreddit rules and be respectful!\n\n I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns. I would take a look at the available options first.",
+        "container": "punebikers",
+        "date_confidence": "high",
+        "engagement": {
+          "num_comments": 11,
+          "score": 3
+        },
+        "engagement_score": 100,
+        "freshness": 79,
+        "item_id": "R1",
+        "local_rank_score": 0.4275,
+        "local_relevance": 0.2,
+        "metadata": {
+          "comment_insights": [
+            "One app which can connect any BT device over BT with each other irrespective of device being used",
+            "I would take a look at the available options first.",
+            "Honestly, I don't feel the need of any app while riding, bluetooth/intercom is enough."
+          ],
+          "top_comments": [
+            {
+              "author": "Mysterious_Cell_4166",
+              "date": "2026-09-14",
+              "excerpt": "One app which can connect any BT device over BT with each other irrespective of device being used",
+              "score": 1,
+              "url": "https://reddit.com/r/punebikers/comments/1wg15zj/comment/p9qhzni/"
+            },
+            {
+              "author": "AutoModerator",
+              "date": "2026-09-14",
+              "excerpt": "Reminder: Follow subreddit rules and be respectful!\n\n I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns.",
+              "score": 1,
+              "url": "https://reddit.com/r/punebikers/comments/1wg15zj/comment/p9qh3jt/"
+            },
+            {
+              "author": "like_supabik_1109",
+              "date": "2026-09-14",
+              "excerpt": "I would take a look at the available options first.",
+              "score": 1,
+              "url": "https://reddit.com/r/punebikers/comments/1wg15zj/comment/p9qp40c/"
+            },
+            {
+              "author": "riksTaker0",
+              "date": "2026-09-14",
+              "excerpt": "Honestly, I don't feel the need of any app while riding, bluetooth/intercom is enough.",
+              "score": 1,
+              "url": "https://reddit.com/r/punebikers/comments/1wg15zj/comment/p9qvcxb/"
+            }
+          ]
+        },
+        "published_at": "2026-09-14",
+        "relevance_hint": 0.4,
+        "snippet": "One app which can connect any BT device over BT with each other irrespective of device being used Reminder: Follow subreddit rules and be respectful!\n\n I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns. I would take a look at the available options first.",
+        "source": "reddit",
+        "source_quality": 0.6,
+        "title": "If you could build one app for riders, what would it do?",
+        "url": "https://www.reddit.com/r/punebikers/comments/1wg15zj/if_you_could_build_one_app_for_riders_what_would/",
+        "why_relevant": "Reddit global search"
+      },
+      {
+        "body": "Share auto details nearby office \ud83d\udefa (Thane wagle estate)\nHello all, i will be travelling from bhandup to thane wagle estate daily. So i wanted to know the best possible mode of transport. Google suggested to take two buses or one bus and change to rickshaw near R mall. Any suggestions on this? I wish there was an app for share auto, man :)\nWagle is a hell hole man\ud83d\ude14 Get down in teen haath naka and take a rick. When coming from bhandup side, there is a small road on left near rmall going towards wagle estate. But I doubt if there is any share auto on that route.instead you can get down at rmall and walk towards autmatic company after crossing check naka, will take about 10 mins walk. Share autos usually go through automatic company route",
+        "container": "thane",
+        "date_confidence": "high",
+        "engagement": {
+          "num_comments": 4,
+          "score": 3
+        },
+        "engagement_score": 81,
+        "freshness": 51,
+        "item_id": "R2",
+        "local_rank_score": 0.3385,
+        "local_relevance": 0.2,
+        "metadata": {
+          "comment_insights": [
+            "When coming from bhandup side, there is a small road on left near rmall going towards wagle estate.",
+            "Get down in teen haath naka and take a rick."
+          ],
+          "top_comments": [
+            {
+              "author": "nachosandwhiskey",
+              "date": "2026-08-31",
+              "excerpt": "Wagle is a hell hole man\ud83d\ude14",
+              "score": 3,
+              "url": "https://reddit.com/r/thane/comments/1w30kod/comment/p6xh96l/"
+            },
+            {
+              "author": "wthAbhishek",
+              "date": "2026-08-31",
+              "excerpt": "Get down in teen haath naka and take a rick.",
+              "score": 2,
+              "url": "https://reddit.com/r/thane/comments/1w30kod/comment/p6wwsd6/"
+            },
+            {
+              "author": "unliked_anp",
+              "date": "2026-08-31",
+              "excerpt": "When coming from bhandup side, there is a small road on left near rmall going towards wagle estate. But I doubt if there is any share auto on that route.instead you can get down at rmall and walk towards autmatic company after crossing check naka, will take about 10 mins walk. Share autos usually go through automatic company route",
+              "score": 1,
+              "url": "https://reddit.com/r/thane/comments/1w30kod/comment/p6x1v2w/"
+            }
+          ]
+        },
+        "published_at": "2026-08-31",
+        "relevance_hint": 0.22,
+        "snippet": "Wagle is a hell hole man\ud83d\ude14 Get down in teen haath naka and take a rick. When coming from bhandup side, there is a small road on left near rmall going towards wagle estate. But I doubt if there is any share auto on that route.instead you can get down at rmall and walk towards autmatic company after crossing check naka, will take about 10 mins walk. Share autos usually go through automatic company route",
+        "source": "reddit",
+        "source_quality": 0.6,
+        "title": "Share auto details nearby office \ud83d\udefa (Thane wagle estate)",
+        "url": "https://www.reddit.com/r/thane/comments/1w30kod/share_auto_details_nearby_office_thane_wagle/",
+        "why_relevant": "Reddit global search"
+      },
+      {
+        "body": "Best ideas for an app\nI want to make an app for an android and iPhone. Something that is screaming that it needs to be made. I know how to do it, but I need a really grand idea. Take a second and think to yourself fuck I wish there was an app for filling that blank. If you could make an app tomorrow what would it be? I\u2019m curious at all the answers and I\u2019m curious at which answer gets the most. And I am very well considering going with the number one pic of the community here.",
+        "container": "u_FanMammoth1933",
+        "date_confidence": "high",
+        "engagement": {
+          "num_comments": 0,
+          "score": 1
+        },
+        "engagement_score": 0,
+        "freshness": 43,
+        "item_id": "R3",
+        "local_rank_score": 0.28950000000000004,
+        "local_relevance": 0.28,
+        "metadata": {
+          "comment_insights": [],
+          "top_comments": []
+        },
+        "published_at": "2026-08-27",
+        "relevance_hint": 0.43,
+        "snippet": "I want to make an app for an android and iPhone. Something that is screaming that it needs to be made. I know how to do it, but I need a really grand idea. Take a second and think to yourself fuck I wish there was an app for filling that blank. If you could make an app tomorrow what would it be? I\u2019m curious at all the answers and I\u2019m curious at which answer gets the most. And I am very well consid",
+        "source": "reddit",
+        "source_quality": 0.6,
+        "title": "Best ideas for an app",
+        "url": "https://www.reddit.com/user/FanMammoth1933/comments/1vzn3uk/best_ideas_for_an_app/",
+        "why_relevant": "Reddit global search"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "evergreen_ok",
+    "intent": "concept",
+    "notes": [
+      "fallback-plan (LLM error: HTTPError)"
+    ],
+    "raw_topic": "\"I wish there was an app for\"",
+    "source_weights": {
+      "hackernews": 0.5,
+      "reddit": 0.5
+    },
+    "subqueries": [
+      {
+        "label": "primary",
+        "ranking_query": "What recent evidence from the last 30 days is most relevant to \"I wish there was an app for\", especially about \"i wish there app for\"?",
+        "search_query": "\"i wish there app for\"",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 1.0
+      }
+    ]
+  },
+  "range_from": "2026-08-25",
+  "range_to": "2026-09-24",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://reddit.com/r/punebikers/comments/1wg15zj/if_you_could_build_one_app_for_riders_what_would",
+      "cluster_id": "cluster-1",
+      "engagement": 100,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 79,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 40,
+      "item_id": "R1",
+      "local_relevance": 0.2,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "R1",
+            "native_rank": 1,
+            "source": "reddit",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:reddit": 1
+      },
+      "rerank_score": 10.799999999999997,
+      "rrf_score": 0.00819672131147541,
+      "snippet": "One app which can connect any BT device over BT with each other irrespective of device being used Reminder: Follow subreddit rules and be respectful!\n\n I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns. I would take a look at the available options first.",
+      "source": "reddit",
+      "source_items": [
+        {
+          "body": "If you could build one app for riders, what would it do?\nEven if it sounds stupid or overly specific, drop it below. I\u2019m particularly interested in things you\u2019ve personally experienced and thought: \u201cDamn, I wish there was an app for this.\u201d \ud83d\ude02 Looking for real rider problems rather than generic feature suggestions.\nOne app which can connect any BT device over BT with each other irrespective of device being used Reminder: Follow subreddit rules and be respectful!\n\n I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns. I would take a look at the available options first.",
+          "container": "punebikers",
+          "date_confidence": "high",
+          "engagement": {
+            "num_comments": 11,
+            "score": 3
+          },
+          "engagement_score": 100,
+          "freshness": 79,
+          "item_id": "R1",
+          "local_rank_score": 0.4275,
+          "local_relevance": 0.2,
+          "metadata": {
+            "comment_insights": [
+              "One app which can connect any BT device over BT with each other irrespective of device being used",
+              "I would take a look at the available options first.",
+              "Honestly, I don't feel the need of any app while riding, bluetooth/intercom is enough."
+            ],
+            "top_comments": [
+              {
+                "author": "Mysterious_Cell_4166",
+                "date": "2026-09-14",
+                "excerpt": "One app which can connect any BT device over BT with each other irrespective of device being used",
+                "score": 1,
+                "url": "https://reddit.com/r/punebikers/comments/1wg15zj/comment/p9qhzni/"
+              },
+              {
+                "author": "AutoModerator",
+                "date": "2026-09-14",
+                "excerpt": "Reminder: Follow subreddit rules and be respectful!\n\n I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns.",
+                "score": 1,
+                "url": "https://reddit.com/r/punebikers/comments/1wg15zj/comment/p9qh3jt/"
+              },
+              {
+                "author": "like_supabik_1109",
+                "date": "2026-09-14",
+                "excerpt": "I would take a look at the available options first.",
+                "score": 1,
+                "url": "https://reddit.com/r/punebikers/comments/1wg15zj/comment/p9qp40c/"
+              },
+              {
+                "author": "riksTaker0",
+                "date": "2026-09-14",
+                "excerpt": "Honestly, I don't feel the need of any app while riding, bluetooth/intercom is enough.",
+                "score": 1,
+                "url": "https://reddit.com/r/punebikers/comments/1wg15zj/comment/p9qvcxb/"
+              }
+            ]
+          },
+          "published_at": "2026-09-14",
+          "relevance_hint": 0.4,
+          "snippet": "One app which can connect any BT device over BT with each other irrespective of device being used Reminder: Follow subreddit rules and be respectful!\n\n I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns. I would take a look at the available options first.",
+          "source": "reddit",
+          "source_quality": 0.6,
+          "title": "If you could build one app for riders, what would it do?",
+          "url": "https://www.reddit.com/r/punebikers/comments/1wg15zj/if_you_could_build_one_app_for_riders_what_would/",
+          "why_relevant": "Reddit global search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "reddit"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "If you could build one app for riders, what would it do?",
+      "url": "https://www.reddit.com/r/punebikers/comments/1wg15zj/if_you_could_build_one_app_for_riders_what_would/"
+    },
+    {
+      "candidate_id": "https://reddit.com/r/thane/comments/1w30kod/share_auto_details_nearby_office_thane_wagle",
+      "cluster_id": "cluster-2",
+      "engagement": 81,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 51,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 40,
+      "item_id": "R2",
+      "local_relevance": 0.2,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "R2",
+            "native_rank": 2,
+            "source": "reddit",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:reddit": 2
+      },
+      "rerank_score": 5.200000000000003,
+      "rrf_score": 0.008064516129032258,
+      "snippet": "Wagle is a hell hole man\ud83d\ude14 Get down in teen haath naka and take a rick. When coming from bhandup side, there is a small road on left near rmall going towards wagle estate. But I doubt if there is any share auto on that route.instead you can get down at rmall and walk towards autmatic company after crossing check naka, will take about 10 mins walk. Share autos usually go through automatic company route",
+      "source": "reddit",
+      "source_items": [
+        {
+          "body": "Share auto details nearby office \ud83d\udefa (Thane wagle estate)\nHello all, i will be travelling from bhandup to thane wagle estate daily. So i wanted to know the best possible mode of transport. Google suggested to take two buses or one bus and change to rickshaw near R mall. Any suggestions on this? I wish there was an app for share auto, man :)\nWagle is a hell hole man\ud83d\ude14 Get down in teen haath naka and take a rick. When coming from bhandup side, there is a small road on left near rmall going towards wagle estate. But I doubt if there is any share auto on that route.instead you can get down at rmall and walk towards autmatic company after crossing check naka, will take about 10 mins walk. Share autos usually go through automatic company route",
+          "container": "thane",
+          "date_confidence": "high",
+          "engagement": {
+            "num_comments": 4,
+            "score": 3
+          },
+          "engagement_score": 81,
+          "freshness": 51,
+          "item_id": "R2",
+          "local_rank_score": 0.3385,
+          "local_relevance": 0.2,
+          "metadata": {
+            "comment_insights": [
+              "When coming from bhandup side, there is a small road on left near rmall going towards wagle estate.",
+              "Get down in teen haath naka and take a rick."
+            ],
+            "top_comments": [
+              {
+                "author": "nachosandwhiskey",
+                "date": "2026-08-31",
+                "excerpt": "Wagle is a hell hole man\ud83d\ude14",
+                "score": 3,
+                "url": "https://reddit.com/r/thane/comments/1w30kod/comment/p6xh96l/"
+              },
+              {
+                "author": "wthAbhishek",
+                "date": "2026-08-31",
+                "excerpt": "Get down in teen haath naka and take a rick.",
+                "score": 2,
+                "url": "https://reddit.com/r/thane/comments/1w30kod/comment/p6wwsd6/"
+              },
+              {
+                "author": "unliked_anp",
+                "date": "2026-08-31",
+                "excerpt": "When coming from bhandup side, there is a small road on left near rmall going towards wagle estate. But I doubt if there is any share auto on that route.instead you can get down at rmall and walk towards autmatic company after crossing check naka, will take about 10 mins walk. Share autos usually go through automatic company route",
+                "score": 1,
+                "url": "https://reddit.com/r/thane/comments/1w30kod/comment/p6x1v2w/"
+              }
+            ]
+          },
+          "published_at": "2026-08-31",
+          "relevance_hint": 0.22,
+          "snippet": "Wagle is a hell hole man\ud83d\ude14 Get down in teen haath naka and take a rick. When coming from bhandup side, there is a small road on left near rmall going towards wagle estate. But I doubt if there is any share auto on that route.instead you can get down at rmall and walk towards autmatic company after crossing check naka, will take about 10 mins walk. Share autos usually go through automatic company route",
+          "source": "reddit",
+          "source_quality": 0.6,
+          "title": "Share auto details nearby office \ud83d\udefa (Thane wagle estate)",
+          "url": "https://www.reddit.com/r/thane/comments/1w30kod/share_auto_details_nearby_office_thane_wagle/",
+          "why_relevant": "Reddit global search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "reddit"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Share auto details nearby office \ud83d\udefa (Thane wagle estate)",
+      "url": "https://www.reddit.com/r/thane/comments/1w30kod/share_auto_details_nearby_office_thane_wagle/"
+    },
+    {
+      "candidate_id": "https://reddit.com/user/fanmammoth1933/comments/1vzn3uk/best_ideas_for_an_app",
+      "cluster_id": "cluster-3",
+      "engagement": 0,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 43,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "R3",
+      "local_relevance": 0.28,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "R3",
+            "native_rank": 3,
+            "source": "reddit",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:reddit": 3
+      },
+      "rerank_score": 9.200000000000003,
+      "rrf_score": 0.007936507936507936,
+      "snippet": "I want to make an app for an android and iPhone. Something that is screaming that it needs to be made. I know how to do it, but I need a really grand idea. Take a second and think to yourself fuck I wish there was an app for filling that blank. If you could make an app tomorrow what would it be? I\u2019m curious at all the answers and I\u2019m curious at which answer gets the most. And I am very well consid",
+      "source": "reddit",
+      "source_items": [
+        {
+          "body": "Best ideas for an app\nI want to make an app for an android and iPhone. Something that is screaming that it needs to be made. I know how to do it, but I need a really grand idea. Take a second and think to yourself fuck I wish there was an app for filling that blank. If you could make an app tomorrow what would it be? I\u2019m curious at all the answers and I\u2019m curious at which answer gets the most. And I am very well considering going with the number one pic of the community here.",
+          "container": "u_FanMammoth1933",
+          "date_confidence": "high",
+          "engagement": {
+            "num_comments": 0,
+            "score": 1
+          },
+          "engagement_score": 0,
+          "freshness": 43,
+          "item_id": "R3",
+          "local_rank_score": 0.28950000000000004,
+          "local_relevance": 0.28,
+          "metadata": {
+            "comment_insights": [],
+            "top_comments": []
+          },
+          "published_at": "2026-08-27",
+          "relevance_hint": 0.43,
+          "snippet": "I want to make an app for an android and iPhone. Something that is screaming that it needs to be made. I know how to do it, but I need a really grand idea. Take a second and think to yourself fuck I wish there was an app for filling that blank. If you could make an app tomorrow what would it be? I\u2019m curious at all the answers and I\u2019m curious at which answer gets the most. And I am very well consid",
+          "source": "reddit",
+          "source_quality": 0.6,
+          "title": "Best ideas for an app",
+          "url": "https://www.reddit.com/user/FanMammoth1933/comments/1vzn3uk/best_ideas_for_an_app/",
+          "why_relevant": "Reddit global search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "reddit"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Best ideas for an app",
+      "url": "https://www.reddit.com/user/FanMammoth1933/comments/1vzn3uk/best_ideas_for_an_app/"
+    }
+  ],
+  "topic": "\"I wish there was an app for\"",
+  "warnings": [
+    "Evidence is thin for this topic.",
+    "Top evidence is highly concentrated in one source."
+  ]
+}
