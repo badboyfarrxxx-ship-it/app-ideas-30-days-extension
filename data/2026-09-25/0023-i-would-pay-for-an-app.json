@@ -1,0 +1,89 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"I would pay for an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-25T00:23:34.291476+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "market",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [],
+    "raw_topic": "\"I would pay for an app\"",
+    "source_weights": {
+      "hackernews": 0.25,
+      "reddit": 0.75
+    },
+    "subqueries": [
+      {
+        "label": "paid app willingness",
+        "ranking_query": "What apps would people actually pay money for instead of using free alternatives?",
+        "search_query": "\"pay for\" app OR \"worth paying\" app OR \"paid app\"",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.26666666666666666
+      },
+      {
+        "label": "subscription fatigue",
+        "ranking_query": "Which app subscriptions do users find worth the cost and which ones they refuse to pay for?",
+        "search_query": "subscription app OR \"monthly fee\" app OR \"willing to pay\" app",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.26666666666666666
+      },
+      {
+        "label": "indie app pricing",
+        "ranking_query": "Discussions about indie or small-team apps that users are happy to pay for outright",
+        "search_query": "indie app OR \"one time purchase\" app OR \"buy app\" reddit",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.24000000000000002
+      },
+      {
+        "label": "app value complaints",
+        "ranking_query": "What specific pain points with free apps make people say they would pay for a better version?",
+        "search_query": "free app OR freemium OR \"ads suck\" OR \"paywall\" app",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.22666666666666666
+      }
+    ]
+  },
+  "range_from": "2026-08-26",
+  "range_to": "2026-09-25",
+  "ranked_candidates": [],
+  "topic": "\"I would pay for an app\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

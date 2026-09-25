@@ -1,0 +1,91 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"I.d pay for an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-25T00:23:41.913014+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "debate",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [
+      "Focus on user sentiment around paying for software/apps"
+    ],
+    "raw_topic": "\"I.d pay for an app\"",
+    "source_weights": {
+      "hackernews": 0.46428571428571436,
+      "reddit": 0.5357142857142857
+    },
+    "subqueries": [
+      {
+        "label": "paid apps worth it",
+        "ranking_query": "What apps would people actually pay money for instead of using free alternatives?",
+        "search_query": "\"pay for app\" OR \"paid app\" OR \"willing to pay\" app",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.28169014084507044
+      },
+      {
+        "label": "subscription fatigue",
+        "ranking_query": "Which app subscriptions do users feel are actually worth the cost?",
+        "search_query": "app subscription OR \"monthly fee\" app worth OR overpriced",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.2535211267605634
+      },
+      {
+        "label": "indie app payments",
+        "ranking_query": "Would you pay for apps made by indie developers or small teams?",
+        "search_query": "indie app OR \"small developer\" pay OR support OR donation",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.23943661971830987
+      },
+      {
+        "label": "free vs paid apps",
+        "ranking_query": "When do users prefer paying for an app over dealing with ads or limited free versions?",
+        "search_query": "\"free app\" vs paid OR \"ad supported\" OR freemium",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.22535211267605637
+      }
+    ]
+  },
+  "range_from": "2026-08-26",
+  "range_to": "2026-09-25",
+  "ranked_candidates": [],
+  "topic": "\"I.d pay for an app\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

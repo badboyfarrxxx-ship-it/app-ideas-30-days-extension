@@ -1,0 +1,178 @@
+Batch A sources=reddit,hackernews
+Started at 2026-09-25T00:22:55Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/36077257543
+----
+
+===== Seed: "I wish there was an app for" =====
+/last30days · researching: "I wish there was an app for"
+⏳ [95mProcessing[0m Scoring and ranking...
+[Planner] Plan: intent=opinion, freshness=balanced_recent, cluster_mode=debate, subqueries=4, source=llm
+[Planner]   sq1 label=app wishes search=""wish there was an app" OR "need an app for" OR "app that does"" sources=[reddit,hackernews]
+[Planner]   sq2 label=missing app ideas search="app idea OR "if only there was an app" OR "someone should build an app"" sources=[reddit,hackernews]
+[Planner]   sq3 label=feature requests search=""why doesn't an app" OR "app for" (tracking OR automating OR managing)" sources=[reddit,hackernews]
+[Planner]   sq4 label=product gaps search=""no good app for" OR "looking for an app that"" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=%22I+wish+there+was+an+app+for%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded '"I wish there was an app for"' into 2 queries: ['"i wish there was app for"', '"I wish there was an app for"']
+[Reddit] Global search 1/2: '"i wish there was app for"' (sort=relevance)
+[Reddit] Global search 2/2: '"I wish there was an app for"' (sort=top)
+[Reddit]   -> 0 results for '"i wish there was app for"'
+[Reddit]   -> 4 results for '"I wish there was an app for"'
+[Reddit] Discovered subreddits: ['punebikers', 'thane', 'u_FanMammoth1933']
+[Reddit] Subreddit search: r/punebikers for '"i wish there was app for"'
+[Reddit] Subreddit search: r/thane for '"i wish there was app for"'
+[Reddit] Subreddit search: r/u_FanMammoth1933 for '"i wish there was app for"'
+[Reddit]   -> 0 results from r/thane
+[Reddit]   -> 0 results from r/u_FanMammoth1933
+[Reddit]   -> 0 results from r/punebikers
+[Reddit] After dedup: 4 unique posts
+[Reddit] Final: 4 Reddit posts
+[Reddit] Enriching comments for 4 posts (by total engagement)
+[Reddit] Enriched 2/4 posts in 4.2s
+✓ Research complete (31.0s) - Reddit: 4 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-25/0023-i-wish-there-was-an-app-for.json
+[OK] seed succeeded
+
+===== Seed: "I would pay for an app" =====
+/last30days · researching: "I would pay for an app"
+⏳ [95mProcessing[0m Crunching the data...
+[Planner] Plan: intent=opinion, freshness=balanced_recent, cluster_mode=market, subqueries=4, source=llm
+[Planner]   sq1 label=paid app willingness search=""pay for" app OR "worth paying" app OR "paid app"" sources=[reddit,hackernews]
+[Planner]   sq2 label=subscription fatigue search="subscription app OR "monthly fee" app OR "willing to pay" app" sources=[reddit,hackernews]
+[Planner]   sq3 label=indie app pricing search="indie app OR "one time purchase" app OR "buy app" reddit" sources=[reddit,hackernews]
+[Planner]   sq4 label=app value complaints search="free app OR freemium OR "ads suck" OR "paywall" app" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=%22I+would+pay+for+an+app%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded '"I would pay for an app"' into 2 queries: ['"i would pay app"', '"I would pay for an app"']
+[Reddit] Global search 1/2: '"i would pay app"' (sort=relevance)
+[Reddit] Global search 2/2: '"I would pay for an app"' (sort=top)
+[Reddit]   -> 0 results for '"I would pay for an app"'
+[Reddit]   -> 0 results for '"i would pay app"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=%22I+would+pay+for+an+app%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded '"I would pay for an app"' into 2 queries: ['"i would pay app"', '"I would pay for an app"']
+[Reddit] Global search 1/2: '"i would pay app"' (sort=relevance)
+[Reddit] Global search 2/2: '"I would pay for an app"' (sort=top)
+[Reddit]   -> 0 results for '"i would pay app"'
+[Reddit]   -> 0 results for '"I would pay for an app"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+✓ Research complete (7.2s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-25/0023-i-would-pay-for-an-app.json
+[OK] seed succeeded
+
+===== Seed: "I.d pay for an app" =====
+/last30days · researching: "I.d pay for an app"
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] Plan: intent=opinion, freshness=balanced_recent, cluster_mode=debate, subqueries=4, source=llm
+[Planner]   sq1 label=paid apps worth it search=""pay for app" OR "paid app" OR "willing to pay" app" sources=[reddit,hackernews]
+[Planner]   sq2 label=subscription fatigue search="app subscription OR "monthly fee" app worth OR overpriced" sources=[reddit,hackernews]
+[Planner]   sq3 label=indie app payments search="indie app OR "small developer" pay OR support OR donation" sources=[reddit,hackernews]
+[Planner]   sq4 label=free vs paid apps search=""free app" vs paid OR "ad supported" OR freemium" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=%22I.d+pay+for+an+app%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded '"I.d pay for an app"' into 2 queries: ['"i.d pay app"', '"I.d pay for an app"']
+[Reddit] Global search 1/2: '"i.d pay app"' (sort=relevance)
+[Reddit] Global search 2/2: '"I.d pay for an app"' (sort=top)
+[Reddit]   -> 0 results for '"i.d pay app"'
+[Reddit]   -> 0 results for '"I.d pay for an app"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=%22I.d+pay+for+an+app%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded '"I.d pay for an app"' into 2 queries: ['"i.d pay app"', '"I.d pay for an app"']
+[Reddit] Global search 1/2: '"i.d pay app"' (sort=relevance)
+[Reddit] Global search 2/2: '"I.d pay for an app"' (sort=top)
+[Reddit]   -> 0 results for '"I.d pay for an app"'
+[Reddit]   -> 0 results for '"i.d pay app"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+✓ Research complete (7.5s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-25/0023-i-d-pay-for-an-app.json
+[OK] seed succeeded
+
+===== Seed: "why is there no app" =====
+/last30days · researching: "why is there no app"
+⏳ [95mProcessing[0m Removing duplicates...
+[Planner] Plan: intent=opinion, freshness=evergreen_ok, cluster_mode=debate, subqueries=4, source=llm
+[Planner]   sq1 label=why no dedicated app search="why no app OR missing app OR no mobile app" sources=[reddit,hackernews]
+[Planner]   sq2 label=reasons apps are skipped search="why no app instead of web OR pwa only" sources=[reddit,hackernews]
+[Planner]   sq3 label=user frustration no app search="wish there was an app OR needs an app" sources=[reddit,hackernews]
+[Planner]   sq4 label=technical or business barriers search="no app because OR can't build app reasons" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=%22why+is+there+no+app%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded '"why is there no app"' into 2 queries: ['"why there no app"', '"why is there no app"']
+[Reddit] Global search 1/2: '"why there no app"' (sort=relevance)
+[Reddit] Global search 2/2: '"why is there no app"' (sort=top)
+[Reddit]   -> 1 results for '"why is there no app"'
+[Reddit]   -> 1 results for '"why there no app"'
+[Reddit] Discovered subreddits: ['apps', 'PS5_Jailbreak']
+[Reddit] Subreddit search: r/apps for '"why there no app"'
+[Reddit] Subreddit search: r/PS5_Jailbreak for '"why there no app"'
+[Reddit]   -> 1 results from r/PS5_Jailbreak
+[Reddit]   -> 0 results from r/apps
+[Reddit] After dedup: 2 unique posts
+[Reddit] Final: 2 Reddit posts
+[Reddit] Enriching comments for 2 posts (by total engagement)
+[Reddit] Enriched 2/2 posts in 2.6s
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=%22why+is+there+no+app%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded '"why is there no app"' into 2 queries: ['"why there no app"', '"why is there no app"']
+[Reddit] Global search 1/2: '"why there no app"' (sort=relevance)
+[Reddit] Global search 2/2: '"why is there no app"' (sort=top)
+[Reddit]   -> 1 results for '"why is there no app"'
+[Reddit]   -> 1 results for '"why there no app"'
+[Reddit] Discovered subreddits: ['apps', 'PS5_Jailbreak']
+[Reddit] Subreddit search: r/apps for '"why there no app"'
+[Reddit] Subreddit search: r/PS5_Jailbreak for '"why there no app"'
+[Reddit]   -> 1 results from r/PS5_Jailbreak
+[Reddit]   -> 0 results from r/apps
+[Reddit] After dedup: 2 unique posts
+[Reddit] Final: 2 Reddit posts
+[Reddit] Enriching comments for 2 posts (by total engagement)
+[Reddit] Enriched 2/2 posts in 0.0s
+✓ Research complete (31.5s) - Reddit: 2 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-25/0024-why-is-there-no-app.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed
