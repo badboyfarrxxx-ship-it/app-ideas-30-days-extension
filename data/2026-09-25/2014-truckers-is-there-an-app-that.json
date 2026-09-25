@@ -1,0 +1,87 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "truckers \"is there an app that\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {
+    "grounding": "HTTP 422: "
+  },
+  "generated_at": "2026-09-25T20:14:44.566232+00:00",
+  "items_by_source": {},
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [
+      "focus on real-world trucker app discovery queries"
+    ],
+    "raw_topic": "truckers \"is there an app that\"",
+    "source_weights": {
+      "grounding": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "load finding apps",
+        "ranking_query": "Is there an app that helps truckers find loads or freight?",
+        "search_query": "truckers app loads freight",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.27027027027027023
+      },
+      {
+        "label": "parking and rest apps",
+        "ranking_query": "Is there an app that shows truckers available parking or truck stops?",
+        "search_query": "truckers app parking truck stops",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.27027027027027023
+      },
+      {
+        "label": "navigation and routing apps",
+        "ranking_query": "Is there an app for truck-specific navigation and routing?",
+        "search_query": "truckers app navigation routing",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.24324324324324323
+      },
+      {
+        "label": "compliance and logs apps",
+        "ranking_query": "Is there an app that helps truckers with ELD, hours of service or compliance?",
+        "search_query": "truckers app ELD logs compliance",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.21621621621621623
+      }
+    ]
+  },
+  "range_from": "2026-08-26",
+  "range_to": "2026-09-25",
+  "ranked_candidates": [],
+  "topic": "truckers \"is there an app that\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic.",
+    "Some sources failed: grounding",
+    "No source returned usable items."
+  ]
+}

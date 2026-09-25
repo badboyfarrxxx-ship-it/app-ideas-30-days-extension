@@ -1,0 +1,87 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "realtors \"any good app for\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {
+    "grounding": "HTTP 422: "
+  },
+  "generated_at": "2026-09-25T20:14:35.661154+00:00",
+  "items_by_source": {},
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "debate",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [
+      "focus on practitioner recommendations rather than marketing lists"
+    ],
+    "raw_topic": "realtors \"any good app for\"",
+    "source_weights": {
+      "grounding": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "realtor app recs",
+        "ranking_query": "What apps do realtors recommend as actually useful?",
+        "search_query": "realtors best apps OR good apps for realtors",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.27027027027027023
+      },
+      {
+        "label": "real estate agent tools",
+        "ranking_query": "Which apps are realtors saying are the best for daily work?",
+        "search_query": "real estate agents favorite apps OR must-have apps realtors",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.27027027027027023
+      },
+      {
+        "label": "realtor workflow apps",
+        "ranking_query": "What specific apps help realtors with listings, clients, or showings?",
+        "search_query": "realtors app recommendations CRM OR MLS OR showing",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.24324324324324323
+      },
+      {
+        "label": "community app opinions",
+        "ranking_query": "Where are realtors sharing honest opinions on useful apps?",
+        "search_query": "realtors discuss apps OR realtor app experiences",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.21621621621621623
+      }
+    ]
+  },
+  "range_from": "2026-08-26",
+  "range_to": "2026-09-25",
+  "ranked_candidates": [],
+  "topic": "realtors \"any good app for\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic.",
+    "Some sources failed: grounding",
+    "No source returned usable items."
+  ]
+}

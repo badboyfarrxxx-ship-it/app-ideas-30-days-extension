@@ -1,0 +1,85 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "nurses shift app",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {
+    "grounding": "HTTP 422: "
+  },
+  "generated_at": "2026-09-25T20:14:50.182119+00:00",
+  "items_by_source": {},
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [],
+    "raw_topic": "nurses shift app",
+    "source_weights": {
+      "grounding": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "popular apps",
+        "ranking_query": "What apps help nurses manage and swap shifts?",
+        "search_query": "nurse shift app OR nurse scheduling app",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.29411764705882354
+      },
+      {
+        "label": "features review",
+        "ranking_query": "Which features matter most in nurse shift management apps?",
+        "search_query": "nurse shift scheduling features",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.2647058823529412
+      },
+      {
+        "label": "user experience",
+        "ranking_query": "How do nurses describe using shift scheduling apps in daily work?",
+        "search_query": "nurse shift app review OR experience",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.23529411764705885
+      },
+      {
+        "label": "alternatives comparison",
+        "ranking_query": "How do different nurse scheduling apps compare for hospitals and staff?",
+        "search_query": "nurse shift app vs competitor",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.20588235294117646
+      }
+    ]
+  },
+  "range_from": "2026-08-26",
+  "range_to": "2026-09-25",
+  "ranked_candidates": [],
+  "topic": "nurses shift app",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic.",
+    "Some sources failed: grounding",
+    "No source returned usable items."
+  ]
+}

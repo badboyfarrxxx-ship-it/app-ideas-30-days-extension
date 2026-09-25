@@ -1,0 +1,87 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "therapists \"I would pay for an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {
+    "grounding": "HTTP 422: "
+  },
+  "generated_at": "2026-09-25T20:14:57.691253+00:00",
+  "items_by_source": {},
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "debate",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [
+      "focus on direct quotes or strong willingness-to-pay signals from therapists"
+    ],
+    "raw_topic": "therapists \"I would pay for an app\"",
+    "source_weights": {
+      "grounding": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "therapist app willingness to pay",
+        "ranking_query": "Do therapists say they would pay for a specific app or tool?",
+        "search_query": "therapists app \"would pay\" OR \"pay for\" OR subscription",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.28169014084507044
+      },
+      {
+        "label": "therapist tool recommendations paid",
+        "ranking_query": "What apps or tools do therapists mention they are willing to pay for?",
+        "search_query": "therapists recommend app OR software OR platform pay OR pricing",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.2535211267605634
+      },
+      {
+        "label": "therapist pain points paid solutions",
+        "ranking_query": "What unmet needs make therapists say they would pay for an app?",
+        "search_query": "therapists \"wish there was an app\" OR \"need an app\" OR \"if there was an app\"",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.23943661971830987
+      },
+      {
+        "label": "therapy practice management app feedback",
+        "ranking_query": "How do therapists discuss paying for practice management or EHR apps?",
+        "search_query": "therapists \"practice management\" app OR EHR pay OR cost OR worth",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.22535211267605637
+      }
+    ]
+  },
+  "range_from": "2026-08-26",
+  "range_to": "2026-09-25",
+  "ranked_candidates": [],
+  "topic": "therapists \"I would pay for an app\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic.",
+    "Some sources failed: grounding",
+    "No source returned usable items."
+  ]
+}

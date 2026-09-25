@@ -1,0 +1,91 @@
+Batch F sources=grounding,perplexity
+Started at 2026-09-25T20:14:27Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/36184541701
+----
+
+===== Seed: realtors "any good app for" =====
+/last30days · researching: realtors "any good app for"
+⏳ [95mProcessing[0m Scoring and ranking...
+[Planner] Plan: intent=opinion, freshness=balanced_recent, cluster_mode=debate, subqueries=4, source=llm
+[Planner]   sq1 label=realtor app recs search="realtors best apps OR good apps for realtors" sources=[grounding]
+[Planner]   sq2 label=real estate agent tools search="real estate agents favorite apps OR must-have apps realtors" sources=[grounding]
+[Planner]   sq3 label=realtor workflow apps search="realtors app recommendations CRM OR MLS OR showing" sources=[grounding]
+[Planner]   sq4 label=community app opinions search="realtors discuss apps OR realtor app experiences" sources=[grounding]
+✓ Research complete (7.7s) - Web: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-25/2014-realtors-any-good-app-for.json
+[OK] seed succeeded
+
+===== Seed: truckers "is there an app that" =====
+/last30days · researching: truckers "is there an app that"
+⏳ [95mProcessing[0m Removing duplicates...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=4, source=llm
+[Planner]   sq1 label=load finding apps search="truckers app loads freight" sources=[grounding]
+[Planner]   sq2 label=parking and rest apps search="truckers app parking truck stops" sources=[grounding]
+[Planner]   sq3 label=navigation and routing apps search="truckers app navigation routing" sources=[grounding]
+[Planner]   sq4 label=compliance and logs apps search="truckers app ELD logs compliance" sources=[grounding]
+✓ Research complete (8.7s) - Web: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-25/2014-truckers-is-there-an-app-that.json
+[OK] seed succeeded
+
+===== Seed: nurses shift app =====
+/last30days · researching: nurses shift app
+⏳ [95mProcessing[0m Scoring and ranking...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=4, source=llm
+[Planner]   sq1 label=popular apps search="nurse shift app OR nurse scheduling app" sources=[grounding]
+[Planner]   sq2 label=features review search="nurse shift scheduling features" sources=[grounding]
+[Planner]   sq3 label=user experience search="nurse shift app review OR experience" sources=[grounding]
+[Planner]   sq4 label=alternatives comparison search="nurse shift app vs competitor" sources=[grounding]
+✓ Research complete (5.5s) - Web: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-25/2014-nurses-shift-app.json
+[OK] seed succeeded
+
+===== Seed: therapists "I would pay for an app" =====
+/last30days · researching: therapists "I would pay for an app"
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] Plan: intent=opinion, freshness=balanced_recent, cluster_mode=debate, subqueries=4, source=llm
+[Planner]   sq1 label=therapist app willingness to pay search="therapists app "would pay" OR "pay for" OR subscription" sources=[grounding]
+[Planner]   sq2 label=therapist tool recommendations paid search="therapists recommend app OR software OR platform pay OR pricing" sources=[grounding]
+[Planner]   sq3 label=therapist pain points paid solutions search="therapists "wish there was an app" OR "need an app" OR "if there was an app"" sources=[grounding]
+[Planner]   sq4 label=therapy practice management app feedback search="therapists "practice management" app OR EHR pay OR cost OR worth" sources=[grounding]
+✓ Research complete (7.3s) - Web: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-25/2014-therapists-i-would-pay-for-an-app.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed
