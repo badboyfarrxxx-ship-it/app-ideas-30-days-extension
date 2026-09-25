@@ -1,0 +1,105 @@
+Batch E sources=github
+Started at 2026-09-25T16:16:47Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/36159714585
+----
+
+===== Seed: landscapers app for scheduling clients =====
+/last30days · researching: landscapers app for scheduling clients
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=workflow, subqueries=4, source=llm
+[Planner]   sq1 label=scheduling core search="scheduling app OR booking system landscaping OR landscaper" sources=[github]
+[Planner]   sq2 label=service business workflow search="appointment scheduling OR job booking service business OR field service" sources=[github]
+[Planner]   sq3 label=calendar integration search="calendar scheduling OR availability booking app github" sources=[github]
+[Planner]   sq4 label=mobile or web client app search="client scheduling mobile OR web app service OR landscaping" sources=[github]
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+✓ Research complete (13.0s) - Github: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-25/1617-landscapers-app-for-scheduling-clients.json
+[OK] seed succeeded
+
+===== Seed: dog groomers booking app =====
+/last30days · researching: dog groomers booking app
+⏳ [95mProcessing[0m Finding patterns...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=3, source=llm
+[Planner]   sq1 label=booking system repos search="booking app OR booking system dog OR pet groom" sources=[github]
+[Planner]   sq2 label=pet service scheduling code search="pet grooming scheduler OR appointment booking dog" sources=[github]
+[Planner]   sq3 label=salon booking templates search="grooming salon booking system OR calendar app pet" sources=[github]
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+✓ Research complete (10.4s) - Github: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-25/1617-dog-groomers-booking-app.json
+[OK] seed succeeded
+
+===== Seed: personal trainers app for clients =====
+/last30days · researching: personal trainers app for clients
+⏳ [95mProcessing[0m Removing duplicates...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=3, source=llm
+[Planner]   sq1 label=Trainer client apps search="personal trainer client app OR fitness coach client management" sources=[github]
+[Planner]   sq2 label=Fitness platform code search="fitness app trainer OR gym client portal" sources=[github]
+[Planner]   sq3 label=Client management tools search="trainer dashboard client OR workout plan sharing app" sources=[github]
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+✓ Research complete (8.1s) - Github: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-25/1617-personal-trainers-app-for-clients.json
+[OK] seed succeeded
+
+===== Seed: hairstylists "any good app for" =====
+/last30days · researching: hairstylists "any good app for"
+⏳ [95mProcessing[0m Scoring and ranking...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=3, source=llm
+[Planner]   sq1 label=hairstylist booking repo search="hairstylist booking app OR salon scheduler" sources=[github]
+[Planner]   sq2 label=salon management code search="salon management system OR hairstylist crm" sources=[github]
+[Planner]   sq3 label=client scheduling tool search="hairstylist client management OR appointment app" sources=[github]
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+✓ Research complete (8.1s) - Github: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-25/1617-hairstylists-any-good-app-for.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed

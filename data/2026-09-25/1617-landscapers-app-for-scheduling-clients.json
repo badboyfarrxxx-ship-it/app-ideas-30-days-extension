@@ -1,0 +1,83 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "landscapers app for scheduling clients",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-25T16:17:00.595412+00:00",
+  "items_by_source": {
+    "github": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "workflow",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [],
+    "raw_topic": "landscapers app for scheduling clients",
+    "source_weights": {
+      "github": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "scheduling core",
+        "ranking_query": "GitHub repositories implementing client scheduling and booking for landscaping or field service businesses",
+        "search_query": "scheduling app OR booking system landscaping OR landscaper",
+        "sources": [
+          "github"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "service business workflow",
+        "ranking_query": "Open source GitHub projects for appointment and job scheduling workflows aimed at landscapers or similar service providers",
+        "search_query": "appointment scheduling OR job booking service business OR field service",
+        "sources": [
+          "github"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "calendar integration",
+        "ranking_query": "GitHub repos that handle client calendar booking, availability slots, and notifications for landscaping companies",
+        "search_query": "calendar scheduling OR availability booking app github",
+        "sources": [
+          "github"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "mobile or web client app",
+        "ranking_query": "GitHub projects building mobile or web apps for landscapers to schedule and manage client appointments",
+        "search_query": "client scheduling mobile OR web app service OR landscaping",
+        "sources": [
+          "github"
+        ],
+        "weight": 0.25
+      }
+    ]
+  },
+  "range_from": "2026-08-26",
+  "range_to": "2026-09-25",
+  "ranked_candidates": [],
+  "topic": "landscapers app for scheduling clients",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

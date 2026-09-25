@@ -1,0 +1,76 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "hairstylists \"any good app for\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-25T16:17:27.659175+00:00",
+  "items_by_source": {
+    "github": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [
+      "github only; focus on repos that could be deployed as apps"
+    ],
+    "raw_topic": "hairstylists \"any good app for\"",
+    "source_weights": {
+      "github": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "hairstylist booking repo",
+        "ranking_query": "open source app or tool for hairstylist appointment booking",
+        "search_query": "hairstylist booking app OR salon scheduler",
+        "sources": [
+          "github"
+        ],
+        "weight": 0.37037037037037035
+      },
+      {
+        "label": "salon management code",
+        "ranking_query": "github repository for hairstylist or salon business management",
+        "search_query": "salon management system OR hairstylist crm",
+        "sources": [
+          "github"
+        ],
+        "weight": 0.3333333333333333
+      },
+      {
+        "label": "client scheduling tool",
+        "ranking_query": "any good open source scheduling app built for hairstylists",
+        "search_query": "hairstylist client management OR appointment app",
+        "sources": [
+          "github"
+        ],
+        "weight": 0.2962962962962963
+      }
+    ]
+  },
+  "range_from": "2026-08-26",
+  "range_to": "2026-09-25",
+  "ranked_candidates": [],
+  "topic": "hairstylists \"any good app for\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

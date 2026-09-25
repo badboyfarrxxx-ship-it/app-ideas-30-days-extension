@@ -1,0 +1,76 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "dog groomers booking app",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-25T16:17:11.163040+00:00",
+  "items_by_source": {
+    "github": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [
+      "github-only queries focused on repos and code for booking functionality"
+    ],
+    "raw_topic": "dog groomers booking app",
+    "source_weights": {
+      "github": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "booking system repos",
+        "ranking_query": "GitHub repositories implementing a booking app for dog groomers or pet grooming businesses",
+        "search_query": "booking app OR booking system dog OR pet groom",
+        "sources": [
+          "github"
+        ],
+        "weight": 0.37037037037037035
+      },
+      {
+        "label": "pet service scheduling code",
+        "ranking_query": "Open source code and projects for scheduling and booking dog grooming appointments",
+        "search_query": "pet grooming scheduler OR appointment booking dog",
+        "sources": [
+          "github"
+        ],
+        "weight": 0.3333333333333333
+      },
+      {
+        "label": "salon booking templates",
+        "ranking_query": "GitHub projects providing booking functionality suitable for dog groomers or pet salons",
+        "search_query": "grooming salon booking system OR calendar app pet",
+        "sources": [
+          "github"
+        ],
+        "weight": 0.2962962962962963
+      }
+    ]
+  },
+  "range_from": "2026-08-26",
+  "range_to": "2026-09-25",
+  "ranked_candidates": [],
+  "topic": "dog groomers booking app",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}
