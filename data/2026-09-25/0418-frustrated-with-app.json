@@ -1,0 +1,1637 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"frustrated with\" app",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://x.com/dolansthoughts/status/2102902202604093944"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://x.com/dolansthoughts/status/2102902202604093944"
+      ],
+      "score": 64.56972369194591,
+      "sources": [
+        "x"
+      ],
+      "title": "Thanks for the response - enjoy the show and YouTube stuff but have been frustrated with the WKYC app and haven\u2019t tuned in as much as I woul",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/tony_god_sent/status/2103207460299243670"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://x.com/tony_god_sent/status/2103207460299243670"
+      ],
+      "score": 39.51791135397693,
+      "sources": [
+        "x"
+      ],
+      "title": "Numbers keep dropping Many have left the app Many have stopped subscribing Verified impressions are reducing because many have stopped subsc",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/lowellcestceo/status/2103196381393351018"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://x.com/lowellcestceo/status/2103196381393351018"
+      ],
+      "score": 30.49342891278375,
+      "sources": [
+        "x"
+      ],
+      "title": "they told me the same shit \ud83d\ude2d i don't understand why i got sussed while ppl who have do worst shi still with their acc... i hate this app",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/economissive/status/2103012974080508080"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://x.com/economissive/status/2103012974080508080"
+      ],
+      "score": 30.366120218579233,
+      "sources": [
+        "x"
+      ],
+      "title": "The Twitter app is broken on android. I would normally just post this update without any text, but the app requires me to type something",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/butchgawd/status/2103182011263279401"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://x.com/butchgawd/status/2103182011263279401"
+      ],
+      "score": 30.243781094527364,
+      "sources": [
+        "x"
+      ],
+      "title": "Responses suck, app is broken and glitchy as fuck. It\u2019s literally soooo busted",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/sapphic_zip/status/2103174570018742622"
+      ],
+      "cluster_id": "cluster-6",
+      "representative_ids": [
+        "https://x.com/sapphic_zip/status/2103174570018742622"
+      ],
+      "score": 8.203225806451613,
+      "sources": [
+        "x"
+      ],
+      "title": "app is broken as it is with the ads lmfaooo",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/daintywaifu/status/2103153939684184344"
+      ],
+      "cluster_id": "cluster-7",
+      "representative_ids": [
+        "https://x.com/daintywaifu/status/2103153939684184344"
+      ],
+      "score": 8.196825396825396,
+      "sources": [
+        "x"
+      ],
+      "title": "just trying to order coffee in peace and dunkin decides to drop a free code now the whole app is broken like are we fucking fr",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/acdsbff/status/2103247691857920477"
+      ],
+      "cluster_id": "cluster-8",
+      "representative_ids": [
+        "https://x.com/acdsbff/status/2103247691857920477"
+      ],
+      "score": 8.190625,
+      "sources": [
+        "x"
+      ],
+      "title": "the app is broken beyond repair at this point",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/kofiadamson/status/2103003400048677257"
+      ],
+      "cluster_id": "cluster-9",
+      "representative_ids": [
+        "https://x.com/kofiadamson/status/2103003400048677257"
+      ],
+      "score": 8.184615384615382,
+      "sources": [
+        "x"
+      ],
+      "title": "My chats keep disappearing with \"You don't have access...\" errors, sync between desktop Chrome and the app is broken",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/nervy_wreck/status/2103002851429519615"
+      ],
+      "cluster_id": "cluster-10",
+      "representative_ids": [
+        "https://x.com/nervy_wreck/status/2103002851429519615"
+      ],
+      "score": 8.16764705882353,
+      "sources": [
+        "x"
+      ],
+      "title": "dont have espn and my mlb app is #broken for media so i missed All of that game",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/malikjgacn/status/2103201088958521734"
+      ],
+      "cluster_id": "cluster-11",
+      "representative_ids": [
+        "https://x.com/malikjgacn/status/2103201088958521734"
+      ],
+      "score": 7.278787878787878,
+      "sources": [
+        "x"
+      ],
+      "title": "If your vibe coded app is broken in production , it become very hard to 'save it'",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/osu1994/status/2103206377006977079"
+      ],
+      "cluster_id": "cluster-12",
+      "representative_ids": [
+        "https://x.com/osu1994/status/2103206377006977079"
+      ],
+      "score": 6.66231884057971,
+      "sources": [
+        "x"
+      ],
+      "title": "@MarriottBonvoy your app is broken.",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/taoghost08/status/2103198783139905759",
+        "https://x.com/cheriedoveita/status/2102979411507315072"
+      ],
+      "cluster_id": "cluster-13",
+      "representative_ids": [
+        "https://x.com/taoghost08/status/2103198783139905759",
+        "https://x.com/cheriedoveita/status/2102979411507315072"
+      ],
+      "score": 6.657142857142857,
+      "sources": [
+        "x"
+      ],
+      "title": "Their app is broken",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/karthik_ak/status/2103157033314975969"
+      ],
+      "cluster_id": "cluster-14",
+      "representative_ids": [
+        "https://x.com/karthik_ak/status/2103157033314975969"
+      ],
+      "score": 6.647222222222221,
+      "sources": [
+        "x"
+      ],
+      "title": "Maybe your web app is broken. Even after uploading images, I was unable to proceed.",
+      "uncertainty": "single-source"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-25T04:18:18.671994+00:00",
+  "items_by_source": {
+    "x": [
+      {
+        "author": "tony_god_sent",
+        "body": "Numbers keep dropping Many have left the app Many have stopped subscribing Verified impressions are reducing because many have stopped subscribing. Elon boy has frustrated people with his extreme policies. It\u2019s a pity.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 64,
+          "quotes": 1,
+          "replies": 20,
+          "reposts": 46
+        },
+        "engagement_score": 84,
+        "freshness": 86,
+        "item_id": "X1",
+        "local_rank_score": 0.43550000000000005,
+        "local_relevance": 0.21,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.95,
+        "snippet": "Numbers keep dropping Many have left the app Many have stopped subscribing Verified impressions are reducing because many have stopped subscribing. Elon boy has frustrated people with his extreme policies. It\u2019s a pity.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Numbers keep dropping Many have left the app Many have stopped subscribing Verified impressions are reducing because many have stopped subsc",
+        "url": "https://x.com/tony_god_sent/status/2103207460299243670",
+        "why_relevant": "Directly expresses frustration with app policies causing users to leave"
+      },
+      {
+        "author": "Economissive",
+        "body": "The Twitter app is broken on android. I would normally just post this update without any text, but the app requires me to type something",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 7,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 100,
+        "freshness": 86,
+        "item_id": "X10",
+        "local_rank_score": 0.37349999999999994,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.95,
+        "snippet": "The Twitter app is broken on android. I would normally just post this update without any text, but the app requires me to type something",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "The Twitter app is broken on android. I would normally just post this update without any text, but the app requires me to type something",
+        "url": "https://x.com/Economissive/status/2103012974080508080",
+        "why_relevant": "Explicitly states Twitter app is broken on Android"
+      },
+      {
+        "author": "lowellcestCEO",
+        "body": "they told me the same shit \ud83d\ude2d i don't understand why i got sussed while ppl who have do worst shi still with their acc... i hate this app",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 5,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 21,
+        "freshness": 86,
+        "item_id": "X9",
+        "local_rank_score": 0.37250000000000005,
+        "local_relevance": 0.21,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.85,
+        "snippet": "they told me the same shit \ud83d\ude2d i don't understand why i got sussed while ppl who have do worst shi still with their acc... i hate this app",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "they told me the same shit \ud83d\ude2d i don't understand why i got sussed while ppl who have do worst shi still with their acc... i hate this app",
+        "url": "https://x.com/lowellcestCEO/status/2103196381393351018",
+        "why_relevant": "Frustration with app suspension policies"
+      },
+      {
+        "author": "DolansThoughts",
+        "body": "Thanks for the response - enjoy the show and YouTube stuff but have been frustrated with the WKYC app and haven\u2019t tuned in as much as I would have and did when it was on YouTube from 10-12.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 1,
+        "freshness": 84,
+        "item_id": "X3",
+        "local_rank_score": 0.34750000000000003,
+        "local_relevance": 0.21,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.85,
+        "snippet": "Thanks for the response - enjoy the show and YouTube stuff but have been frustrated with the WKYC app and haven\u2019t tuned in as much as I would have and did when it was on YouTube from 10-12.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Thanks for the response - enjoy the show and YouTube stuff but have been frustrated with the WKYC app and haven\u2019t tuned in as much as I woul",
+        "url": "https://x.com/DolansThoughts/status/2102902202604093944",
+        "why_relevant": "Frustration with a specific TV app's performance"
+      },
+      {
+        "author": "sapphic_zip",
+        "body": "app is broken as it is with the ads lmfaooo",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 2,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 48,
+        "freshness": 86,
+        "item_id": "X7",
+        "local_rank_score": 0.34099999999999997,
+        "local_relevance": 0.12,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.85,
+        "snippet": "app is broken as it is with the ads lmfaooo",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "app is broken as it is with the ads lmfaooo",
+        "url": "https://x.com/sapphic_zip/status/2103174570018742622",
+        "why_relevant": "Complains about app being broken due to ads"
+      },
+      {
+        "author": "daintywaifu",
+        "body": "just trying to order coffee in peace and dunkin decides to drop a free code now the whole app is broken like are we fucking fr",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 2,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 48,
+        "freshness": 86,
+        "item_id": "X9",
+        "local_rank_score": 0.32149999999999995,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.95,
+        "snippet": "just trying to order coffee in peace and dunkin decides to drop a free code now the whole app is broken like are we fucking fr",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "just trying to order coffee in peace and dunkin decides to drop a free code now the whole app is broken like are we fucking fr",
+        "url": "https://x.com/daintywaifu/status/2103153939684184344",
+        "why_relevant": "Frustrated that Dunkin app is broken"
+      },
+      {
+        "author": "acdsbff",
+        "body": "the app is broken beyond repair at this point",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 26,
+        "freshness": 86,
+        "item_id": "X1",
+        "local_rank_score": 0.319,
+        "local_relevance": 0.12,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.95,
+        "snippet": "the app is broken beyond repair at this point",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "the app is broken beyond repair at this point",
+        "url": "https://x.com/acdsbff/status/2103247691857920477",
+        "why_relevant": "Direct complaint that the app is broken beyond repair"
+      },
+      {
+        "author": "kofiadamson",
+        "body": "My chats keep disappearing with \"You don't have access...\" errors, sync between desktop Chrome and the app is broken",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 36,
+        "freshness": 86,
+        "item_id": "X11",
+        "local_rank_score": 0.30949999999999994,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.9,
+        "snippet": "My chats keep disappearing with \"You don't have access...\" errors, sync between desktop Chrome and the app is broken",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "My chats keep disappearing with \"You don't have access...\" errors, sync between desktop Chrome and the app is broken",
+        "url": "https://x.com/kofiadamson/status/2103003400048677257",
+        "why_relevant": "Details multiple issues with an app being broken"
+      },
+      {
+        "author": "malikjgacn",
+        "body": "If your vibe coded app is broken in production , it become very hard to 'save it'",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 26,
+        "freshness": 86,
+        "item_id": "X4",
+        "local_rank_score": 0.30600000000000005,
+        "local_relevance": 0.1,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.85,
+        "snippet": "If your vibe coded app is broken in production , it become very hard to 'save it'",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "If your vibe coded app is broken in production , it become very hard to 'save it'",
+        "url": "https://x.com/malikjgacn/status/2103201088958521734",
+        "why_relevant": "Discusses issues with a broken app in production"
+      },
+      {
+        "author": "ButchGawd",
+        "body": "Responses suck, app is broken and glitchy as fuck. It\u2019s literally soooo busted",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 26,
+        "freshness": 86,
+        "item_id": "X6",
+        "local_rank_score": 0.30600000000000005,
+        "local_relevance": 0.1,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.9,
+        "snippet": "Responses suck, app is broken and glitchy as fuck. It\u2019s literally soooo busted",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Responses suck, app is broken and glitchy as fuck. It\u2019s literally soooo busted",
+        "url": "https://x.com/ButchGawd/status/2103182011263279401",
+        "why_relevant": "Describes app as broken and glitchy"
+      },
+      {
+        "author": "nervy_wreck",
+        "body": "dont have espn and my mlb app is #broken for media so i missed All of that game",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 26,
+        "freshness": 86,
+        "item_id": "X12",
+        "local_rank_score": 0.30600000000000005,
+        "local_relevance": 0.1,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.9,
+        "snippet": "dont have espn and my mlb app is #broken for media so i missed All of that game",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "dont have espn and my mlb app is #broken for media so i missed All of that game",
+        "url": "https://x.com/nervy_wreck/status/2103002851429519615",
+        "why_relevant": "Calls MLB app broken preventing media access"
+      },
+      {
+        "author": "osu1994",
+        "body": "@MarriottBonvoy your app is broken.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 0,
+        "freshness": 86,
+        "item_id": "X3",
+        "local_rank_score": 0.306,
+        "local_relevance": 0.14,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.9,
+        "snippet": "@MarriottBonvoy your app is broken.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "@MarriottBonvoy your app is broken.",
+        "url": "https://x.com/osu1994/status/2103206377006977079",
+        "why_relevant": "Directly states Marriott Bonvoy app is broken"
+      },
+      {
+        "author": "TaoGhost08",
+        "body": "Their app is broken",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 86,
+        "item_id": "X5",
+        "local_rank_score": 0.306,
+        "local_relevance": 0.14,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.8,
+        "snippet": "Their app is broken",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Their app is broken",
+        "url": "https://x.com/TaoGhost08/status/2103198783139905759",
+        "why_relevant": "States an app is broken"
+      },
+      {
+        "author": "cheriedoveita",
+        "body": "THIS APP IS BROKEN OK",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 0,
+        "freshness": 86,
+        "item_id": "X13",
+        "local_rank_score": 0.306,
+        "local_relevance": 0.14,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.85,
+        "snippet": "THIS APP IS BROKEN OK",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "THIS APP IS BROKEN OK",
+        "url": "https://x.com/cheriedoveita/status/2102979411507315072",
+        "why_relevant": "Directly states the app is broken"
+      },
+      {
+        "author": "karthik_ak",
+        "body": "Maybe your web app is broken. Even after uploading images, I was unable to proceed.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 0,
+        "freshness": 86,
+        "item_id": "X8",
+        "local_rank_score": 0.28,
+        "local_relevance": 0.1,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.8,
+        "snippet": "Maybe your web app is broken. Even after uploading images, I was unable to proceed.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Maybe your web app is broken. Even after uploading images, I was unable to proceed.",
+        "url": "https://x.com/karthik_ak/status/2103157033314975969",
+        "why_relevant": "Mentions a web app being broken preventing actions"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "debate",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [
+      "Focus on raw user sentiment and recurring pain points"
+    ],
+    "raw_topic": "\"frustrated with\" app",
+    "source_weights": {
+      "x": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "app frustration",
+        "ranking_query": "What makes users frustrated with the app and what complaints do they voice?",
+        "search_query": "frustrated with app OR \"this app sucks\" OR \"hate this app\"",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.37037037037037035
+      },
+      {
+        "label": "app complaints",
+        "ranking_query": "What specific issues cause people to complain about the app experience?",
+        "search_query": "\"can't stand the app\" OR \"app is broken\" OR app annoying",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.3333333333333333
+      },
+      {
+        "label": "user venting",
+        "ranking_query": "How do users express their anger or disappointment with the app on social platforms?",
+        "search_query": "app \"so frustrating\" OR \"delete this app\" OR app rage",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.2962962962962963
+      }
+    ]
+  },
+  "range_from": "2026-08-26",
+  "range_to": "2026-09-25",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://x.com/dolansthoughts/status/2102902202604093944",
+      "cluster_id": "cluster-1",
+      "engagement": 1,
+      "explanation": "Directly states frustration with specific app and reduced usage; substantive opinion",
+      "final_score": 64.56972369194591,
+      "freshness": 84,
+      "fun_explanation": "straight complaint, no punch",
+      "fun_score": 15.0,
+      "item_id": "X3",
+      "local_relevance": 0.21,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X3",
+            "native_rank": 3,
+            "source": "x",
+            "subquery_label": "app frustration"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app frustration:x": 3
+      },
+      "rerank_score": 85.0,
+      "rrf_score": 0.005878894767783656,
+      "snippet": "Thanks for the response - enjoy the show and YouTube stuff but have been frustrated with the WKYC app and haven\u2019t tuned in as much as I would have and did when it was on YouTube from 10-12.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "DolansThoughts",
+          "body": "Thanks for the response - enjoy the show and YouTube stuff but have been frustrated with the WKYC app and haven\u2019t tuned in as much as I would have and did when it was on YouTube from 10-12.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 1,
+          "freshness": 84,
+          "item_id": "X3",
+          "local_rank_score": 0.34750000000000003,
+          "local_relevance": 0.21,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.85,
+          "snippet": "Thanks for the response - enjoy the show and YouTube stuff but have been frustrated with the WKYC app and haven\u2019t tuned in as much as I would have and did when it was on YouTube from 10-12.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Thanks for the response - enjoy the show and YouTube stuff but have been frustrated with the WKYC app and haven\u2019t tuned in as much as I woul",
+          "url": "https://x.com/DolansThoughts/status/2102902202604093944",
+          "why_relevant": "Frustration with a specific TV app's performance"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app frustration"
+      ],
+      "title": "Thanks for the response - enjoy the show and YouTube stuff but have been frustrated with the WKYC app and haven\u2019t tuned in as much as I woul",
+      "url": "https://x.com/DolansThoughts/status/2102902202604093944"
+    },
+    {
+      "candidate_id": "https://x.com/tony_god_sent/status/2103207460299243670",
+      "cluster_id": "cluster-2",
+      "engagement": 84,
+      "explanation": "Mentions frustration causing users to leave the app, but ties to policies not direct app frustration",
+      "final_score": 39.51791135397693,
+      "freshness": 86,
+      "fun_explanation": "rant about numbers, low wit",
+      "fun_score": 20.0,
+      "item_id": "X1",
+      "local_relevance": 0.21,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X1",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "app frustration"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app frustration:x": 1
+      },
+      "rerank_score": 35.0,
+      "rrf_score": 0.006071645415907711,
+      "snippet": "Numbers keep dropping Many have left the app Many have stopped subscribing Verified impressions are reducing because many have stopped subscribing. Elon boy has frustrated people with his extreme policies. It\u2019s a pity.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "tony_god_sent",
+          "body": "Numbers keep dropping Many have left the app Many have stopped subscribing Verified impressions are reducing because many have stopped subscribing. Elon boy has frustrated people with his extreme policies. It\u2019s a pity.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 64,
+            "quotes": 1,
+            "replies": 20,
+            "reposts": 46
+          },
+          "engagement_score": 84,
+          "freshness": 86,
+          "item_id": "X1",
+          "local_rank_score": 0.43550000000000005,
+          "local_relevance": 0.21,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.95,
+          "snippet": "Numbers keep dropping Many have left the app Many have stopped subscribing Verified impressions are reducing because many have stopped subscribing. Elon boy has frustrated people with his extreme policies. It\u2019s a pity.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Numbers keep dropping Many have left the app Many have stopped subscribing Verified impressions are reducing because many have stopped subsc",
+          "url": "https://x.com/tony_god_sent/status/2103207460299243670",
+          "why_relevant": "Directly expresses frustration with app policies causing users to leave"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app frustration"
+      ],
+      "title": "Numbers keep dropping Many have left the app Many have stopped subscribing Verified impressions are reducing because many have stopped subsc",
+      "url": "https://x.com/tony_god_sent/status/2103207460299243670"
+    },
+    {
+      "candidate_id": "https://x.com/lowellcestceo/status/2103196381393351018",
+      "cluster_id": "cluster-3",
+      "engagement": 21,
+      "explanation": "Venting about app but no mention of entity 'frustrated with' app",
+      "final_score": 30.49342891278375,
+      "freshness": 86,
+      "fun_explanation": "some emotion with emoji",
+      "fun_score": 30.0,
+      "item_id": "X9",
+      "local_relevance": 0.21,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X9",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "app frustration"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app frustration:x": 2
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.005973715651135005,
+      "snippet": "they told me the same shit \ud83d\ude2d i don't understand why i got sussed while ppl who have do worst shi still with their acc... i hate this app",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "lowellcestCEO",
+          "body": "they told me the same shit \ud83d\ude2d i don't understand why i got sussed while ppl who have do worst shi still with their acc... i hate this app",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 5,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 21,
+          "freshness": 86,
+          "item_id": "X9",
+          "local_rank_score": 0.37250000000000005,
+          "local_relevance": 0.21,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.85,
+          "snippet": "they told me the same shit \ud83d\ude2d i don't understand why i got sussed while ppl who have do worst shi still with their acc... i hate this app",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "they told me the same shit \ud83d\ude2d i don't understand why i got sussed while ppl who have do worst shi still with their acc... i hate this app",
+          "url": "https://x.com/lowellcestCEO/status/2103196381393351018",
+          "why_relevant": "Frustration with app suspension policies"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app frustration"
+      ],
+      "title": "they told me the same shit \ud83d\ude2d i don't understand why i got sussed while ppl who have do worst shi still with their acc... i hate this app",
+      "url": "https://x.com/lowellcestCEO/status/2103196381393351018"
+    },
+    {
+      "candidate_id": "https://x.com/economissive/status/2103012974080508080",
+      "cluster_id": "cluster-4",
+      "engagement": 100,
+      "explanation": "Complaint about app broken, no entity match",
+      "final_score": 30.366120218579233,
+      "freshness": 86,
+      "fun_explanation": "meta joke about needing text to complain",
+      "fun_score": 75.0,
+      "item_id": "X10",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X10",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "app complaints"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app complaints:x": 1
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.00546448087431694,
+      "snippet": "The Twitter app is broken on android. I would normally just post this update without any text, but the app requires me to type something",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Economissive",
+          "body": "The Twitter app is broken on android. I would normally just post this update without any text, but the app requires me to type something",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 7,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 100,
+          "freshness": 86,
+          "item_id": "X10",
+          "local_rank_score": 0.37349999999999994,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.95,
+          "snippet": "The Twitter app is broken on android. I would normally just post this update without any text, but the app requires me to type something",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "The Twitter app is broken on android. I would normally just post this update without any text, but the app requires me to type something",
+          "url": "https://x.com/Economissive/status/2103012974080508080",
+          "why_relevant": "Explicitly states Twitter app is broken on Android"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app complaints"
+      ],
+      "title": "The Twitter app is broken on android. I would normally just post this update without any text, but the app requires me to type something",
+      "url": "https://x.com/Economissive/status/2103012974080508080"
+    },
+    {
+      "candidate_id": "https://x.com/butchgawd/status/2103182011263279401",
+      "cluster_id": "cluster-5",
+      "engagement": 26,
+      "explanation": "Responses and app broken venting, no entity match",
+      "final_score": 30.243781094527364,
+      "freshness": 86,
+      "fun_explanation": "emphatic but plain venting",
+      "fun_score": 25.0,
+      "item_id": "X6",
+      "local_relevance": 0.1,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X6",
+            "native_rank": 7,
+            "source": "x",
+            "subquery_label": "app complaints"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app complaints:x": 7
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.004975124378109453,
+      "snippet": "Responses suck, app is broken and glitchy as fuck. It\u2019s literally soooo busted",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "ButchGawd",
+          "body": "Responses suck, app is broken and glitchy as fuck. It\u2019s literally soooo busted",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 26,
+          "freshness": 86,
+          "item_id": "X6",
+          "local_rank_score": 0.30600000000000005,
+          "local_relevance": 0.1,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.9,
+          "snippet": "Responses suck, app is broken and glitchy as fuck. It\u2019s literally soooo busted",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Responses suck, app is broken and glitchy as fuck. It\u2019s literally soooo busted",
+          "url": "https://x.com/ButchGawd/status/2103182011263279401",
+          "why_relevant": "Describes app as broken and glitchy"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app complaints"
+      ],
+      "title": "Responses suck, app is broken and glitchy as fuck. It\u2019s literally soooo busted",
+      "url": "https://x.com/ButchGawd/status/2103182011263279401"
+    },
+    {
+      "candidate_id": "https://x.com/sapphic_zip/status/2103174570018742622",
+      "cluster_id": "cluster-6",
+      "engagement": 48,
+      "explanation": "Mentions broken app with ads, no entity match",
+      "final_score": 8.203225806451613,
+      "freshness": 86,
+      "fun_explanation": "mild lmfao energy",
+      "fun_score": 35.0,
+      "item_id": "X7",
+      "local_relevance": 0.12,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X7",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "app complaints"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app complaints:x": 2
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.005376344086021505,
+      "snippet": "app is broken as it is with the ads lmfaooo",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "sapphic_zip",
+          "body": "app is broken as it is with the ads lmfaooo",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 2,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 48,
+          "freshness": 86,
+          "item_id": "X7",
+          "local_rank_score": 0.34099999999999997,
+          "local_relevance": 0.12,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.85,
+          "snippet": "app is broken as it is with the ads lmfaooo",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "app is broken as it is with the ads lmfaooo",
+          "url": "https://x.com/sapphic_zip/status/2103174570018742622",
+          "why_relevant": "Complains about app being broken due to ads"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app complaints"
+      ],
+      "title": "app is broken as it is with the ads lmfaooo",
+      "url": "https://x.com/sapphic_zip/status/2103174570018742622"
+    },
+    {
+      "candidate_id": "https://x.com/daintywaifu/status/2103153939684184344",
+      "cluster_id": "cluster-7",
+      "engagement": 48,
+      "explanation": "App broken complaint, no entity match",
+      "final_score": 8.196825396825396,
+      "freshness": 86,
+      "fun_explanation": "relatable dunkin frustration with edge",
+      "fun_score": 45.0,
+      "item_id": "X9",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X9",
+            "native_rank": 3,
+            "source": "x",
+            "subquery_label": "app complaints"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app complaints:x": 3
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.005291005291005291,
+      "snippet": "just trying to order coffee in peace and dunkin decides to drop a free code now the whole app is broken like are we fucking fr",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "daintywaifu",
+          "body": "just trying to order coffee in peace and dunkin decides to drop a free code now the whole app is broken like are we fucking fr",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 2,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 48,
+          "freshness": 86,
+          "item_id": "X9",
+          "local_rank_score": 0.32149999999999995,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.95,
+          "snippet": "just trying to order coffee in peace and dunkin decides to drop a free code now the whole app is broken like are we fucking fr",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "just trying to order coffee in peace and dunkin decides to drop a free code now the whole app is broken like are we fucking fr",
+          "url": "https://x.com/daintywaifu/status/2103153939684184344",
+          "why_relevant": "Frustrated that Dunkin app is broken"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app complaints"
+      ],
+      "title": "just trying to order coffee in peace and dunkin decides to drop a free code now the whole app is broken like are we fucking fr",
+      "url": "https://x.com/daintywaifu/status/2103153939684184344"
+    },
+    {
+      "candidate_id": "https://x.com/acdsbff/status/2103247691857920477",
+      "cluster_id": "cluster-8",
+      "engagement": 26,
+      "explanation": "App broken complaint, no entity match",
+      "final_score": 8.190625,
+      "freshness": 86,
+      "fun_explanation": "generic broken app line",
+      "fun_score": 15.0,
+      "item_id": "X1",
+      "local_relevance": 0.12,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X1",
+            "native_rank": 4,
+            "source": "x",
+            "subquery_label": "app complaints"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app complaints:x": 4
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.005208333333333333,
+      "snippet": "the app is broken beyond repair at this point",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "acdsbff",
+          "body": "the app is broken beyond repair at this point",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 26,
+          "freshness": 86,
+          "item_id": "X1",
+          "local_rank_score": 0.319,
+          "local_relevance": 0.12,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.95,
+          "snippet": "the app is broken beyond repair at this point",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "the app is broken beyond repair at this point",
+          "url": "https://x.com/acdsbff/status/2103247691857920477",
+          "why_relevant": "Direct complaint that the app is broken beyond repair"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app complaints"
+      ],
+      "title": "the app is broken beyond repair at this point",
+      "url": "https://x.com/acdsbff/status/2103247691857920477"
+    },
+    {
+      "candidate_id": "https://x.com/kofiadamson/status/2103003400048677257",
+      "cluster_id": "cluster-9",
+      "engagement": 36,
+      "explanation": "App sync issues complaint, no entity match",
+      "final_score": 8.184615384615382,
+      "freshness": 86,
+      "fun_explanation": "dry tech complaint",
+      "fun_score": 10.0,
+      "item_id": "X11",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X11",
+            "native_rank": 5,
+            "source": "x",
+            "subquery_label": "app complaints"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app complaints:x": 5
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.005128205128205128,
+      "snippet": "My chats keep disappearing with \"You don't have access...\" errors, sync between desktop Chrome and the app is broken",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "kofiadamson",
+          "body": "My chats keep disappearing with \"You don't have access...\" errors, sync between desktop Chrome and the app is broken",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 36,
+          "freshness": 86,
+          "item_id": "X11",
+          "local_rank_score": 0.30949999999999994,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.9,
+          "snippet": "My chats keep disappearing with \"You don't have access...\" errors, sync between desktop Chrome and the app is broken",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "My chats keep disappearing with \"You don't have access...\" errors, sync between desktop Chrome and the app is broken",
+          "url": "https://x.com/kofiadamson/status/2103003400048677257",
+          "why_relevant": "Details multiple issues with an app being broken"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app complaints"
+      ],
+      "title": "My chats keep disappearing with \"You don't have access...\" errors, sync between desktop Chrome and the app is broken",
+      "url": "https://x.com/kofiadamson/status/2103003400048677257"
+    },
+    {
+      "candidate_id": "https://x.com/nervy_wreck/status/2103002851429519615",
+      "cluster_id": "cluster-10",
+      "engagement": 26,
+      "explanation": "MLB app broken complaint, no entity match",
+      "final_score": 8.16764705882353,
+      "freshness": 86,
+      "fun_explanation": "straight missed game gripe",
+      "fun_score": 15.0,
+      "item_id": "X12",
+      "local_relevance": 0.1,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X12",
+            "native_rank": 8,
+            "source": "x",
+            "subquery_label": "app complaints"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app complaints:x": 8
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.004901960784313725,
+      "snippet": "dont have espn and my mlb app is #broken for media so i missed All of that game",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "nervy_wreck",
+          "body": "dont have espn and my mlb app is #broken for media so i missed All of that game",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 26,
+          "freshness": 86,
+          "item_id": "X12",
+          "local_rank_score": 0.30600000000000005,
+          "local_relevance": 0.1,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.9,
+          "snippet": "dont have espn and my mlb app is #broken for media so i missed All of that game",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "dont have espn and my mlb app is #broken for media so i missed All of that game",
+          "url": "https://x.com/nervy_wreck/status/2103002851429519615",
+          "why_relevant": "Calls MLB app broken preventing media access"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app complaints"
+      ],
+      "title": "dont have espn and my mlb app is #broken for media so i missed All of that game",
+      "url": "https://x.com/nervy_wreck/status/2103002851429519615"
+    },
+    {
+      "candidate_id": "https://x.com/malikjgacn/status/2103201088958521734",
+      "cluster_id": "cluster-11",
+      "engagement": 26,
+      "explanation": "General app broken in production, no entity match",
+      "final_score": 7.278787878787878,
+      "freshness": 86,
+      "fun_explanation": "clever 'vibe coded' jab",
+      "fun_score": 60.0,
+      "item_id": "X4",
+      "local_relevance": 0.1,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X4",
+            "native_rank": 6,
+            "source": "x",
+            "subquery_label": "app complaints"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app complaints:x": 6
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.00505050505050505,
+      "snippet": "If your vibe coded app is broken in production , it become very hard to 'save it'",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "malikjgacn",
+          "body": "If your vibe coded app is broken in production , it become very hard to 'save it'",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 26,
+          "freshness": 86,
+          "item_id": "X4",
+          "local_rank_score": 0.30600000000000005,
+          "local_relevance": 0.1,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.85,
+          "snippet": "If your vibe coded app is broken in production , it become very hard to 'save it'",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "If your vibe coded app is broken in production , it become very hard to 'save it'",
+          "url": "https://x.com/malikjgacn/status/2103201088958521734",
+          "why_relevant": "Discusses issues with a broken app in production"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app complaints"
+      ],
+      "title": "If your vibe coded app is broken in production , it become very hard to 'save it'",
+      "url": "https://x.com/malikjgacn/status/2103201088958521734"
+    },
+    {
+      "candidate_id": "https://x.com/osu1994/status/2103206377006977079",
+      "cluster_id": "cluster-12",
+      "engagement": 0,
+      "explanation": "App broken complaint, no entity match",
+      "final_score": 6.66231884057971,
+      "freshness": 86,
+      "fun_explanation": "short tag, no flair",
+      "fun_score": 20.0,
+      "item_id": "X3",
+      "local_relevance": 0.14,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X3",
+            "native_rank": 9,
+            "source": "x",
+            "subquery_label": "app complaints"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app complaints:x": 9
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.004830917874396135,
+      "snippet": "@MarriottBonvoy your app is broken.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "osu1994",
+          "body": "@MarriottBonvoy your app is broken.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 0,
+          "freshness": 86,
+          "item_id": "X3",
+          "local_rank_score": 0.306,
+          "local_relevance": 0.14,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.9,
+          "snippet": "@MarriottBonvoy your app is broken.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "@MarriottBonvoy your app is broken.",
+          "url": "https://x.com/osu1994/status/2103206377006977079",
+          "why_relevant": "Directly states Marriott Bonvoy app is broken"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app complaints"
+      ],
+      "title": "@MarriottBonvoy your app is broken.",
+      "url": "https://x.com/osu1994/status/2103206377006977079"
+    },
+    {
+      "candidate_id": "https://x.com/taoghost08/status/2103198783139905759",
+      "cluster_id": "cluster-13",
+      "explanation": "App broken complaint, no entity match",
+      "final_score": 6.657142857142857,
+      "freshness": 86,
+      "fun_explanation": "ultra basic statement",
+      "fun_score": 15.0,
+      "item_id": "X5",
+      "local_relevance": 0.14,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X5",
+            "native_rank": 10,
+            "source": "x",
+            "subquery_label": "app complaints"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app complaints:x": 10
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.0047619047619047615,
+      "snippet": "Their app is broken",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "TaoGhost08",
+          "body": "Their app is broken",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 86,
+          "item_id": "X5",
+          "local_rank_score": 0.306,
+          "local_relevance": 0.14,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.8,
+          "snippet": "Their app is broken",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Their app is broken",
+          "url": "https://x.com/TaoGhost08/status/2103198783139905759",
+          "why_relevant": "States an app is broken"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app complaints"
+      ],
+      "title": "Their app is broken",
+      "url": "https://x.com/TaoGhost08/status/2103198783139905759"
+    },
+    {
+      "candidate_id": "https://x.com/cheriedoveita/status/2102979411507315072",
+      "cluster_id": "cluster-13",
+      "engagement": 0,
+      "explanation": "App broken complaint, no entity match",
+      "final_score": 6.652112676056338,
+      "freshness": 86,
+      "fun_explanation": "caps for emphasis only",
+      "fun_score": 20.0,
+      "item_id": "X13",
+      "local_relevance": 0.14,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X13",
+            "native_rank": 11,
+            "source": "x",
+            "subquery_label": "app complaints"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app complaints:x": 11
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.004694835680751174,
+      "snippet": "THIS APP IS BROKEN OK",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "cheriedoveita",
+          "body": "THIS APP IS BROKEN OK",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 0,
+          "freshness": 86,
+          "item_id": "X13",
+          "local_rank_score": 0.306,
+          "local_relevance": 0.14,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.85,
+          "snippet": "THIS APP IS BROKEN OK",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "THIS APP IS BROKEN OK",
+          "url": "https://x.com/cheriedoveita/status/2102979411507315072",
+          "why_relevant": "Directly states the app is broken"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app complaints"
+      ],
+      "title": "THIS APP IS BROKEN OK",
+      "url": "https://x.com/cheriedoveita/status/2102979411507315072"
+    },
+    {
+      "candidate_id": "https://x.com/karthik_ak/status/2103157033314975969",
+      "cluster_id": "cluster-14",
+      "engagement": 0,
+      "explanation": "Web app upload issue, no entity match",
+      "final_score": 6.647222222222221,
+      "freshness": 86,
+      "fun_explanation": "light sarcasm on upload fail",
+      "fun_score": 40.0,
+      "item_id": "X8",
+      "local_relevance": 0.1,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X8",
+            "native_rank": 12,
+            "source": "x",
+            "subquery_label": "app complaints"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app complaints:x": 12
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.004629629629629629,
+      "snippet": "Maybe your web app is broken. Even after uploading images, I was unable to proceed.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "karthik_ak",
+          "body": "Maybe your web app is broken. Even after uploading images, I was unable to proceed.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 0,
+          "freshness": 86,
+          "item_id": "X8",
+          "local_rank_score": 0.28,
+          "local_relevance": 0.1,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.8,
+          "snippet": "Maybe your web app is broken. Even after uploading images, I was unable to proceed.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Maybe your web app is broken. Even after uploading images, I was unable to proceed.",
+          "url": "https://x.com/karthik_ak/status/2103157033314975969",
+          "why_relevant": "Mentions a web app being broken preventing actions"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app complaints"
+      ],
+      "title": "Maybe your web app is broken. Even after uploading images, I was unable to proceed.",
+      "url": "https://x.com/karthik_ak/status/2103157033314975969"
+    }
+  ],
+  "topic": "\"frustrated with\" app",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}

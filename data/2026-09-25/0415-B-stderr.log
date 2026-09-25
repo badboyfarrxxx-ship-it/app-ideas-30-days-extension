@@ -1,0 +1,89 @@
+Batch B sources=x,bluesky
+Started at 2026-09-25T04:15:57Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/36093738200
+----
+
+===== Seed: "is there an app that" =====
+/last30days · researching: "is there an app that"
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=2, source=llm
+[Planner]   sq1 label=app existence search="app that OR "is there an app"" sources=[x]
+[Planner]   sq2 label=recommend app search="recommend app OR looking for app" sources=[x]
+✓ Research complete (49.5s) - X: 4 posts
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-25/0416-is-there-an-app-that.json
+[OK] seed succeeded
+
+===== Seed: "any good app for" =====
+/last30days · researching: "any good app for"
+⏳ [95mProcessing[0m Scoring and ranking...
+[Planner] Plan: intent=opinion, freshness=balanced_recent, cluster_mode=none, subqueries=4, source=llm
+[Planner]   sq1 label=app recs search="good app OR useful app recommend" sources=[x]
+[Planner]   sq2 label=productivity apps search="productivity app OR tool recommendation" sources=[x]
+[Planner]   sq3 label=daily use apps search="favorite app OR must have app" sources=[x]
+[Planner]   sq4 label=hidden gem apps search="hidden gem app OR underrated app" sources=[x]
+✓ Research complete (41.9s) - X: 3 posts
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-25/0417-any-good-app-for.json
+[OK] seed succeeded
+
+===== Seed: "frustrated with" app =====
+/last30days · researching: "frustrated with" app
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] Plan: intent=opinion, freshness=balanced_recent, cluster_mode=debate, subqueries=3, source=llm
+[Planner]   sq1 label=app frustration search="frustrated with app OR "this app sucks" OR "hate this app"" sources=[x]
+[Planner]   sq2 label=app complaints search=""can't stand the app" OR "app is broken" OR app annoying" sources=[x]
+[Planner]   sq3 label=user venting search="app "so frustrating" OR "delete this app" OR app rage" sources=[x]
+✓ Research complete (49.1s) - X: 15 posts
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-25/0418-frustrated-with-app.json
+[OK] seed succeeded
+
+===== Seed: "sick of" app subscription =====
+/last30days · researching: "sick of" app subscription
+⏳ [95mProcessing[0m Crunching the data...
+[Planner] Plan: intent=opinion, freshness=balanced_recent, cluster_mode=debate, subqueries=4, source=llm
+[Planner]   sq1 label=subscription fatigue search=""sick of" subscriptions OR "tired of" app subs" sources=[x]
+[Planner]   sq2 label=alternatives to subs search="one time purchase app OR lifetime license instead of subscription" sources=[x]
+[Planner]   sq3 label=canceling subs search="cancelled all subscriptions OR unsubscribed from apps" sources=[x]
+[Planner]   sq4 label=pricing complaints search="app subscription price increase OR too expensive" sources=[x]
+[Rerank] LLM reranking failed, using local fallback: JSONDecodeError: Expecting ':' delimiter: line 11 column 142 (char 1420)
+✓ Research complete (59.0s) - X: 24 posts
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-25/0419-sick-of-app-subscription.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed

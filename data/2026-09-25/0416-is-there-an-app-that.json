@@ -1,0 +1,484 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"is there an app that\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://x.com/john322226/status/2102437620030861727"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://x.com/john322226/status/2102437620030861727"
+      ],
+      "score": 36.54132873166523,
+      "sources": [
+        "x"
+      ],
+      "title": "If you\u2019re looking for app to help block you access to gambling sites and also get reminder notifications not to gamble then download \u201dvoid a"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/xcawsxmexcalx/status/2103273227229217154"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://x.com/xcawsxmexcalx/status/2103273227229217154"
+      ],
+      "score": 30.588554720133665,
+      "sources": [
+        "x"
+      ],
+      "title": "An app that works properly"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/corpuscavea/status/2103270200888140272"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://x.com/corpuscavea/status/2103270200888140272"
+      ],
+      "score": 6.587109577221743,
+      "sources": [
+        "x"
+      ],
+      "title": "does anyone wanna block my twt app and every other app that's not my writing one. omfg"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/thebutterknife/status/2103270054800363524"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://x.com/thebutterknife/status/2103270054800363524"
+      ],
+      "score": 5.136672325976231,
+      "sources": [
+        "x"
+      ],
+      "title": "There\u2019s a lot of men on this app that need to do some Mens Work and that\u2019s not building things or digging holes."
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-25T04:16:47.408539+00:00",
+  "items_by_source": {
+    "x": [
+      {
+        "author": "corpuscavea",
+        "body": "does anyone wanna block my twt app and every other app that's not my writing one. omfg",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 3,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 6,
+        "freshness": 86,
+        "item_id": "X7",
+        "local_rank_score": 0.41600000000000004,
+        "local_relevance": 0.3,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.7,
+        "snippet": "does anyone wanna block my twt app and every other app that's not my writing one. omfg",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "does anyone wanna block my twt app and every other app that's not my writing one. omfg",
+        "url": "https://x.com/corpuscavea/status/2103270200888140272",
+        "why_relevant": "Mentions blocking apps except writing one"
+      },
+      {
+        "author": "john322226",
+        "body": "If you\u2019re looking for app to help block you access to gambling sites and also get reminder notifications not to gamble then download \u201dvoid app\u201d Link to download https://apps.apple.com/us/app/void-quit-gambling/id6795194848",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 166,
+          "quotes": 4,
+          "replies": 47,
+          "reposts": 54
+        },
+        "engagement_score": 100,
+        "freshness": 82,
+        "item_id": "X1",
+        "local_rank_score": 0.4155,
+        "local_relevance": 0.17,
+        "metadata": {},
+        "published_at": "2026-09-22",
+        "relevance_hint": 0.95,
+        "snippet": "If you\u2019re looking for app to help block you access to gambling sites and also get reminder notifications not to gamble then download \u201dvoid app\u201d Link to download https://apps.apple.com/us/app/void-quit-gambling/id6795194848",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "If you\u2019re looking for app to help block you access to gambling sites and also get reminder notifications not to gamble then download \u201dvoid a",
+        "url": "https://x.com/john322226/status/2102437620030861727",
+        "why_relevant": "Directly recommends an app for blocking gambling access"
+      },
+      {
+        "author": "thebutterknife",
+        "body": "There\u2019s a lot of men on this app that need to do some Mens Work and that\u2019s not building things or digging holes.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 0,
+        "freshness": 86,
+        "item_id": "X8",
+        "local_rank_score": 0.41000000000000003,
+        "local_relevance": 0.3,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.65,
+        "snippet": "There\u2019s a lot of men on this app that need to do some Mens Work and that\u2019s not building things or digging holes.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "There\u2019s a lot of men on this app that need to do some Mens Work and that\u2019s not building things or digging holes.",
+        "url": "https://x.com/thebutterknife/status/2103270054800363524",
+        "why_relevant": "Refers to users 'on this app that'"
+      },
+      {
+        "author": "xCawsxMexCalx",
+        "body": "An app that works properly",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 2,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 5,
+        "freshness": 86,
+        "item_id": "X1",
+        "local_rank_score": 0.33699999999999997,
+        "local_relevance": 0.18,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.95,
+        "snippet": "An app that works properly",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "An app that works properly",
+        "url": "https://x.com/xCawsxMexCalx/status/2103273227229217154",
+        "why_relevant": "Directly mentions 'An app that' in context of functionality"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [],
+    "raw_topic": "\"is there an app that\"",
+    "source_weights": {
+      "x": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "app existence",
+        "ranking_query": "Is there an app that does this specific thing?",
+        "search_query": "app that OR \"is there an app\"",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.5263157894736842
+      },
+      {
+        "label": "recommend app",
+        "ranking_query": "What apps exist for this need or feature?",
+        "search_query": "recommend app OR looking for app",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.4736842105263158
+      }
+    ]
+  },
+  "range_from": "2026-08-26",
+  "range_to": "2026-09-25",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://x.com/john322226/status/2102437620030861727",
+      "cluster_id": "cluster-1",
+      "engagement": 100,
+      "explanation": "Recommends specific app for a need; matches recommend subquery but no entity phrase",
+      "final_score": 36.54132873166523,
+      "freshness": 82,
+      "fun_explanation": "straight promo ad",
+      "fun_score": 12.0,
+      "item_id": "X1",
+      "local_relevance": 0.17,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X1",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "recommend app"
+          }
+        ]
+      },
+      "native_ranks": {
+        "recommend app:x": 1
+      },
+      "rerank_score": 30.0,
+      "rrf_score": 0.007765314926660915,
+      "snippet": "If you\u2019re looking for app to help block you access to gambling sites and also get reminder notifications not to gamble then download \u201dvoid app\u201d Link to download https://apps.apple.com/us/app/void-quit-gambling/id6795194848",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "john322226",
+          "body": "If you\u2019re looking for app to help block you access to gambling sites and also get reminder notifications not to gamble then download \u201dvoid app\u201d Link to download https://apps.apple.com/us/app/void-quit-gambling/id6795194848",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 166,
+            "quotes": 4,
+            "replies": 47,
+            "reposts": 54
+          },
+          "engagement_score": 100,
+          "freshness": 82,
+          "item_id": "X1",
+          "local_rank_score": 0.4155,
+          "local_relevance": 0.17,
+          "metadata": {},
+          "published_at": "2026-09-22",
+          "relevance_hint": 0.95,
+          "snippet": "If you\u2019re looking for app to help block you access to gambling sites and also get reminder notifications not to gamble then download \u201dvoid app\u201d Link to download https://apps.apple.com/us/app/void-quit-gambling/id6795194848",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "If you\u2019re looking for app to help block you access to gambling sites and also get reminder notifications not to gamble then download \u201dvoid a",
+          "url": "https://x.com/john322226/status/2102437620030861727",
+          "why_relevant": "Directly recommends an app for blocking gambling access"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "recommend app"
+      ],
+      "title": "If you\u2019re looking for app to help block you access to gambling sites and also get reminder notifications not to gamble then download \u201dvoid a",
+      "url": "https://x.com/john322226/status/2102437620030861727"
+    },
+    {
+      "candidate_id": "https://x.com/xcawsxmexcalx/status/2103273227229217154",
+      "cluster_id": "cluster-2",
+      "engagement": 5,
+      "explanation": "Mentions 'An app that' but vague and no specific need or review",
+      "final_score": 30.588554720133665,
+      "freshness": 86,
+      "fun_explanation": "short sarcastic punch",
+      "fun_score": 68.0,
+      "item_id": "X1",
+      "local_relevance": 0.18,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X1",
+            "native_rank": 3,
+            "source": "x",
+            "subquery_label": "app existence"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app existence:x": 3
+      },
+      "rerank_score": 25.0,
+      "rrf_score": 0.00835421888053467,
+      "snippet": "An app that works properly",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "xCawsxMexCalx",
+          "body": "An app that works properly",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 2,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 5,
+          "freshness": 86,
+          "item_id": "X1",
+          "local_rank_score": 0.33699999999999997,
+          "local_relevance": 0.18,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.95,
+          "snippet": "An app that works properly",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "An app that works properly",
+          "url": "https://x.com/xCawsxMexCalx/status/2103273227229217154",
+          "why_relevant": "Directly mentions 'An app that' in context of functionality"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app existence"
+      ],
+      "title": "An app that works properly",
+      "url": "https://x.com/xCawsxMexCalx/status/2103273227229217154"
+    },
+    {
+      "candidate_id": "https://x.com/corpuscavea/status/2103270200888140272",
+      "cluster_id": "cluster-3",
+      "engagement": 6,
+      "explanation": "Mentions 'app' but no match to entity or product need; off-topic rant",
+      "final_score": 6.587109577221743,
+      "freshness": 86,
+      "fun_explanation": "relatable rant energy",
+      "fun_score": 42.0,
+      "item_id": "X7",
+      "local_relevance": 0.3,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X7",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "app existence"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app existence:x": 1
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.008628127696289905,
+      "snippet": "does anyone wanna block my twt app and every other app that's not my writing one. omfg",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "corpuscavea",
+          "body": "does anyone wanna block my twt app and every other app that's not my writing one. omfg",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 3,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 6,
+          "freshness": 86,
+          "item_id": "X7",
+          "local_rank_score": 0.41600000000000004,
+          "local_relevance": 0.3,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.7,
+          "snippet": "does anyone wanna block my twt app and every other app that's not my writing one. omfg",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "does anyone wanna block my twt app and every other app that's not my writing one. omfg",
+          "url": "https://x.com/corpuscavea/status/2103270200888140272",
+          "why_relevant": "Mentions blocking apps except writing one"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app existence"
+      ],
+      "title": "does anyone wanna block my twt app and every other app that's not my writing one. omfg",
+      "url": "https://x.com/corpuscavea/status/2103270200888140272"
+    },
+    {
+      "candidate_id": "https://x.com/thebutterknife/status/2103270054800363524",
+      "cluster_id": "cluster-4",
+      "engagement": 0,
+      "explanation": "Mentions 'this app' but irrelevant to app existence or recommendation",
+      "final_score": 5.136672325976231,
+      "freshness": 86,
+      "fun_explanation": "clever twist on topic",
+      "fun_score": 51.0,
+      "item_id": "X8",
+      "local_relevance": 0.3,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X8",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "app existence"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app existence:x": 2
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.008488964346349746,
+      "snippet": "There\u2019s a lot of men on this app that need to do some Mens Work and that\u2019s not building things or digging holes.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "thebutterknife",
+          "body": "There\u2019s a lot of men on this app that need to do some Mens Work and that\u2019s not building things or digging holes.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 0,
+          "freshness": 86,
+          "item_id": "X8",
+          "local_rank_score": 0.41000000000000003,
+          "local_relevance": 0.3,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.65,
+          "snippet": "There\u2019s a lot of men on this app that need to do some Mens Work and that\u2019s not building things or digging holes.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "There\u2019s a lot of men on this app that need to do some Mens Work and that\u2019s not building things or digging holes.",
+          "url": "https://x.com/thebutterknife/status/2103270054800363524",
+          "why_relevant": "Refers to users 'on this app that'"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app existence"
+      ],
+      "title": "There\u2019s a lot of men on this app that need to do some Mens Work and that\u2019s not building things or digging holes.",
+      "url": "https://x.com/thebutterknife/status/2103270054800363524"
+    }
+  ],
+  "topic": "\"is there an app that\"",
+  "warnings": [
+    "Evidence is thin for this topic.",
+    "Top evidence is highly concentrated in one source."
+  ]
+}

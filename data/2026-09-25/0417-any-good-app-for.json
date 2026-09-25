@@ -1,0 +1,400 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"any good app for\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://x.com/heykandoi/status/2100904138175643942"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://x.com/heykandoi/status/2100904138175643942"
+      ],
+      "score": 31.035847342117222,
+      "sources": [
+        "x"
+      ],
+      "title": "Amazing apps I'd highly recommend: @bot grok bot - super useful and closest thing to magic after claude code @TwingateHQ or @Tailscale both"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/muo_official/status/2101536858245075261"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://x.com/muo_official/status/2101536858245075261"
+      ],
+      "score": 29.43902101131378,
+      "sources": [
+        "x"
+      ],
+      "title": "This is the productivity app I\u2019d recommend to someone who\u2019s tired of productivity apps"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/my_eggsun/status/2098855865369645425"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://x.com/my_eggsun/status/2098855865369645425"
+      ],
+      "score": 28.25446779034865,
+      "sources": [
+        "x"
+      ],
+      "title": "I'd like to recommend app called HelloTalk. Sometimes there are some weird people there, but I think it's a really good app! Please check it"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-25T04:17:29.455418+00:00",
+  "items_by_source": {
+    "x": [
+      {
+        "author": "MY_EggSun",
+        "body": "I'd like to recommend app called HelloTalk. Sometimes there are some weird people there, but I think it's a really good app! Please check it out\ud83d\ude0a",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 5,
+        "freshness": 54,
+        "item_id": "X2",
+        "local_rank_score": 0.40650000000000003,
+        "local_relevance": 0.41,
+        "metadata": {},
+        "published_at": "2026-09-12",
+        "relevance_hint": 0.95,
+        "snippet": "I'd like to recommend app called HelloTalk. Sometimes there are some weird people there, but I think it's a really good app! Please check it out\ud83d\ude0a",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "I'd like to recommend app called HelloTalk. Sometimes there are some weird people there, but I think it's a really good app! Please check it",
+        "url": "https://x.com/MY_EggSun/status/2098855865369645425",
+        "why_relevant": "Explicit recommendation of HelloTalk as a good app"
+      },
+      {
+        "author": "MUO_official",
+        "body": "This is the productivity app I\u2019d recommend to someone who\u2019s tired of productivity apps",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 4,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 14,
+        "freshness": 76,
+        "item_id": "X3",
+        "local_rank_score": 0.386,
+        "local_relevance": 0.28,
+        "metadata": {},
+        "published_at": "2026-09-20",
+        "relevance_hint": 0.95,
+        "snippet": "This is the productivity app I\u2019d recommend to someone who\u2019s tired of productivity apps",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "This is the productivity app I\u2019d recommend to someone who\u2019s tired of productivity apps",
+        "url": "https://x.com/MUO_official/status/2101536858245075261",
+        "why_relevant": "Article recommending a specific productivity app for those overwhelmed by too many"
+      },
+      {
+        "author": "heykandoi",
+        "body": "Amazing apps I'd highly recommend: @bot grok bot - super useful and closest thing to magic after claude code @TwingateHQ or @Tailscale both are damn good and simple to setup. Private and secure connectivity that's super easy. Warp terminal @warpdotdev smooth with useful feats",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 5,
+        "freshness": 70,
+        "item_id": "X9",
+        "local_rank_score": 0.3685,
+        "local_relevance": 0.29,
+        "metadata": {},
+        "published_at": "2026-09-18",
+        "relevance_hint": 0.95,
+        "snippet": "Amazing apps I'd highly recommend: @bot grok bot - super useful and closest thing to magic after claude code @TwingateHQ or @Tailscale both are damn good and simple to setup. Private and secure connectivity that's super easy. Warp terminal @warpdotdev smooth with useful feats",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Amazing apps I'd highly recommend: @bot grok bot - super useful and closest thing to magic after claude code @TwingateHQ or @Tailscale both",
+        "url": "https://x.com/heykandoi/status/2100904138175643942",
+        "why_relevant": "Recommends multiple useful apps with reasons"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [
+      "topic is open-ended app recommendation query"
+    ],
+    "raw_topic": "\"any good app for\"",
+    "source_weights": {
+      "x": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "app recs",
+        "ranking_query": "What are some actually good apps people recommend right now?",
+        "search_query": "good app OR useful app recommend",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.28169014084507044
+      },
+      {
+        "label": "productivity apps",
+        "ranking_query": "Any solid productivity apps worth trying?",
+        "search_query": "productivity app OR tool recommendation",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.2535211267605634
+      },
+      {
+        "label": "daily use apps",
+        "ranking_query": "What apps do people actually use every day and like?",
+        "search_query": "favorite app OR must have app",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.23943661971830987
+      },
+      {
+        "label": "hidden gem apps",
+        "ranking_query": "Any underrated or lesser-known apps that are surprisingly good?",
+        "search_query": "hidden gem app OR underrated app",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.22535211267605637
+      }
+    ]
+  },
+  "range_from": "2026-08-26",
+  "range_to": "2026-09-25",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://x.com/heykandoi/status/2100904138175643942",
+      "cluster_id": "cluster-1",
+      "engagement": 5,
+      "explanation": "Multiple app recommendations with reasoning; no mention of primary entity",
+      "final_score": 31.035847342117222,
+      "freshness": 70,
+      "fun_explanation": "straight app list, zero wit",
+      "fun_score": 25.0,
+      "item_id": "X9",
+      "local_relevance": 0.29,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X9",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "app recs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recs:x": 2
+      },
+      "rerank_score": 30.0,
+      "rrf_score": 0.004543389368468878,
+      "snippet": "Amazing apps I'd highly recommend: @bot grok bot - super useful and closest thing to magic after claude code @TwingateHQ or @Tailscale both are damn good and simple to setup. Private and secure connectivity that's super easy. Warp terminal @warpdotdev smooth with useful feats",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "heykandoi",
+          "body": "Amazing apps I'd highly recommend: @bot grok bot - super useful and closest thing to magic after claude code @TwingateHQ or @Tailscale both are damn good and simple to setup. Private and secure connectivity that's super easy. Warp terminal @warpdotdev smooth with useful feats",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 5,
+          "freshness": 70,
+          "item_id": "X9",
+          "local_rank_score": 0.3685,
+          "local_relevance": 0.29,
+          "metadata": {},
+          "published_at": "2026-09-18",
+          "relevance_hint": 0.95,
+          "snippet": "Amazing apps I'd highly recommend: @bot grok bot - super useful and closest thing to magic after claude code @TwingateHQ or @Tailscale both are damn good and simple to setup. Private and secure connectivity that's super easy. Warp terminal @warpdotdev smooth with useful feats",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Amazing apps I'd highly recommend: @bot grok bot - super useful and closest thing to magic after claude code @TwingateHQ or @Tailscale both",
+          "url": "https://x.com/heykandoi/status/2100904138175643942",
+          "why_relevant": "Recommends multiple useful apps with reasons"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recs"
+      ],
+      "title": "Amazing apps I'd highly recommend: @bot grok bot - super useful and closest thing to magic after claude code @TwingateHQ or @Tailscale both",
+      "url": "https://x.com/heykandoi/status/2100904138175643942"
+    },
+    {
+      "candidate_id": "https://x.com/muo_official/status/2101536858245075261",
+      "cluster_id": "cluster-2",
+      "engagement": 14,
+      "explanation": "Productivity app rec but vague snippet; no mention of primary entity",
+      "final_score": 29.43902101131378,
+      "freshness": 76,
+      "fun_explanation": "short, meta, actually clever",
+      "fun_score": 82.0,
+      "item_id": "X3",
+      "local_relevance": 0.28,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X3",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "productivity apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "productivity apps:x": 1
+      },
+      "rerank_score": 22.0,
+      "rrf_score": 0.004156084045255137,
+      "snippet": "This is the productivity app I\u2019d recommend to someone who\u2019s tired of productivity apps",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "MUO_official",
+          "body": "This is the productivity app I\u2019d recommend to someone who\u2019s tired of productivity apps",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 4,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 14,
+          "freshness": 76,
+          "item_id": "X3",
+          "local_rank_score": 0.386,
+          "local_relevance": 0.28,
+          "metadata": {},
+          "published_at": "2026-09-20",
+          "relevance_hint": 0.95,
+          "snippet": "This is the productivity app I\u2019d recommend to someone who\u2019s tired of productivity apps",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "This is the productivity app I\u2019d recommend to someone who\u2019s tired of productivity apps",
+          "url": "https://x.com/MUO_official/status/2101536858245075261",
+          "why_relevant": "Article recommending a specific productivity app for those overwhelmed by too many"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "productivity apps"
+      ],
+      "title": "This is the productivity app I\u2019d recommend to someone who\u2019s tired of productivity apps",
+      "url": "https://x.com/MUO_official/status/2101536858245075261"
+    },
+    {
+      "candidate_id": "https://x.com/my_eggsun/status/2098855865369645425",
+      "cluster_id": "cluster-3",
+      "engagement": 5,
+      "explanation": "Direct app recommendation with mild opinion; no mention of primary entity",
+      "final_score": 28.25446779034865,
+      "freshness": 54,
+      "fun_explanation": "mild personality but plain rec",
+      "fun_score": 35.0,
+      "item_id": "X2",
+      "local_relevance": 0.41,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X2",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "app recs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recs:x": 1
+      },
+      "rerank_score": 28.0,
+      "rrf_score": 0.004617871161394597,
+      "snippet": "I'd like to recommend app called HelloTalk. Sometimes there are some weird people there, but I think it's a really good app! Please check it out\ud83d\ude0a",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "MY_EggSun",
+          "body": "I'd like to recommend app called HelloTalk. Sometimes there are some weird people there, but I think it's a really good app! Please check it out\ud83d\ude0a",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 5,
+          "freshness": 54,
+          "item_id": "X2",
+          "local_rank_score": 0.40650000000000003,
+          "local_relevance": 0.41,
+          "metadata": {},
+          "published_at": "2026-09-12",
+          "relevance_hint": 0.95,
+          "snippet": "I'd like to recommend app called HelloTalk. Sometimes there are some weird people there, but I think it's a really good app! Please check it out\ud83d\ude0a",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "I'd like to recommend app called HelloTalk. Sometimes there are some weird people there, but I think it's a really good app! Please check it",
+          "url": "https://x.com/MY_EggSun/status/2098855865369645425",
+          "why_relevant": "Explicit recommendation of HelloTalk as a good app"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recs"
+      ],
+      "title": "I'd like to recommend app called HelloTalk. Sometimes there are some weird people there, but I think it's a really good app! Please check it",
+      "url": "https://x.com/MY_EggSun/status/2098855865369645425"
+    }
+  ],
+  "topic": "\"any good app for\"",
+  "warnings": [
+    "Evidence is thin for this topic.",
+    "Top evidence is highly concentrated in one source."
+  ]
+}

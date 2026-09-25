@@ -1,0 +1,2589 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"sick of\" app subscription",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://x.com/omgemeraldddd/status/2095226828524818653"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://x.com/omgemeraldddd/status/2095226828524818653"
+      ],
+      "score": 0.0,
+      "sources": [
+        "x"
+      ],
+      "title": "You know what really bugs me these days? We can't own anything anymore. Everything is a subscription. Adobe, Notion, Spotify. You don't just",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/sumseason/status/2098209835640639868"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://x.com/sumseason/status/2098209835640639868"
+      ],
+      "score": 0.0,
+      "sources": [
+        "x"
+      ],
+      "title": "I'm sick of needing 100 streaming apps to be able to watch sports. I'm over it \ud83d\ude2d",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/maineventtv_aka/status/2094481950517993624"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://x.com/maineventtv_aka/status/2094481950517993624"
+      ],
+      "score": 0.0,
+      "sources": [
+        "x"
+      ],
+      "title": "It's fraud. Don't run SALES if it's something people don't own. Selling a product and selling a license are two different things... You're o",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/drstevengreer/status/2101763951985885194"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://x.com/drstevengreer/status/2101763951985885194"
+      ],
+      "score": 0.0,
+      "sources": [
+        "x"
+      ],
+      "title": "The CE5Contact app. A full and complete training program. NO ADS, NO Subscription. One time purchase and you are ready to go!!!",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/totally_paused/status/2102843371740082632"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://x.com/totally_paused/status/2102843371740082632"
+      ],
+      "score": 0.0,
+      "sources": [
+        "x"
+      ],
+      "title": "I\u2019m so sick and tired of everything needing a subscription \ud83d\ude20",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/davidjohnbutler/status/2095882430372540561"
+      ],
+      "cluster_id": "cluster-6",
+      "representative_ids": [
+        "https://x.com/davidjohnbutler/status/2095882430372540561"
+      ],
+      "score": 0.0,
+      "sources": [
+        "x"
+      ],
+      "title": "I actually don\u2019t want to fill out a customer service survey after every burger or taxi ride. I don\u2019t want to have an app on my phone for eve",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/mdrimon488484/status/2098757047265189895"
+      ],
+      "cluster_id": "cluster-7",
+      "representative_ids": [
+        "https://x.com/mdrimon488484/status/2098757047265189895"
+      ],
+      "score": 0.0,
+      "sources": [
+        "x"
+      ],
+      "title": "\ud83d\udea8 STOP PAYING FOR THESE SUBSCRIPTIONS! You may be wasting hundreds of dollars every year. \ud83d\udcb8 Here are FREE alternatives worth knowing \ud83d\udc47",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/valgal1212/status/2103204558570705250"
+      ],
+      "cluster_id": "cluster-8",
+      "representative_ids": [
+        "https://x.com/valgal1212/status/2103204558570705250"
+      ],
+      "score": 0.0,
+      "sources": [
+        "x"
+      ],
+      "title": "Think we'll ever hit a tipping point with tech and want to give it all up? I'm feeling it more and more. I'm tired of being bombarded w/ads,",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/rohthebuilder/status/2103131325104615774"
+      ],
+      "cluster_id": "cluster-9",
+      "representative_ids": [
+        "https://x.com/rohthebuilder/status/2103131325104615774"
+      ],
+      "score": 0.0,
+      "sources": [
+        "x"
+      ],
+      "title": "26th is my bday I\u2019ll give you $38 lifetime license of https://longbook.app ... DM me screenshot & take your lifetime license",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/roshangm01/status/2101423980343181770"
+      ],
+      "cluster_id": "cluster-10",
+      "representative_ids": [
+        "https://x.com/roshangm01/status/2101423980343181770"
+      ],
+      "score": 0.0,
+      "sources": [
+        "x"
+      ],
+      "title": "Apple is still reviewing it atm (2 rejections already) but I am trying to introduce a \u201cpremium membership\u201d in-app purchase subscription in a",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/evanleeshades/status/2101650387031736704"
+      ],
+      "cluster_id": "cluster-11",
+      "representative_ids": [
+        "https://x.com/evanleeshades/status/2101650387031736704"
+      ],
+      "score": 0.0,
+      "sources": [
+        "x"
+      ],
+      "title": "Fortunately I've found a couple of companies that have legitimate alternatives where you can get a lifetime purchase for less than a yearly",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/0xpaperhead/status/2103264027501875629"
+      ],
+      "cluster_id": "cluster-12",
+      "representative_ids": [
+        "https://x.com/0xpaperhead/status/2103264027501875629"
+      ],
+      "score": 0.0,
+      "sources": [
+        "x"
+      ],
+      "title": "I'm tired of switching subscriptions boss",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/girllikeelise/status/2101304819378016439"
+      ],
+      "cluster_id": "cluster-13",
+      "representative_ids": [
+        "https://x.com/girllikeelise/status/2101304819378016439"
+      ],
+      "score": 0.0,
+      "sources": [
+        "x"
+      ],
+      "title": "Almost every app now requires subscription to function well, it\u2019s so annoying wtfff",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/uriel_builds/status/2103103124240286030"
+      ],
+      "cluster_id": "cluster-14",
+      "representative_ids": [
+        "https://x.com/uriel_builds/status/2103103124240286030"
+      ],
+      "score": 0.0,
+      "sources": [
+        "x"
+      ],
+      "title": "it really depends on the app: some apps should be one time purchase, others a sub.",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/lafabriknumeriq/status/2100232730596254180"
+      ],
+      "cluster_id": "cluster-15",
+      "representative_ids": [
+        "https://x.com/lafabriknumeriq/status/2100232730596254180"
+      ],
+      "score": 0.0,
+      "sources": [
+        "x"
+      ],
+      "title": "The reverse also holds for software: some tools work better one-time-purchase than subscription. I sell desktop apps this way (no recurring",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/topsykretpoet/status/2103146781697872093"
+      ],
+      "cluster_id": "cluster-16",
+      "representative_ids": [
+        "https://x.com/topsykretpoet/status/2103146781697872093"
+      ],
+      "score": 0.0,
+      "sources": [
+        "x"
+      ],
+      "title": "If there\u2019s one thing I\u2019m SICK of, its the need for a subscription or an APP for every fuckin thing.",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/queengoldiem/status/2103268582821867610"
+      ],
+      "cluster_id": "cluster-17",
+      "representative_ids": [
+        "https://x.com/queengoldiem/status/2103268582821867610"
+      ],
+      "score": 0.0,
+      "sources": [
+        "x"
+      ],
+      "title": "I need to comb through all my subscriptions and start cancelling stuff. Tired of these people taking money out my account all Willy nilly.",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/vidxn_/status/2103017124751130969"
+      ],
+      "cluster_id": "cluster-18",
+      "representative_ids": [
+        "https://x.com/vidxn_/status/2103017124751130969"
+      ],
+      "score": 0.0,
+      "sources": [
+        "x"
+      ],
+      "title": "At this point, subscriptions are eating up an entire paycheck. Ten different services, constant price increases, ads everywhere, password re",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/machashnews/status/2100862008367440210"
+      ],
+      "cluster_id": "cluster-19",
+      "representative_ids": [
+        "https://x.com/machashnews/status/2100862008367440210"
+      ],
+      "score": 0.0,
+      "sources": [
+        "x"
+      ],
+      "title": "Replace your app subscriptions with this set of 27 lifetime licenses bundled together for $30",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/buynowkey/status/2100283837838225673"
+      ],
+      "cluster_id": "cluster-20",
+      "representative_ids": [
+        "https://x.com/buynowkey/status/2100283837838225673"
+      ],
+      "score": 0.0,
+      "sources": [
+        "x"
+      ],
+      "title": "Most people still pay monthly for software they'll use for years. A one-time lifetime licence means you own the tool outright \u2014 no renewal r",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/jordy_vd_/status/2102399679371894990"
+      ],
+      "cluster_id": "cluster-21",
+      "representative_ids": [
+        "https://x.com/jordy_vd_/status/2102399679371894990"
+      ],
+      "score": 0.0,
+      "sources": [
+        "x"
+      ],
+      "title": "Yeaah\u2026 same. Bought the lifetime license I think last month, apart from that oddity it\u2019s been serving me way better than what I used before",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/jaimeelynnette/status/2101761873272041635"
+      ],
+      "cluster_id": "cluster-22",
+      "representative_ids": [
+        "https://x.com/jaimeelynnette/status/2101761873272041635"
+      ],
+      "score": 0.0,
+      "sources": [
+        "x"
+      ],
+      "title": "I\u2019m so sick of having to do this all year just to watch sports, eventually I\u2019ll run out of free trials so they won\u2019t get my view, but I\u2019m no",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/younger__jeezy/status/2102081790370259165"
+      ],
+      "cluster_id": "cluster-23",
+      "representative_ids": [
+        "https://x.com/younger__jeezy/status/2102081790370259165"
+      ],
+      "score": 0.0,
+      "sources": [
+        "x"
+      ],
+      "title": "Not entirely free but you can get a cheap lifetime license on Groupon",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/shopkeyonline/status/2101582375498960966"
+      ],
+      "cluster_id": "cluster-24",
+      "representative_ids": [
+        "https://x.com/shopkeyonline/status/2101582375498960966"
+      ],
+      "score": 0.0,
+      "sources": [
+        "x"
+      ],
+      "title": "Affinity Designer 1.10 for Windows \u2014 lifetime licence for 1 device, just \u20ac29.90 at Shop Key Online. Professional vector design software with",
+      "uncertainty": "single-source"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-25T04:19:17.895745+00:00",
+  "items_by_source": {
+    "x": [
+      {
+        "author": "ValGal1212",
+        "body": "Think we'll ever hit a tipping point with tech and want to give it all up? I'm feeling it more and more. I'm tired of being bombarded w/ads, I'm tired of new subscriptions, increased subscriptions, algorithims, AI, AI I didn't ask for, Flock cams, etc. It's getting exhausting!",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 77,
+          "quotes": 0,
+          "replies": 16,
+          "reposts": 1
+        },
+        "engagement_score": 41,
+        "freshness": 86,
+        "item_id": "X3",
+        "local_rank_score": 0.31449999999999995,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.95,
+        "snippet": "Think we'll ever hit a tipping point with tech and want to give it all up? I'm feeling it more and more. I'm tired of being bombarded w/ads, I'm tired of new subscriptions, increased subscriptions, algorithims, AI, AI I didn't ask for, Flock cams, etc. It's getting exhausting!",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Think we'll ever hit a tipping point with tech and want to give it all up? I'm feeling it more and more. I'm tired of being bombarded w/ads,",
+        "url": "https://x.com/ValGal1212/status/2103204558570705250",
+        "why_relevant": "Substantive rant about exhaustion from subscriptions, ads, and tech in general."
+      },
+      {
+        "author": "0xpaperhead",
+        "body": "I'm tired of switching subscriptions boss",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 3,
+          "quotes": 0,
+          "replies": 2,
+          "reposts": 0
+        },
+        "engagement_score": 8,
+        "freshness": 86,
+        "item_id": "X2",
+        "local_rank_score": 0.3075,
+        "local_relevance": 0.13,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.9,
+        "snippet": "I'm tired of switching subscriptions boss",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "I'm tired of switching subscriptions boss",
+        "url": "https://x.com/0xpaperhead/status/2103264027501875629",
+        "why_relevant": "Complains about fatigue from switching between AI tool subscriptions."
+      },
+      {
+        "author": "lafabriknumeriq",
+        "body": "The reverse also holds for software: some tools work better one-time-purchase than subscription. I sell desktop apps this way (no recurring fee)",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 66,
+        "item_id": "X6",
+        "local_rank_score": 0.28200000000000003,
+        "local_relevance": 0.18,
+        "metadata": {},
+        "published_at": "2026-09-16",
+        "relevance_hint": 0.85,
+        "snippet": "The reverse also holds for software: some tools work better one-time-purchase than subscription. I sell desktop apps this way (no recurring fee)",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "The reverse also holds for software: some tools work better one-time-purchase than subscription. I sell desktop apps this way (no recurring",
+        "url": "https://x.com/lafabriknumeriq/status/2100232730596254180",
+        "why_relevant": "Indie dev explains preference for one-time purchases over subs"
+      },
+      {
+        "author": "totally_paused",
+        "body": "I\u2019m so sick and tired of everything needing a subscription \ud83d\ude20",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 619,
+          "quotes": 4,
+          "replies": 11,
+          "reposts": 52
+        },
+        "engagement_score": 72,
+        "freshness": 84,
+        "item_id": "X4",
+        "local_rank_score": 0.282,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 1.0,
+        "snippet": "I\u2019m so sick and tired of everything needing a subscription \ud83d\ude20",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "I\u2019m so sick and tired of everything needing a subscription \ud83d\ude20",
+        "url": "https://x.com/totally_paused/status/2102843371740082632",
+        "why_relevant": "Strong, direct expression of being sick of subscription models."
+      },
+      {
+        "author": "TopsykretPoet",
+        "body": "If there\u2019s one thing I\u2019m SICK of, its the need for a subscription or an APP for every fuckin thing.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 86,
+        "item_id": "X6",
+        "local_rank_score": 0.28,
+        "local_relevance": 0.1,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.95,
+        "snippet": "If there\u2019s one thing I\u2019m SICK of, its the need for a subscription or an APP for every fuckin thing.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "If there\u2019s one thing I\u2019m SICK of, its the need for a subscription or an APP for every fuckin thing.",
+        "url": "https://x.com/TopsykretPoet/status/2103146781697872093",
+        "why_relevant": "Explicitly sick of subscriptions and apps required for everything."
+      },
+      {
+        "author": "QueenGoldieM",
+        "body": "I need to comb through all my subscriptions and start cancelling stuff. Tired of these people taking money out my account all Willy nilly.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 86,
+        "item_id": "X1",
+        "local_rank_score": 0.27349999999999997,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.95,
+        "snippet": "I need to comb through all my subscriptions and start cancelling stuff. Tired of these people taking money out my account all Willy nilly.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "I need to comb through all my subscriptions and start cancelling stuff. Tired of these people taking money out my account all Willy nilly.",
+        "url": "https://x.com/QueenGoldieM/status/2103268582821867610",
+        "why_relevant": "Directly expresses being tired of managing and paying for multiple subscriptions."
+      },
+      {
+        "author": "vidxn_",
+        "body": "At this point, subscriptions are eating up an entire paycheck. Ten different services, constant price increases, ads everywhere, password restrictions, and somehow we\u2019re supposed to keep paying like nothing changed.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 0,
+        "freshness": 86,
+        "item_id": "X7",
+        "local_rank_score": 0.27349999999999997,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.9,
+        "snippet": "At this point, subscriptions are eating up an entire paycheck. Ten different services, constant price increases, ads everywhere, password restrictions, and somehow we\u2019re supposed to keep paying like nothing changed.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "At this point, subscriptions are eating up an entire paycheck. Ten different services, constant price increases, ads everywhere, password re",
+        "url": "https://x.com/vidxn_/status/2103017124751130969",
+        "why_relevant": "Highlights financial burden and frustration with multiple subscriptions."
+      },
+      {
+        "author": "uriel_builds",
+        "body": "it really depends on the app: some apps should be one time purchase, others a sub.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 5,
+        "freshness": 86,
+        "item_id": "X1",
+        "local_rank_score": 0.272,
+        "local_relevance": 0.08,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.9,
+        "snippet": "it really depends on the app: some apps should be one time purchase, others a sub.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "it really depends on the app: some apps should be one time purchase, others a sub.",
+        "url": "https://x.com/uriel_builds/status/2103103124240286030",
+        "why_relevant": "Direct discussion on when one-time purchase vs subscription makes sense for apps"
+      },
+      {
+        "author": "DrStevenGreer",
+        "body": "The CE5Contact app. A full and complete training program. NO ADS, NO Subscription. One time purchase and you are ready to go!!!",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 166,
+          "quotes": 3,
+          "replies": 28,
+          "reposts": 21
+        },
+        "engagement_score": 80,
+        "freshness": 76,
+        "item_id": "X2",
+        "local_rank_score": 0.27,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-20",
+        "relevance_hint": 0.95,
+        "snippet": "The CE5Contact app. A full and complete training program. NO ADS, NO Subscription. One time purchase and you are ready to go!!!",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "The CE5Contact app. A full and complete training program. NO ADS, NO Subscription. One time purchase and you are ready to go!!!",
+        "url": "https://x.com/DrStevenGreer/status/2101763951985885194",
+        "why_relevant": "Promotes a specific app with one-time purchase model instead of subscription"
+      },
+      {
+        "author": "MdRimon488484",
+        "body": "\ud83d\udea8 STOP PAYING FOR THESE SUBSCRIPTIONS! You may be wasting hundreds of dollars every year. \ud83d\udcb8 Here are FREE alternatives worth knowing \ud83d\udc47",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 240,
+          "quotes": 1,
+          "replies": 27,
+          "reposts": 104
+        },
+        "engagement_score": 68,
+        "freshness": 54,
+        "item_id": "X12",
+        "local_rank_score": 0.2615,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-12",
+        "relevance_hint": 0.85,
+        "snippet": "\ud83d\udea8 STOP PAYING FOR THESE SUBSCRIPTIONS! You may be wasting hundreds of dollars every year. \ud83d\udcb8 Here are FREE alternatives worth knowing \ud83d\udc47",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "\ud83d\udea8 STOP PAYING FOR THESE SUBSCRIPTIONS! You may be wasting hundreds of dollars every year. \ud83d\udcb8 Here are FREE alternatives worth knowing \ud83d\udc47",
+        "url": "https://x.com/MdRimon488484/status/2098757047265189895",
+        "why_relevant": "Encourages stopping subscriptions due to cost, lists alternatives."
+      },
+      {
+        "author": "girllikeelise",
+        "body": "Almost every app now requires subscription to function well, it\u2019s so annoying wtfff",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 3,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 7,
+        "freshness": 74,
+        "item_id": "X9",
+        "local_rank_score": 0.257,
+        "local_relevance": 0.1,
+        "metadata": {},
+        "published_at": "2026-09-19",
+        "relevance_hint": 0.9,
+        "snippet": "Almost every app now requires subscription to function well, it\u2019s so annoying wtfff",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Almost every app now requires subscription to function well, it\u2019s so annoying wtfff",
+        "url": "https://x.com/girllikeelise/status/2101304819378016439",
+        "why_relevant": "Frustration with app subscriptions becoming mandatory."
+      },
+      {
+        "author": "evanleeshades",
+        "body": "Fortunately I've found a couple of companies that have legitimate alternatives where you can get a lifetime purchase for less than a yearly subscription.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 2,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 9,
+        "freshness": 76,
+        "item_id": "X17",
+        "local_rank_score": 0.251,
+        "local_relevance": 0.08,
+        "metadata": {},
+        "published_at": "2026-09-20",
+        "relevance_hint": 0.85,
+        "snippet": "Fortunately I've found a couple of companies that have legitimate alternatives where you can get a lifetime purchase for less than a yearly subscription.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Fortunately I've found a couple of companies that have legitimate alternatives where you can get a lifetime purchase for less than a yearly",
+        "url": "https://x.com/evanleeshades/status/2101650387031736704",
+        "why_relevant": "User experience with lifetime purchases vs subscriptions"
+      },
+      {
+        "author": "Rohthebuilder",
+        "body": "26th is my bday I\u2019ll give you $38 lifetime license of https://longbook.app ... DM me screenshot & take your lifetime license",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 10,
+          "quotes": 1,
+          "replies": 6,
+          "reposts": 0
+        },
+        "engagement_score": 30,
+        "freshness": 86,
+        "item_id": "X13",
+        "local_rank_score": 0.245,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.9,
+        "snippet": "26th is my bday I\u2019ll give you $38 lifetime license of https://longbook.app ... DM me screenshot & take your lifetime license",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "26th is my bday I\u2019ll give you $38 lifetime license of https://longbook.app ... DM me screenshot & take your lifetime license",
+        "url": "https://x.com/Rohthebuilder/status/2103131325104615774",
+        "why_relevant": "Offering lifetime license for an app"
+      },
+      {
+        "author": "Sumseason",
+        "body": "I'm sick of needing 100 streaming apps to be able to watch sports. I'm over it \ud83d\ude2d",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 2850,
+          "quotes": 36,
+          "replies": 125,
+          "reposts": 291
+        },
+        "engagement_score": 99,
+        "freshness": 52,
+        "item_id": "X10",
+        "local_rank_score": 0.229,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-11",
+        "relevance_hint": 0.95,
+        "snippet": "I'm sick of needing 100 streaming apps to be able to watch sports. I'm over it \ud83d\ude2d",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "I'm sick of needing 100 streaming apps to be able to watch sports. I'm over it \ud83d\ude2d",
+        "url": "https://x.com/Sumseason/status/2098209835640639868",
+        "why_relevant": "Specific complaint about multiple streaming subscriptions for sports."
+      },
+      {
+        "author": "MacHashNews",
+        "body": "Replace your app subscriptions with this set of 27 lifetime licenses bundled together for $30",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 70,
+        "item_id": "X9",
+        "local_rank_score": 0.22699999999999998,
+        "local_relevance": 0.08,
+        "metadata": {},
+        "published_at": "2026-09-18",
+        "relevance_hint": 0.95,
+        "snippet": "Replace your app subscriptions with this set of 27 lifetime licenses bundled together for $30",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Replace your app subscriptions with this set of 27 lifetime licenses bundled together for $30",
+        "url": "https://x.com/MacHashNews/status/2100862008367440210",
+        "why_relevant": "Bundle of lifetime licenses as subscription replacement"
+      },
+      {
+        "author": "BuyNowKey",
+        "body": "Most people still pay monthly for software they'll use for years. A one-time lifetime licence means you own the tool outright \u2014 no renewal reminders, no surprise price hikes, no subscription fatigue.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 0,
+        "freshness": 66,
+        "item_id": "X5",
+        "local_rank_score": 0.21700000000000003,
+        "local_relevance": 0.08,
+        "metadata": {},
+        "published_at": "2026-09-16",
+        "relevance_hint": 0.9,
+        "snippet": "Most people still pay monthly for software they'll use for years. A one-time lifetime licence means you own the tool outright \u2014 no renewal reminders, no surprise price hikes, no subscription fatigue.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Most people still pay monthly for software they'll use for years. A one-time lifetime licence means you own the tool outright \u2014 no renewal r",
+        "url": "https://x.com/BuyNowKey/status/2100283837838225673",
+        "why_relevant": "Advocates for one-time lifetime licenses over subscriptions"
+      },
+      {
+        "author": "DavidJohnButler",
+        "body": "I actually don\u2019t want to fill out a customer service survey after every burger or taxi ride. I don\u2019t want to have an app on my phone for every single company I interact with. And I don\u2019t want to purchase everything by subscription.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 390,
+          "quotes": 12,
+          "replies": 50,
+          "reposts": 36
+        },
+        "engagement_score": 71,
+        "freshness": 34,
+        "item_id": "X8",
+        "local_rank_score": 0.21450000000000002,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-04",
+        "relevance_hint": 0.85,
+        "snippet": "I actually don\u2019t want to fill out a customer service survey after every burger or taxi ride. I don\u2019t want to have an app on my phone for every single company I interact with. And I don\u2019t want to purchase everything by subscription.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "I actually don\u2019t want to fill out a customer service survey after every burger or taxi ride. I don\u2019t want to have an app on my phone for eve",
+        "url": "https://x.com/DavidJohnButler/status/2095882430372540561",
+        "why_relevant": "Broad critique including subscription fatigue in modern consumer life."
+      },
+      {
+        "author": "Jordy_vD_",
+        "body": "Yeaah\u2026 same. Bought the lifetime license I think last month, apart from that oddity it\u2019s been serving me way better than what I used before",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 82,
+        "item_id": "X11",
+        "local_rank_score": 0.205,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-22",
+        "relevance_hint": 0.8,
+        "snippet": "Yeaah\u2026 same. Bought the lifetime license I think last month, apart from that oddity it\u2019s been serving me way better than what I used before",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Yeaah\u2026 same. Bought the lifetime license I think last month, apart from that oddity it\u2019s been serving me way better than what I used before",
+        "url": "https://x.com/Jordy_vD_/status/2102399679371894990",
+        "why_relevant": "User preference for lifetime license over previous tools"
+      },
+      {
+        "author": "roshangm01",
+        "body": "Apple is still reviewing it atm (2 rejections already) but I am trying to introduce a \u201cpremium membership\u201d in-app purchase subscription in a forum like app. I started with one time purchase before",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 2,
+          "quotes": 1,
+          "replies": 3,
+          "reposts": 0
+        },
+        "engagement_score": 14,
+        "freshness": 74,
+        "item_id": "X19",
+        "local_rank_score": 0.199,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-19",
+        "relevance_hint": 0.85,
+        "snippet": "Apple is still reviewing it atm (2 rejections already) but I am trying to introduce a \u201cpremium membership\u201d in-app purchase subscription in a forum like app. I started with one time purchase before",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Apple is still reviewing it atm (2 rejections already) but I am trying to introduce a \u201cpremium membership\u201d in-app purchase subscription in a",
+        "url": "https://x.com/roshangm01/status/2101423980343181770",
+        "why_relevant": "Developer comparing one-time purchase to new subscription model"
+      },
+      {
+        "author": "MainEventTV_AKA",
+        "body": "It's fraud. Don't run SALES if it's something people don't own. Selling a product and selling a license are two different things... You're only RENTING a license, not buying the actual product.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 241,
+          "quotes": 4,
+          "replies": 45,
+          "reposts": 63
+        },
+        "engagement_score": 91,
+        "freshness": 22,
+        "item_id": "X14",
+        "local_rank_score": 0.198,
+        "local_relevance": 0.08,
+        "metadata": {},
+        "published_at": "2026-08-31",
+        "relevance_hint": 0.8,
+        "snippet": "It's fraud. Don't run SALES if it's something people don't own. Selling a product and selling a license are two different things... You're only RENTING a license, not buying the actual product.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "It's fraud. Don't run SALES if it's something people don't own. Selling a product and selling a license are two different things... You're o",
+        "url": "https://x.com/MainEventTV_AKA/status/2094481950517993624",
+        "why_relevant": "Critique of licenses vs true ownership, favoring one-time purchases"
+      },
+      {
+        "author": "younger__jeezy",
+        "body": "Not entirely free but you can get a cheap lifetime license on Groupon",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 78,
+        "item_id": "X15",
+        "local_rank_score": 0.195,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-21",
+        "relevance_hint": 0.75,
+        "snippet": "Not entirely free but you can get a cheap lifetime license on Groupon",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Not entirely free but you can get a cheap lifetime license on Groupon",
+        "url": "https://x.com/younger__jeezy/status/2102081790370259165",
+        "why_relevant": "Mentions affordable lifetime license option"
+      },
+      {
+        "author": "jaimeelynnette",
+        "body": "I\u2019m so sick of having to do this all year just to watch sports, eventually I\u2019ll run out of free trials so they won\u2019t get my view, but I\u2019m not paying hundreds of dollars for every subscription. Fuck that.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 0,
+        "freshness": 76,
+        "item_id": "X11",
+        "local_rank_score": 0.19,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-20",
+        "relevance_hint": 0.9,
+        "snippet": "I\u2019m so sick of having to do this all year just to watch sports, eventually I\u2019ll run out of free trials so they won\u2019t get my view, but I\u2019m not paying hundreds of dollars for every subscription. Fuck that.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "I\u2019m so sick of having to do this all year just to watch sports, eventually I\u2019ll run out of free trials so they won\u2019t get my view, but I\u2019m no",
+        "url": "https://x.com/jaimeelynnette/status/2101761873272041635",
+        "why_relevant": "Tired of cycling subscriptions and trials for sports viewing."
+      },
+      {
+        "author": "shopkeyonline",
+        "body": "Affinity Designer 1.10 for Windows \u2014 lifetime licence for 1 device, just \u20ac29.90 at Shop Key Online. Professional vector design software without the subscription trap.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 0,
+        "freshness": 76,
+        "item_id": "X3",
+        "local_rank_score": 0.19,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-20",
+        "relevance_hint": 0.9,
+        "snippet": "Affinity Designer 1.10 for Windows \u2014 lifetime licence for 1 device, just \u20ac29.90 at Shop Key Online. Professional vector design software without the subscription trap.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Affinity Designer 1.10 for Windows \u2014 lifetime licence for 1 device, just \u20ac29.90 at Shop Key Online. Professional vector design software with",
+        "url": "https://x.com/shopkeyonline/status/2101582375498960966",
+        "why_relevant": "Highlights lifetime license as alternative to subscription for design app"
+      },
+      {
+        "author": "Omgemeraldddd",
+        "body": "You know what really bugs me these days? We can't own anything anymore. Everything is a subscription. Adobe, Notion, Spotify. You don't just buy things once, you keep paying every month. You literally have to pay for everything forever. Isn't anyone else bothered by this?",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 2220,
+          "quotes": 23,
+          "replies": 142,
+          "reposts": 553
+        },
+        "engagement_score": 100,
+        "freshness": 28,
+        "item_id": "X5",
+        "local_rank_score": 0.17,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-02",
+        "relevance_hint": 1.0,
+        "snippet": "You know what really bugs me these days? We can't own anything anymore. Everything is a subscription. Adobe, Notion, Spotify. You don't just buy things once, you keep paying every month. You literally have to pay for everything forever. Isn't anyone else bothered by this?",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "You know what really bugs me these days? We can't own anything anymore. Everything is a subscription. Adobe, Notion, Spotify. You don't just",
+        "url": "https://x.com/Omgemeraldddd/status/2095226828524818653",
+        "why_relevant": "Detailed complaint about the shift to subscription-only ownership model."
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "debate",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [
+      "Focus on user sentiment and workarounds around subscription fatigue"
+    ],
+    "raw_topic": "\"sick of\" app subscription",
+    "source_weights": {
+      "x": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "subscription fatigue",
+        "ranking_query": "Why are users expressing frustration with recurring app subscriptions?",
+        "search_query": "\"sick of\" subscriptions OR \"tired of\" app subs",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.28169014084507044
+      },
+      {
+        "label": "alternatives to subs",
+        "ranking_query": "What apps or tools do people recommend as alternatives to ongoing subscriptions?",
+        "search_query": "one time purchase app OR lifetime license instead of subscription",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.2535211267605634
+      },
+      {
+        "label": "canceling subs",
+        "ranking_query": "How are people handling or justifying canceling multiple app subscriptions?",
+        "search_query": "cancelled all subscriptions OR unsubscribed from apps",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.23943661971830987
+      },
+      {
+        "label": "pricing complaints",
+        "ranking_query": "What specific complaints do users have about rising app subscription costs?",
+        "search_query": "app subscription price increase OR too expensive",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.22535211267605637
+      }
+    ]
+  },
+  "range_from": "2026-08-26",
+  "range_to": "2026-09-25",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://x.com/omgemeraldddd/status/2095226828524818653",
+      "cluster_id": "cluster-1",
+      "engagement": 100,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 28,
+      "fun_explanation": "relatable rant, no punch",
+      "fun_score": 35.0,
+      "item_id": "X5",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X5",
+            "native_rank": 12,
+            "source": "x",
+            "subquery_label": "subscription fatigue"
+          }
+        ]
+      },
+      "native_ranks": {
+        "subscription fatigue:x": 12
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.003912363067292645,
+      "snippet": "You know what really bugs me these days? We can't own anything anymore. Everything is a subscription. Adobe, Notion, Spotify. You don't just buy things once, you keep paying every month. You literally have to pay for everything forever. Isn't anyone else bothered by this?",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Omgemeraldddd",
+          "body": "You know what really bugs me these days? We can't own anything anymore. Everything is a subscription. Adobe, Notion, Spotify. You don't just buy things once, you keep paying every month. You literally have to pay for everything forever. Isn't anyone else bothered by this?",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 2220,
+            "quotes": 23,
+            "replies": 142,
+            "reposts": 553
+          },
+          "engagement_score": 100,
+          "freshness": 28,
+          "item_id": "X5",
+          "local_rank_score": 0.17,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-02",
+          "relevance_hint": 1.0,
+          "snippet": "You know what really bugs me these days? We can't own anything anymore. Everything is a subscription. Adobe, Notion, Spotify. You don't just buy things once, you keep paying every month. You literally have to pay for everything forever. Isn't anyone else bothered by this?",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "You know what really bugs me these days? We can't own anything anymore. Everything is a subscription. Adobe, Notion, Spotify. You don't just",
+          "url": "https://x.com/Omgemeraldddd/status/2095226828524818653",
+          "why_relevant": "Detailed complaint about the shift to subscription-only ownership model."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "subscription fatigue"
+      ],
+      "title": "You know what really bugs me these days? We can't own anything anymore. Everything is a subscription. Adobe, Notion, Spotify. You don't just",
+      "url": "https://x.com/Omgemeraldddd/status/2095226828524818653"
+    },
+    {
+      "candidate_id": "https://x.com/sumseason/status/2098209835640639868",
+      "cluster_id": "cluster-2",
+      "engagement": 99,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 52,
+      "fun_explanation": "short & punchy complaint",
+      "fun_score": 48.0,
+      "item_id": "X10",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X10",
+            "native_rank": 9,
+            "source": "x",
+            "subquery_label": "subscription fatigue"
+          }
+        ]
+      },
+      "native_ranks": {
+        "subscription fatigue:x": 9
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.004082465809348847,
+      "snippet": "I'm sick of needing 100 streaming apps to be able to watch sports. I'm over it \ud83d\ude2d",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Sumseason",
+          "body": "I'm sick of needing 100 streaming apps to be able to watch sports. I'm over it \ud83d\ude2d",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 2850,
+            "quotes": 36,
+            "replies": 125,
+            "reposts": 291
+          },
+          "engagement_score": 99,
+          "freshness": 52,
+          "item_id": "X10",
+          "local_rank_score": 0.229,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-11",
+          "relevance_hint": 0.95,
+          "snippet": "I'm sick of needing 100 streaming apps to be able to watch sports. I'm over it \ud83d\ude2d",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "I'm sick of needing 100 streaming apps to be able to watch sports. I'm over it \ud83d\ude2d",
+          "url": "https://x.com/Sumseason/status/2098209835640639868",
+          "why_relevant": "Specific complaint about multiple streaming subscriptions for sports."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "subscription fatigue"
+      ],
+      "title": "I'm sick of needing 100 streaming apps to be able to watch sports. I'm over it \ud83d\ude2d",
+      "url": "https://x.com/Sumseason/status/2098209835640639868"
+    },
+    {
+      "candidate_id": "https://x.com/maineventtv_aka/status/2094481950517993624",
+      "cluster_id": "cluster-3",
+      "engagement": 91,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 22,
+      "fun_explanation": "straight opinion, dry",
+      "fun_score": 28.0,
+      "item_id": "X14",
+      "local_relevance": 0.08,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X14",
+            "native_rank": 10,
+            "source": "x",
+            "subquery_label": "alternatives to subs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "alternatives to subs:x": 10
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.0036217303822937627,
+      "snippet": "It's fraud. Don't run SALES if it's something people don't own. Selling a product and selling a license are two different things... You're only RENTING a license, not buying the actual product.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "MainEventTV_AKA",
+          "body": "It's fraud. Don't run SALES if it's something people don't own. Selling a product and selling a license are two different things... You're only RENTING a license, not buying the actual product.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 241,
+            "quotes": 4,
+            "replies": 45,
+            "reposts": 63
+          },
+          "engagement_score": 91,
+          "freshness": 22,
+          "item_id": "X14",
+          "local_rank_score": 0.198,
+          "local_relevance": 0.08,
+          "metadata": {},
+          "published_at": "2026-08-31",
+          "relevance_hint": 0.8,
+          "snippet": "It's fraud. Don't run SALES if it's something people don't own. Selling a product and selling a license are two different things... You're only RENTING a license, not buying the actual product.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "It's fraud. Don't run SALES if it's something people don't own. Selling a product and selling a license are two different things... You're o",
+          "url": "https://x.com/MainEventTV_AKA/status/2094481950517993624",
+          "why_relevant": "Critique of licenses vs true ownership, favoring one-time purchases"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "alternatives to subs"
+      ],
+      "title": "It's fraud. Don't run SALES if it's something people don't own. Selling a product and selling a license are two different things... You're o",
+      "url": "https://x.com/MainEventTV_AKA/status/2094481950517993624"
+    },
+    {
+      "candidate_id": "https://x.com/drstevengreer/status/2101763951985885194",
+      "cluster_id": "cluster-4",
+      "engagement": 80,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 76,
+      "fun_explanation": "sales pitch, zero humor",
+      "fun_score": 15.0,
+      "item_id": "X2",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X2",
+            "native_rank": 3,
+            "source": "x",
+            "subquery_label": "alternatives to subs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "alternatives to subs:x": 3
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.004024144869215292,
+      "snippet": "The CE5Contact app. A full and complete training program. NO ADS, NO Subscription. One time purchase and you are ready to go!!!",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "DrStevenGreer",
+          "body": "The CE5Contact app. A full and complete training program. NO ADS, NO Subscription. One time purchase and you are ready to go!!!",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 166,
+            "quotes": 3,
+            "replies": 28,
+            "reposts": 21
+          },
+          "engagement_score": 80,
+          "freshness": 76,
+          "item_id": "X2",
+          "local_rank_score": 0.27,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-20",
+          "relevance_hint": 0.95,
+          "snippet": "The CE5Contact app. A full and complete training program. NO ADS, NO Subscription. One time purchase and you are ready to go!!!",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "The CE5Contact app. A full and complete training program. NO ADS, NO Subscription. One time purchase and you are ready to go!!!",
+          "url": "https://x.com/DrStevenGreer/status/2101763951985885194",
+          "why_relevant": "Promotes a specific app with one-time purchase model instead of subscription"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "alternatives to subs"
+      ],
+      "title": "The CE5Contact app. A full and complete training program. NO ADS, NO Subscription. One time purchase and you are ready to go!!!",
+      "url": "https://x.com/DrStevenGreer/status/2101763951985885194"
+    },
+    {
+      "candidate_id": "https://x.com/totally_paused/status/2102843371740082632",
+      "cluster_id": "cluster-5",
+      "engagement": 72,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 84,
+      "fun_explanation": "basic complaint",
+      "fun_score": 22.0,
+      "item_id": "X4",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X4",
+            "native_rank": 3,
+            "source": "x",
+            "subquery_label": "subscription fatigue"
+          }
+        ]
+      },
+      "native_ranks": {
+        "subscription fatigue:x": 3
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.00447127207690588,
+      "snippet": "I\u2019m so sick and tired of everything needing a subscription \ud83d\ude20",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "totally_paused",
+          "body": "I\u2019m so sick and tired of everything needing a subscription \ud83d\ude20",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 619,
+            "quotes": 4,
+            "replies": 11,
+            "reposts": 52
+          },
+          "engagement_score": 72,
+          "freshness": 84,
+          "item_id": "X4",
+          "local_rank_score": 0.282,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 1.0,
+          "snippet": "I\u2019m so sick and tired of everything needing a subscription \ud83d\ude20",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "I\u2019m so sick and tired of everything needing a subscription \ud83d\ude20",
+          "url": "https://x.com/totally_paused/status/2102843371740082632",
+          "why_relevant": "Strong, direct expression of being sick of subscription models."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "subscription fatigue"
+      ],
+      "title": "I\u2019m so sick and tired of everything needing a subscription \ud83d\ude20",
+      "url": "https://x.com/totally_paused/status/2102843371740082632"
+    },
+    {
+      "candidate_id": "https://x.com/davidjohnbutler/status/2095882430372540561",
+      "cluster_id": "cluster-6",
+      "engagement": 71,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 34,
+      "fun_explanation": "lists gripes, some bite",
+      "fun_score": 40.0,
+      "item_id": "X8",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X8",
+            "native_rank": 10,
+            "source": "x",
+            "subquery_label": "subscription fatigue"
+          }
+        ]
+      },
+      "native_ranks": {
+        "subscription fatigue:x": 10
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.004024144869215292,
+      "snippet": "I actually don\u2019t want to fill out a customer service survey after every burger or taxi ride. I don\u2019t want to have an app on my phone for every single company I interact with. And I don\u2019t want to purchase everything by subscription.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "DavidJohnButler",
+          "body": "I actually don\u2019t want to fill out a customer service survey after every burger or taxi ride. I don\u2019t want to have an app on my phone for every single company I interact with. And I don\u2019t want to purchase everything by subscription.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 390,
+            "quotes": 12,
+            "replies": 50,
+            "reposts": 36
+          },
+          "engagement_score": 71,
+          "freshness": 34,
+          "item_id": "X8",
+          "local_rank_score": 0.21450000000000002,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-04",
+          "relevance_hint": 0.85,
+          "snippet": "I actually don\u2019t want to fill out a customer service survey after every burger or taxi ride. I don\u2019t want to have an app on my phone for every single company I interact with. And I don\u2019t want to purchase everything by subscription.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "I actually don\u2019t want to fill out a customer service survey after every burger or taxi ride. I don\u2019t want to have an app on my phone for eve",
+          "url": "https://x.com/DavidJohnButler/status/2095882430372540561",
+          "why_relevant": "Broad critique including subscription fatigue in modern consumer life."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "subscription fatigue"
+      ],
+      "title": "I actually don\u2019t want to fill out a customer service survey after every burger or taxi ride. I don\u2019t want to have an app on my phone for eve",
+      "url": "https://x.com/DavidJohnButler/status/2095882430372540561"
+    },
+    {
+      "candidate_id": "https://x.com/mdrimon488484/status/2098757047265189895",
+      "cluster_id": "cluster-7",
+      "engagement": 68,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 54,
+      "fun_explanation": "clickbait promo",
+      "fun_score": 12.0,
+      "item_id": "X12",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X12",
+            "native_rank": 7,
+            "source": "x",
+            "subquery_label": "subscription fatigue"
+          }
+        ]
+      },
+      "native_ranks": {
+        "subscription fatigue:x": 7
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.004204330460374186,
+      "snippet": "\ud83d\udea8 STOP PAYING FOR THESE SUBSCRIPTIONS! You may be wasting hundreds of dollars every year. \ud83d\udcb8 Here are FREE alternatives worth knowing \ud83d\udc47",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "MdRimon488484",
+          "body": "\ud83d\udea8 STOP PAYING FOR THESE SUBSCRIPTIONS! You may be wasting hundreds of dollars every year. \ud83d\udcb8 Here are FREE alternatives worth knowing \ud83d\udc47",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 240,
+            "quotes": 1,
+            "replies": 27,
+            "reposts": 104
+          },
+          "engagement_score": 68,
+          "freshness": 54,
+          "item_id": "X12",
+          "local_rank_score": 0.2615,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-12",
+          "relevance_hint": 0.85,
+          "snippet": "\ud83d\udea8 STOP PAYING FOR THESE SUBSCRIPTIONS! You may be wasting hundreds of dollars every year. \ud83d\udcb8 Here are FREE alternatives worth knowing \ud83d\udc47",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "\ud83d\udea8 STOP PAYING FOR THESE SUBSCRIPTIONS! You may be wasting hundreds of dollars every year. \ud83d\udcb8 Here are FREE alternatives worth knowing \ud83d\udc47",
+          "url": "https://x.com/MdRimon488484/status/2098757047265189895",
+          "why_relevant": "Encourages stopping subscriptions due to cost, lists alternatives."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "subscription fatigue"
+      ],
+      "title": "\ud83d\udea8 STOP PAYING FOR THESE SUBSCRIPTIONS! You may be wasting hundreds of dollars every year. \ud83d\udcb8 Here are FREE alternatives worth knowing \ud83d\udc47",
+      "url": "https://x.com/MdRimon488484/status/2098757047265189895"
+    },
+    {
+      "candidate_id": "https://x.com/valgal1212/status/2103204558570705250",
+      "cluster_id": "cluster-8",
+      "engagement": 41,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 86,
+      "fun_explanation": "long rant, no wit",
+      "fun_score": 30.0,
+      "item_id": "X3",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X3",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "subscription fatigue"
+          }
+        ]
+      },
+      "native_ranks": {
+        "subscription fatigue:x": 1
+      },
+      "rerank_score": 5.300000000000001,
+      "rrf_score": 0.004617871161394597,
+      "snippet": "Think we'll ever hit a tipping point with tech and want to give it all up? I'm feeling it more and more. I'm tired of being bombarded w/ads, I'm tired of new subscriptions, increased subscriptions, algorithims, AI, AI I didn't ask for, Flock cams, etc. It's getting exhausting!",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "ValGal1212",
+          "body": "Think we'll ever hit a tipping point with tech and want to give it all up? I'm feeling it more and more. I'm tired of being bombarded w/ads, I'm tired of new subscriptions, increased subscriptions, algorithims, AI, AI I didn't ask for, Flock cams, etc. It's getting exhausting!",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 77,
+            "quotes": 0,
+            "replies": 16,
+            "reposts": 1
+          },
+          "engagement_score": 41,
+          "freshness": 86,
+          "item_id": "X3",
+          "local_rank_score": 0.31449999999999995,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.95,
+          "snippet": "Think we'll ever hit a tipping point with tech and want to give it all up? I'm feeling it more and more. I'm tired of being bombarded w/ads, I'm tired of new subscriptions, increased subscriptions, algorithims, AI, AI I didn't ask for, Flock cams, etc. It's getting exhausting!",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Think we'll ever hit a tipping point with tech and want to give it all up? I'm feeling it more and more. I'm tired of being bombarded w/ads,",
+          "url": "https://x.com/ValGal1212/status/2103204558570705250",
+          "why_relevant": "Substantive rant about exhaustion from subscriptions, ads, and tech in general."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "subscription fatigue"
+      ],
+      "title": "Think we'll ever hit a tipping point with tech and want to give it all up? I'm feeling it more and more. I'm tired of being bombarded w/ads,",
+      "url": "https://x.com/ValGal1212/status/2103204558570705250"
+    },
+    {
+      "candidate_id": "https://x.com/rohthebuilder/status/2103131325104615774",
+      "cluster_id": "cluster-9",
+      "engagement": 30,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 86,
+      "fun_explanation": "promo, not funny",
+      "fun_score": 18.0,
+      "item_id": "X13",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X13",
+            "native_rank": 5,
+            "source": "x",
+            "subquery_label": "alternatives to subs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "alternatives to subs:x": 5
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.0039003250270855903,
+      "snippet": "26th is my bday I\u2019ll give you $38 lifetime license of https://longbook.app ... DM me screenshot & take your lifetime license",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Rohthebuilder",
+          "body": "26th is my bday I\u2019ll give you $38 lifetime license of https://longbook.app ... DM me screenshot & take your lifetime license",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 10,
+            "quotes": 1,
+            "replies": 6,
+            "reposts": 0
+          },
+          "engagement_score": 30,
+          "freshness": 86,
+          "item_id": "X13",
+          "local_rank_score": 0.245,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.9,
+          "snippet": "26th is my bday I\u2019ll give you $38 lifetime license of https://longbook.app ... DM me screenshot & take your lifetime license",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "26th is my bday I\u2019ll give you $38 lifetime license of https://longbook.app ... DM me screenshot & take your lifetime license",
+          "url": "https://x.com/Rohthebuilder/status/2103131325104615774",
+          "why_relevant": "Offering lifetime license for an app"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "alternatives to subs"
+      ],
+      "title": "26th is my bday I\u2019ll give you $38 lifetime license of https://longbook.app ... DM me screenshot & take your lifetime license",
+      "url": "https://x.com/Rohthebuilder/status/2103131325104615774"
+    },
+    {
+      "candidate_id": "https://x.com/roshangm01/status/2101423980343181770",
+      "cluster_id": "cluster-10",
+      "engagement": 14,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 74,
+      "fun_explanation": "dev update, irrelevant",
+      "fun_score": 10.0,
+      "item_id": "X19",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X19",
+            "native_rank": 9,
+            "source": "x",
+            "subquery_label": "alternatives to subs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "alternatives to subs:x": 9
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.003674219228413962,
+      "snippet": "Apple is still reviewing it atm (2 rejections already) but I am trying to introduce a \u201cpremium membership\u201d in-app purchase subscription in a forum like app. I started with one time purchase before",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "roshangm01",
+          "body": "Apple is still reviewing it atm (2 rejections already) but I am trying to introduce a \u201cpremium membership\u201d in-app purchase subscription in a forum like app. I started with one time purchase before",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 2,
+            "quotes": 1,
+            "replies": 3,
+            "reposts": 0
+          },
+          "engagement_score": 14,
+          "freshness": 74,
+          "item_id": "X19",
+          "local_rank_score": 0.199,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-19",
+          "relevance_hint": 0.85,
+          "snippet": "Apple is still reviewing it atm (2 rejections already) but I am trying to introduce a \u201cpremium membership\u201d in-app purchase subscription in a forum like app. I started with one time purchase before",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Apple is still reviewing it atm (2 rejections already) but I am trying to introduce a \u201cpremium membership\u201d in-app purchase subscription in a",
+          "url": "https://x.com/roshangm01/status/2101423980343181770",
+          "why_relevant": "Developer comparing one-time purchase to new subscription model"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "alternatives to subs"
+      ],
+      "title": "Apple is still reviewing it atm (2 rejections already) but I am trying to introduce a \u201cpremium membership\u201d in-app purchase subscription in a",
+      "url": "https://x.com/roshangm01/status/2101423980343181770"
+    },
+    {
+      "candidate_id": "https://x.com/evanleeshades/status/2101650387031736704",
+      "cluster_id": "cluster-11",
+      "engagement": 9,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 76,
+      "fun_explanation": "mild observation",
+      "fun_score": 25.0,
+      "item_id": "X17",
+      "local_relevance": 0.08,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X17",
+            "native_rank": 4,
+            "source": "x",
+            "subquery_label": "alternatives to subs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "alternatives to subs:x": 4
+      },
+      "rerank_score": 2.6000000000000014,
+      "rrf_score": 0.003961267605633803,
+      "snippet": "Fortunately I've found a couple of companies that have legitimate alternatives where you can get a lifetime purchase for less than a yearly subscription.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "evanleeshades",
+          "body": "Fortunately I've found a couple of companies that have legitimate alternatives where you can get a lifetime purchase for less than a yearly subscription.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 2,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 9,
+          "freshness": 76,
+          "item_id": "X17",
+          "local_rank_score": 0.251,
+          "local_relevance": 0.08,
+          "metadata": {},
+          "published_at": "2026-09-20",
+          "relevance_hint": 0.85,
+          "snippet": "Fortunately I've found a couple of companies that have legitimate alternatives where you can get a lifetime purchase for less than a yearly subscription.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Fortunately I've found a couple of companies that have legitimate alternatives where you can get a lifetime purchase for less than a yearly",
+          "url": "https://x.com/evanleeshades/status/2101650387031736704",
+          "why_relevant": "User experience with lifetime purchases vs subscriptions"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "alternatives to subs"
+      ],
+      "title": "Fortunately I've found a couple of companies that have legitimate alternatives where you can get a lifetime purchase for less than a yearly",
+      "url": "https://x.com/evanleeshades/status/2101650387031736704"
+    },
+    {
+      "candidate_id": "https://x.com/0xpaperhead/status/2103264027501875629",
+      "cluster_id": "cluster-12",
+      "engagement": 8,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 86,
+      "fun_explanation": "short, meme-y 'boss' line",
+      "fun_score": 55.0,
+      "item_id": "X2",
+      "local_relevance": 0.13,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X2",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "subscription fatigue"
+          }
+        ]
+      },
+      "native_ranks": {
+        "subscription fatigue:x": 2
+      },
+      "rerank_score": 8.099999999999994,
+      "rrf_score": 0.004543389368468878,
+      "snippet": "I'm tired of switching subscriptions boss",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "0xpaperhead",
+          "body": "I'm tired of switching subscriptions boss",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 3,
+            "quotes": 0,
+            "replies": 2,
+            "reposts": 0
+          },
+          "engagement_score": 8,
+          "freshness": 86,
+          "item_id": "X2",
+          "local_rank_score": 0.3075,
+          "local_relevance": 0.13,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.9,
+          "snippet": "I'm tired of switching subscriptions boss",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "I'm tired of switching subscriptions boss",
+          "url": "https://x.com/0xpaperhead/status/2103264027501875629",
+          "why_relevant": "Complains about fatigue from switching between AI tool subscriptions."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "subscription fatigue"
+      ],
+      "title": "I'm tired of switching subscriptions boss",
+      "url": "https://x.com/0xpaperhead/status/2103264027501875629"
+    },
+    {
+      "candidate_id": "https://x.com/girllikeelise/status/2101304819378016439",
+      "cluster_id": "cluster-13",
+      "engagement": 7,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 74,
+      "fun_explanation": "annoyed tone, swear adds edge",
+      "fun_score": 38.0,
+      "item_id": "X9",
+      "local_relevance": 0.1,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X9",
+            "native_rank": 8,
+            "source": "x",
+            "subquery_label": "subscription fatigue"
+          }
+        ]
+      },
+      "native_ranks": {
+        "subscription fatigue:x": 8
+      },
+      "rerank_score": 3.6000000000000014,
+      "rrf_score": 0.004142502071251036,
+      "snippet": "Almost every app now requires subscription to function well, it\u2019s so annoying wtfff",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "girllikeelise",
+          "body": "Almost every app now requires subscription to function well, it\u2019s so annoying wtfff",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 3,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 7,
+          "freshness": 74,
+          "item_id": "X9",
+          "local_rank_score": 0.257,
+          "local_relevance": 0.1,
+          "metadata": {},
+          "published_at": "2026-09-19",
+          "relevance_hint": 0.9,
+          "snippet": "Almost every app now requires subscription to function well, it\u2019s so annoying wtfff",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Almost every app now requires subscription to function well, it\u2019s so annoying wtfff",
+          "url": "https://x.com/girllikeelise/status/2101304819378016439",
+          "why_relevant": "Frustration with app subscriptions becoming mandatory."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "subscription fatigue"
+      ],
+      "title": "Almost every app now requires subscription to function well, it\u2019s so annoying wtfff",
+      "url": "https://x.com/girllikeelise/status/2101304819378016439"
+    },
+    {
+      "candidate_id": "https://x.com/uriel_builds/status/2103103124240286030",
+      "cluster_id": "cluster-14",
+      "engagement": 5,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 86,
+      "fun_explanation": "neutral take",
+      "fun_score": 20.0,
+      "item_id": "X1",
+      "local_relevance": 0.08,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X1",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "alternatives to subs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "alternatives to subs:x": 2
+      },
+      "rerank_score": 4.599999999999998,
+      "rrf_score": 0.00408905043162199,
+      "snippet": "it really depends on the app: some apps should be one time purchase, others a sub.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "uriel_builds",
+          "body": "it really depends on the app: some apps should be one time purchase, others a sub.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 5,
+          "freshness": 86,
+          "item_id": "X1",
+          "local_rank_score": 0.272,
+          "local_relevance": 0.08,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.9,
+          "snippet": "it really depends on the app: some apps should be one time purchase, others a sub.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "it really depends on the app: some apps should be one time purchase, others a sub.",
+          "url": "https://x.com/uriel_builds/status/2103103124240286030",
+          "why_relevant": "Direct discussion on when one-time purchase vs subscription makes sense for apps"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "alternatives to subs"
+      ],
+      "title": "it really depends on the app: some apps should be one time purchase, others a sub.",
+      "url": "https://x.com/uriel_builds/status/2103103124240286030"
+    },
+    {
+      "candidate_id": "https://x.com/lafabriknumeriq/status/2100232730596254180",
+      "cluster_id": "cluster-15",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 66,
+      "fun_explanation": "sales explanation",
+      "fun_score": 15.0,
+      "item_id": "X6",
+      "local_relevance": 0.18,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X6",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "alternatives to subs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "alternatives to subs:x": 1
+      },
+      "rerank_score": 7.600000000000001,
+      "rrf_score": 0.004156084045255137,
+      "snippet": "The reverse also holds for software: some tools work better one-time-purchase than subscription. I sell desktop apps this way (no recurring fee)",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "lafabriknumeriq",
+          "body": "The reverse also holds for software: some tools work better one-time-purchase than subscription. I sell desktop apps this way (no recurring fee)",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 66,
+          "item_id": "X6",
+          "local_rank_score": 0.28200000000000003,
+          "local_relevance": 0.18,
+          "metadata": {},
+          "published_at": "2026-09-16",
+          "relevance_hint": 0.85,
+          "snippet": "The reverse also holds for software: some tools work better one-time-purchase than subscription. I sell desktop apps this way (no recurring fee)",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "The reverse also holds for software: some tools work better one-time-purchase than subscription. I sell desktop apps this way (no recurring",
+          "url": "https://x.com/lafabriknumeriq/status/2100232730596254180",
+          "why_relevant": "Indie dev explains preference for one-time purchases over subs"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "alternatives to subs"
+      ],
+      "title": "The reverse also holds for software: some tools work better one-time-purchase than subscription. I sell desktop apps this way (no recurring",
+      "url": "https://x.com/lafabriknumeriq/status/2100232730596254180"
+    },
+    {
+      "candidate_id": "https://x.com/topsykretpoet/status/2103146781697872093",
+      "cluster_id": "cluster-16",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 86,
+      "fun_explanation": "punchy swear, caps energy",
+      "fun_score": 52.0,
+      "item_id": "X6",
+      "local_relevance": 0.1,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X6",
+            "native_rank": 4,
+            "source": "x",
+            "subquery_label": "subscription fatigue"
+          }
+        ]
+      },
+      "native_ranks": {
+        "subscription fatigue:x": 4
+      },
+      "rerank_score": 6.0,
+      "rrf_score": 0.0044014084507042256,
+      "snippet": "If there\u2019s one thing I\u2019m SICK of, its the need for a subscription or an APP for every fuckin thing.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "TopsykretPoet",
+          "body": "If there\u2019s one thing I\u2019m SICK of, its the need for a subscription or an APP for every fuckin thing.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 86,
+          "item_id": "X6",
+          "local_rank_score": 0.28,
+          "local_relevance": 0.1,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.95,
+          "snippet": "If there\u2019s one thing I\u2019m SICK of, its the need for a subscription or an APP for every fuckin thing.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "If there\u2019s one thing I\u2019m SICK of, its the need for a subscription or an APP for every fuckin thing.",
+          "url": "https://x.com/TopsykretPoet/status/2103146781697872093",
+          "why_relevant": "Explicitly sick of subscriptions and apps required for everything."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "subscription fatigue"
+      ],
+      "title": "If there\u2019s one thing I\u2019m SICK of, its the need for a subscription or an APP for every fuckin thing.",
+      "url": "https://x.com/TopsykretPoet/status/2103146781697872093"
+    },
+    {
+      "candidate_id": "https://x.com/queengoldiem/status/2103268582821867610",
+      "cluster_id": "cluster-17",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 86,
+      "fun_explanation": "casual vent",
+      "fun_score": 33.0,
+      "item_id": "X1",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X1",
+            "native_rank": 5,
+            "source": "x",
+            "subquery_label": "subscription fatigue"
+          }
+        ]
+      },
+      "native_ranks": {
+        "subscription fatigue:x": 5
+      },
+      "rerank_score": 5.300000000000001,
+      "rrf_score": 0.004333694474539546,
+      "snippet": "I need to comb through all my subscriptions and start cancelling stuff. Tired of these people taking money out my account all Willy nilly.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "QueenGoldieM",
+          "body": "I need to comb through all my subscriptions and start cancelling stuff. Tired of these people taking money out my account all Willy nilly.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 86,
+          "item_id": "X1",
+          "local_rank_score": 0.27349999999999997,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.95,
+          "snippet": "I need to comb through all my subscriptions and start cancelling stuff. Tired of these people taking money out my account all Willy nilly.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "I need to comb through all my subscriptions and start cancelling stuff. Tired of these people taking money out my account all Willy nilly.",
+          "url": "https://x.com/QueenGoldieM/status/2103268582821867610",
+          "why_relevant": "Directly expresses being tired of managing and paying for multiple subscriptions."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "subscription fatigue"
+      ],
+      "title": "I need to comb through all my subscriptions and start cancelling stuff. Tired of these people taking money out my account all Willy nilly.",
+      "url": "https://x.com/QueenGoldieM/status/2103268582821867610"
+    },
+    {
+      "candidate_id": "https://x.com/vidxn_/status/2103017124751130969",
+      "cluster_id": "cluster-18",
+      "engagement": 0,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 86,
+      "fun_explanation": "lists pain points, rhythmic",
+      "fun_score": 42.0,
+      "item_id": "X7",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X7",
+            "native_rank": 6,
+            "source": "x",
+            "subquery_label": "subscription fatigue"
+          }
+        ]
+      },
+      "native_ranks": {
+        "subscription fatigue:x": 6
+      },
+      "rerank_score": 5.300000000000001,
+      "rrf_score": 0.004268032437046522,
+      "snippet": "At this point, subscriptions are eating up an entire paycheck. Ten different services, constant price increases, ads everywhere, password restrictions, and somehow we\u2019re supposed to keep paying like nothing changed.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "vidxn_",
+          "body": "At this point, subscriptions are eating up an entire paycheck. Ten different services, constant price increases, ads everywhere, password restrictions, and somehow we\u2019re supposed to keep paying like nothing changed.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 0,
+          "freshness": 86,
+          "item_id": "X7",
+          "local_rank_score": 0.27349999999999997,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.9,
+          "snippet": "At this point, subscriptions are eating up an entire paycheck. Ten different services, constant price increases, ads everywhere, password restrictions, and somehow we\u2019re supposed to keep paying like nothing changed.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "At this point, subscriptions are eating up an entire paycheck. Ten different services, constant price increases, ads everywhere, password re",
+          "url": "https://x.com/vidxn_/status/2103017124751130969",
+          "why_relevant": "Highlights financial burden and frustration with multiple subscriptions."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "subscription fatigue"
+      ],
+      "title": "At this point, subscriptions are eating up an entire paycheck. Ten different services, constant price increases, ads everywhere, password re",
+      "url": "https://x.com/vidxn_/status/2103017124751130969"
+    },
+    {
+      "candidate_id": "https://x.com/machashnews/status/2100862008367440210",
+      "cluster_id": "cluster-19",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 70,
+      "fun_explanation": "promo bundle ad",
+      "fun_score": 14.0,
+      "item_id": "X9",
+      "local_relevance": 0.08,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X9",
+            "native_rank": 6,
+            "source": "x",
+            "subquery_label": "alternatives to subs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "alternatives to subs:x": 6
+      },
+      "rerank_score": 1.4000000000000021,
+      "rrf_score": 0.0038412291933418692,
+      "snippet": "Replace your app subscriptions with this set of 27 lifetime licenses bundled together for $30",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "MacHashNews",
+          "body": "Replace your app subscriptions with this set of 27 lifetime licenses bundled together for $30",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 70,
+          "item_id": "X9",
+          "local_rank_score": 0.22699999999999998,
+          "local_relevance": 0.08,
+          "metadata": {},
+          "published_at": "2026-09-18",
+          "relevance_hint": 0.95,
+          "snippet": "Replace your app subscriptions with this set of 27 lifetime licenses bundled together for $30",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Replace your app subscriptions with this set of 27 lifetime licenses bundled together for $30",
+          "url": "https://x.com/MacHashNews/status/2100862008367440210",
+          "why_relevant": "Bundle of lifetime licenses as subscription replacement"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "alternatives to subs"
+      ],
+      "title": "Replace your app subscriptions with this set of 27 lifetime licenses bundled together for $30",
+      "url": "https://x.com/MacHashNews/status/2100862008367440210"
+    },
+    {
+      "candidate_id": "https://x.com/buynowkey/status/2100283837838225673",
+      "cluster_id": "cluster-20",
+      "engagement": 0,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 66,
+      "fun_explanation": "marketing copy",
+      "fun_score": 17.0,
+      "item_id": "X5",
+      "local_relevance": 0.08,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X5",
+            "native_rank": 7,
+            "source": "x",
+            "subquery_label": "alternatives to subs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "alternatives to subs:x": 7
+      },
+      "rerank_score": 0.6000000000000014,
+      "rrf_score": 0.0037838974143367668,
+      "snippet": "Most people still pay monthly for software they'll use for years. A one-time lifetime licence means you own the tool outright \u2014 no renewal reminders, no surprise price hikes, no subscription fatigue.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "BuyNowKey",
+          "body": "Most people still pay monthly for software they'll use for years. A one-time lifetime licence means you own the tool outright \u2014 no renewal reminders, no surprise price hikes, no subscription fatigue.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 0,
+          "freshness": 66,
+          "item_id": "X5",
+          "local_rank_score": 0.21700000000000003,
+          "local_relevance": 0.08,
+          "metadata": {},
+          "published_at": "2026-09-16",
+          "relevance_hint": 0.9,
+          "snippet": "Most people still pay monthly for software they'll use for years. A one-time lifetime licence means you own the tool outright \u2014 no renewal reminders, no surprise price hikes, no subscription fatigue.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Most people still pay monthly for software they'll use for years. A one-time lifetime licence means you own the tool outright \u2014 no renewal r",
+          "url": "https://x.com/BuyNowKey/status/2100283837838225673",
+          "why_relevant": "Advocates for one-time lifetime licenses over subscriptions"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "alternatives to subs"
+      ],
+      "title": "Most people still pay monthly for software they'll use for years. A one-time lifetime licence means you own the tool outright \u2014 no renewal r",
+      "url": "https://x.com/BuyNowKey/status/2100283837838225673"
+    },
+    {
+      "candidate_id": "https://x.com/jordy_vd_/status/2102399679371894990",
+      "cluster_id": "cluster-21",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 82,
+      "fun_explanation": "casual reply, low energy",
+      "fun_score": 19.0,
+      "item_id": "X11",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X11",
+            "native_rank": 8,
+            "source": "x",
+            "subquery_label": "alternatives to subs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "alternatives to subs:x": 8
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.003728251864125932,
+      "snippet": "Yeaah\u2026 same. Bought the lifetime license I think last month, apart from that oddity it\u2019s been serving me way better than what I used before",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Jordy_vD_",
+          "body": "Yeaah\u2026 same. Bought the lifetime license I think last month, apart from that oddity it\u2019s been serving me way better than what I used before",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 82,
+          "item_id": "X11",
+          "local_rank_score": 0.205,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-22",
+          "relevance_hint": 0.8,
+          "snippet": "Yeaah\u2026 same. Bought the lifetime license I think last month, apart from that oddity it\u2019s been serving me way better than what I used before",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Yeaah\u2026 same. Bought the lifetime license I think last month, apart from that oddity it\u2019s been serving me way better than what I used before",
+          "url": "https://x.com/Jordy_vD_/status/2102399679371894990",
+          "why_relevant": "User preference for lifetime license over previous tools"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "alternatives to subs"
+      ],
+      "title": "Yeaah\u2026 same. Bought the lifetime license I think last month, apart from that oddity it\u2019s been serving me way better than what I used before",
+      "url": "https://x.com/Jordy_vD_/status/2102399679371894990"
+    },
+    {
+      "candidate_id": "https://x.com/jaimeelynnette/status/2101761873272041635",
+      "cluster_id": "cluster-22",
+      "engagement": 0,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 76,
+      "fun_explanation": "sports rant with swear",
+      "fun_score": 45.0,
+      "item_id": "X11",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X11",
+            "native_rank": 11,
+            "source": "x",
+            "subquery_label": "subscription fatigue"
+          }
+        ]
+      },
+      "native_ranks": {
+        "subscription fatigue:x": 11
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.003967466772465781,
+      "snippet": "I\u2019m so sick of having to do this all year just to watch sports, eventually I\u2019ll run out of free trials so they won\u2019t get my view, but I\u2019m not paying hundreds of dollars for every subscription. Fuck that.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "jaimeelynnette",
+          "body": "I\u2019m so sick of having to do this all year just to watch sports, eventually I\u2019ll run out of free trials so they won\u2019t get my view, but I\u2019m not paying hundreds of dollars for every subscription. Fuck that.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 0,
+          "freshness": 76,
+          "item_id": "X11",
+          "local_rank_score": 0.19,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-20",
+          "relevance_hint": 0.9,
+          "snippet": "I\u2019m so sick of having to do this all year just to watch sports, eventually I\u2019ll run out of free trials so they won\u2019t get my view, but I\u2019m not paying hundreds of dollars for every subscription. Fuck that.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "I\u2019m so sick of having to do this all year just to watch sports, eventually I\u2019ll run out of free trials so they won\u2019t get my view, but I\u2019m no",
+          "url": "https://x.com/jaimeelynnette/status/2101761873272041635",
+          "why_relevant": "Tired of cycling subscriptions and trials for sports viewing."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "subscription fatigue"
+      ],
+      "title": "I\u2019m so sick of having to do this all year just to watch sports, eventually I\u2019ll run out of free trials so they won\u2019t get my view, but I\u2019m no",
+      "url": "https://x.com/jaimeelynnette/status/2101761873272041635"
+    },
+    {
+      "candidate_id": "https://x.com/younger__jeezy/status/2102081790370259165",
+      "cluster_id": "cluster-23",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 78,
+      "fun_explanation": "Groupon tip, flat",
+      "fun_score": 16.0,
+      "item_id": "X15",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X15",
+            "native_rank": 11,
+            "source": "x",
+            "subquery_label": "alternatives to subs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "alternatives to subs:x": 11
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.0035707200952192026,
+      "snippet": "Not entirely free but you can get a cheap lifetime license on Groupon",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "younger__jeezy",
+          "body": "Not entirely free but you can get a cheap lifetime license on Groupon",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 78,
+          "item_id": "X15",
+          "local_rank_score": 0.195,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-21",
+          "relevance_hint": 0.75,
+          "snippet": "Not entirely free but you can get a cheap lifetime license on Groupon",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Not entirely free but you can get a cheap lifetime license on Groupon",
+          "url": "https://x.com/younger__jeezy/status/2102081790370259165",
+          "why_relevant": "Mentions affordable lifetime license option"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "alternatives to subs"
+      ],
+      "title": "Not entirely free but you can get a cheap lifetime license on Groupon",
+      "url": "https://x.com/younger__jeezy/status/2102081790370259165"
+    },
+    {
+      "candidate_id": "https://x.com/shopkeyonline/status/2101582375498960966",
+      "cluster_id": "cluster-24",
+      "engagement": 0,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 76,
+      "fun_explanation": "product ad",
+      "fun_score": 13.0,
+      "item_id": "X3",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X3",
+            "native_rank": 12,
+            "source": "x",
+            "subquery_label": "alternatives to subs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "alternatives to subs:x": 12
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.0035211267605633804,
+      "snippet": "Affinity Designer 1.10 for Windows \u2014 lifetime licence for 1 device, just \u20ac29.90 at Shop Key Online. Professional vector design software without the subscription trap.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "shopkeyonline",
+          "body": "Affinity Designer 1.10 for Windows \u2014 lifetime licence for 1 device, just \u20ac29.90 at Shop Key Online. Professional vector design software without the subscription trap.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 0,
+          "freshness": 76,
+          "item_id": "X3",
+          "local_rank_score": 0.19,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-20",
+          "relevance_hint": 0.9,
+          "snippet": "Affinity Designer 1.10 for Windows \u2014 lifetime licence for 1 device, just \u20ac29.90 at Shop Key Online. Professional vector design software without the subscription trap.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Affinity Designer 1.10 for Windows \u2014 lifetime licence for 1 device, just \u20ac29.90 at Shop Key Online. Professional vector design software with",
+          "url": "https://x.com/shopkeyonline/status/2101582375498960966",
+          "why_relevant": "Highlights lifetime license as alternative to subscription for design app"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "alternatives to subs"
+      ],
+      "title": "Affinity Designer 1.10 for Windows \u2014 lifetime licence for 1 device, just \u20ac29.90 at Shop Key Online. Professional vector design software with",
+      "url": "https://x.com/shopkeyonline/status/2101582375498960966"
+    }
+  ],
+  "topic": "\"sick of\" app subscription",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}
