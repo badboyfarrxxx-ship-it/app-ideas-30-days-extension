@@ -1,0 +1,88 @@
+Batch D sources=tiktok,instagram
+Started at 2026-09-25T12:20:07Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/36134314848
+----
+
+===== Seed: nursing students app for studying =====
+/last30days · researching: nursing students app for studying
+⏳ [95mProcessing[0m Crunching the data...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=market, subqueries=4, source=llm
+[Planner]   sq1 label=top study apps search="nursing students study app OR nursing school app" sources=[tiktok,instagram]
+[Planner]   sq2 label=study with me content search="nursing student study with me app" sources=[tiktok,instagram]
+[Planner]   sq3 label=user reviews search="nursing app review OR nursing study app experience" sources=[tiktok,instagram]
+[Planner]   sq4 label=tips and features search="nursing school study tips app features" sources=[tiktok,instagram]
+✓ Research complete (42.3s) - TikTok: 6 videos, Instagram: 0 reels
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-25/1220-nursing-students-app-for-studying.json
+[OK] seed succeeded
+
+===== Seed: rad tech student app =====
+/last30days · researching: rad tech student app
+⏳ [95mProcessing[0m Removing duplicates...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=3, source=llm
+[Planner]   sq1 label=Popular apps search="rad tech student app OR radiology tech study app" sources=[tiktok,instagram]
+[Planner]   sq2 label=Student reviews search="rad tech app review OR radiology student app experience" sources=[tiktok,instagram]
+[Planner]   sq3 label=Study workflow search="rad tech app study routine OR radiology tech app tips" sources=[tiktok,instagram]
+✓ Research complete (6.8s) - TikTok: 0 videos, Instagram: 0 reels
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-25/1220-rad-tech-student-app.json
+[OK] seed succeeded
+
+===== Seed: electricians app for quotes =====
+/last30days · researching: electricians app for quotes
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=3, source=llm
+[Planner]   sq1 label=quote app discovery search="electrician quote app OR estimator" sources=[tiktok,instagram]
+[Planner]   sq2 label=business tool demos search="electricians app quotes OR invoicing" sources=[tiktok,instagram]
+[Planner]   sq3 label=user experiences search="electrician software quote OR estimate" sources=[tiktok,instagram]
+✓ Research complete (7.6s) - TikTok: 0 videos, Instagram: 0 reels
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-25/1221-electricians-app-for-quotes.json
+[OK] seed succeeded
+
+===== Seed: plumbers "is there an app" =====
+/last30days · researching: plumbers "is there an app"
+⏳ [95mProcessing[0m Crunching the data...
+[Planner] Plan: intent=product, freshness=evergreen_ok, cluster_mode=none, subqueries=3, source=llm
+[Planner]   sq1 label=plumber app existence search="plumber app OR plumbing app" sources=[tiktok,instagram]
+[Planner]   sq2 label=plumbing service app search="plumbing service app OR plumber booking app" sources=[tiktok,instagram]
+[Planner]   sq3 label=tradesman apps for plumbers search="trades app plumber OR handyman app plumbing" sources=[tiktok,instagram]
+✓ Research complete (8.1s) - TikTok: 0 videos, Instagram: 0 reels
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-25/1221-plumbers-is-there-an-app.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed

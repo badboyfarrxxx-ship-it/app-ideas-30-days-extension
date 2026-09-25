@@ -1,0 +1,963 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "nursing students app for studying",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@smirksignalss/video/7686927769862704414"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://tiktok.com/@smirksignalss/video/7686927769862704414"
+      ],
+      "score": 74.31935483870969,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "Apps and websites that make nursing school easier for me!  #nursingstudent #nursingschool #greenscreenvideo #creatorsearchinsights #studentn"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@sofiasstudytipss/video/7683106151218679054"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://tiktok.com/@sofiasstudytipss/video/7683106151218679054"
+      ],
+      "score": 71.1076923076923,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "the only 3 apps you need to succeed in nursing school!! #college #study #studytok #nursingstudent"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@thelmatutors.xo/video/7682196557294357774"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://tiktok.com/@thelmatutors.xo/video/7682196557294357774"
+      ],
+      "score": 67.88095238095238,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "No.1 literally saved my GPA\ud83e\udd2b\ud83d\ude4c\ud83c\udffd#nursingschool #nursingstudent #studyapps #studytok #fyp"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@champagnelucio/video/7688941867572022559"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://tiktok.com/@champagnelucio/video/7688941867572022559"
+      ],
+      "score": 63.459016393442624,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "10/10 you can also log in on you mac and all the notes sync over in seconds!!! \ud83e\ude7a\ud83e\udd0d #nursingstudentsoftiktok #lpnstudent #nursingschool #nursi"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@anniejayflawlessx2/video/7679630348245945613"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://tiktok.com/@anniejayflawlessx2/video/7679630348245945613"
+      ],
+      "score": 63.17272727272727,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "Theese apps helping me survive nursing school cs these notes are NOT going to study themselves \ud83c\udf80\ud83e\ude7a\ud83d\udcda               My little study team \ud83e\udd2a #Nur"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/@jnotesapp/video/7685328845238586654"
+      ],
+      "cluster_id": "cluster-6",
+      "representative_ids": [
+        "https://tiktok.com/@jnotesapp/video/7685328845238586654"
+      ],
+      "score": 26.24375,
+      "sources": [
+        "tiktok"
+      ],
+      "title": "POV: Your nursing final is next week and you haven't started studying. \ud83d\udc80 #nursingstudent #examprep #fyp #finals #reviewmode"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-25T12:20:50.864937+00:00",
+  "items_by_source": {
+    "instagram": [],
+    "tiktok": [
+      {
+        "author": "champagnelucio",
+        "body": "10/10 you can also log in on you mac and all the notes sync over in seconds!!! \ud83e\ude7a\ud83e\udd0d #nursingstudentsoftiktok #lpnstudent #nursingschool #nursingstudentsoftiktok",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 1,
+          "likes": 60,
+          "shares": 0,
+          "views": 634
+        },
+        "engagement_score": 15,
+        "freshness": 86,
+        "item_id": "TK16",
+        "local_rank_score": 0.3925,
+        "local_relevance": 0.25,
+        "metadata": {
+          "hashtags": [
+            "nursingstudentsoftiktok",
+            "lpnstudent",
+            "nursingschool",
+            "nursingstudentsoftiktok"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.21,
+        "snippet": "10/10 you can also log in on you mac and all the notes sync over in seconds!!! \ud83e\ude7a\ud83e\udd0d #nursingstudentsoftiktok #lpnstudent #nursingschool #nursingstudentsoftiktok",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "10/10 you can also log in on you mac and all the notes sync over in seconds!!! \ud83e\ude7a\ud83e\udd0d #nursingstudentsoftiktok #lpnstudent #nursingschool #nursi",
+        "url": "https://www.tiktok.com/@champagnelucio/video/7688941867572022559",
+        "why_relevant": "TikTok: 10/10 you can also log in on you mac and all the notes sync"
+      },
+      {
+        "author": "smirksignalss",
+        "body": "Apps and websites that make nursing school easier for me!  #nursingstudent #nursingschool #greenscreenvideo #creatorsearchinsights #studentnurse",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 9,
+          "likes": 358,
+          "shares": 18,
+          "views": 3991
+        },
+        "engagement_score": 35,
+        "freshness": 70,
+        "item_id": "TK8",
+        "local_rank_score": 0.3725,
+        "local_relevance": 0.25,
+        "metadata": {
+          "hashtags": [
+            "nursingstudent",
+            "nursingschool",
+            "greenscreenvideo",
+            "creatorsearchinsights",
+            "studentnurse"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-18",
+        "relevance_hint": 0.17,
+        "snippet": "Apps and websites that make nursing school easier for me! #nursingstudent #nursingschool #greenscreenvideo #creatorsearchinsights #studentnurse",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "Apps and websites that make nursing school easier for me!  #nursingstudent #nursingschool #greenscreenvideo #creatorsearchinsights #studentn",
+        "url": "https://www.tiktok.com/@smirksignalss/video/7686927769862704414",
+        "why_relevant": "TikTok: Apps and websites that make nursing school easier for me!  #"
+      },
+      {
+        "author": "thelmatutors.xo",
+        "body": "No.1 literally saved my GPA\ud83e\udd2b\ud83d\ude4c\ud83c\udffd#nursingschool #nursingstudent #studyapps #studytok #fyp\nNo.1 literally saved my GPA\ud83e\udd2b\ud83d\ude4c\ud83c\udffd#nursingschool #nursingstudent #studyapps #studytok #fyp",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 112,
+          "likes": 18047,
+          "shares": 800,
+          "views": 140713
+        },
+        "engagement_score": 72,
+        "freshness": 36,
+        "item_id": "TK2",
+        "local_rank_score": 0.3245,
+        "local_relevance": 0.25,
+        "metadata": {
+          "hashtags": [
+            "nursingschool",
+            "nursingstudent",
+            "studyapps",
+            "studytok",
+            "fyp"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-05",
+        "relevance_hint": 0.39,
+        "snippet": "No.1 literally saved my GPA\ud83e\udd2b\ud83d\ude4c\ud83c\udffd#nursingschool #nursingstudent #studyapps #studytok #fyp",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "No.1 literally saved my GPA\ud83e\udd2b\ud83d\ude4c\ud83c\udffd#nursingschool #nursingstudent #studyapps #studytok #fyp",
+        "url": "https://www.tiktok.com/@thelmatutors.xo/video/7682196557294357774",
+        "why_relevant": "TikTok: No.1 literally saved my GPA\ud83e\udd2b\ud83d\ude4c\ud83c\udffd#nursingschool #nursingstudent"
+      },
+      {
+        "author": "jnotesapp",
+        "body": "POV: Your nursing final is next week and you haven't started studying. \ud83d\udc80 #nursingstudent #examprep #fyp #finals #reviewmode",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 1,
+          "likes": 2,
+          "shares": 0,
+          "views": 203
+        },
+        "engagement_score": 0,
+        "freshness": 60,
+        "item_id": "TK20",
+        "local_rank_score": 0.3125,
+        "local_relevance": 0.25,
+        "metadata": {
+          "hashtags": [
+            "nursingstudent",
+            "examprep",
+            "fyp",
+            "finals",
+            "reviewmode"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-14",
+        "relevance_hint": 0.21,
+        "snippet": "POV: Your nursing final is next week and you haven't started studying. \ud83d\udc80 #nursingstudent #examprep #fyp #finals #reviewmode",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "POV: Your nursing final is next week and you haven't started studying. \ud83d\udc80 #nursingstudent #examprep #fyp #finals #reviewmode",
+        "url": "https://www.tiktok.com/@jnotesapp/video/7685328845238586654",
+        "why_relevant": "TikTok: POV: Your nursing final is next week and you haven't started"
+      },
+      {
+        "author": "sofiasstudytipss",
+        "body": "the only 3 apps you need to succeed in nursing school!! #college #study #studytok #nursingstudent",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 0,
+          "likes": 46,
+          "shares": 1,
+          "views": 846
+        },
+        "engagement_score": 15,
+        "freshness": 44,
+        "item_id": "TK13",
+        "local_rank_score": 0.28750000000000003,
+        "local_relevance": 0.25,
+        "metadata": {
+          "hashtags": [
+            "college",
+            "study",
+            "studytok",
+            "nursingstudent"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-09-08",
+        "relevance_hint": 0.17,
+        "snippet": "the only 3 apps you need to succeed in nursing school!! #college #study #studytok #nursingstudent",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "the only 3 apps you need to succeed in nursing school!! #college #study #studytok #nursingstudent",
+        "url": "https://www.tiktok.com/@sofiasstudytipss/video/7683106151218679054",
+        "why_relevant": "TikTok: the only 3 apps you need to succeed in nursing school!! #col"
+      },
+      {
+        "author": "anniejayflawlessx2",
+        "body": "Theese apps helping me survive nursing school cs these notes are NOT going to study themselves \ud83c\udf80\ud83e\ude7a\ud83d\udcda               My little study team \ud83e\udd2a #NursingStudent #NursingSchool #StudyTok #NursingTok #StudentNurse\nTheese apps helping me survive nursing school cs these notes are NOT going to study themselves \ud83c\udf80\ud83e\ude7a\ud83d\udcda               My little study team \ud83e\udd2a #NursingStudent #NursingSchool #StudyTok #NursingTok #StudentNurse",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 26,
+          "likes": 284,
+          "shares": 59,
+          "views": 7727
+        },
+        "engagement_score": 40,
+        "freshness": 20,
+        "item_id": "TK5",
+        "local_rank_score": 0.25250000000000006,
+        "local_relevance": 0.25,
+        "metadata": {
+          "hashtags": [
+            "nursingstudent",
+            "nursingschool",
+            "studytok",
+            "nursingtok",
+            "studentnurse"
+          ],
+          "top_comments": []
+        },
+        "published_at": "2026-08-30",
+        "relevance_hint": 0.17,
+        "snippet": "Theese apps helping me survive nursing school cs these notes are NOT going to study themselves \ud83c\udf80\ud83e\ude7a\ud83d\udcda               My little study team \ud83e\udd2a #NursingStudent #NursingSchool #StudyTok #NursingTok #StudentNurse",
+        "source": "tiktok",
+        "source_quality": 0.58,
+        "title": "Theese apps helping me survive nursing school cs these notes are NOT going to study themselves \ud83c\udf80\ud83e\ude7a\ud83d\udcda               My little study team \ud83e\udd2a #Nur",
+        "url": "https://www.tiktok.com/@anniejayflawlessx2/video/7679630348245945613",
+        "why_relevant": "TikTok: Theese apps helping me survive nursing school cs these notes"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "market",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [],
+    "raw_topic": "nursing students app for studying",
+    "source_weights": {
+      "instagram": 0.4,
+      "tiktok": 0.6
+    },
+    "subqueries": [
+      {
+        "label": "top study apps",
+        "ranking_query": "Which apps are nursing students recommending for studying?",
+        "search_query": "nursing students study app OR nursing school app",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 0.2777777777777778
+      },
+      {
+        "label": "study with me content",
+        "ranking_query": "How do nursing students use study apps in their daily routines?",
+        "search_query": "nursing student study with me app",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "user reviews",
+        "ranking_query": "What do nursing students say about the study apps they actually use?",
+        "search_query": "nursing app review OR nursing study app experience",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "tips and features",
+        "ranking_query": "What specific app features help nursing students study effectively?",
+        "search_query": "nursing school study tips app features",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 0.22222222222222224
+      }
+    ]
+  },
+  "range_from": "2026-08-26",
+  "range_to": "2026-09-25",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://tiktok.com/@smirksignalss/video/7686927769862704414",
+      "cluster_id": "cluster-1",
+      "engagement": 35,
+      "explanation": "direct list of apps/websites for nursing school with user experience",
+      "final_score": 74.31935483870969,
+      "freshness": 70,
+      "fun_explanation": "plain list, zero punch",
+      "fun_score": 22.0,
+      "item_id": "TK8",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK8",
+            "native_rank": 2,
+            "source": "tiktok",
+            "subquery_label": "top study apps"
+          },
+          {
+            "item_id": "TK8",
+            "native_rank": 2,
+            "source": "tiktok",
+            "subquery_label": "study with me content"
+          },
+          {
+            "item_id": "TK8",
+            "native_rank": 2,
+            "source": "tiktok",
+            "subquery_label": "user reviews"
+          },
+          {
+            "item_id": "TK8",
+            "native_rank": 2,
+            "source": "tiktok",
+            "subquery_label": "tips and features"
+          }
+        ]
+      },
+      "native_ranks": {
+        "study with me content:tiktok": 2,
+        "tips and features:tiktok": 2,
+        "top study apps:tiktok": 2,
+        "user reviews:tiktok": 2
+      },
+      "rerank_score": 95.0,
+      "rrf_score": 0.00967741935483871,
+      "snippet": "Apps and websites that make nursing school easier for me! #nursingstudent #nursingschool #greenscreenvideo #creatorsearchinsights #studentnurse",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "smirksignalss",
+          "body": "Apps and websites that make nursing school easier for me!  #nursingstudent #nursingschool #greenscreenvideo #creatorsearchinsights #studentnurse",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 9,
+            "likes": 358,
+            "shares": 18,
+            "views": 3991
+          },
+          "engagement_score": 35,
+          "freshness": 70,
+          "item_id": "TK8",
+          "local_rank_score": 0.3725,
+          "local_relevance": 0.25,
+          "metadata": {
+            "hashtags": [
+              "nursingstudent",
+              "nursingschool",
+              "greenscreenvideo",
+              "creatorsearchinsights",
+              "studentnurse"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-18",
+          "relevance_hint": 0.17,
+          "snippet": "Apps and websites that make nursing school easier for me! #nursingstudent #nursingschool #greenscreenvideo #creatorsearchinsights #studentnurse",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "Apps and websites that make nursing school easier for me!  #nursingstudent #nursingschool #greenscreenvideo #creatorsearchinsights #studentn",
+          "url": "https://www.tiktok.com/@smirksignalss/video/7686927769862704414",
+          "why_relevant": "TikTok: Apps and websites that make nursing school easier for me!  #"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "top study apps",
+        "study with me content",
+        "user reviews",
+        "tips and features"
+      ],
+      "title": "Apps and websites that make nursing school easier for me!  #nursingstudent #nursingschool #greenscreenvideo #creatorsearchinsights #studentn",
+      "url": "https://www.tiktok.com/@smirksignalss/video/7686927769862704414"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@sofiasstudytipss/video/7683106151218679054",
+      "cluster_id": "cluster-2",
+      "engagement": 15,
+      "explanation": "explicitly recommends the only 3 apps needed for nursing school",
+      "final_score": 71.1076923076923,
+      "freshness": 44,
+      "fun_explanation": "clickbait claim, no wit",
+      "fun_score": 28.0,
+      "item_id": "TK13",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK13",
+            "native_rank": 5,
+            "source": "tiktok",
+            "subquery_label": "top study apps"
+          },
+          {
+            "item_id": "TK13",
+            "native_rank": 5,
+            "source": "tiktok",
+            "subquery_label": "study with me content"
+          },
+          {
+            "item_id": "TK13",
+            "native_rank": 5,
+            "source": "tiktok",
+            "subquery_label": "user reviews"
+          },
+          {
+            "item_id": "TK13",
+            "native_rank": 5,
+            "source": "tiktok",
+            "subquery_label": "tips and features"
+          }
+        ]
+      },
+      "native_ranks": {
+        "study with me content:tiktok": 5,
+        "tips and features:tiktok": 5,
+        "top study apps:tiktok": 5,
+        "user reviews:tiktok": 5
+      },
+      "rerank_score": 95.0,
+      "rrf_score": 0.00923076923076923,
+      "snippet": "the only 3 apps you need to succeed in nursing school!! #college #study #studytok #nursingstudent",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "sofiasstudytipss",
+          "body": "the only 3 apps you need to succeed in nursing school!! #college #study #studytok #nursingstudent",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 0,
+            "likes": 46,
+            "shares": 1,
+            "views": 846
+          },
+          "engagement_score": 15,
+          "freshness": 44,
+          "item_id": "TK13",
+          "local_rank_score": 0.28750000000000003,
+          "local_relevance": 0.25,
+          "metadata": {
+            "hashtags": [
+              "college",
+              "study",
+              "studytok",
+              "nursingstudent"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-08",
+          "relevance_hint": 0.17,
+          "snippet": "the only 3 apps you need to succeed in nursing school!! #college #study #studytok #nursingstudent",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "the only 3 apps you need to succeed in nursing school!! #college #study #studytok #nursingstudent",
+          "url": "https://www.tiktok.com/@sofiasstudytipss/video/7683106151218679054",
+          "why_relevant": "TikTok: the only 3 apps you need to succeed in nursing school!! #col"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "top study apps",
+        "study with me content",
+        "user reviews",
+        "tips and features"
+      ],
+      "title": "the only 3 apps you need to succeed in nursing school!! #college #study #studytok #nursingstudent",
+      "url": "https://www.tiktok.com/@sofiasstudytipss/video/7683106151218679054"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@thelmatutors.xo/video/7682196557294357774",
+      "cluster_id": "cluster-3",
+      "engagement": 72,
+      "explanation": "strong user review claiming app saved GPA, tagged with studyapps",
+      "final_score": 67.88095238095238,
+      "freshness": 36,
+      "fun_explanation": "GPA secret tease adds slight personality",
+      "fun_score": 41.0,
+      "item_id": "TK2",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK2",
+            "native_rank": 3,
+            "source": "tiktok",
+            "subquery_label": "top study apps"
+          },
+          {
+            "item_id": "TK2",
+            "native_rank": 3,
+            "source": "tiktok",
+            "subquery_label": "study with me content"
+          },
+          {
+            "item_id": "TK2",
+            "native_rank": 3,
+            "source": "tiktok",
+            "subquery_label": "user reviews"
+          },
+          {
+            "item_id": "TK2",
+            "native_rank": 3,
+            "source": "tiktok",
+            "subquery_label": "tips and features"
+          }
+        ]
+      },
+      "native_ranks": {
+        "study with me content:tiktok": 3,
+        "tips and features:tiktok": 3,
+        "top study apps:tiktok": 3,
+        "user reviews:tiktok": 3
+      },
+      "rerank_score": 90.0,
+      "rrf_score": 0.009523809523809525,
+      "snippet": "No.1 literally saved my GPA\ud83e\udd2b\ud83d\ude4c\ud83c\udffd#nursingschool #nursingstudent #studyapps #studytok #fyp",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "thelmatutors.xo",
+          "body": "No.1 literally saved my GPA\ud83e\udd2b\ud83d\ude4c\ud83c\udffd#nursingschool #nursingstudent #studyapps #studytok #fyp\nNo.1 literally saved my GPA\ud83e\udd2b\ud83d\ude4c\ud83c\udffd#nursingschool #nursingstudent #studyapps #studytok #fyp",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 112,
+            "likes": 18047,
+            "shares": 800,
+            "views": 140713
+          },
+          "engagement_score": 72,
+          "freshness": 36,
+          "item_id": "TK2",
+          "local_rank_score": 0.3245,
+          "local_relevance": 0.25,
+          "metadata": {
+            "hashtags": [
+              "nursingschool",
+              "nursingstudent",
+              "studyapps",
+              "studytok",
+              "fyp"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-05",
+          "relevance_hint": 0.39,
+          "snippet": "No.1 literally saved my GPA\ud83e\udd2b\ud83d\ude4c\ud83c\udffd#nursingschool #nursingstudent #studyapps #studytok #fyp",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "No.1 literally saved my GPA\ud83e\udd2b\ud83d\ude4c\ud83c\udffd#nursingschool #nursingstudent #studyapps #studytok #fyp",
+          "url": "https://www.tiktok.com/@thelmatutors.xo/video/7682196557294357774",
+          "why_relevant": "TikTok: No.1 literally saved my GPA\ud83e\udd2b\ud83d\ude4c\ud83c\udffd#nursingschool #nursingstudent"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "top study apps",
+        "study with me content",
+        "user reviews",
+        "tips and features"
+      ],
+      "title": "No.1 literally saved my GPA\ud83e\udd2b\ud83d\ude4c\ud83c\udffd#nursingschool #nursingstudent #studyapps #studytok #fyp",
+      "url": "https://www.tiktok.com/@thelmatutors.xo/video/7682196557294357774"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@champagnelucio/video/7688941867572022559",
+      "cluster_id": "cluster-4",
+      "engagement": 15,
+      "explanation": "user review of specific app feature (Mac sync) for nursing notes",
+      "final_score": 63.459016393442624,
+      "freshness": 86,
+      "fun_explanation": "straight product praise",
+      "fun_score": 25.0,
+      "item_id": "TK16",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK16",
+            "native_rank": 1,
+            "source": "tiktok",
+            "subquery_label": "top study apps"
+          },
+          {
+            "item_id": "TK16",
+            "native_rank": 1,
+            "source": "tiktok",
+            "subquery_label": "study with me content"
+          },
+          {
+            "item_id": "TK16",
+            "native_rank": 1,
+            "source": "tiktok",
+            "subquery_label": "user reviews"
+          },
+          {
+            "item_id": "TK16",
+            "native_rank": 1,
+            "source": "tiktok",
+            "subquery_label": "tips and features"
+          }
+        ]
+      },
+      "native_ranks": {
+        "study with me content:tiktok": 1,
+        "tips and features:tiktok": 1,
+        "top study apps:tiktok": 1,
+        "user reviews:tiktok": 1
+      },
+      "rerank_score": 75.0,
+      "rrf_score": 0.009836065573770491,
+      "snippet": "10/10 you can also log in on you mac and all the notes sync over in seconds!!! \ud83e\ude7a\ud83e\udd0d #nursingstudentsoftiktok #lpnstudent #nursingschool #nursingstudentsoftiktok",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "champagnelucio",
+          "body": "10/10 you can also log in on you mac and all the notes sync over in seconds!!! \ud83e\ude7a\ud83e\udd0d #nursingstudentsoftiktok #lpnstudent #nursingschool #nursingstudentsoftiktok",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 1,
+            "likes": 60,
+            "shares": 0,
+            "views": 634
+          },
+          "engagement_score": 15,
+          "freshness": 86,
+          "item_id": "TK16",
+          "local_rank_score": 0.3925,
+          "local_relevance": 0.25,
+          "metadata": {
+            "hashtags": [
+              "nursingstudentsoftiktok",
+              "lpnstudent",
+              "nursingschool",
+              "nursingstudentsoftiktok"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.21,
+          "snippet": "10/10 you can also log in on you mac and all the notes sync over in seconds!!! \ud83e\ude7a\ud83e\udd0d #nursingstudentsoftiktok #lpnstudent #nursingschool #nursingstudentsoftiktok",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "10/10 you can also log in on you mac and all the notes sync over in seconds!!! \ud83e\ude7a\ud83e\udd0d #nursingstudentsoftiktok #lpnstudent #nursingschool #nursi",
+          "url": "https://www.tiktok.com/@champagnelucio/video/7688941867572022559",
+          "why_relevant": "TikTok: 10/10 you can also log in on you mac and all the notes sync"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "top study apps",
+        "study with me content",
+        "user reviews",
+        "tips and features"
+      ],
+      "title": "10/10 you can also log in on you mac and all the notes sync over in seconds!!! \ud83e\ude7a\ud83e\udd0d #nursingstudentsoftiktok #lpnstudent #nursingschool #nursi",
+      "url": "https://www.tiktok.com/@champagnelucio/video/7688941867572022559"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@anniejayflawlessx2/video/7679630348245945613",
+      "cluster_id": "cluster-5",
+      "engagement": 40,
+      "explanation": "user experience report on multiple apps helping survive nursing school",
+      "final_score": 63.17272727272727,
+      "freshness": 20,
+      "fun_explanation": "notes won't study themselves quip has spark",
+      "fun_score": 52.0,
+      "item_id": "TK5",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK5",
+            "native_rank": 6,
+            "source": "tiktok",
+            "subquery_label": "top study apps"
+          },
+          {
+            "item_id": "TK5",
+            "native_rank": 6,
+            "source": "tiktok",
+            "subquery_label": "study with me content"
+          },
+          {
+            "item_id": "TK5",
+            "native_rank": 6,
+            "source": "tiktok",
+            "subquery_label": "user reviews"
+          },
+          {
+            "item_id": "TK5",
+            "native_rank": 6,
+            "source": "tiktok",
+            "subquery_label": "tips and features"
+          }
+        ]
+      },
+      "native_ranks": {
+        "study with me content:tiktok": 6,
+        "tips and features:tiktok": 6,
+        "top study apps:tiktok": 6,
+        "user reviews:tiktok": 6
+      },
+      "rerank_score": 85.0,
+      "rrf_score": 0.00909090909090909,
+      "snippet": "Theese apps helping me survive nursing school cs these notes are NOT going to study themselves \ud83c\udf80\ud83e\ude7a\ud83d\udcda               My little study team \ud83e\udd2a #NursingStudent #NursingSchool #StudyTok #NursingTok #StudentNurse",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "anniejayflawlessx2",
+          "body": "Theese apps helping me survive nursing school cs these notes are NOT going to study themselves \ud83c\udf80\ud83e\ude7a\ud83d\udcda               My little study team \ud83e\udd2a #NursingStudent #NursingSchool #StudyTok #NursingTok #StudentNurse\nTheese apps helping me survive nursing school cs these notes are NOT going to study themselves \ud83c\udf80\ud83e\ude7a\ud83d\udcda               My little study team \ud83e\udd2a #NursingStudent #NursingSchool #StudyTok #NursingTok #StudentNurse",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 26,
+            "likes": 284,
+            "shares": 59,
+            "views": 7727
+          },
+          "engagement_score": 40,
+          "freshness": 20,
+          "item_id": "TK5",
+          "local_rank_score": 0.25250000000000006,
+          "local_relevance": 0.25,
+          "metadata": {
+            "hashtags": [
+              "nursingstudent",
+              "nursingschool",
+              "studytok",
+              "nursingtok",
+              "studentnurse"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-08-30",
+          "relevance_hint": 0.17,
+          "snippet": "Theese apps helping me survive nursing school cs these notes are NOT going to study themselves \ud83c\udf80\ud83e\ude7a\ud83d\udcda               My little study team \ud83e\udd2a #NursingStudent #NursingSchool #StudyTok #NursingTok #StudentNurse",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "Theese apps helping me survive nursing school cs these notes are NOT going to study themselves \ud83c\udf80\ud83e\ude7a\ud83d\udcda               My little study team \ud83e\udd2a #Nur",
+          "url": "https://www.tiktok.com/@anniejayflawlessx2/video/7679630348245945613",
+          "why_relevant": "TikTok: Theese apps helping me survive nursing school cs these notes"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "top study apps",
+        "study with me content",
+        "user reviews",
+        "tips and features"
+      ],
+      "title": "Theese apps helping me survive nursing school cs these notes are NOT going to study themselves \ud83c\udf80\ud83e\ude7a\ud83d\udcda               My little study team \ud83e\udd2a #Nur",
+      "url": "https://www.tiktok.com/@anniejayflawlessx2/video/7679630348245945613"
+    },
+    {
+      "candidate_id": "https://tiktok.com/@jnotesapp/video/7685328845238586654",
+      "cluster_id": "cluster-6",
+      "engagement": 0,
+      "explanation": "no mention of any app or study tool in title/snippet, only exam prep POV",
+      "final_score": 26.24375,
+      "freshness": 60,
+      "fun_explanation": "POV panic + skull emoji lands relatable punch",
+      "fun_score": 61.0,
+      "item_id": "TK20",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "TK20",
+            "native_rank": 4,
+            "source": "tiktok",
+            "subquery_label": "top study apps"
+          },
+          {
+            "item_id": "TK20",
+            "native_rank": 4,
+            "source": "tiktok",
+            "subquery_label": "study with me content"
+          },
+          {
+            "item_id": "TK20",
+            "native_rank": 4,
+            "source": "tiktok",
+            "subquery_label": "user reviews"
+          },
+          {
+            "item_id": "TK20",
+            "native_rank": 4,
+            "source": "tiktok",
+            "subquery_label": "tips and features"
+          }
+        ]
+      },
+      "native_ranks": {
+        "study with me content:tiktok": 4,
+        "tips and features:tiktok": 4,
+        "top study apps:tiktok": 4,
+        "user reviews:tiktok": 4
+      },
+      "rerank_score": 25.0,
+      "rrf_score": 0.009375,
+      "snippet": "POV: Your nursing final is next week and you haven't started studying. \ud83d\udc80 #nursingstudent #examprep #fyp #finals #reviewmode",
+      "source": "tiktok",
+      "source_items": [
+        {
+          "author": "jnotesapp",
+          "body": "POV: Your nursing final is next week and you haven't started studying. \ud83d\udc80 #nursingstudent #examprep #fyp #finals #reviewmode",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 1,
+            "likes": 2,
+            "shares": 0,
+            "views": 203
+          },
+          "engagement_score": 0,
+          "freshness": 60,
+          "item_id": "TK20",
+          "local_rank_score": 0.3125,
+          "local_relevance": 0.25,
+          "metadata": {
+            "hashtags": [
+              "nursingstudent",
+              "examprep",
+              "fyp",
+              "finals",
+              "reviewmode"
+            ],
+            "top_comments": []
+          },
+          "published_at": "2026-09-14",
+          "relevance_hint": 0.21,
+          "snippet": "POV: Your nursing final is next week and you haven't started studying. \ud83d\udc80 #nursingstudent #examprep #fyp #finals #reviewmode",
+          "source": "tiktok",
+          "source_quality": 0.58,
+          "title": "POV: Your nursing final is next week and you haven't started studying. \ud83d\udc80 #nursingstudent #examprep #fyp #finals #reviewmode",
+          "url": "https://www.tiktok.com/@jnotesapp/video/7685328845238586654",
+          "why_relevant": "TikTok: POV: Your nursing final is next week and you haven't started"
+        }
+      ],
+      "source_quality": 0.58,
+      "sources": [
+        "tiktok"
+      ],
+      "subquery_labels": [
+        "top study apps",
+        "study with me content",
+        "user reviews",
+        "tips and features"
+      ],
+      "title": "POV: Your nursing final is next week and you haven't started studying. \ud83d\udc80 #nursingstudent #examprep #fyp #finals #reviewmode",
+      "url": "https://www.tiktok.com/@jnotesapp/video/7685328845238586654"
+    }
+  ],
+  "topic": "nursing students app for studying",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "electricians app for quotes",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-25T12:21:05.556678+00:00",
+  "items_by_source": {
+    "instagram": [],
+    "tiktok": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [],
+    "raw_topic": "electricians app for quotes",
+    "source_weights": {
+      "instagram": 0.5,
+      "tiktok": 0.5
+    },
+    "subqueries": [
+      {
+        "label": "quote app discovery",
+        "ranking_query": "Which apps do electricians use to create and send job quotes?",
+        "search_query": "electrician quote app OR estimator",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 0.3448275862068966
+      },
+      {
+        "label": "business tool demos",
+        "ranking_query": "Electricians showing how they generate quotes with mobile apps",
+        "search_query": "electricians app quotes OR invoicing",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 0.3448275862068966
+      },
+      {
+        "label": "user experiences",
+        "ranking_query": "Real electricians sharing experiences with quote apps on social media",
+        "search_query": "electrician software quote OR estimate",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 0.3103448275862069
+      }
+    ]
+  },
+  "range_from": "2026-08-26",
+  "range_to": "2026-09-25",
+  "ranked_candidates": [],
+  "topic": "electricians app for quotes",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

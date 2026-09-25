@@ -1,0 +1,79 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "rad tech student app",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-25T12:20:57.793630+00:00",
+  "items_by_source": {
+    "instagram": [],
+    "tiktok": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [],
+    "raw_topic": "rad tech student app",
+    "source_weights": {
+      "instagram": 0.5,
+      "tiktok": 0.5
+    },
+    "subqueries": [
+      {
+        "label": "Popular apps",
+        "ranking_query": "What mobile apps are rad tech students actually using to study anatomy and positioning?",
+        "search_query": "rad tech student app OR radiology tech study app",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 0.37037037037037035
+      },
+      {
+        "label": "Student reviews",
+        "ranking_query": "Real experiences and honest reviews of apps from current rad tech students",
+        "search_query": "rad tech app review OR radiology student app experience",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 0.3333333333333333
+      },
+      {
+        "label": "Study workflow",
+        "ranking_query": "How rad tech students incorporate apps into their daily study workflow",
+        "search_query": "rad tech app study routine OR radiology tech app tips",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 0.2962962962962963
+      }
+    ]
+  },
+  "range_from": "2026-08-26",
+  "range_to": "2026-09-25",
+  "ranked_candidates": [],
+  "topic": "rad tech student app",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

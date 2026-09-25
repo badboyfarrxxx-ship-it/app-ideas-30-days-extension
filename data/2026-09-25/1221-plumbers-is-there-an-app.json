@@ -1,0 +1,79 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "plumbers \"is there an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-25T12:21:13.792166+00:00",
+  "items_by_source": {
+    "instagram": [],
+    "tiktok": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "evergreen_ok",
+    "intent": "product",
+    "notes": [],
+    "raw_topic": "plumbers \"is there an app\"",
+    "source_weights": {
+      "instagram": 0.5,
+      "tiktok": 0.5
+    },
+    "subqueries": [
+      {
+        "label": "plumber app existence",
+        "ranking_query": "Is there an app for plumbers or plumbing jobs?",
+        "search_query": "plumber app OR plumbing app",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 0.37037037037037035
+      },
+      {
+        "label": "plumbing service app",
+        "ranking_query": "What apps do plumbers use to get jobs or manage work?",
+        "search_query": "plumbing service app OR plumber booking app",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 0.3333333333333333
+      },
+      {
+        "label": "tradesman apps for plumbers",
+        "ranking_query": "Are there mobile apps specifically made for plumbers and tradespeople?",
+        "search_query": "trades app plumber OR handyman app plumbing",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 0.2962962962962963
+      }
+    ]
+  },
+  "range_from": "2026-08-26",
+  "range_to": "2026-09-25",
+  "ranked_candidates": [],
+  "topic": "plumbers \"is there an app\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}
