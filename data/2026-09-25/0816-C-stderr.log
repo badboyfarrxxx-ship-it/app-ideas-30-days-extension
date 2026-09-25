@@ -1,0 +1,116 @@
+Batch C sources=youtube
+Started at 2026-09-25T08:16:31Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/36112018503
+----
+
+===== Seed: "worth paying for" app =====
+/last30days · researching: "worth paying for" app
+⏳ [95mProcessing[0m Removing duplicates...
+[Planner] Plan: intent=opinion, freshness=balanced_recent, cluster_mode=debate, subqueries=4, source=llm
+[Planner]   sq1 label=paid apps value search="app worth paying OR subscription worth it" sources=[youtube]
+[Planner]   sq2 label=subscription reviews search="paid app review OR premium app experience" sources=[youtube]
+[Planner]   sq3 label=free vs paid search="free vs paid app OR premium upgrade worth" sources=[youtube]
+[Planner]   sq4 label=user recommendations search="app recommendation paid OR best paid apps 2025" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for '"worth paying for" app' (depth=default)
+[YouTube] SC YouTube search error: 400 Client Error: Bad Request for url: https://api.scrapecreators.com/v1/youtube/search?keyword=%22worth+paying+for%22+app
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for '"worth paying for" app' (depth=default)
+[YouTube] SC YouTube search error: 400 Client Error: Bad Request for url: https://api.scrapecreators.com/v1/youtube/search?keyword=%22worth+paying+for%22+app
+[YouTube] SC YouTube search returned 0 results
+✓ Research complete (5.3s) - YouTube: 0 videos
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-25/0816-worth-paying-for-app.json
+[OK] seed succeeded
+
+===== Seed: "I still use a spreadsheet for" =====
+/last30days · researching: "I still use a spreadsheet for"
+⏳ [95mProcessing[0m Scoring and ranking...
+[Planner] Plan: intent=opinion, freshness=balanced_recent, cluster_mode=workflow, subqueries=5, source=llm
+[Planner]   sq1 label=why spreadsheets persist search="why still use spreadsheet OR excel" sources=[youtube]
+[Planner]   sq2 label=spreadsheet workflow examples search="spreadsheet workflow OR pipeline data" sources=[youtube]
+[Planner]   sq3 label=personal spreadsheet experience search="I use spreadsheet for OR excel instead of" sources=[youtube]
+[Planner]   sq4 label=spreadsheet vs modern tools search="spreadsheet vs airtable OR notion OR database" sources=[youtube]
+[Planner]   sq5 label=spreadsheet production use search="spreadsheet for business OR finance OR tracking" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for '"i still use a spreadsheet for"' (depth=default)
+[YouTube] SC YouTube search error: 400 Client Error: Bad Request for url: https://api.scrapecreators.com/v1/youtube/search?keyword=%22i+still+use+a+spreadsheet+for%22
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for '"i still use a spreadsheet for"' (depth=default)
+[YouTube] SC YouTube search error: 400 Client Error: Bad Request for url: https://api.scrapecreators.com/v1/youtube/search?keyword=%22i+still+use+a+spreadsheet+for%22
+[YouTube] SC YouTube search returned 0 results
+✓ Research complete (7.7s) - YouTube: 0 videos
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-25/0816-i-still-use-a-spreadsheet-for.json
+[OK] seed succeeded
+
+===== Seed: "I track it in my notes app" =====
+/last30days · researching: "I track it in my notes app"
+⏳ [95mProcessing[0m Finding patterns...
+[Planner] Plan: intent=how_to, freshness=evergreen_ok, cluster_mode=workflow, subqueries=4, source=llm
+[Planner]   sq1 label=notes app tracking basics search="track tasks OR items in notes app" sources=[youtube]
+[Planner]   sq2 label=notes app workflow examples search="notes app workflow OR system for tracking" sources=[youtube]
+[Planner]   sq3 label=notes app productivity setup search="notes app productivity setup OR dashboard" sources=[youtube]
+[Planner]   sq4 label=real user notes tracking search="my notes app tracking system OR method" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for '"i track it in my notes app"' (depth=default)
+[YouTube] SC YouTube search error: 400 Client Error: Bad Request for url: https://api.scrapecreators.com/v1/youtube/search?keyword=%22i+track+it+in+my+notes+app%22
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for '"i track it in my notes app"' (depth=default)
+[YouTube] SC YouTube search error: 400 Client Error: Bad Request for url: https://api.scrapecreators.com/v1/youtube/search?keyword=%22i+track+it+in+my+notes+app%22
+[YouTube] SC YouTube search returned 0 results
+✓ Research complete (7.9s) - YouTube: 0 videos
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-25/0816-i-track-it-in-my-notes-app.json
+[OK] seed succeeded
+
+===== Seed: "there has to be a better way to" =====
+/last30days · researching: "there has to be a better way to"
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] Plan: intent=how_to, freshness=evergreen_ok, cluster_mode=workflow, subqueries=4, source=llm
+[Planner]   sq1 label=productivity alternatives search="better way to OR efficient method OR simplify task" sources=[youtube]
+[Planner]   sq2 label=workflow improvements search="better way to OR smarter approach OR optimize process" sources=[youtube]
+[Planner]   sq3 label=life hacks discussion search="there has to be a better way OR easier method OR hack" sources=[youtube]
+[Planner]   sq4 label=tool alternatives search="better way to OR alternative tool OR replace method" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for '"there has to be a better way to"' (depth=default)
+[YouTube] SC YouTube search error: 400 Client Error: Bad Request for url: https://api.scrapecreators.com/v1/youtube/search?keyword=%22there+has+to+be+a+better+way+to%22
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for '"there has to be a better way to"' (depth=default)
+[YouTube] SC YouTube search error: 400 Client Error: Bad Request for url: https://api.scrapecreators.com/v1/youtube/search?keyword=%22there+has+to+be+a+better+way+to%22
+[YouTube] SC YouTube search returned 0 results
+✓ Research complete (7.9s) - YouTube: 0 videos
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-25/0817-there-has-to-be-a-better-way-to.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed

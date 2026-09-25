@@ -1,0 +1,85 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"there has to be a better way to\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-25T08:17:01.514249+00:00",
+  "items_by_source": {
+    "youtube": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "workflow",
+    "freshness_mode": "evergreen_ok",
+    "intent": "how_to",
+    "notes": [
+      "Topic is vague/general; subqueries target how-to alternatives on YouTube"
+    ],
+    "raw_topic": "\"there has to be a better way to\"",
+    "source_weights": {
+      "youtube": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "productivity alternatives",
+        "ranking_query": "What are practical better ways to handle common daily tasks?",
+        "search_query": "better way to OR efficient method OR simplify task",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "workflow improvements",
+        "ranking_query": "Videos showing improved workflows and smarter approaches to repetitive work?",
+        "search_query": "better way to OR smarter approach OR optimize process",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "life hacks discussion",
+        "ranking_query": "Content where creators discuss obvious better ways to do everyday things?",
+        "search_query": "there has to be a better way OR easier method OR hack",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "tool alternatives",
+        "ranking_query": "Recommendations for better tools or replacement methods people actually use?",
+        "search_query": "better way to OR alternative tool OR replace method",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.25
+      }
+    ]
+  },
+  "range_from": "2026-08-26",
+  "range_to": "2026-09-25",
+  "ranked_candidates": [],
+  "topic": "\"there has to be a better way to\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

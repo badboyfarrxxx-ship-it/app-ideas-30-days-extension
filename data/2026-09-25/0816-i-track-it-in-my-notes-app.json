@@ -1,0 +1,85 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"I track it in my notes app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-25T08:16:53.517033+00:00",
+  "items_by_source": {
+    "youtube": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "workflow",
+    "freshness_mode": "evergreen_ok",
+    "intent": "how_to",
+    "notes": [
+      "Focus on workflow demonstrations and practical setups shown on YouTube"
+    ],
+    "raw_topic": "\"I track it in my notes app\"",
+    "source_weights": {
+      "youtube": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "notes app tracking basics",
+        "ranking_query": "How do people track tasks, habits, or information inside a notes app?",
+        "search_query": "track tasks OR items in notes app",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "notes app workflow examples",
+        "ranking_query": "What practical workflows do users show for tracking things inside their notes app?",
+        "search_query": "notes app workflow OR system for tracking",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "notes app productivity setup",
+        "ranking_query": "How do creators set up a notes app as a central place to track everything?",
+        "search_query": "notes app productivity setup OR dashboard",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "real user notes tracking",
+        "ranking_query": "What real examples exist of someone tracking their work or life inside a notes app?",
+        "search_query": "my notes app tracking system OR method",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.25
+      }
+    ]
+  },
+  "range_from": "2026-08-26",
+  "range_to": "2026-09-25",
+  "ranked_candidates": [],
+  "topic": "\"I track it in my notes app\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

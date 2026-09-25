@@ -1,0 +1,92 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"I still use a spreadsheet for\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-25T08:16:45.468929+00:00",
+  "items_by_source": {
+    "youtube": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "workflow",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [],
+    "raw_topic": "\"I still use a spreadsheet for\"",
+    "source_weights": {
+      "youtube": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "why spreadsheets persist",
+        "ranking_query": "Why do people continue using spreadsheets for work instead of newer tools?",
+        "search_query": "why still use spreadsheet OR excel",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.2
+      },
+      {
+        "label": "spreadsheet workflow examples",
+        "ranking_query": "Real examples of spreadsheet-based workflows people rely on daily",
+        "search_query": "spreadsheet workflow OR pipeline data",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.2
+      },
+      {
+        "label": "personal spreadsheet experience",
+        "ranking_query": "Personal stories and experiences of still depending on spreadsheets",
+        "search_query": "I use spreadsheet for OR excel instead of",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.2
+      },
+      {
+        "label": "spreadsheet vs modern tools",
+        "ranking_query": "Comparisons of spreadsheets versus newer apps and when spreadsheets win",
+        "search_query": "spreadsheet vs airtable OR notion OR database",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.2
+      },
+      {
+        "label": "spreadsheet production use",
+        "ranking_query": "How spreadsheets are used in real production or business settings",
+        "search_query": "spreadsheet for business OR finance OR tracking",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.2
+      }
+    ]
+  },
+  "range_from": "2026-08-26",
+  "range_to": "2026-09-25",
+  "ranked_candidates": [],
+  "topic": "\"I still use a spreadsheet for\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

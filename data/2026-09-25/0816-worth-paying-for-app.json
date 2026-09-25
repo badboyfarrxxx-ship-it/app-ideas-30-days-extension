@@ -1,0 +1,85 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"worth paying for\" app",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-25T08:16:37.662393+00:00",
+  "items_by_source": {
+    "youtube": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "debate",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [
+      "limited to youtube only per request"
+    ],
+    "raw_topic": "\"worth paying for\" app",
+    "source_weights": {
+      "youtube": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "paid apps value",
+        "ranking_query": "Which apps are actually worth paying for according to real users?",
+        "search_query": "app worth paying OR subscription worth it",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.2631578947368421
+      },
+      {
+        "label": "subscription reviews",
+        "ranking_query": "Do people feel the paid version of this app is worth the money?",
+        "search_query": "paid app review OR premium app experience",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.2631578947368421
+      },
+      {
+        "label": "free vs paid",
+        "ranking_query": "Is upgrading to the paid version of the app actually worth it?",
+        "search_query": "free vs paid app OR premium upgrade worth",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.2368421052631579
+      },
+      {
+        "label": "user recommendations",
+        "ranking_query": "What paid apps do creators recommend as genuinely worth the cost?",
+        "search_query": "app recommendation paid OR best paid apps 2025",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.2368421052631579
+      }
+    ]
+  },
+  "range_from": "2026-08-26",
+  "range_to": "2026-09-25",
+  "ranked_candidates": [],
+  "topic": "\"worth paying for\" app",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}
