@@ -1,0 +1,79 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "side hustle \"is there an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-26T21:04:43.955782+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [],
+    "raw_topic": "side hustle \"is there an app\"",
+    "source_weights": {
+      "hackernews": 0.4444444444444445,
+      "reddit": 0.5555555555555556
+    },
+    "subqueries": [
+      {
+        "label": "side hustle apps",
+        "ranking_query": "What apps exist for finding, starting, or managing side hustles?",
+        "search_query": "side hustle app OR tool",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.36363636363636365
+      },
+      {
+        "label": "best side hustle platforms",
+        "ranking_query": "Which apps or platforms do people actually use successfully as side hustles?",
+        "search_query": "\"side hustle\" (app OR platform OR tool) recommend",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.32727272727272727
+      },
+      {
+        "label": "side hustle app experiences",
+        "ranking_query": "Real user experiences with apps that help run side hustles?",
+        "search_query": "side hustle (app OR mobile) experience OR review",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.3090909090909091
+      }
+    ]
+  },
+  "range_from": "2026-08-27",
+  "range_to": "2026-09-26",
+  "ranked_candidates": [],
+  "topic": "side hustle \"is there an app\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

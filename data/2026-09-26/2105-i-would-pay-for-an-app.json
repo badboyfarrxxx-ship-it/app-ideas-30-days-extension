@@ -1,0 +1,91 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"I would pay for an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-26T21:05:08.516126+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "debate",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [
+      "Focus on user-expressed willingness to pay and monetization feedback"
+    ],
+    "raw_topic": "\"I would pay for an app\"",
+    "source_weights": {
+      "hackernews": 0.45945945945945943,
+      "reddit": 0.5405405405405405
+    },
+    "subqueries": [
+      {
+        "label": "willingness to pay apps",
+        "ranking_query": "What apps would users actually pay money for?",
+        "search_query": "would pay for app OR \"willing to pay\" app",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.28169014084507044
+      },
+      {
+        "label": "paid app pain points",
+        "ranking_query": "Which app problems are bad enough that people would pay to solve them?",
+        "search_query": "paid app OR subscription app problems OR worth paying",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.2535211267605634
+      },
+      {
+        "label": "indie app monetization",
+        "ranking_query": "What indie or side-project apps have users paid for successfully?",
+        "search_query": "indie app OR \"side project\" app paid OR revenue",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.23943661971830987
+      },
+      {
+        "label": "app subscription complaints",
+        "ranking_query": "What app subscriptions do people complain about or refuse to pay for?",
+        "search_query": "app subscription OR \"monthly fee\" app OR overpriced app",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.22535211267605637
+      }
+    ]
+  },
+  "range_from": "2026-08-27",
+  "range_to": "2026-09-26",
+  "ranked_candidates": [],
+  "topic": "\"I would pay for an app\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

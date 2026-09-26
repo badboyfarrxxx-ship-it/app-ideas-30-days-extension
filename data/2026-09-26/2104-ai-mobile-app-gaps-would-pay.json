@@ -1,0 +1,91 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "AI mobile app gaps \"would pay\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-26T21:04:35.435236+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "market",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [
+      "Focus on monetization signals and explicit pain points rather than general AI discussion"
+    ],
+    "raw_topic": "AI mobile app gaps \"would pay\"",
+    "source_weights": {
+      "hackernews": 0.45945945945945943,
+      "reddit": 0.5405405405405405
+    },
+    "subqueries": [
+      {
+        "label": "pain points",
+        "ranking_query": "What missing features or pain points in current AI mobile apps would users pay to fix?",
+        "search_query": "\"AI app\" (frustrations OR complaints OR missing OR gaps) mobile",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.27027027027027023
+      },
+      {
+        "label": "willingness to pay",
+        "ranking_query": "Which AI mobile app features or improvements would people actually pay money for?",
+        "search_query": "\"AI mobile\" (pay OR paid OR subscription) (worth OR useful)",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.25675675675675674
+      },
+      {
+        "label": "app complaints",
+        "ranking_query": "Common complaints about existing AI mobile apps and what users wish they could pay for instead",
+        "search_query": "AI (app OR apps) (broken OR useless OR overrated) mobile",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.24324324324324323
+      },
+      {
+        "label": "feature requests",
+        "ranking_query": "Specific AI capabilities or mobile app experiences users say they would pay for",
+        "search_query": "\"AI app\" (feature request OR wishlist OR needs) mobile",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.22972972972972971
+      }
+    ]
+  },
+  "range_from": "2026-08-27",
+  "range_to": "2026-09-26",
+  "ranked_candidates": [],
+  "topic": "AI mobile app gaps \"would pay\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}
