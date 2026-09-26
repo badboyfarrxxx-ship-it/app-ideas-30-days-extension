@@ -1,0 +1,169 @@
+Batch D sources=tiktok,instagram
+Started at 2026-09-26T12:18:22Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/36241488842
+----
+
+===== Seed: site:reddit.com/r/apple =====
+/last30days · researching: site:reddit.com/r/apple
+⏳ [95mProcessing[0m Crunching the data...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs apple
+[Competitors] Comparing: site:reddit.com vs r vs apple
+[Resolve] Search failed for subreddit: HTTP 422: 
+[Resolve] Search failed for x_handle: HTTP 422: 
+[Resolve] Search failed for news: HTTP 422: 
+[Resolve] Search failed for news: HTTP 422: 
+[Resolve] Search failed for x_handle: HTTP 422: 
+[Resolve] Search failed for subreddit: HTTP 422: 
+[Resolve] Search failed for github: HTTP 422: 
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] r: x=@- subs=0 gh=- (auto)
+[Resolve] Search failed for github: HTTP 422: 
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] apple: x=@- subs=0 gh=- (auto)
+[Planner] Plan: intent=factual, freshness=balanced_recent, cluster_mode=none, subqueries=2, source=llm
+[Planner]   sq1 label=core meaning search="r" sources=[tiktok,instagram]
+[Planner]   sq2 label=visual examples search="r letter OR symbol" sources=[tiktok,instagram]
+[Planner] Plan: intent=factual, freshness=balanced_recent, cluster_mode=none, subqueries=2, source=llm
+[Planner]   sq1 label=Apple hardware search="apple iphone" sources=[tiktok,instagram]
+[Planner]   sq2 label=Apple ecosystem search="apple macbook ipad" sources=[tiktok,instagram]
+[Planner] Plan: intent=factual, freshness=balanced_recent, cluster_mode=none, subqueries=2, source=llm
+[Planner]   sq1 label=Reddit site basics search="reddit" sources=[tiktok,instagram]
+[Planner]   sq2 label=Reddit user experiences search="reddit community" sources=[tiktok,instagram]
+✓ Research complete (8.3s) - TikTok: 0 videos, Instagram: 0 reels
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-26/1218-site-reddit-com.json
+[OK] seed succeeded
+
+===== Seed: site:reddit.com/r/GooglePixel =====
+/last30days · researching: site:reddit.com/r/GooglePixel
+⏳ [95mProcessing[0m Organizing findings...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs GooglePixel
+[Competitors] Comparing: site:reddit.com vs r vs GooglePixel
+[Resolve] Search failed for subreddit: HTTP 422: 
+[Resolve] Search failed for news: HTTP 422: 
+[Resolve] Search failed for news: HTTP 422: 
+[Resolve] Search failed for subreddit: HTTP 422: 
+[Resolve] Search failed for x_handle: HTTP 422: 
+[Resolve] Search failed for x_handle: HTTP 422: 
+[Resolve] Search failed for github: HTTP 422: 
+[Resolve] Search failed for github: HTTP 422: 
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] GooglePixel: x=@- subs=0 gh=- (auto)
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] r: x=@- subs=0 gh=- (auto)
+[Planner] Plan: intent=factual, freshness=balanced_recent, cluster_mode=none, subqueries=2, source=llm
+[Planner]   sq1 label=core topic search="r" sources=[tiktok,instagram]
+[Planner]   sq2 label=context examples search="r" sources=[tiktok,instagram]
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=3, source=llm
+[Planner]   sq1 label=Pixel camera search="Google Pixel camera" sources=[tiktok,instagram]
+[Planner]   sq2 label=Pixel unboxing search="Google Pixel unboxing" sources=[tiktok,instagram]
+[Planner]   sq3 label=Pixel vs iPhone search="Google Pixel vs iPhone" sources=[tiktok,instagram]
+[Planner] Plan: intent=factual, freshness=balanced_recent, cluster_mode=none, subqueries=2, source=llm
+[Planner]   sq1 label=reddit overview search="reddit.com OR reddit app" sources=[tiktok,instagram]
+[Planner]   sq2 label=reddit user experience search="reddit communities OR subreddits" sources=[tiktok,instagram]
+✓ Research complete (8.3s) - TikTok: 0 videos, Instagram: 0 reels
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-26/1218-site-reddit-com.json
+[OK] seed succeeded
+
+===== Seed: site:reddit.com/r/AppHookup =====
+/last30days · researching: site:reddit.com/r/AppHookup
+⏳ [95mProcessing[0m Finding patterns...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs AppHookup
+[Competitors] Comparing: site:reddit.com vs r vs AppHookup
+[Resolve] Search failed for news: HTTP 422: 
+[Resolve] Search failed for subreddit: HTTP 422: 
+[Resolve] Search failed for x_handle: HTTP 422: 
+[Resolve] Search failed for news: HTTP 422: 
+[Resolve] Search failed for x_handle: HTTP 422: 
+[Resolve] Search failed for subreddit: HTTP 422: 
+[Resolve] Search failed for github: HTTP 422: 
+[Resolve] Search failed for github: HTTP 422: 
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] AppHookup: x=@- subs=0 gh=- (auto)
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] r: x=@- subs=0 gh=- (auto)
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=4, source=llm
+[Planner]   sq1 label=App overview search="AppHookup app" sources=[tiktok,instagram]
+[Planner]   sq2 label=User demos search="AppHookup demo" sources=[tiktok,instagram]
+[Planner]   sq3 label=User reviews search="AppHookup review" sources=[tiktok,instagram]
+[Planner]   sq4 label=Features search="AppHookup features" sources=[tiktok,instagram]
+[Planner] Plan: intent=factual, freshness=balanced_recent, cluster_mode=none, subqueries=2, source=llm
+[Planner]   sq1 label=core meaning search="r letter OR symbol" sources=[tiktok,instagram]
+[Planner]   sq2 label=common usage search="r meaning OR definition" sources=[tiktok,instagram]
+[Planner] Plan: intent=opinion, freshness=balanced_recent, cluster_mode=debate, subqueries=3, source=llm
+[Planner]   sq1 label=reddit sentiment search="reddit" sources=[tiktok,instagram]
+[Planner]   sq2 label=reddit vs alternatives search="reddit OR alternatives" sources=[tiktok,instagram]
+[Planner]   sq3 label=reddit communities search="reddit communities OR subreddits" sources=[tiktok,instagram]
+✓ Research complete (8.1s) - TikTok: 0 videos, Instagram: 0 reels
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-26/1218-site-reddit-com.json
+[OK] seed succeeded
+
+===== Seed: site:reddit.com/r/SideProject "mobile app" =====
+/last30days · researching: site:reddit.com/r/SideProject "mobile app"
+⏳ [95mProcessing[0m Organizing findings...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs SideProject "mobile app
+[Competitors] Comparing: site:reddit.com vs r vs SideProject "mobile app
+[Resolve] Search failed for x_handle: HTTP 422: 
+[Resolve] Search failed for subreddit: HTTP 422: 
+[Resolve] Search failed for news: HTTP 422: 
+[Resolve] Search failed for subreddit: HTTP 422: 
+[Resolve] Search failed for x_handle: HTTP 422: 
+[Resolve] Search failed for news: HTTP 422: 
+[Resolve] Search failed for github: HTTP 422: 
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] r: x=@- subs=0 gh=- (auto)
+[Resolve] Search failed for github: HTTP 422: 
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] SideProject "mobile app: x=@- subs=0 gh=- (auto)
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=4, source=llm
+[Planner]   sq1 label=side project ideas search="side project mobile app" sources=[tiktok,instagram]
+[Planner]   sq2 label=launch examples search="mobile app side hustle launch" sources=[tiktok,instagram]
+[Planner]   sq3 label=build process search="building mobile app side project" sources=[tiktok,instagram]
+[Planner]   sq4 label=monetization tips search="monetize side project mobile app" sources=[tiktok,instagram]
+[Planner] Plan: intent=factual, freshness=balanced_recent, cluster_mode=none, subqueries=2, source=llm
+[Planner]   sq1 label=core topic search="r" sources=[tiktok,instagram]
+[Planner]   sq2 label=context examples search="r meaning OR usage" sources=[tiktok,instagram]
+[Planner] Plan: intent=opinion, freshness=strict_recent, cluster_mode=none, subqueries=2, source=llm
+[Planner]   sq1 label=reddit discussions search="reddit" sources=[tiktok,instagram]
+[Planner]   sq2 label=reddit experiences search="reddit app OR site" sources=[tiktok,instagram]
+✓ Research complete (11.6s) - TikTok: 0 videos, Instagram: 0 reels
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-26/1218-site-reddit-com.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed

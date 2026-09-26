@@ -1,0 +1,71 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "site:reddit.com",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-26T12:18:59.483017+00:00",
+  "items_by_source": {
+    "instagram": [],
+    "tiktok": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "strict_recent",
+    "intent": "opinion",
+    "notes": [
+      "topic specifies reddit but available sources limited to tiktok and instagram"
+    ],
+    "raw_topic": "site:reddit.com",
+    "source_weights": {
+      "instagram": 0.4,
+      "tiktok": 0.6
+    },
+    "subqueries": [
+      {
+        "label": "reddit discussions",
+        "ranking_query": "what people are saying about reddit threads or communities",
+        "search_query": "reddit",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 0.5555555555555556
+      },
+      {
+        "label": "reddit experiences",
+        "ranking_query": "user experiences and opinions shared about using reddit",
+        "search_query": "reddit app OR site",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 0.4444444444444445
+      }
+    ]
+  },
+  "range_from": "2026-08-27",
+  "range_to": "2026-09-26",
+  "ranked_candidates": [],
+  "topic": "site:reddit.com",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}
