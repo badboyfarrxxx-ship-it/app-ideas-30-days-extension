@@ -1,0 +1,89 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"I would pay for an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-26T22:54:05.778451+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "debate",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [],
+    "raw_topic": "\"I would pay for an app\"",
+    "source_weights": {
+      "hackernews": 0.35,
+      "reddit": 0.65
+    },
+    "subqueries": [
+      {
+        "label": "willingness to pay",
+        "ranking_query": "What apps or app features would people actually pay money for?",
+        "search_query": "\"would pay\" OR \"willing to pay\" app",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.35
+      },
+      {
+        "label": "paid vs free apps",
+        "ranking_query": "Why do users choose paid apps or subscriptions instead of free alternatives?",
+        "search_query": "paid app OR premium app subscription",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "missing paid features",
+        "ranking_query": "What specific app features or tools do people say they would pay for if they existed?",
+        "search_query": "\"pay for\" feature OR \"I'd buy\" app",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "HN/reddit app ideas",
+        "ranking_query": "Which app ideas or existing apps do developers and users think have real paying demand?",
+        "search_query": "app idea worth paying OR monetizable app",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.15
+      }
+    ]
+  },
+  "range_from": "2026-08-27",
+  "range_to": "2026-09-26",
+  "ranked_candidates": [],
+  "topic": "\"I would pay for an app\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

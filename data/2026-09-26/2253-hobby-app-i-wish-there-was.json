@@ -1,0 +1,91 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "hobby app \"I wish there was\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-26T22:53:50.468931+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [
+      "Focus on genuine user wish-list language rather than polished app ideas"
+    ],
+    "raw_topic": "hobby app \"I wish there was\"",
+    "source_weights": {
+      "hackernews": 0.35,
+      "reddit": 0.65
+    },
+    "subqueries": [
+      {
+        "label": "wish list apps",
+        "ranking_query": "Threads where people describe hobby apps or tools they wish existed",
+        "search_query": "\"I wish there was\" (app OR tool) hobby",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.28169014084507044
+      },
+      {
+        "label": "missing hobby tools",
+        "ranking_query": "People posting about hobby or maker tools they wish someone would build",
+        "search_query": "wish app existed (hobby OR maker OR diy)",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.2535211267605634
+      },
+      {
+        "label": "feature requests hobby",
+        "ranking_query": "Discussions of specific hobby app ideas or missing features users want",
+        "search_query": "\"wish there was an app\" (hobby OR project OR side)",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.23943661971830987
+      },
+      {
+        "label": "app idea complaints",
+        "ranking_query": "Complaints or wishes about hobby activities that lack a good dedicated app",
+        "search_query": "no app for (hobby OR craft OR collection) OR \"needs an app\"",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.22535211267605637
+      }
+    ]
+  },
+  "range_from": "2026-08-27",
+  "range_to": "2026-09-26",
+  "ranked_candidates": [],
+  "topic": "hobby app \"I wish there was\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

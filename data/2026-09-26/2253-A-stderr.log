@@ -1,0 +1,179 @@
+Batch A sources=reddit,hackernews
+Started at 2026-09-26T22:53:36Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/36277718039
+----
+
+===== Seed: side hustle "is there an app" =====
+/last30days · researching: side hustle "is there an app"
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=3, source=llm
+[Planner]   sq1 label=side hustle app discovery search="side hustle app OR apps" sources=[reddit,hackernews]
+[Planner]   sq2 label=recommended side hustle tools search=""side hustle" (app OR tracker OR platform)" sources=[reddit,hackernews]
+[Planner]   sq3 label=side hustle app recommendations search="side hustle (app OR software) recommend" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=side+hustle+%22is+there+an+app%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'side hustle "is there an app"' into 2 queries: ['side hustle "is there app"', 'side hustle "is there an app"']
+[Reddit] Global search 1/2: 'side hustle "is there app"' (sort=relevance)
+[Reddit] Global search 2/2: 'side hustle "is there an app"' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'side hustle "is there app"'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'side hustle "is there an app"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=side+hustle+%22is+there+an+app%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'side hustle "is there an app"' into 2 queries: ['side hustle "is there app"', 'side hustle "is there an app"']
+[Reddit] Global search 1/2: 'side hustle "is there app"' (sort=relevance)
+[Reddit] Global search 2/2: 'side hustle "is there an app"' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'side hustle "is there an app"'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'side hustle "is there app"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+✓ Research complete (6.6s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-26/2253-side-hustle-is-there-an-app.json
+[OK] seed succeeded
+
+===== Seed: hobby app "I wish there was" =====
+/last30days · researching: hobby app "I wish there was"
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] Plan: intent=opinion, freshness=balanced_recent, cluster_mode=none, subqueries=4, source=llm
+[Planner]   sq1 label=wish list apps search=""I wish there was" (app OR tool) hobby" sources=[reddit,hackernews]
+[Planner]   sq2 label=missing hobby tools search="wish app existed (hobby OR maker OR diy)" sources=[reddit,hackernews]
+[Planner]   sq3 label=feature requests hobby search=""wish there was an app" (hobby OR project OR side)" sources=[reddit,hackernews]
+[Planner]   sq4 label=app idea complaints search="no app for (hobby OR craft OR collection) OR "needs an app"" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=hobby+app+%22I+wish+there+was%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'hobby app "I wish there was"' into 1 queries: ['hobby app "i wish there was"']
+[Reddit] Global search 1/2: 'hobby app "i wish there was"' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'hobby app "i wish there was"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=hobby+app+%22I+wish+there+was%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'hobby app "I wish there was"' into 1 queries: ['hobby app "i wish there was"']
+[Reddit] Global search 1/2: 'hobby app "i wish there was"' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'hobby app "i wish there was"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+✓ Research complete (6.7s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-26/2253-hobby-app-i-wish-there-was.json
+[OK] seed succeeded
+
+===== Seed: "I wish there was an app for" =====
+/last30days · researching: "I wish there was an app for"
+⏳ [95mProcessing[0m Scoring and ranking...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=market, subqueries=3, source=llm
+[Planner]   sq1 label=wish app posts search=""wish there was an app" OR "wish there was a app"" sources=[reddit,hackernews]
+[Planner]   sq2 label=missing tool ideas search="app idea OR "need an app" OR "app that" wish" sources=[reddit,hackernews]
+[Planner]   sq3 label=productivity gaps search=""app for" (productivity OR tracking OR reminder) wish OR need" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=%22I+wish+there+was+an+app+for%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded '"I wish there was an app for"' into 2 queries: ['"i wish there was app for"', '"I wish there was an app for"']
+[Reddit] Global search 1/2: '"i wish there was app for"' (sort=relevance)
+[Reddit] Global search 2/2: '"I wish there was an app for"' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for '"I wish there was an app for"'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for '"i wish there was app for"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=%22I+wish+there+was+an+app+for%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded '"I wish there was an app for"' into 2 queries: ['"i wish there was app for"', '"I wish there was an app for"']
+[Reddit] Global search 1/2: '"i wish there was app for"' (sort=relevance)
+[Reddit] Global search 2/2: '"I wish there was an app for"' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for '"I wish there was an app for"'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for '"i wish there was app for"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+✓ Research complete (7.7s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-26/2253-i-wish-there-was-an-app-for.json
+[OK] seed succeeded
+
+===== Seed: "I would pay for an app" =====
+/last30days · researching: "I would pay for an app"
+⏳ [95mProcessing[0m Scoring and ranking...
+[Planner] Plan: intent=opinion, freshness=balanced_recent, cluster_mode=debate, subqueries=4, source=llm
+[Planner]   sq1 label=willingness to pay search=""would pay" OR "willing to pay" app" sources=[reddit,hackernews]
+[Planner]   sq2 label=paid vs free apps search="paid app OR premium app subscription" sources=[reddit,hackernews]
+[Planner]   sq3 label=missing paid features search=""pay for" feature OR "I'd buy" app" sources=[reddit,hackernews]
+[Planner]   sq4 label=HN/reddit app ideas search="app idea worth paying OR monetizable app" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=%22I+would+pay+for+an+app%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded '"I would pay for an app"' into 2 queries: ['"i would pay app"', '"I would pay for an app"']
+[Reddit] Global search 1/2: '"i would pay app"' (sort=relevance)
+[Reddit] Global search 2/2: '"I would pay for an app"' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for '"I would pay for an app"'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for '"i would pay app"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=%22I+would+pay+for+an+app%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded '"I would pay for an app"' into 2 queries: ['"i would pay app"', '"I would pay for an app"']
+[Reddit] Global search 1/2: '"i would pay app"' (sort=relevance)
+[Reddit] Global search 2/2: '"I would pay for an app"' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for '"I would pay for an app"'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for '"i would pay app"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+✓ Research complete (7.3s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-26/2254-i-would-pay-for-an-app.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed
