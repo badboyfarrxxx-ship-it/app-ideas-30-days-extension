@@ -1,0 +1,71 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "hobby app \"I wish there was\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-26T23:15:10.163763+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "concept",
+    "notes": [
+      "focus on app idea discovery from wish-style phrasing"
+    ],
+    "raw_topic": "hobby app \"I wish there was\"",
+    "source_weights": {
+      "hackernews": 0.35,
+      "reddit": 0.65
+    },
+    "subqueries": [
+      {
+        "label": "wish list app ideas",
+        "ranking_query": "posts where people describe apps they wish existed for everyday problems",
+        "search_query": "\"I wish there was\" app",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.5263157894736842
+      },
+      {
+        "label": "hobby project requests",
+        "ranking_query": "hobbyist or indie discussions requesting simple apps that don't exist yet",
+        "search_query": "\"wish there was an app\" OR \"need an app that\"",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.4736842105263158
+      }
+    ]
+  },
+  "range_from": "2026-08-27",
+  "range_to": "2026-09-26",
+  "ranked_candidates": [],
+  "topic": "hobby app \"I wish there was\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

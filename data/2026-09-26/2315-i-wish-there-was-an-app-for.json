@@ -1,0 +1,91 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"I wish there was an app for\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-26T23:15:19.409531+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "debate",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [
+      "focus on unmet needs and feature gaps expressed by users"
+    ],
+    "raw_topic": "\"I wish there was an app for\"",
+    "source_weights": {
+      "hackernews": 0.43749999999999994,
+      "reddit": 0.5625
+    },
+    "subqueries": [
+      {
+        "label": "wish app phrases",
+        "ranking_query": "posts where people say they wish an app existed for a specific need",
+        "search_query": "wish there was an app OR \"i wish there was an app for\"",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.29411764705882354
+      },
+      {
+        "label": "missing app ideas",
+        "ranking_query": "discussions about missing apps or features people want built",
+        "search_query": "app idea OR \"needs an app\" OR \"why isn't there an app\"",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.2647058823529412
+      },
+      {
+        "label": "app requests reddit",
+        "ranking_query": "user requests for apps that solve everyday problems",
+        "search_query": "\"app for\" (tracking OR managing OR finding OR automating)",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.23529411764705885
+      },
+      {
+        "label": "hacker news app wishes",
+        "ranking_query": "Hacker News threads expressing desire for new or nonexistent apps",
+        "search_query": "app (idea OR request OR missing OR needed) show hn",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.20588235294117646
+      }
+    ]
+  },
+  "range_from": "2026-08-27",
+  "range_to": "2026-09-26",
+  "ranked_candidates": [],
+  "topic": "\"I wish there was an app for\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

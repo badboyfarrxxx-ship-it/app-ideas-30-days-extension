@@ -1,0 +1,91 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"I would pay for an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-26T23:15:26.831304+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "debate",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [
+      "Focus on user-stated willingness to pay rather than general app discussion"
+    ],
+    "raw_topic": "\"I would pay for an app\"",
+    "source_weights": {
+      "hackernews": 0.35,
+      "reddit": 0.65
+    },
+    "subqueries": [
+      {
+        "label": "willingness to pay",
+        "ranking_query": "What apps or app features do users explicitly say they would pay money for?",
+        "search_query": "\"would pay for\" app OR \"pay for an app\"",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.28169014084507044
+      },
+      {
+        "label": "paid vs free complaints",
+        "ranking_query": "What free app limitations or problems make people willing to pay instead?",
+        "search_query": "app \"pay for\" OR premium OR subscription (frustrated OR hate OR annoying) free",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.2535211267605634
+      },
+      {
+        "label": "productivity tool payments",
+        "ranking_query": "Which productivity or utility apps do users say are worth paying for?",
+        "search_query": "productivity app \"would pay\" OR \"worth paying for\"",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.23943661971830987
+      },
+      {
+        "label": "app monetization feedback",
+        "ranking_query": "What app pricing models or paid tiers do people actually find reasonable?",
+        "search_query": "app (pricing OR monetization) (good OR fair OR worth) (pay OR paid)",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.22535211267605637
+      }
+    ]
+  },
+  "range_from": "2026-08-27",
+  "range_to": "2026-09-26",
+  "ranked_candidates": [],
+  "topic": "\"I would pay for an app\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

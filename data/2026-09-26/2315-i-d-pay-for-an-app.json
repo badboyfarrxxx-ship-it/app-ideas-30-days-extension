@@ -1,0 +1,91 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"I.d pay for an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-26T23:15:33.022526+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "debate",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [
+      "Focus on user willingness-to-pay discussions rather than specific product names"
+    ],
+    "raw_topic": "\"I.d pay for an app\"",
+    "source_weights": {
+      "hackernews": 0.35,
+      "reddit": 0.65
+    },
+    "subqueries": [
+      {
+        "label": "willingness to pay",
+        "ranking_query": "What apps or features would you actually pay for?",
+        "search_query": "pay for app OR \"would pay\" subscription",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.28169014084507044
+      },
+      {
+        "label": "paid app experiences",
+        "ranking_query": "Which paid apps have you found genuinely worth the money?",
+        "search_query": "paid app OR premium app worth it",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.2535211267605634
+      },
+      {
+        "label": "subscription fatigue",
+        "ranking_query": "Why do people refuse to pay for most apps and what would change that?",
+        "search_query": "app subscription OR \"not paying\" OR freemium hate",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.23943661971830987
+      },
+      {
+        "label": "indie app monetization",
+        "ranking_query": "What makes users pay for indie or solo-developed apps?",
+        "search_query": "indie app OR \"solo developer\" pay OR revenue",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.22535211267605637
+      }
+    ]
+  },
+  "range_from": "2026-08-27",
+  "range_to": "2026-09-26",
+  "ranked_candidates": [],
+  "topic": "\"I.d pay for an app\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}
