@@ -1,0 +1,182 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "anglers \"I wish there was an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://x.com/newlayer021/status/2102918774739615945"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://x.com/newlayer021/status/2102918774739615945"
+      ],
+      "score": 6.3953734061930785,
+      "sources": [
+        "x"
+      ],
+      "title": "I wish the anglers, fakes, and scammers would just disappear."
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-26T04:19:20.458788+00:00",
+  "items_by_source": {
+    "x": [
+      {
+        "author": "newlayer021",
+        "body": "I wish the anglers, fakes, and scammers would just disappear.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 50,
+        "freshness": 84,
+        "item_id": "X1",
+        "local_rank_score": 0.3965,
+        "local_relevance": 0.21,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.95,
+        "snippet": "I wish the anglers, fakes, and scammers would just disappear.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "I wish the anglers, fakes, and scammers would just disappear.",
+        "url": "https://x.com/newlayer021/status/2102918774739615945",
+        "why_relevant": "Direct match to query containing 'anglers' and exact phrase 'i wish' in a substantive sentence."
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [
+      "Focus on direct wish/frustration language from anglers"
+    ],
+    "raw_topic": "anglers \"I wish there was an app\"",
+    "source_weights": {
+      "x": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "app wishes",
+        "ranking_query": "Posts from anglers saying they wish a specific fishing or angling app existed",
+        "search_query": "anglers (\"wish there was an app\" OR \"need an app\" OR \"app idea\") fishing",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.37037037037037035
+      },
+      {
+        "label": "missing features",
+        "ranking_query": "Anglers complaining about missing app features or tools they need while fishing",
+        "search_query": "anglers (\"if only there was\" OR \"someone should make\") app",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.3333333333333333
+      },
+      {
+        "label": "frustrations",
+        "ranking_query": "Angler discussions about current fishing apps that fall short or features they want instead",
+        "search_query": "fishing OR angling (app OR mobile) (sucks OR missing OR wish OR hate)",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.2962962962962963
+      }
+    ]
+  },
+  "range_from": "2026-08-27",
+  "range_to": "2026-09-26",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://x.com/newlayer021/status/2102918774739615945",
+      "cluster_id": "cluster-1",
+      "engagement": 50,
+      "explanation": "Mentions 'anglers' but in unrelated negative context; no app or fishing-app wish",
+      "final_score": 6.3953734061930785,
+      "freshness": 84,
+      "fun_explanation": "Flat complaint, zero wit or punch.",
+      "fun_score": 12.0,
+      "item_id": "X1",
+      "local_relevance": 0.21,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X1",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "app wishes"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app wishes:x": 1
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.006071645415907711,
+      "snippet": "I wish the anglers, fakes, and scammers would just disappear.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "newlayer021",
+          "body": "I wish the anglers, fakes, and scammers would just disappear.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 50,
+          "freshness": 84,
+          "item_id": "X1",
+          "local_rank_score": 0.3965,
+          "local_relevance": 0.21,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.95,
+          "snippet": "I wish the anglers, fakes, and scammers would just disappear.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "I wish the anglers, fakes, and scammers would just disappear.",
+          "url": "https://x.com/newlayer021/status/2102918774739615945",
+          "why_relevant": "Direct match to query containing 'anglers' and exact phrase 'i wish' in a substantive sentence."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app wishes"
+      ],
+      "title": "I wish the anglers, fakes, and scammers would just disappear.",
+      "url": "https://x.com/newlayer021/status/2102918774739615945"
+    }
+  ],
+  "topic": "anglers \"I wish there was an app\"",
+  "warnings": [
+    "Evidence is thin for this topic."
+  ]
+}

@@ -1,0 +1,1226 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "farmers \"is there an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://x.com/playboldstudio/status/2103123983063535745"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://x.com/playboldstudio/status/2103123983063535745"
+      ],
+      "score": 66.88486017357762,
+      "sources": [
+        "x"
+      ],
+      "title": "Meet Farmer Friend \u2013 Your all-in-one agricultural companion! Built for farmers, dealers, households & anyone connected to agriculture... Dow"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/farmprofitmgr/status/2102435746195943438"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://x.com/farmprofitmgr/status/2102435746195943438"
+      ],
+      "score": 65.80540019286403,
+      "sources": [
+        "x"
+      ],
+      "title": "It\u2019s here. \ud83c\udf31 Farm Profit Manager is officially available on the App Store. Built by farmers, for farmers. Download the app and check it out!"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/allegedly_forti/status/2103028387467997641"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://x.com/allegedly_forti/status/2103028387467997641"
+      ],
+      "score": 63.0671335200747,
+      "sources": [
+        "x"
+      ],
+      "title": "If you haven't yet please check out @mulberrytreeapp the only farmer owned farm to table app and nation wide farmers market."
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/stockmktnewz/status/2094746754570707441"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://x.com/stockmktnewz/status/2094746754570707441"
+      ],
+      "score": 62.65042016806723,
+      "sources": [
+        "x"
+      ],
+      "title": "DEERE $DE JUST LAUNCHED AN AI ASSISTANT NAMED \"JD\" JD is built into Deere's Operations Center mobile app and analyzes field-specific data..."
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/futurewfadnavis/status/2094313470309351505"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://x.com/futurewfadnavis/status/2094313470309351505"
+      ],
+      "score": 62.51408199643494,
+      "sources": [
+        "x"
+      ],
+      "title": "AI-Powered Farming. A New Agricultural Revolution. \ud83c\udf3e\ud83e\udd16 Under CM Devendra Fadnavis, the MahaVistaar App brings AI-powered guidance to Maharash"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/mulberrytreeapp/status/2093339311248748734"
+      ],
+      "cluster_id": "cluster-6",
+      "representative_ids": [
+        "https://x.com/mulberrytreeapp/status/2093339311248748734"
+      ],
+      "score": 58.69745390693591,
+      "sources": [
+        "x"
+      ],
+      "title": "This is the way!!!!!! Freedom starts with food!!! The beautiful thing, we have the platform, Mulberry Tree, already built for farmers to sel"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/qz/status/2095160686787887530"
+      ],
+      "cluster_id": "cluster-7",
+      "representative_ids": [
+        "https://x.com/qz/status/2095160686787887530"
+      ],
+      "score": 58.23400735294117,
+      "sources": [
+        "x"
+      ],
+      "title": "John Deere is launching an AI assistant to help farmers make sense of their field data: The tool, built into Deere's Operations Center mobil"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/a_hollywood1776/status/2102102973145071940"
+      ],
+      "cluster_id": "cluster-8",
+      "representative_ids": [
+        "https://x.com/a_hollywood1776/status/2102102973145071940"
+      ],
+      "score": 57.66736242884251,
+      "sources": [
+        "x"
+      ],
+      "title": "And check out apps like @mulberrytreeapp . They put you in touch with local farmers and producers in your immediate area."
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/pasta_sauce422/status/2102445297678835999"
+      ],
+      "cluster_id": "cluster-9",
+      "representative_ids": [
+        "https://x.com/pasta_sauce422/status/2102445297678835999"
+      ],
+      "score": 57.33122171945701,
+      "sources": [
+        "x"
+      ],
+      "title": "Highly recommend the Mulberry app to find local farmers. You can also share recipes or homesteading skills. It's ran by an amazing God cente"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/gingertealkp/status/2103620972305932596"
+      ],
+      "cluster_id": "cluster-10",
+      "representative_ids": [
+        "https://x.com/gingertealkp/status/2103620972305932596"
+      ],
+      "score": 25.14889705882353,
+      "sources": [
+        "x"
+      ],
+      "title": "They always have great deals on the app. I love supporting Jewel. They\u2019ve been around since I was a kid. They promote a lot of local farmers"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/nugsnet/status/2103605467973144585"
+      ],
+      "cluster_id": "cluster-11",
+      "representative_ids": [
+        "https://x.com/nugsnet/status/2103605467973144585"
+      ],
+      "score": 8.155787476280835,
+      "sources": [
+        "x"
+      ],
+      "title": "Watch @MissMargoPrice and the entire Farm Aid livestream lineup from home tomorrow! We're going live from Virginia Beach for free in the nug"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-26T04:18:34.059854+00:00",
+  "items_by_source": {
+    "x": [
+      {
+        "author": "farmprofitmgr",
+        "body": "It\u2019s here. \ud83c\udf31 Farm Profit Manager is officially available on the App Store. Built by farmers, for farmers. Download the app and check it out!",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 1,
+          "replies": 0,
+          "reposts": 3
+        },
+        "engagement_score": 8,
+        "freshness": 78,
+        "item_id": "X4",
+        "local_rank_score": 0.463,
+        "local_relevance": 0.4,
+        "metadata": {},
+        "published_at": "2026-09-22",
+        "relevance_hint": 1.0,
+        "snippet": "It\u2019s here. \ud83c\udf31 Farm Profit Manager is officially available on the App Store. Built by farmers, for farmers. Download the app and check it out!",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "It\u2019s here. \ud83c\udf31 Farm Profit Manager is officially available on the App Store. Built by farmers, for farmers. Download the app and check it out!",
+        "url": "https://x.com/farmprofitmgr/status/2102435746195943438",
+        "why_relevant": "Announcement of Farm Profit Manager app for farmers"
+      },
+      {
+        "author": "nugsnet",
+        "body": "Watch @MissMargoPrice and the entire Farm Aid livestream lineup from home tomorrow! We're going live from Virginia Beach for free in the nugs app, but your support is greatly encouraged! Supporting family farmers takes all of us...",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 7,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 1
+        },
+        "engagement_score": 20,
+        "freshness": 86,
+        "item_id": "X1",
+        "local_rank_score": 0.3975,
+        "local_relevance": 0.25,
+        "metadata": {},
+        "published_at": "2026-09-25",
+        "relevance_hint": 0.9,
+        "snippet": "Watch @MissMargoPrice and the entire Farm Aid livestream lineup from home tomorrow! We're going live from Virginia Beach for free in the nugs app, but your support is greatly encouraged! Supporting family farmers takes all of us...",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Watch @MissMargoPrice and the entire Farm Aid livestream lineup from home tomorrow! We're going live from Virginia Beach for free in the nug",
+        "url": "https://x.com/nugsnet/status/2103605467973144585",
+        "why_relevant": "Mentions nugs app for streaming Farm Aid to support farmers"
+      },
+      {
+        "author": "Allegedly_Forti",
+        "body": "If you haven't yet please check out @mulberrytreeapp the only farmer owned farm to table app and nation wide farmers market.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 2,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 7,
+        "freshness": 84,
+        "item_id": "X9",
+        "local_rank_score": 0.3795,
+        "local_relevance": 0.25,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.9,
+        "snippet": "If you haven't yet please check out @mulberrytreeapp the only farmer owned farm to table app and nation wide farmers market.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "If you haven't yet please check out @mulberrytreeapp the only farmer owned farm to table app and nation wide farmers market.",
+        "url": "https://x.com/Allegedly_Forti/status/2103028387467997641",
+        "why_relevant": "Recommends Mulberry farmer-owned app"
+      },
+      {
+        "author": "PlayBoldStudio",
+        "body": "Meet Farmer Friend \u2013 Your all-in-one agricultural companion! Built for farmers, dealers, households & anyone connected to agriculture... Download now: https://play.google.com/store/apps/details?id=com.playboldstudio.farmerfriend",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 0,
+        "freshness": 84,
+        "item_id": "X7",
+        "local_rank_score": 0.379,
+        "local_relevance": 0.26,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.95,
+        "snippet": "Meet Farmer Friend \u2013 Your all-in-one agricultural companion! Built for farmers, dealers, households & anyone connected to agriculture... Download now: https://play.google.com/store/apps/details?id=com.playboldstudio.farmerfriend",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Meet Farmer Friend \u2013 Your all-in-one agricultural companion! Built for farmers, dealers, households & anyone connected to agriculture... Dow",
+        "url": "https://x.com/PlayBoldStudio/status/2103123983063535745",
+        "why_relevant": "Promotes dedicated mobile app for farmers and agriculture"
+      },
+      {
+        "author": "gingertealkp",
+        "body": "They always have great deals on the app. I love supporting Jewel. They\u2019ve been around since I was a kid. They promote a lot of local farmers and vendors too. \ud83d\udc4d\ud83c\udffe",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 0,
+        "freshness": 86,
+        "item_id": "X6",
+        "local_rank_score": 0.3775,
+        "local_relevance": 0.25,
+        "metadata": {},
+        "published_at": "2026-09-25",
+        "relevance_hint": 0.75,
+        "snippet": "They always have great deals on the app. I love supporting Jewel. They\u2019ve been around since I was a kid. They promote a lot of local farmers and vendors too. \ud83d\udc4d\ud83c\udffe",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "They always have great deals on the app. I love supporting Jewel. They\u2019ve been around since I was a kid. They promote a lot of local farmers",
+        "url": "https://x.com/gingertealkp/status/2103620972305932596",
+        "why_relevant": "Mentions app supporting local farmers"
+      },
+      {
+        "author": "A_Hollywood1776",
+        "body": "And check out apps like @mulberrytreeapp . They put you in touch with local farmers and producers in your immediate area.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 2,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 12,
+        "freshness": 76,
+        "item_id": "X11",
+        "local_rank_score": 0.371,
+        "local_relevance": 0.26,
+        "metadata": {},
+        "published_at": "2026-09-21",
+        "relevance_hint": 0.8,
+        "snippet": "And check out apps like @mulberrytreeapp . They put you in touch with local farmers and producers in your immediate area.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "And check out apps like @mulberrytreeapp . They put you in touch with local farmers and producers in your immediate area.",
+        "url": "https://x.com/A_Hollywood1776/status/2102102973145071940",
+        "why_relevant": "Recommends app connecting users to local farmers"
+      },
+      {
+        "author": "Pasta_Sauce422",
+        "body": "Highly recommend the Mulberry app to find local farmers. You can also share recipes or homesteading skills. It's ran by an amazing God centered family.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 78,
+        "item_id": "X5",
+        "local_rank_score": 0.35750000000000004,
+        "local_relevance": 0.25,
+        "metadata": {},
+        "published_at": "2026-09-22",
+        "relevance_hint": 0.95,
+        "snippet": "Highly recommend the Mulberry app to find local farmers. You can also share recipes or homesteading skills. It's ran by an amazing God centered family.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Highly recommend the Mulberry app to find local farmers. You can also share recipes or homesteading skills. It's ran by an amazing God cente",
+        "url": "https://x.com/Pasta_Sauce422/status/2102445297678835999",
+        "why_relevant": "Recommends Mulberry app for connecting with local farmers"
+      },
+      {
+        "author": "StockMKTNewz",
+        "body": "DEERE $DE JUST LAUNCHED AN AI ASSISTANT NAMED \"JD\" JD is built into Deere's Operations Center mobile app and analyzes field-specific data... helping farmers decide things like whether a field needs more or less fertilizer.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 336,
+          "quotes": 14,
+          "replies": 30,
+          "reposts": 36
+        },
+        "engagement_score": 100,
+        "freshness": 22,
+        "item_id": "X8",
+        "local_rank_score": 0.324,
+        "local_relevance": 0.26,
+        "metadata": {},
+        "published_at": "2026-09-01",
+        "relevance_hint": 0.9,
+        "snippet": "DEERE $DE JUST LAUNCHED AN AI ASSISTANT NAMED \"JD\" JD is built into Deere's Operations Center mobile app and analyzes field-specific data... helping farmers decide things like whether a field needs more or less fertilizer.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "DEERE $DE JUST LAUNCHED AN AI ASSISTANT NAMED \"JD\" JD is built into Deere's Operations Center mobile app and analyzes field-specific data...",
+        "url": "https://x.com/StockMKTNewz/status/2094746754570707441",
+        "why_relevant": "AI assistant in mobile app for farmer decision-making on fields"
+      },
+      {
+        "author": "futurewfadnavis",
+        "body": "AI-Powered Farming. A New Agricultural Revolution. \ud83c\udf3e\ud83e\udd16 Under CM Devendra Fadnavis, the MahaVistaar App brings AI-powered guidance to Maharashtra\u2019s farmers - cutting costs, boosting productivity...",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 195,
+          "quotes": 0,
+          "replies": 164,
+          "reposts": 196
+        },
+        "engagement_score": 100,
+        "freshness": 20,
+        "item_id": "X2",
+        "local_rank_score": 0.3125,
+        "local_relevance": 0.25,
+        "metadata": {},
+        "published_at": "2026-08-31",
+        "relevance_hint": 1.0,
+        "snippet": "AI-Powered Farming. A New Agricultural Revolution. \ud83c\udf3e\ud83e\udd16 Under CM Devendra Fadnavis, the MahaVistaar App brings AI-powered guidance to Maharashtra\u2019s farmers - cutting costs, boosting productivity...",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "AI-Powered Farming. A New Agricultural Revolution. \ud83c\udf3e\ud83e\udd16 Under CM Devendra Fadnavis, the MahaVistaar App brings AI-powered guidance to Maharash",
+        "url": "https://x.com/futurewfadnavis/status/2094313470309351505",
+        "why_relevant": "Directly about MahaVistaar farming app for farmers"
+      },
+      {
+        "author": "mulberrytreeapp",
+        "body": "This is the way!!!!!! Freedom starts with food!!! The beautiful thing, we have the platform, Mulberry Tree, already built for farmers to sell directly to their customers, without any fees!!!! Know your farmer, know your food!",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 202,
+          "quotes": 5,
+          "replies": 25,
+          "reposts": 42
+        },
+        "engagement_score": 88,
+        "freshness": 12,
+        "item_id": "X3",
+        "local_rank_score": 0.2805,
+        "local_relevance": 0.25,
+        "metadata": {},
+        "published_at": "2026-08-28",
+        "relevance_hint": 1.0,
+        "snippet": "This is the way!!!!!! Freedom starts with food!!! The beautiful thing, we have the platform, Mulberry Tree, already built for farmers to sell directly to their customers, without any fees!!!! Know your farmer, know your food!",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "This is the way!!!!!! Freedom starts with food!!! The beautiful thing, we have the platform, Mulberry Tree, already built for farmers to sel",
+        "url": "https://x.com/mulberrytreeapp/status/2093339311248748734",
+        "why_relevant": "Promotes Mulberry Tree farm-to-fork app for farmers"
+      },
+      {
+        "author": "qz",
+        "body": "John Deere is launching an AI assistant to help farmers make sense of their field data: The tool, built into Deere's Operations Center mobile app...",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 1
+        },
+        "engagement_score": 1,
+        "freshness": 25,
+        "item_id": "X5",
+        "local_rank_score": 0.2325,
+        "local_relevance": 0.26,
+        "metadata": {},
+        "published_at": "2026-09-02",
+        "relevance_hint": 0.9,
+        "snippet": "John Deere is launching an AI assistant to help farmers make sense of their field data: The tool, built into Deere's Operations Center mobile app...",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "John Deere is launching an AI assistant to help farmers make sense of their field data: The tool, built into Deere's Operations Center mobil",
+        "url": "https://x.com/qz/status/2095160686787887530",
+        "why_relevant": "AI tool integrated into mobile app for farmers' field data decisions"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [],
+    "raw_topic": "farmers \"is there an app\"",
+    "source_weights": {
+      "x": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "farming apps",
+        "ranking_query": "Is there a mobile app built specifically for farmers?",
+        "search_query": "farmers app OR farming app",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.29411764705882354
+      },
+      {
+        "label": "agriculture tools",
+        "ranking_query": "What apps do farmers actually use for daily operations?",
+        "search_query": "farmers (app OR mobile) (tool OR software)",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.2647058823529412
+      },
+      {
+        "label": "recommendations",
+        "ranking_query": "Farmers sharing which apps they rely on",
+        "search_query": "farmers recommend app",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.23529411764705885
+      },
+      {
+        "label": "alternatives",
+        "ranking_query": "Popular or highly rated apps targeted at farmers",
+        "search_query": "best app for farmers",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.20588235294117646
+      }
+    ]
+  },
+  "range_from": "2026-08-27",
+  "range_to": "2026-09-26",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://x.com/playboldstudio/status/2103123983063535745",
+      "cluster_id": "cluster-1",
+      "engagement": 0,
+      "explanation": "Strong match: app explicitly built for farmers and agriculture",
+      "final_score": 66.88486017357762,
+      "freshness": 84,
+      "fun_explanation": "straight app promo ad",
+      "fun_score": 12.0,
+      "item_id": "X7",
+      "local_relevance": 0.26,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X7",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "agriculture tools"
+          }
+        ]
+      },
+      "native_ranks": {
+        "agriculture tools:x": 1
+      },
+      "rerank_score": 90.0,
+      "rrf_score": 0.004339440694310511,
+      "snippet": "Meet Farmer Friend \u2013 Your all-in-one agricultural companion! Built for farmers, dealers, households & anyone connected to agriculture... Download now: https://play.google.com/store/apps/details?id=com.playboldstudio.farmerfriend",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "PlayBoldStudio",
+          "body": "Meet Farmer Friend \u2013 Your all-in-one agricultural companion! Built for farmers, dealers, households & anyone connected to agriculture... Download now: https://play.google.com/store/apps/details?id=com.playboldstudio.farmerfriend",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 0,
+          "freshness": 84,
+          "item_id": "X7",
+          "local_rank_score": 0.379,
+          "local_relevance": 0.26,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.95,
+          "snippet": "Meet Farmer Friend \u2013 Your all-in-one agricultural companion! Built for farmers, dealers, households & anyone connected to agriculture... Download now: https://play.google.com/store/apps/details?id=com.playboldstudio.farmerfriend",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Meet Farmer Friend \u2013 Your all-in-one agricultural companion! Built for farmers, dealers, households & anyone connected to agriculture... Dow",
+          "url": "https://x.com/PlayBoldStudio/status/2103123983063535745",
+          "why_relevant": "Promotes dedicated mobile app for farmers and agriculture"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "agriculture tools"
+      ],
+      "title": "Meet Farmer Friend \u2013 Your all-in-one agricultural companion! Built for farmers, dealers, households & anyone connected to agriculture... Dow",
+      "url": "https://x.com/PlayBoldStudio/status/2103123983063535745"
+    },
+    {
+      "candidate_id": "https://x.com/farmprofitmgr/status/2102435746195943438",
+      "cluster_id": "cluster-2",
+      "engagement": 8,
+      "explanation": "Direct announcement of farmer-built app on App Store",
+      "final_score": 65.80540019286403,
+      "freshness": 78,
+      "fun_explanation": "mild emoji energy, still promo",
+      "fun_score": 22.0,
+      "item_id": "X4",
+      "local_relevance": 0.4,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X4",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "farming apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "farming apps:x": 1
+      },
+      "rerank_score": 85.0,
+      "rrf_score": 0.0048216007714561235,
+      "snippet": "It\u2019s here. \ud83c\udf31 Farm Profit Manager is officially available on the App Store. Built by farmers, for farmers. Download the app and check it out!",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "farmprofitmgr",
+          "body": "It\u2019s here. \ud83c\udf31 Farm Profit Manager is officially available on the App Store. Built by farmers, for farmers. Download the app and check it out!",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 1,
+            "replies": 0,
+            "reposts": 3
+          },
+          "engagement_score": 8,
+          "freshness": 78,
+          "item_id": "X4",
+          "local_rank_score": 0.463,
+          "local_relevance": 0.4,
+          "metadata": {},
+          "published_at": "2026-09-22",
+          "relevance_hint": 1.0,
+          "snippet": "It\u2019s here. \ud83c\udf31 Farm Profit Manager is officially available on the App Store. Built by farmers, for farmers. Download the app and check it out!",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "It\u2019s here. \ud83c\udf31 Farm Profit Manager is officially available on the App Store. Built by farmers, for farmers. Download the app and check it out!",
+          "url": "https://x.com/farmprofitmgr/status/2102435746195943438",
+          "why_relevant": "Announcement of Farm Profit Manager app for farmers"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "farming apps"
+      ],
+      "title": "It\u2019s here. \ud83c\udf31 Farm Profit Manager is officially available on the App Store. Built by farmers, for farmers. Download the app and check it out!",
+      "url": "https://x.com/farmprofitmgr/status/2102435746195943438"
+    },
+    {
+      "candidate_id": "https://x.com/allegedly_forti/status/2103028387467997641",
+      "cluster_id": "cluster-3",
+      "engagement": 7,
+      "explanation": "Promotion of farmer-owned app for farmers",
+      "final_score": 63.0671335200747,
+      "freshness": 84,
+      "fun_explanation": "basic recommendation tweet",
+      "fun_score": 18.0,
+      "item_id": "X9",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X9",
+            "native_rank": 3,
+            "source": "x",
+            "subquery_label": "farming apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "farming apps:x": 3
+      },
+      "rerank_score": 80.0,
+      "rrf_score": 0.004668534080298786,
+      "snippet": "If you haven't yet please check out @mulberrytreeapp the only farmer owned farm to table app and nation wide farmers market.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Allegedly_Forti",
+          "body": "If you haven't yet please check out @mulberrytreeapp the only farmer owned farm to table app and nation wide farmers market.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 2,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 7,
+          "freshness": 84,
+          "item_id": "X9",
+          "local_rank_score": 0.3795,
+          "local_relevance": 0.25,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.9,
+          "snippet": "If you haven't yet please check out @mulberrytreeapp the only farmer owned farm to table app and nation wide farmers market.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "If you haven't yet please check out @mulberrytreeapp the only farmer owned farm to table app and nation wide farmers market.",
+          "url": "https://x.com/Allegedly_Forti/status/2103028387467997641",
+          "why_relevant": "Recommends Mulberry farmer-owned app"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "farming apps"
+      ],
+      "title": "If you haven't yet please check out @mulberrytreeapp the only farmer owned farm to table app and nation wide farmers market.",
+      "url": "https://x.com/Allegedly_Forti/status/2103028387467997641"
+    },
+    {
+      "candidate_id": "https://x.com/stockmktnewz/status/2094746754570707441",
+      "cluster_id": "cluster-4",
+      "engagement": 100,
+      "explanation": "John Deere app feature launch for farmer field decisions",
+      "final_score": 62.65042016806723,
+      "freshness": 22,
+      "fun_explanation": "JD name has slight cleverness",
+      "fun_score": 38.0,
+      "item_id": "X8",
+      "local_relevance": 0.26,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X8",
+            "native_rank": 3,
+            "source": "x",
+            "subquery_label": "agriculture tools"
+          }
+        ]
+      },
+      "native_ranks": {
+        "agriculture tools:x": 3
+      },
+      "rerank_score": 85.0,
+      "rrf_score": 0.004201680672268907,
+      "snippet": "DEERE $DE JUST LAUNCHED AN AI ASSISTANT NAMED \"JD\" JD is built into Deere's Operations Center mobile app and analyzes field-specific data... helping farmers decide things like whether a field needs more or less fertilizer.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "StockMKTNewz",
+          "body": "DEERE $DE JUST LAUNCHED AN AI ASSISTANT NAMED \"JD\" JD is built into Deere's Operations Center mobile app and analyzes field-specific data... helping farmers decide things like whether a field needs more or less fertilizer.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 336,
+            "quotes": 14,
+            "replies": 30,
+            "reposts": 36
+          },
+          "engagement_score": 100,
+          "freshness": 22,
+          "item_id": "X8",
+          "local_rank_score": 0.324,
+          "local_relevance": 0.26,
+          "metadata": {},
+          "published_at": "2026-09-01",
+          "relevance_hint": 0.9,
+          "snippet": "DEERE $DE JUST LAUNCHED AN AI ASSISTANT NAMED \"JD\" JD is built into Deere's Operations Center mobile app and analyzes field-specific data... helping farmers decide things like whether a field needs more or less fertilizer.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "DEERE $DE JUST LAUNCHED AN AI ASSISTANT NAMED \"JD\" JD is built into Deere's Operations Center mobile app and analyzes field-specific data...",
+          "url": "https://x.com/StockMKTNewz/status/2094746754570707441",
+          "why_relevant": "AI assistant in mobile app for farmer decision-making on fields"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "agriculture tools"
+      ],
+      "title": "DEERE $DE JUST LAUNCHED AN AI ASSISTANT NAMED \"JD\" JD is built into Deere's Operations Center mobile app and analyzes field-specific data...",
+      "url": "https://x.com/StockMKTNewz/status/2094746754570707441"
+    },
+    {
+      "candidate_id": "https://x.com/futurewfadnavis/status/2094313470309351505",
+      "cluster_id": "cluster-5",
+      "engagement": 100,
+      "explanation": "Announcement of AI app specifically for farmers",
+      "final_score": 62.51408199643494,
+      "freshness": 20,
+      "fun_explanation": "government promo, zero wit",
+      "fun_score": 15.0,
+      "item_id": "X2",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X2",
+            "native_rank": 6,
+            "source": "x",
+            "subquery_label": "farming apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "farming apps:x": 6
+      },
+      "rerank_score": 85.0,
+      "rrf_score": 0.004456327985739751,
+      "snippet": "AI-Powered Farming. A New Agricultural Revolution. \ud83c\udf3e\ud83e\udd16 Under CM Devendra Fadnavis, the MahaVistaar App brings AI-powered guidance to Maharashtra\u2019s farmers - cutting costs, boosting productivity...",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "futurewfadnavis",
+          "body": "AI-Powered Farming. A New Agricultural Revolution. \ud83c\udf3e\ud83e\udd16 Under CM Devendra Fadnavis, the MahaVistaar App brings AI-powered guidance to Maharashtra\u2019s farmers - cutting costs, boosting productivity...",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 195,
+            "quotes": 0,
+            "replies": 164,
+            "reposts": 196
+          },
+          "engagement_score": 100,
+          "freshness": 20,
+          "item_id": "X2",
+          "local_rank_score": 0.3125,
+          "local_relevance": 0.25,
+          "metadata": {},
+          "published_at": "2026-08-31",
+          "relevance_hint": 1.0,
+          "snippet": "AI-Powered Farming. A New Agricultural Revolution. \ud83c\udf3e\ud83e\udd16 Under CM Devendra Fadnavis, the MahaVistaar App brings AI-powered guidance to Maharashtra\u2019s farmers - cutting costs, boosting productivity...",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "AI-Powered Farming. A New Agricultural Revolution. \ud83c\udf3e\ud83e\udd16 Under CM Devendra Fadnavis, the MahaVistaar App brings AI-powered guidance to Maharash",
+          "url": "https://x.com/futurewfadnavis/status/2094313470309351505",
+          "why_relevant": "Directly about MahaVistaar farming app for farmers"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "farming apps"
+      ],
+      "title": "AI-Powered Farming. A New Agricultural Revolution. \ud83c\udf3e\ud83e\udd16 Under CM Devendra Fadnavis, the MahaVistaar App brings AI-powered guidance to Maharash",
+      "url": "https://x.com/futurewfadnavis/status/2094313470309351505"
+    },
+    {
+      "candidate_id": "https://x.com/mulberrytreeapp/status/2093339311248748734",
+      "cluster_id": "cluster-6",
+      "engagement": 88,
+      "explanation": "Direct pitch of platform built for farmers to sell",
+      "final_score": 58.69745390693591,
+      "freshness": 12,
+      "fun_explanation": "enthusiastic meme nod, still salesy",
+      "fun_score": 28.0,
+      "item_id": "X3",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X3",
+            "native_rank": 7,
+            "source": "x",
+            "subquery_label": "farming apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "farming apps:x": 7
+      },
+      "rerank_score": 80.0,
+      "rrf_score": 0.004389815627743635,
+      "snippet": "This is the way!!!!!! Freedom starts with food!!! The beautiful thing, we have the platform, Mulberry Tree, already built for farmers to sell directly to their customers, without any fees!!!! Know your farmer, know your food!",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "mulberrytreeapp",
+          "body": "This is the way!!!!!! Freedom starts with food!!! The beautiful thing, we have the platform, Mulberry Tree, already built for farmers to sell directly to their customers, without any fees!!!! Know your farmer, know your food!",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 202,
+            "quotes": 5,
+            "replies": 25,
+            "reposts": 42
+          },
+          "engagement_score": 88,
+          "freshness": 12,
+          "item_id": "X3",
+          "local_rank_score": 0.2805,
+          "local_relevance": 0.25,
+          "metadata": {},
+          "published_at": "2026-08-28",
+          "relevance_hint": 1.0,
+          "snippet": "This is the way!!!!!! Freedom starts with food!!! The beautiful thing, we have the platform, Mulberry Tree, already built for farmers to sell directly to their customers, without any fees!!!! Know your farmer, know your food!",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "This is the way!!!!!! Freedom starts with food!!! The beautiful thing, we have the platform, Mulberry Tree, already built for farmers to sel",
+          "url": "https://x.com/mulberrytreeapp/status/2093339311248748734",
+          "why_relevant": "Promotes Mulberry Tree farm-to-fork app for farmers"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "farming apps"
+      ],
+      "title": "This is the way!!!!!! Freedom starts with food!!! The beautiful thing, we have the platform, Mulberry Tree, already built for farmers to sel",
+      "url": "https://x.com/mulberrytreeapp/status/2093339311248748734"
+    },
+    {
+      "candidate_id": "https://x.com/qz/status/2095160686787887530",
+      "cluster_id": "cluster-7",
+      "engagement": 1,
+      "explanation": "Coverage of John Deere AI tool inside farmer mobile app",
+      "final_score": 58.23400735294117,
+      "freshness": 25,
+      "fun_explanation": "plain news snippet",
+      "fun_score": 20.0,
+      "item_id": "X5",
+      "local_relevance": 0.26,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X5",
+            "native_rank": 4,
+            "source": "x",
+            "subquery_label": "agriculture tools"
+          }
+        ]
+      },
+      "native_ranks": {
+        "agriculture tools:x": 4
+      },
+      "rerank_score": 85.0,
+      "rrf_score": 0.004136029411764706,
+      "snippet": "John Deere is launching an AI assistant to help farmers make sense of their field data: The tool, built into Deere's Operations Center mobile app...",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "qz",
+          "body": "John Deere is launching an AI assistant to help farmers make sense of their field data: The tool, built into Deere's Operations Center mobile app...",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 1
+          },
+          "engagement_score": 1,
+          "freshness": 25,
+          "item_id": "X5",
+          "local_rank_score": 0.2325,
+          "local_relevance": 0.26,
+          "metadata": {},
+          "published_at": "2026-09-02",
+          "relevance_hint": 0.9,
+          "snippet": "John Deere is launching an AI assistant to help farmers make sense of their field data: The tool, built into Deere's Operations Center mobile app...",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "John Deere is launching an AI assistant to help farmers make sense of their field data: The tool, built into Deere's Operations Center mobil",
+          "url": "https://x.com/qz/status/2095160686787887530",
+          "why_relevant": "AI tool integrated into mobile app for farmers' field data decisions"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "agriculture tools"
+      ],
+      "title": "John Deere is launching an AI assistant to help farmers make sense of their field data: The tool, built into Deere's Operations Center mobil",
+      "url": "https://x.com/qz/status/2095160686787887530"
+    },
+    {
+      "candidate_id": "https://x.com/a_hollywood1776/status/2102102973145071940",
+      "cluster_id": "cluster-8",
+      "engagement": 12,
+      "explanation": "User mention recommending farmer-connect app",
+      "final_score": 57.66736242884251,
+      "freshness": 76,
+      "fun_explanation": "dry link drop",
+      "fun_score": 14.0,
+      "item_id": "X11",
+      "local_relevance": 0.26,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X11",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "agriculture tools"
+          }
+        ]
+      },
+      "native_ranks": {
+        "agriculture tools:x": 2
+      },
+      "rerank_score": 70.0,
+      "rrf_score": 0.004269449715370019,
+      "snippet": "And check out apps like @mulberrytreeapp . They put you in touch with local farmers and producers in your immediate area.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "A_Hollywood1776",
+          "body": "And check out apps like @mulberrytreeapp . They put you in touch with local farmers and producers in your immediate area.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 2,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 12,
+          "freshness": 76,
+          "item_id": "X11",
+          "local_rank_score": 0.371,
+          "local_relevance": 0.26,
+          "metadata": {},
+          "published_at": "2026-09-21",
+          "relevance_hint": 0.8,
+          "snippet": "And check out apps like @mulberrytreeapp . They put you in touch with local farmers and producers in your immediate area.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "And check out apps like @mulberrytreeapp . They put you in touch with local farmers and producers in your immediate area.",
+          "url": "https://x.com/A_Hollywood1776/status/2102102973145071940",
+          "why_relevant": "Recommends app connecting users to local farmers"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "agriculture tools"
+      ],
+      "title": "And check out apps like @mulberrytreeapp . They put you in touch with local farmers and producers in your immediate area.",
+      "url": "https://x.com/A_Hollywood1776/status/2102102973145071940"
+    },
+    {
+      "candidate_id": "https://x.com/pasta_sauce422/status/2102445297678835999",
+      "cluster_id": "cluster-9",
+      "explanation": "User recommendation of app connecting to local farmers",
+      "final_score": 57.33122171945701,
+      "freshness": 78,
+      "fun_explanation": "personal rec adds tiny flavor",
+      "fun_score": 32.0,
+      "item_id": "X5",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X5",
+            "native_rank": 5,
+            "source": "x",
+            "subquery_label": "farming apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "farming apps:x": 5
+      },
+      "rerank_score": 75.0,
+      "rrf_score": 0.004524886877828055,
+      "snippet": "Highly recommend the Mulberry app to find local farmers. You can also share recipes or homesteading skills. It's ran by an amazing God centered family.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Pasta_Sauce422",
+          "body": "Highly recommend the Mulberry app to find local farmers. You can also share recipes or homesteading skills. It's ran by an amazing God centered family.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 78,
+          "item_id": "X5",
+          "local_rank_score": 0.35750000000000004,
+          "local_relevance": 0.25,
+          "metadata": {},
+          "published_at": "2026-09-22",
+          "relevance_hint": 0.95,
+          "snippet": "Highly recommend the Mulberry app to find local farmers. You can also share recipes or homesteading skills. It's ran by an amazing God centered family.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Highly recommend the Mulberry app to find local farmers. You can also share recipes or homesteading skills. It's ran by an amazing God cente",
+          "url": "https://x.com/Pasta_Sauce422/status/2102445297678835999",
+          "why_relevant": "Recommends Mulberry app for connecting with local farmers"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "farming apps"
+      ],
+      "title": "Highly recommend the Mulberry app to find local farmers. You can also share recipes or homesteading skills. It's ran by an amazing God cente",
+      "url": "https://x.com/Pasta_Sauce422/status/2102445297678835999"
+    },
+    {
+      "candidate_id": "https://x.com/gingertealkp/status/2103620972305932596",
+      "cluster_id": "cluster-10",
+      "engagement": 0,
+      "explanation": "Grocery app with incidental local farmer support",
+      "final_score": 25.14889705882353,
+      "freshness": 86,
+      "fun_explanation": "casual store plug",
+      "fun_score": 19.0,
+      "item_id": "X6",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X6",
+            "native_rank": 4,
+            "source": "x",
+            "subquery_label": "farming apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "farming apps:x": 4
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.004595588235294118,
+      "snippet": "They always have great deals on the app. I love supporting Jewel. They\u2019ve been around since I was a kid. They promote a lot of local farmers and vendors too. \ud83d\udc4d\ud83c\udffe",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "gingertealkp",
+          "body": "They always have great deals on the app. I love supporting Jewel. They\u2019ve been around since I was a kid. They promote a lot of local farmers and vendors too. \ud83d\udc4d\ud83c\udffe",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 0,
+          "freshness": 86,
+          "item_id": "X6",
+          "local_rank_score": 0.3775,
+          "local_relevance": 0.25,
+          "metadata": {},
+          "published_at": "2026-09-25",
+          "relevance_hint": 0.75,
+          "snippet": "They always have great deals on the app. I love supporting Jewel. They\u2019ve been around since I was a kid. They promote a lot of local farmers and vendors too. \ud83d\udc4d\ud83c\udffe",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "They always have great deals on the app. I love supporting Jewel. They\u2019ve been around since I was a kid. They promote a lot of local farmers",
+          "url": "https://x.com/gingertealkp/status/2103620972305932596",
+          "why_relevant": "Mentions app supporting local farmers"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "farming apps"
+      ],
+      "title": "They always have great deals on the app. I love supporting Jewel. They\u2019ve been around since I was a kid. They promote a lot of local farmers",
+      "url": "https://x.com/gingertealkp/status/2103620972305932596"
+    },
+    {
+      "candidate_id": "https://x.com/nugsnet/status/2103605467973144585",
+      "cluster_id": "cluster-11",
+      "engagement": 20,
+      "explanation": "Concert app, only tangential farmer support mention",
+      "final_score": 8.155787476280835,
+      "freshness": 86,
+      "fun_explanation": "livestream plug, low punch",
+      "fun_score": 24.0,
+      "item_id": "X1",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X1",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "farming apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "farming apps:x": 2
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.004743833017077799,
+      "snippet": "Watch @MissMargoPrice and the entire Farm Aid livestream lineup from home tomorrow! We're going live from Virginia Beach for free in the nugs app, but your support is greatly encouraged! Supporting family farmers takes all of us...",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "nugsnet",
+          "body": "Watch @MissMargoPrice and the entire Farm Aid livestream lineup from home tomorrow! We're going live from Virginia Beach for free in the nugs app, but your support is greatly encouraged! Supporting family farmers takes all of us...",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 7,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 1
+          },
+          "engagement_score": 20,
+          "freshness": 86,
+          "item_id": "X1",
+          "local_rank_score": 0.3975,
+          "local_relevance": 0.25,
+          "metadata": {},
+          "published_at": "2026-09-25",
+          "relevance_hint": 0.9,
+          "snippet": "Watch @MissMargoPrice and the entire Farm Aid livestream lineup from home tomorrow! We're going live from Virginia Beach for free in the nugs app, but your support is greatly encouraged! Supporting family farmers takes all of us...",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Watch @MissMargoPrice and the entire Farm Aid livestream lineup from home tomorrow! We're going live from Virginia Beach for free in the nug",
+          "url": "https://x.com/nugsnet/status/2103605467973144585",
+          "why_relevant": "Mentions nugs app for streaming Farm Aid to support farmers"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "farming apps"
+      ],
+      "title": "Watch @MissMargoPrice and the entire Farm Aid livestream lineup from home tomorrow! We're going live from Virginia Beach for free in the nug",
+      "url": "https://x.com/nugsnet/status/2103605467973144585"
+    }
+  ],
+  "topic": "farmers \"is there an app\"",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}

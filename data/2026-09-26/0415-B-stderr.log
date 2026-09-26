@@ -1,0 +1,89 @@
+Batch B sources=x,bluesky
+Started at 2026-09-26T04:15:16Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/36217263407
+----
+
+===== Seed: caregivers app for elderly parent =====
+/last30days · researching: caregivers app for elderly parent
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=4, source=llm
+[Planner]   sq1 label=app recommendations search="caregiver app elderly parent OR senior" sources=[x]
+[Planner]   sq2 label=user experiences search="caregiver app review OR experience elderly" sources=[x]
+[Planner]   sq3 label=key features search="caregiver app features medication tracking OR reminders" sources=[x]
+[Planner]   sq4 label=pain points search="caregiving app struggles OR problems elderly parent" sources=[x]
+✓ Research complete (72.0s) - X: 11 posts
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-26/0416-caregivers-app-for-elderly-parent.json
+[OK] seed succeeded
+
+===== Seed: small business owners "is there an app" =====
+/last30days · researching: small business owners "is there an app"
+⏳ [95mProcessing[0m Crunching the data...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=3, source=llm
+[Planner]   sq1 label=app requests search=""small business" (app OR apps) (need OR want OR "is there")" sources=[x]
+[Planner]   sq2 label=tool discovery search=""small business owners" (app OR software OR tool) recommend" sources=[x]
+[Planner]   sq3 label=task specific apps search=""small business" (inventory OR invoicing OR scheduling OR marketing) app" sources=[x]
+✓ Research complete (61.3s) - X: 11 posts
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-26/0417-small-business-owners-is-there-an-app.json
+[OK] seed succeeded
+
+===== Seed: farmers "is there an app" =====
+/last30days · researching: farmers "is there an app"
+⏳ [95mProcessing[0m Crunching the data...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=4, source=llm
+[Planner]   sq1 label=farming apps search="farmers app OR farming app" sources=[x]
+[Planner]   sq2 label=agriculture tools search="farmers (app OR mobile) (tool OR software)" sources=[x]
+[Planner]   sq3 label=recommendations search="farmers recommend app" sources=[x]
+[Planner]   sq4 label=alternatives search="best app for farmers" sources=[x]
+✓ Research complete (63.1s) - X: 11 posts
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-26/0418-farmers-is-there-an-app.json
+[OK] seed succeeded
+
+===== Seed: anglers "I wish there was an app" =====
+/last30days · researching: anglers "I wish there was an app"
+⏳ [95mProcessing[0m Finding patterns...
+[Planner] Plan: intent=opinion, freshness=balanced_recent, cluster_mode=none, subqueries=3, source=llm
+[Planner]   sq1 label=app wishes search="anglers ("wish there was an app" OR "need an app" OR "app idea") fishing" sources=[x]
+[Planner]   sq2 label=missing features search="anglers ("if only there was" OR "someone should make") app" sources=[x]
+[Planner]   sq3 label=frustrations search="fishing OR angling (app OR mobile) (sucks OR missing OR wish OR hate)" sources=[x]
+✓ Research complete (46.3s) - X: 1 post
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-26/0419-anglers-i-wish-there-was-an-app.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed

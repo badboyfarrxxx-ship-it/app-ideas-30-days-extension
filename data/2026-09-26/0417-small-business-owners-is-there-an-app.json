@@ -1,0 +1,1213 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "small business owners \"is there an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://x.com/openai/status/2097523484629090408"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://x.com/openai/status/2097523484629090408"
+      ],
+      "score": 65.14128166915052,
+      "sources": [
+        "x"
+      ],
+      "title": "Small business owners deserve every advantage. Meet the 16 plugins that help take work off your plate so you can focus on what matters most\u2014"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/jtymedia/status/2101985090188304765"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://x.com/jtymedia/status/2101985090188304765"
+      ],
+      "score": 51.42045454545455,
+      "sources": [
+        "x"
+      ],
+      "title": "Running a small business? You don\u2019t need to download every productivity app known to mankind\ud83d\ude02 Start with these simple tools. Which one is al"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/d1678618d/status/2101919521175208107"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://x.com/d1678618d/status/2101919521175208107"
+      ],
+      "score": 35.37741046831956,
+      "sources": [
+        "x"
+      ],
+      "title": "If you want to support small business order directly from the restaurant and pick it up yourself, don\u2019t use predatory apps like uber eats th"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/paddlehq/status/2102038645079200035"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://x.com/paddlehq/status/2102038645079200035"
+      ],
+      "score": 33.44300144300144,
+      "sources": [
+        "x"
+      ],
+      "title": "A rough way to think about it: \u2192 standard-rate commission app: worth testing \u2192 already running App2Web in the US: worth looking at \u2192 want mo"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/andrewfinegan/status/2102049420262953088"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://x.com/andrewfinegan/status/2102049420262953088"
+      ],
+      "score": 28.856852103120758,
+      "sources": [
+        "x"
+      ],
+      "title": "All my paramotor friends... working on build apps (have a few, starting to work), small business to get away from corp soul sucking life cur"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/m_jawad_yasin/status/2102368256904282463"
+      ],
+      "cluster_id": "cluster-6",
+      "representative_ids": [
+        "https://x.com/m_jawad_yasin/status/2102368256904282463"
+      ],
+      "score": 27.77840909090909,
+      "sources": [
+        "x"
+      ],
+      "title": "Enterprise app builders usually lock you into predatory per-seat pricing... This is 100% open-source on GitHub. it's called ToolJet. it auto"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/victorcarmouze/status/2101390702705791139"
+      ],
+      "cluster_id": "cluster-7",
+      "representative_ids": [
+        "https://x.com/victorcarmouze/status/2101390702705791139"
+      ],
+      "score": 26.7986013986014,
+      "sources": [
+        "x"
+      ],
+      "title": "App developers must join \u201csmall business program\u201d to use it right ? Or is there another path ?"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/nkgabanyanem/status/2102860017032425939"
+      ],
+      "cluster_id": "cluster-8",
+      "representative_ids": [
+        "https://x.com/nkgabanyanem/status/2102860017032425939"
+      ],
+      "score": 25.06627565982405,
+      "sources": [
+        "x"
+      ],
+      "title": "Laptop. I need a laptop that can handle coding well so I can finish an app & software project that handling in my Small business #LuckyFish"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/the_lazylawyer/status/2102129131106304174"
+      ],
+      "cluster_id": "cluster-9",
+      "representative_ids": [
+        "https://x.com/the_lazylawyer/status/2102129131106304174"
+      ],
+      "score": 7.9470938897168395,
+      "sources": [
+        "x"
+      ],
+      "title": "I think it\u2019s time I shamelessly plug my business on this app \ud83e\udd2d I sell cute, affordable luxury jewelry & accessories... Please RT and patroni"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/sam_developerr/status/2103373753514348781"
+      ],
+      "cluster_id": "cluster-10",
+      "representative_ids": [
+        "https://x.com/sam_developerr/status/2103373753514348781"
+      ],
+      "score": 6.959610389610388,
+      "sources": [
+        "x"
+      ],
+      "title": "Things I actually use to ship small apps without burning money: \u2022 TestFlight \u2014 free \u2022 RevenueCat \u2014 free until real revenue \u2022 Supabase free t"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/successfaceless/status/2103220427531170170"
+      ],
+      "cluster_id": "cluster-11",
+      "representative_ids": [
+        "https://x.com/successfaceless/status/2103220427531170170"
+      ],
+      "score": 5.735894428152492,
+      "sources": [
+        "x"
+      ],
+      "title": "the youtube business hiding inside commercial insurance small business owners buy policies they barely understand... the business could come"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-26T04:17:30.836300+00:00",
+  "items_by_source": {
+    "x": [
+      {
+        "author": "the_lazylawyer",
+        "body": "I think it\u2019s time I shamelessly plug my business on this app \ud83e\udd2d I sell cute, affordable luxury jewelry & accessories... Please RT and patronize my small business abeg \ud83e\udd79\ud83e\udd32\ud83c\udffd",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 7,
+          "quotes": 2,
+          "replies": 2,
+          "reposts": 9
+        },
+        "engagement_score": 100,
+        "freshness": 76,
+        "item_id": "X2",
+        "local_rank_score": 0.47850000000000004,
+        "local_relevance": 0.29,
+        "metadata": {},
+        "published_at": "2026-09-21",
+        "relevance_hint": 0.8,
+        "snippet": "I think it\u2019s time I shamelessly plug my business on this app \ud83e\udd2d I sell cute, affordable luxury jewelry & accessories... Please RT and patronize my small business abeg \ud83e\udd79\ud83e\udd32\ud83c\udffd",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "I think it\u2019s time I shamelessly plug my business on this app \ud83e\udd2d I sell cute, affordable luxury jewelry & accessories... Please RT and patroni",
+        "url": "https://x.com/the_lazylawyer/status/2102129131106304174",
+        "why_relevant": "Promoting small business directly on the app, seeking support"
+      },
+      {
+        "author": "OpenAI",
+        "body": "Small business owners deserve every advantage. Meet the 16 plugins that help take work off your plate so you can focus on what matters most\u2014running your business. Explore the small business collection: https://chatgpt.com/plugins?category=small-business",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 5078,
+          "quotes": 78,
+          "replies": 292,
+          "reposts": 384
+        },
+        "engagement_score": 100,
+        "freshness": 44,
+        "item_id": "X1",
+        "local_rank_score": 0.43100000000000005,
+        "local_relevance": 0.34,
+        "metadata": {},
+        "published_at": "2026-09-09",
+        "relevance_hint": 0.98,
+        "snippet": "Small business owners deserve every advantage. Meet the 16 plugins that help take work off your plate so you can focus on what matters most\u2014running your business. Explore the small business collection: https://chatgpt.com/plugins?category=small-business",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Small business owners deserve every advantage. Meet the 16 plugins that help take work off your plate so you can focus on what matters most\u2014",
+        "url": "https://x.com/OpenAI/status/2097523484629090408",
+        "why_relevant": "Directly recommends 16 plugins/apps for small business owners"
+      },
+      {
+        "author": "successfaceless",
+        "body": "the youtube business hiding inside commercial insurance small business owners buy policies they barely understand... the business could come from educational products, qualified broker partnerships where permitted and software sponsors",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 0,
+        "freshness": 84,
+        "item_id": "X7",
+        "local_rank_score": 0.43100000000000005,
+        "local_relevance": 0.34,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.65,
+        "snippet": "the youtube business hiding inside commercial insurance small business owners buy policies they barely understand... the business could come from educational products, qualified broker partnerships where permitted and software sponsors",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "the youtube business hiding inside commercial insurance small business owners buy policies they barely understand... the business could come",
+        "url": "https://x.com/successfaceless/status/2103220427531170170",
+        "why_relevant": "Discusses software sponsors and tools for small business owners in insurance niche"
+      },
+      {
+        "author": "NkgabanyaneM",
+        "body": "Laptop. I need a laptop that can handle coding well so I can finish an app & software project that handling in my Small business #LuckyFish #BetWithTheBold",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 82,
+        "item_id": "X1",
+        "local_rank_score": 0.39349999999999996,
+        "local_relevance": 0.29,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.95,
+        "snippet": "Laptop. I need a laptop that can handle coding well so I can finish an app & software project that handling in my Small business #LuckyFish #BetWithTheBold",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Laptop. I need a laptop that can handle coding well so I can finish an app & software project that handling in my Small business #LuckyFish",
+        "url": "https://x.com/NkgabanyaneM/status/2102860017032425939",
+        "why_relevant": "User explicitly needs a laptop to finish an app project for their small business"
+      },
+      {
+        "author": "PaddleHQ",
+        "body": "A rough way to think about it: \u2192 standard-rate commission app: worth testing \u2192 already running App2Web in the US: worth looking at \u2192 want more control over pricing + customer experience: worth looking at \u2192 Small Business Program: model carefully",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 0,
+        "freshness": 76,
+        "item_id": "X4",
+        "local_rank_score": 0.3785,
+        "local_relevance": 0.29,
+        "metadata": {},
+        "published_at": "2026-09-21",
+        "relevance_hint": 0.75,
+        "snippet": "A rough way to think about it: \u2192 standard-rate commission app: worth testing \u2192 already running App2Web in the US: worth looking at \u2192 want more control over pricing + customer experience: worth looking at \u2192 Small Business Program: model carefully",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "A rough way to think about it: \u2192 standard-rate commission app: worth testing \u2192 already running App2Web in the US: worth looking at \u2192 want mo",
+        "url": "https://x.com/PaddleHQ/status/2102038645079200035",
+        "why_relevant": "Advice on app monetization options including Small Business Program"
+      },
+      {
+        "author": "JTYMedia",
+        "body": "Running a small business? You don\u2019t need to download every productivity app known to mankind\ud83d\ude02 Start with these simple tools. Which one is already in your business toolbox?",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 76,
+        "item_id": "X5",
+        "local_rank_score": 0.3785,
+        "local_relevance": 0.29,
+        "metadata": {},
+        "published_at": "2026-09-21",
+        "relevance_hint": 0.9,
+        "snippet": "Running a small business? You don\u2019t need to download every productivity app known to mankind\ud83d\ude02 Start with these simple tools. Which one is already in your business toolbox?",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Running a small business? You don\u2019t need to download every productivity app known to mankind\ud83d\ude02 Start with these simple tools. Which one is al",
+        "url": "https://x.com/JTYMedia/status/2101985090188304765",
+        "why_relevant": "Directly addresses small business needs for productivity apps/tools"
+      },
+      {
+        "author": "VictorCarmouze",
+        "body": "App developers must join \u201csmall business program\u201d to use it right ? Or is there another path ?",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 70,
+        "item_id": "X7",
+        "local_rank_score": 0.3635,
+        "local_relevance": 0.29,
+        "metadata": {},
+        "published_at": "2026-09-19",
+        "relevance_hint": 0.85,
+        "snippet": "App developers must join \u201csmall business program\u201d to use it right ? Or is there another path ?",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "App developers must join \u201csmall business program\u201d to use it right ? Or is there another path ?",
+        "url": "https://x.com/VictorCarmouze/status/2101390702705791139",
+        "why_relevant": "Questioning requirements for small business program for app developers"
+      },
+      {
+        "author": "D1678618D",
+        "body": "If you want to support small business order directly from the restaurant and pick it up yourself, don\u2019t use predatory apps like uber eats that take a huge commission",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 5,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 53,
+        "freshness": 76,
+        "item_id": "X6",
+        "local_rank_score": 0.36,
+        "local_relevance": 0.18,
+        "metadata": {},
+        "published_at": "2026-09-21",
+        "relevance_hint": 0.8,
+        "snippet": "If you want to support small business order directly from the restaurant and pick it up yourself, don\u2019t use predatory apps like uber eats that take a huge commission",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "If you want to support small business order directly from the restaurant and pick it up yourself, don\u2019t use predatory apps like uber eats th",
+        "url": "https://x.com/D1678618D/status/2101919521175208107",
+        "why_relevant": "Advice on avoiding delivery apps to support small businesses"
+      },
+      {
+        "author": "sam_developerr",
+        "body": "Things I actually use to ship small apps without burning money: \u2022 TestFlight \u2014 free \u2022 RevenueCat \u2014 free until real revenue \u2022 Supabase free tier \u2022 App Store Connect \u2022 ASO notes in a boring spreadsheet",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 3,
+          "reposts": 0
+        },
+        "engagement_score": 3,
+        "freshness": 86,
+        "item_id": "X6",
+        "local_rank_score": 0.35450000000000004,
+        "local_relevance": 0.21,
+        "metadata": {},
+        "published_at": "2026-09-25",
+        "relevance_hint": 0.7,
+        "snippet": "Things I actually use to ship small apps without burning money: \u2022 TestFlight \u2014 free \u2022 RevenueCat \u2014 free until real revenue \u2022 Supabase free tier \u2022 App Store Connect \u2022 ASO notes in a boring spreadsheet",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Things I actually use to ship small apps without burning money: \u2022 TestFlight \u2014 free \u2022 RevenueCat \u2014 free until real revenue \u2022 Supabase free t",
+        "url": "https://x.com/sam_developerr/status/2103373753514348781",
+        "why_relevant": "Recommends tools/apps for building and shipping small apps"
+      },
+      {
+        "author": "M_jawad_yasin",
+        "body": "Enterprise app builders usually lock you into predatory per-seat pricing... This is 100% open-source on GitHub. it's called ToolJet. it automatically generates internal dashboards and business apps from a prompt or an AI agent.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 1,
+        "freshness": 78,
+        "item_id": "X5",
+        "local_rank_score": 0.3325,
+        "local_relevance": 0.21,
+        "metadata": {},
+        "published_at": "2026-09-22",
+        "relevance_hint": 0.8,
+        "snippet": "Enterprise app builders usually lock you into predatory per-seat pricing... This is 100% open-source on GitHub. it's called ToolJet. it automatically generates internal dashboards and business apps from a prompt or an AI agent.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Enterprise app builders usually lock you into predatory per-seat pricing... This is 100% open-source on GitHub. it's called ToolJet. it auto",
+        "url": "https://x.com/M_jawad_yasin/status/2102368256904282463",
+        "why_relevant": "Recommends open-source ToolJet software for building business apps"
+      },
+      {
+        "author": "AndrewFinegan",
+        "body": "All my paramotor friends... working on build apps (have a few, starting to work), small business to get away from corp soul sucking life currently\u2026 Need to be doing trips like this",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 15,
+        "freshness": 76,
+        "item_id": "X3",
+        "local_rank_score": 0.322,
+        "local_relevance": 0.18,
+        "metadata": {},
+        "published_at": "2026-09-21",
+        "relevance_hint": 0.85,
+        "snippet": "All my paramotor friends... working on build apps (have a few, starting to work), small business to get away from corp soul sucking life currently\u2026 Need to be doing trips like this",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "All my paramotor friends... working on build apps (have a few, starting to work), small business to get away from corp soul sucking life cur",
+        "url": "https://x.com/AndrewFinegan/status/2102049420262953088",
+        "why_relevant": "Discussing building apps as part of transitioning to small business"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [
+      "Focus on real-world app discovery discussions from small business owners"
+    ],
+    "raw_topic": "small business owners \"is there an app\"",
+    "source_weights": {
+      "x": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "app requests",
+        "ranking_query": "Small business owners asking if an app exists for their needs",
+        "search_query": "\"small business\" (app OR apps) (need OR want OR \"is there\")",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.36363636363636365
+      },
+      {
+        "label": "tool discovery",
+        "ranking_query": "Recommended apps and tools shared by small business owners",
+        "search_query": "\"small business owners\" (app OR software OR tool) recommend",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.32727272727272727
+      },
+      {
+        "label": "task specific apps",
+        "ranking_query": "Apps small business owners use for daily operations like invoicing or scheduling",
+        "search_query": "\"small business\" (inventory OR invoicing OR scheduling OR marketing) app",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.3090909090909091
+      }
+    ]
+  },
+  "range_from": "2026-08-27",
+  "range_to": "2026-09-26",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://x.com/openai/status/2097523484629090408",
+      "cluster_id": "cluster-1",
+      "engagement": 100,
+      "explanation": "Explicitly targets small business owners with recommended plugins/apps for operations",
+      "final_score": 65.14128166915052,
+      "freshness": 44,
+      "fun_explanation": "corporate promo copy",
+      "fun_score": 5.0,
+      "item_id": "X1",
+      "local_relevance": 0.34,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X1",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "tool discovery"
+          }
+        ]
+      },
+      "native_ranks": {
+        "tool discovery:x": 1
+      },
+      "rerank_score": 85.0,
+      "rrf_score": 0.005365126676602086,
+      "snippet": "Small business owners deserve every advantage. Meet the 16 plugins that help take work off your plate so you can focus on what matters most\u2014running your business. Explore the small business collection: https://chatgpt.com/plugins?category=small-business",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "OpenAI",
+          "body": "Small business owners deserve every advantage. Meet the 16 plugins that help take work off your plate so you can focus on what matters most\u2014running your business. Explore the small business collection: https://chatgpt.com/plugins?category=small-business",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 5078,
+            "quotes": 78,
+            "replies": 292,
+            "reposts": 384
+          },
+          "engagement_score": 100,
+          "freshness": 44,
+          "item_id": "X1",
+          "local_rank_score": 0.43100000000000005,
+          "local_relevance": 0.34,
+          "metadata": {},
+          "published_at": "2026-09-09",
+          "relevance_hint": 0.98,
+          "snippet": "Small business owners deserve every advantage. Meet the 16 plugins that help take work off your plate so you can focus on what matters most\u2014running your business. Explore the small business collection: https://chatgpt.com/plugins?category=small-business",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Small business owners deserve every advantage. Meet the 16 plugins that help take work off your plate so you can focus on what matters most\u2014",
+          "url": "https://x.com/OpenAI/status/2097523484629090408",
+          "why_relevant": "Directly recommends 16 plugins/apps for small business owners"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "tool discovery"
+      ],
+      "title": "Small business owners deserve every advantage. Meet the 16 plugins that help take work off your plate so you can focus on what matters most\u2014",
+      "url": "https://x.com/OpenAI/status/2097523484629090408"
+    },
+    {
+      "candidate_id": "https://x.com/jtymedia/status/2101985090188304765",
+      "cluster_id": "cluster-2",
+      "explanation": "Directly addresses small business owners and productivity apps/tools they use",
+      "final_score": 51.42045454545455,
+      "freshness": 76,
+      "fun_explanation": "casual emoji tone",
+      "fun_score": 40.0,
+      "item_id": "X5",
+      "local_relevance": 0.29,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X5",
+            "native_rank": 4,
+            "source": "x",
+            "subquery_label": "app requests"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app requests:x": 4
+      },
+      "rerank_score": 65.0,
+      "rrf_score": 0.005681818181818182,
+      "snippet": "Running a small business? You don\u2019t need to download every productivity app known to mankind\ud83d\ude02 Start with these simple tools. Which one is already in your business toolbox?",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "JTYMedia",
+          "body": "Running a small business? You don\u2019t need to download every productivity app known to mankind\ud83d\ude02 Start with these simple tools. Which one is already in your business toolbox?",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 76,
+          "item_id": "X5",
+          "local_rank_score": 0.3785,
+          "local_relevance": 0.29,
+          "metadata": {},
+          "published_at": "2026-09-21",
+          "relevance_hint": 0.9,
+          "snippet": "Running a small business? You don\u2019t need to download every productivity app known to mankind\ud83d\ude02 Start with these simple tools. Which one is already in your business toolbox?",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Running a small business? You don\u2019t need to download every productivity app known to mankind\ud83d\ude02 Start with these simple tools. Which one is al",
+          "url": "https://x.com/JTYMedia/status/2101985090188304765",
+          "why_relevant": "Directly addresses small business needs for productivity apps/tools"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app requests"
+      ],
+      "title": "Running a small business? You don\u2019t need to download every productivity app known to mankind\ud83d\ude02 Start with these simple tools. Which one is al",
+      "url": "https://x.com/JTYMedia/status/2101985090188304765"
+    },
+    {
+      "candidate_id": "https://x.com/d1678618d/status/2101919521175208107",
+      "cluster_id": "cluster-3",
+      "engagement": 53,
+      "explanation": "Mentions small business and apps but advises avoiding them, not discovery",
+      "final_score": 35.37741046831956,
+      "freshness": 76,
+      "fun_explanation": "straight opinion",
+      "fun_score": 25.0,
+      "item_id": "X6",
+      "local_relevance": 0.18,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X6",
+            "native_rank": 6,
+            "source": "x",
+            "subquery_label": "app requests"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app requests:x": 6
+      },
+      "rerank_score": 30.0,
+      "rrf_score": 0.005509641873278237,
+      "snippet": "If you want to support small business order directly from the restaurant and pick it up yourself, don\u2019t use predatory apps like uber eats that take a huge commission",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "D1678618D",
+          "body": "If you want to support small business order directly from the restaurant and pick it up yourself, don\u2019t use predatory apps like uber eats that take a huge commission",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 5,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 53,
+          "freshness": 76,
+          "item_id": "X6",
+          "local_rank_score": 0.36,
+          "local_relevance": 0.18,
+          "metadata": {},
+          "published_at": "2026-09-21",
+          "relevance_hint": 0.8,
+          "snippet": "If you want to support small business order directly from the restaurant and pick it up yourself, don\u2019t use predatory apps like uber eats that take a huge commission",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "If you want to support small business order directly from the restaurant and pick it up yourself, don\u2019t use predatory apps like uber eats th",
+          "url": "https://x.com/D1678618D/status/2101919521175208107",
+          "why_relevant": "Advice on avoiding delivery apps to support small businesses"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app requests"
+      ],
+      "title": "If you want to support small business order directly from the restaurant and pick it up yourself, don\u2019t use predatory apps like uber eats th",
+      "url": "https://x.com/D1678618D/status/2101919521175208107"
+    },
+    {
+      "candidate_id": "https://x.com/paddlehq/status/2102038645079200035",
+      "cluster_id": "cluster-4",
+      "engagement": 0,
+      "explanation": "Discusses apps and small business program but from platform perspective, not owner requests",
+      "final_score": 33.44300144300144,
+      "freshness": 76,
+      "fun_explanation": "dry business notes",
+      "fun_score": 15.0,
+      "item_id": "X4",
+      "local_relevance": 0.29,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X4",
+            "native_rank": 3,
+            "source": "x",
+            "subquery_label": "app requests"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app requests:x": 3
+      },
+      "rerank_score": 35.0,
+      "rrf_score": 0.005772005772005772,
+      "snippet": "A rough way to think about it: \u2192 standard-rate commission app: worth testing \u2192 already running App2Web in the US: worth looking at \u2192 want more control over pricing + customer experience: worth looking at \u2192 Small Business Program: model carefully",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "PaddleHQ",
+          "body": "A rough way to think about it: \u2192 standard-rate commission app: worth testing \u2192 already running App2Web in the US: worth looking at \u2192 want more control over pricing + customer experience: worth looking at \u2192 Small Business Program: model carefully",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 0,
+          "freshness": 76,
+          "item_id": "X4",
+          "local_rank_score": 0.3785,
+          "local_relevance": 0.29,
+          "metadata": {},
+          "published_at": "2026-09-21",
+          "relevance_hint": 0.75,
+          "snippet": "A rough way to think about it: \u2192 standard-rate commission app: worth testing \u2192 already running App2Web in the US: worth looking at \u2192 want more control over pricing + customer experience: worth looking at \u2192 Small Business Program: model carefully",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "A rough way to think about it: \u2192 standard-rate commission app: worth testing \u2192 already running App2Web in the US: worth looking at \u2192 want mo",
+          "url": "https://x.com/PaddleHQ/status/2102038645079200035",
+          "why_relevant": "Advice on app monetization options including Small Business Program"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app requests"
+      ],
+      "title": "A rough way to think about it: \u2192 standard-rate commission app: worth testing \u2192 already running App2Web in the US: worth looking at \u2192 want mo",
+      "url": "https://x.com/PaddleHQ/status/2102038645079200035"
+    },
+    {
+      "candidate_id": "https://x.com/andrewfinegan/status/2102049420262953088",
+      "cluster_id": "cluster-5",
+      "engagement": 15,
+      "explanation": "Mentions small business and building apps but personal/career context, not owner needs",
+      "final_score": 28.856852103120758,
+      "freshness": 76,
+      "fun_explanation": "rambling personal post",
+      "fun_score": 10.0,
+      "item_id": "X3",
+      "local_relevance": 0.18,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X3",
+            "native_rank": 7,
+            "source": "x",
+            "subquery_label": "app requests"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app requests:x": 7
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.00542740841248304,
+      "snippet": "All my paramotor friends... working on build apps (have a few, starting to work), small business to get away from corp soul sucking life currently\u2026 Need to be doing trips like this",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "AndrewFinegan",
+          "body": "All my paramotor friends... working on build apps (have a few, starting to work), small business to get away from corp soul sucking life currently\u2026 Need to be doing trips like this",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 15,
+          "freshness": 76,
+          "item_id": "X3",
+          "local_rank_score": 0.322,
+          "local_relevance": 0.18,
+          "metadata": {},
+          "published_at": "2026-09-21",
+          "relevance_hint": 0.85,
+          "snippet": "All my paramotor friends... working on build apps (have a few, starting to work), small business to get away from corp soul sucking life currently\u2026 Need to be doing trips like this",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "All my paramotor friends... working on build apps (have a few, starting to work), small business to get away from corp soul sucking life cur",
+          "url": "https://x.com/AndrewFinegan/status/2102049420262953088",
+          "why_relevant": "Discussing building apps as part of transitioning to small business"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app requests"
+      ],
+      "title": "All my paramotor friends... working on build apps (have a few, starting to work), small business to get away from corp soul sucking life cur",
+      "url": "https://x.com/AndrewFinegan/status/2102049420262953088"
+    },
+    {
+      "candidate_id": "https://x.com/m_jawad_yasin/status/2102368256904282463",
+      "cluster_id": "cluster-6",
+      "engagement": 1,
+      "explanation": "Discusses business apps but no small business owners entity or query match",
+      "final_score": 27.77840909090909,
+      "freshness": 78,
+      "fun_explanation": "predatory pricing jab",
+      "fun_score": 35.0,
+      "item_id": "X5",
+      "local_relevance": 0.21,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X5",
+            "native_rank": 4,
+            "source": "x",
+            "subquery_label": "tool discovery"
+          }
+        ]
+      },
+      "native_ranks": {
+        "tool discovery:x": 4
+      },
+      "rerank_score": 25.0,
+      "rrf_score": 0.005113636363636364,
+      "snippet": "Enterprise app builders usually lock you into predatory per-seat pricing... This is 100% open-source on GitHub. it's called ToolJet. it automatically generates internal dashboards and business apps from a prompt or an AI agent.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "M_jawad_yasin",
+          "body": "Enterprise app builders usually lock you into predatory per-seat pricing... This is 100% open-source on GitHub. it's called ToolJet. it automatically generates internal dashboards and business apps from a prompt or an AI agent.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 1,
+          "freshness": 78,
+          "item_id": "X5",
+          "local_rank_score": 0.3325,
+          "local_relevance": 0.21,
+          "metadata": {},
+          "published_at": "2026-09-22",
+          "relevance_hint": 0.8,
+          "snippet": "Enterprise app builders usually lock you into predatory per-seat pricing... This is 100% open-source on GitHub. it's called ToolJet. it automatically generates internal dashboards and business apps from a prompt or an AI agent.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Enterprise app builders usually lock you into predatory per-seat pricing... This is 100% open-source on GitHub. it's called ToolJet. it auto",
+          "url": "https://x.com/M_jawad_yasin/status/2102368256904282463",
+          "why_relevant": "Recommends open-source ToolJet software for building business apps"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "tool discovery"
+      ],
+      "title": "Enterprise app builders usually lock you into predatory per-seat pricing... This is 100% open-source on GitHub. it's called ToolJet. it auto",
+      "url": "https://x.com/M_jawad_yasin/status/2102368256904282463"
+    },
+    {
+      "candidate_id": "https://x.com/victorcarmouze/status/2101390702705791139",
+      "cluster_id": "cluster-7",
+      "explanation": "Mentions small business program but from app developer viewpoint, not owners seeking apps",
+      "final_score": 26.7986013986014,
+      "freshness": 70,
+      "fun_explanation": "plain question",
+      "fun_score": 10.0,
+      "item_id": "X7",
+      "local_relevance": 0.29,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X7",
+            "native_rank": 5,
+            "source": "x",
+            "subquery_label": "app requests"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app requests:x": 5
+      },
+      "rerank_score": 25.0,
+      "rrf_score": 0.005594405594405594,
+      "snippet": "App developers must join \u201csmall business program\u201d to use it right ? Or is there another path ?",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "VictorCarmouze",
+          "body": "App developers must join \u201csmall business program\u201d to use it right ? Or is there another path ?",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 70,
+          "item_id": "X7",
+          "local_rank_score": 0.3635,
+          "local_relevance": 0.29,
+          "metadata": {},
+          "published_at": "2026-09-19",
+          "relevance_hint": 0.85,
+          "snippet": "App developers must join \u201csmall business program\u201d to use it right ? Or is there another path ?",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "App developers must join \u201csmall business program\u201d to use it right ? Or is there another path ?",
+          "url": "https://x.com/VictorCarmouze/status/2101390702705791139",
+          "why_relevant": "Questioning requirements for small business program for app developers"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app requests"
+      ],
+      "title": "App developers must join \u201csmall business program\u201d to use it right ? Or is there another path ?",
+      "url": "https://x.com/VictorCarmouze/status/2101390702705791139"
+    },
+    {
+      "candidate_id": "https://x.com/nkgabanyanem/status/2102860017032425939",
+      "cluster_id": "cluster-8",
+      "explanation": "Mentions small business and app project but focused on hardware needs, not app existence",
+      "final_score": 25.06627565982405,
+      "freshness": 82,
+      "fun_explanation": "request, no wit",
+      "fun_score": 5.0,
+      "item_id": "X1",
+      "local_relevance": 0.29,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X1",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "app requests"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app requests:x": 2
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.005865102639296188,
+      "snippet": "Laptop. I need a laptop that can handle coding well so I can finish an app & software project that handling in my Small business #LuckyFish #BetWithTheBold",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "NkgabanyaneM",
+          "body": "Laptop. I need a laptop that can handle coding well so I can finish an app & software project that handling in my Small business #LuckyFish #BetWithTheBold",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 82,
+          "item_id": "X1",
+          "local_rank_score": 0.39349999999999996,
+          "local_relevance": 0.29,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.95,
+          "snippet": "Laptop. I need a laptop that can handle coding well so I can finish an app & software project that handling in my Small business #LuckyFish #BetWithTheBold",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Laptop. I need a laptop that can handle coding well so I can finish an app & software project that handling in my Small business #LuckyFish",
+          "url": "https://x.com/NkgabanyaneM/status/2102860017032425939",
+          "why_relevant": "User explicitly needs a laptop to finish an app project for their small business"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app requests"
+      ],
+      "title": "Laptop. I need a laptop that can handle coding well so I can finish an app & software project that handling in my Small business #LuckyFish",
+      "url": "https://x.com/NkgabanyaneM/status/2102860017032425939"
+    },
+    {
+      "candidate_id": "https://x.com/the_lazylawyer/status/2102129131106304174",
+      "cluster_id": "cluster-9",
+      "engagement": 100,
+      "explanation": "Mentions small business but is self-promotion on an existing app, not app discovery or requests",
+      "final_score": 7.9470938897168395,
+      "freshness": 76,
+      "fun_explanation": "self-aware plug + emojis",
+      "fun_score": 55.0,
+      "item_id": "X2",
+      "local_relevance": 0.29,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X2",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "app requests"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app requests:x": 1
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.005961251862891207,
+      "snippet": "I think it\u2019s time I shamelessly plug my business on this app \ud83e\udd2d I sell cute, affordable luxury jewelry & accessories... Please RT and patronize my small business abeg \ud83e\udd79\ud83e\udd32\ud83c\udffd",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "the_lazylawyer",
+          "body": "I think it\u2019s time I shamelessly plug my business on this app \ud83e\udd2d I sell cute, affordable luxury jewelry & accessories... Please RT and patronize my small business abeg \ud83e\udd79\ud83e\udd32\ud83c\udffd",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 7,
+            "quotes": 2,
+            "replies": 2,
+            "reposts": 9
+          },
+          "engagement_score": 100,
+          "freshness": 76,
+          "item_id": "X2",
+          "local_rank_score": 0.47850000000000004,
+          "local_relevance": 0.29,
+          "metadata": {},
+          "published_at": "2026-09-21",
+          "relevance_hint": 0.8,
+          "snippet": "I think it\u2019s time I shamelessly plug my business on this app \ud83e\udd2d I sell cute, affordable luxury jewelry & accessories... Please RT and patronize my small business abeg \ud83e\udd79\ud83e\udd32\ud83c\udffd",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "I think it\u2019s time I shamelessly plug my business on this app \ud83e\udd2d I sell cute, affordable luxury jewelry & accessories... Please RT and patroni",
+          "url": "https://x.com/the_lazylawyer/status/2102129131106304174",
+          "why_relevant": "Promoting small business directly on the app, seeking support"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app requests"
+      ],
+      "title": "I think it\u2019s time I shamelessly plug my business on this app \ud83e\udd2d I sell cute, affordable luxury jewelry & accessories... Please RT and patroni",
+      "url": "https://x.com/the_lazylawyer/status/2102129131106304174"
+    },
+    {
+      "candidate_id": "https://x.com/sam_developerr/status/2103373753514348781",
+      "cluster_id": "cluster-10",
+      "engagement": 3,
+      "explanation": "No mention of small business owners; app dev tools only",
+      "final_score": 6.959610389610388,
+      "freshness": 86,
+      "fun_explanation": "useful list, flat",
+      "fun_score": 20.0,
+      "item_id": "X6",
+      "local_relevance": 0.21,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X6",
+            "native_rank": 3,
+            "source": "x",
+            "subquery_label": "tool discovery"
+          }
+        ]
+      },
+      "native_ranks": {
+        "tool discovery:x": 3
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.005194805194805195,
+      "snippet": "Things I actually use to ship small apps without burning money: \u2022 TestFlight \u2014 free \u2022 RevenueCat \u2014 free until real revenue \u2022 Supabase free tier \u2022 App Store Connect \u2022 ASO notes in a boring spreadsheet",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "sam_developerr",
+          "body": "Things I actually use to ship small apps without burning money: \u2022 TestFlight \u2014 free \u2022 RevenueCat \u2014 free until real revenue \u2022 Supabase free tier \u2022 App Store Connect \u2022 ASO notes in a boring spreadsheet",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 3,
+            "reposts": 0
+          },
+          "engagement_score": 3,
+          "freshness": 86,
+          "item_id": "X6",
+          "local_rank_score": 0.35450000000000004,
+          "local_relevance": 0.21,
+          "metadata": {},
+          "published_at": "2026-09-25",
+          "relevance_hint": 0.7,
+          "snippet": "Things I actually use to ship small apps without burning money: \u2022 TestFlight \u2014 free \u2022 RevenueCat \u2014 free until real revenue \u2022 Supabase free tier \u2022 App Store Connect \u2022 ASO notes in a boring spreadsheet",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Things I actually use to ship small apps without burning money: \u2022 TestFlight \u2014 free \u2022 RevenueCat \u2014 free until real revenue \u2022 Supabase free t",
+          "url": "https://x.com/sam_developerr/status/2103373753514348781",
+          "why_relevant": "Recommends tools/apps for building and shipping small apps"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "tool discovery"
+      ],
+      "title": "Things I actually use to ship small apps without burning money: \u2022 TestFlight \u2014 free \u2022 RevenueCat \u2014 free until real revenue \u2022 Supabase free t",
+      "url": "https://x.com/sam_developerr/status/2103373753514348781"
+    },
+    {
+      "candidate_id": "https://x.com/successfaceless/status/2103220427531170170",
+      "cluster_id": "cluster-11",
+      "engagement": 0,
+      "explanation": "Mentions small business owners but topic is insurance/YouTube, no app relevance",
+      "final_score": 5.735894428152492,
+      "freshness": 84,
+      "fun_explanation": "niche idea, no punch",
+      "fun_score": 15.0,
+      "item_id": "X7",
+      "local_relevance": 0.34,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X7",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "tool discovery"
+          }
+        ]
+      },
+      "native_ranks": {
+        "tool discovery:x": 2
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.005278592375366569,
+      "snippet": "the youtube business hiding inside commercial insurance small business owners buy policies they barely understand... the business could come from educational products, qualified broker partnerships where permitted and software sponsors",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "successfaceless",
+          "body": "the youtube business hiding inside commercial insurance small business owners buy policies they barely understand... the business could come from educational products, qualified broker partnerships where permitted and software sponsors",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 0,
+          "freshness": 84,
+          "item_id": "X7",
+          "local_rank_score": 0.43100000000000005,
+          "local_relevance": 0.34,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.65,
+          "snippet": "the youtube business hiding inside commercial insurance small business owners buy policies they barely understand... the business could come from educational products, qualified broker partnerships where permitted and software sponsors",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "the youtube business hiding inside commercial insurance small business owners buy policies they barely understand... the business could come",
+          "url": "https://x.com/successfaceless/status/2103220427531170170",
+          "why_relevant": "Discusses software sponsors and tools for small business owners in insurance niche"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "tool discovery"
+      ],
+      "title": "the youtube business hiding inside commercial insurance small business owners buy policies they barely understand... the business could come",
+      "url": "https://x.com/successfaceless/status/2103220427531170170"
+    }
+  ],
+  "topic": "small business owners \"is there an app\"",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}

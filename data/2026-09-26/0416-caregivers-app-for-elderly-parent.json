@@ -1,0 +1,1216 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "caregivers app for elderly parent",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://x.com/newonpolsia/status/2102444392233766916"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://x.com/newonpolsia/status/2102444392233766916"
+      ],
+      "score": 61.53843351548269,
+      "sources": [
+        "x"
+      ],
+      "title": "Families caring for aging parents are still coordinating through scattered texts, missed reminders, and outdated apps. I built Kinsprig: one"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/newonpolsia/status/2103389371559002458"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://x.com/newonpolsia/status/2103389371559002458"
+      ],
+      "score": 53.88506944444444,
+      "sources": [
+        "x"
+      ],
+      "title": "Caregiving loves assigning jobs by telepathy. CareBranch makes responsibilities visible, so \u201cI thought you had it\u201d can retire with dignity."
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/newonpolsia/status/2102264179885478099"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://x.com/newonpolsia/status/2102264179885478099"
+      ],
+      "score": 51.268376068376064,
+      "sources": [
+        "x"
+      ],
+      "title": "Caregiving has enough plot twists without family members receiving different versions of reality. CareBranch keeps updates, questions, and n"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/nickandre/status/2097351382105788843"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://x.com/nickandre/status/2097351382105788843"
+      ],
+      "score": 44.63648424543947,
+      "sources": [
+        "x"
+      ],
+      "title": "Psyched to announce our first product! We designed this app from the ground up to be a patient and caregiver focused experience to help with"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/tawadotcom/status/2101877013175046612"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://x.com/tawadotcom/status/2101877013175046612"
+      ],
+      "score": 33.12007168458781,
+      "sources": [
+        "x"
+      ],
+      "title": "- Caregiver features, including a burnout tracker. Strong emphasis on privacy, and the app is completely free. Teddy has said, \u201cYou can\u2019t pu"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/adhisaatindia/status/2102209237330096528"
+      ],
+      "cluster_id": "cluster-6",
+      "representative_ids": [
+        "https://x.com/adhisaatindia/status/2102209237330096528"
+      ],
+      "score": 30.620071684587813,
+      "sources": [
+        "x"
+      ],
+      "title": "\u0905\u092c \u0939\u0947\u0932\u094d\u0925\u0915\u0947\u092f\u0930 \u092c\u0941\u0915 \u0915\u0930\u0928\u093e \u092a\u0939\u0932\u0947 \u0938\u0947 \u092d\u0940 \u0906\u0938\u093e\u0928! \ud83d\udcf1 Adhisaat App \u0915\u0947 \u0938\u093e\u0925 Jaipur \u092e\u0947\u0902 \u0918\u0930 \u092c\u0948\u0920\u0947 Verified Healthcare Services ... Elderly Care Nursing Care ."
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/carersbsg/status/2101246922337993087"
+      ],
+      "cluster_id": "cluster-7",
+      "representative_ids": [
+        "https://x.com/carersbsg/status/2101246922337993087"
+      ],
+      "score": 29.452188552188552,
+      "sources": [
+        "x"
+      ],
+      "title": "Looking for clear, personalised advice about caring? Bridgit Care brings everything together in one simple online space \u2014 including wellbein"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/axiscareus/status/2102812743308857747"
+      ],
+      "cluster_id": "cluster-8",
+      "representative_ids": [
+        "https://x.com/axiscareus/status/2102812743308857747"
+      ],
+      "score": 25.938433515482693,
+      "sources": [
+        "x"
+      ],
+      "title": "Recommended Visits in the AxisCare Caregiver App delivers personalized shift suggestions directly to caregivers, making it easier to fill op"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/dahboss_vibez/status/2100861295322919409"
+      ],
+      "cluster_id": "cluster-9",
+      "representative_ids": [
+        "https://x.com/dahboss_vibez/status/2100861295322919409"
+      ],
+      "score": 8.130687830687831,
+      "sources": [
+        "x"
+      ],
+      "title": "Una too dey hide update for Naija \ud83d\ude2d I never knew there was an app where you could simply request someone to come help you wash your car, bab"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/heyato_ai/status/2095167624229626164"
+      ],
+      "cluster_id": "cluster-10",
+      "representative_ids": [
+        "https://x.com/heyato_ai/status/2095167624229626164"
+      ],
+      "score": 6.276372549019609,
+      "sources": [
+        "x"
+      ],
+      "title": "Introducing Ato, your grandparent\u2019s next computer. Over the past year, more than 2,500 older adults around the globe have used Ato in their"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/juancereigido/status/2095647985527071219"
+      ],
+      "cluster_id": "cluster-11",
+      "representative_ids": [
+        "https://x.com/juancereigido/status/2095647985527071219"
+      ],
+      "score": 5.821932367149759,
+      "sources": [
+        "x"
+      ],
+      "title": "before launching yesterday, i was living in a senior living community in North Carolina. I literally moved there with our Beta device and sp"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-26T04:16:29.359300+00:00",
+  "items_by_source": {
+    "x": [
+      {
+        "author": "newonpolsia",
+        "body": "Families caring for aging parents are still coordinating through scattered texts, missed reminders, and outdated apps. I built Kinsprig: one simple place for shared calendars, medications, tasks, documents, and emergency contacts. Care is easier when everyone stays aligned.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 78,
+        "item_id": "X3",
+        "local_rank_score": 0.3835,
+        "local_relevance": 0.29,
+        "metadata": {},
+        "published_at": "2026-09-22",
+        "relevance_hint": 0.95,
+        "snippet": "Families caring for aging parents are still coordinating through scattered texts, missed reminders, and outdated apps. I built Kinsprig: one simple place for shared calendars, medications, tasks, documents, and emergency contacts. Care is easier when everyone stays aligned.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Families caring for aging parents are still coordinating through scattered texts, missed reminders, and outdated apps. I built Kinsprig: one",
+        "url": "https://x.com/newonpolsia/status/2102444392233766916",
+        "why_relevant": "Announces a new app specifically for family caregiver coordination for aging parents"
+      },
+      {
+        "author": "adhisaatindia",
+        "body": "\u0905\u092c \u0939\u0947\u0932\u094d\u0925\u0915\u0947\u092f\u0930 \u092c\u0941\u0915 \u0915\u0930\u0928\u093e \u092a\u0939\u0932\u0947 \u0938\u0947 \u092d\u0940 \u0906\u0938\u093e\u0928! \ud83d\udcf1 Adhisaat App \u0915\u0947 \u0938\u093e\u0925 Jaipur \u092e\u0947\u0902 \u0918\u0930 \u092c\u0948\u0920\u0947 Verified Healthcare Services ... Elderly Care Nursing Care ... Caregiver Services",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 5,
+        "freshness": 78,
+        "item_id": "X8",
+        "local_rank_score": 0.317,
+        "local_relevance": 0.18,
+        "metadata": {},
+        "published_at": "2026-09-22",
+        "relevance_hint": 0.9,
+        "snippet": "\u0905\u092c \u0939\u0947\u0932\u094d\u0925\u0915\u0947\u092f\u0930 \u092c\u0941\u0915 \u0915\u0930\u0928\u093e \u092a\u0939\u0932\u0947 \u0938\u0947 \u092d\u0940 \u0906\u0938\u093e\u0928! \ud83d\udcf1 Adhisaat App \u0915\u0947 \u0938\u093e\u0925 Jaipur \u092e\u0947\u0902 \u0918\u0930 \u092c\u0948\u0920\u0947 Verified Healthcare Services ... Elderly Care Nursing Care ... Caregiver Services",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "\u0905\u092c \u0939\u0947\u0932\u094d\u0925\u0915\u0947\u092f\u0930 \u092c\u0941\u0915 \u0915\u0930\u0928\u093e \u092a\u0939\u0932\u0947 \u0938\u0947 \u092d\u0940 \u0906\u0938\u093e\u0928! \ud83d\udcf1 Adhisaat App \u0915\u0947 \u0938\u093e\u0925 Jaipur \u092e\u0947\u0902 \u0918\u0930 \u092c\u0948\u0920\u0947 Verified Healthcare Services ... Elderly Care Nursing Care .",
+        "url": "https://x.com/adhisaatindia/status/2102209237330096528",
+        "why_relevant": "Promotes Adhisaat app for booking elderly care and caregiver services"
+      },
+      {
+        "author": "AxisCareUS",
+        "body": "Recommended Visits in the AxisCare Caregiver App delivers personalized shift suggestions directly to caregivers, making it easier to fill open visits fast.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 82,
+        "item_id": "X4",
+        "local_rank_score": 0.26349999999999996,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.8,
+        "snippet": "Recommended Visits in the AxisCare Caregiver App delivers personalized shift suggestions directly to caregivers, making it easier to fill open visits fast.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Recommended Visits in the AxisCare Caregiver App delivers personalized shift suggestions directly to caregivers, making it easier to fill op",
+        "url": "https://x.com/AxisCareUS/status/2102812743308857747",
+        "why_relevant": "Highlights features of a dedicated caregiver app for home care of elderly."
+      },
+      {
+        "author": "Tawadotcom",
+        "body": "- Caregiver features, including a burnout tracker. Strong emphasis on privacy, and the app is completely free. Teddy has said, \u201cYou can\u2019t put a paywall on cancer.\u201d",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 0,
+        "freshness": 76,
+        "item_id": "X2",
+        "local_rank_score": 0.2485,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-21",
+        "relevance_hint": 0.85,
+        "snippet": "- Caregiver features, including a burnout tracker. Strong emphasis on privacy, and the app is completely free. Teddy has said, \u201cYou can\u2019t put a paywall on cancer.\u201d",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "- Caregiver features, including a burnout tracker. Strong emphasis on privacy, and the app is completely free. Teddy has said, \u201cYou can\u2019t pu",
+        "url": "https://x.com/Tawadotcom/status/2101877013175046612",
+        "why_relevant": "Mentions specific caregiver app features like burnout tracker for elderly care support."
+      },
+      {
+        "author": "dahboss_vibez",
+        "body": "Una too dey hide update for Naija \ud83d\ude2d I never knew there was an app where you could simply request someone to come help you wash your car, babysit, give you a massage, walk your pet, provide caregiving, do your laundry, and more. \ud83d\ude02 Not until I came across this app on the App Store called \u201cQuestUnit.\u201d",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 477,
+          "quotes": 0,
+          "replies": 54,
+          "reposts": 183
+        },
+        "engagement_score": 67,
+        "freshness": 68,
+        "item_id": "X5",
+        "local_rank_score": 0.23700000000000002,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-18",
+        "relevance_hint": 0.75,
+        "snippet": "Una too dey hide update for Naija \ud83d\ude2d I never knew there was an app where you could simply request someone to come help you wash your car, babysit, give you a massage, walk your pet, provide caregiving, do your laundry, and more. \ud83d\ude02 Not until I came across this app on the App Store called \u201cQuestUnit.\u201d",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Una too dey hide update for Naija \ud83d\ude2d I never knew there was an app where you could simply request someone to come help you wash your car, bab",
+        "url": "https://x.com/dahboss_vibez/status/2100861295322919409",
+        "why_relevant": "User discovery and positive mention of a multi-service app including caregiving for elderly/family."
+      },
+      {
+        "author": "newonpolsia",
+        "body": "Caregiving loves assigning jobs by telepathy. CareBranch makes responsibilities visible, so \u201cI thought you had it\u201d can retire with dignity.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 86,
+        "item_id": "X9",
+        "local_rank_score": 0.215,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-25",
+        "relevance_hint": 0.75,
+        "snippet": "Caregiving loves assigning jobs by telepathy. CareBranch makes responsibilities visible, so \u201cI thought you had it\u201d can retire with dignity.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Caregiving loves assigning jobs by telepathy. CareBranch makes responsibilities visible, so \u201cI thought you had it\u201d can retire with dignity.",
+        "url": "https://x.com/newonpolsia/status/2103389371559002458",
+        "why_relevant": "Highlights CareBranch app benefits for family caregivers of elderly."
+      },
+      {
+        "author": "newonpolsia",
+        "body": "Caregiving has enough plot twists without family members receiving different versions of reality. CareBranch keeps updates, questions, and next steps in one private place.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 78,
+        "item_id": "X6",
+        "local_rank_score": 0.195,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-22",
+        "relevance_hint": 0.8,
+        "snippet": "Caregiving has enough plot twists without family members receiving different versions of reality. CareBranch keeps updates, questions, and next steps in one private place.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Caregiving has enough plot twists without family members receiving different versions of reality. CareBranch keeps updates, questions, and n",
+        "url": "https://x.com/newonpolsia/status/2102264179885478099",
+        "why_relevant": "Promotes CareBranch app for better family caregiver coordination in elderly care."
+      },
+      {
+        "author": "CarersBSG",
+        "body": "Looking for clear, personalised advice about caring? Bridgit Care brings everything together in one simple online space \u2014 including wellbeing guidance, financial support and local services.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 70,
+        "item_id": "X8",
+        "local_rank_score": 0.175,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-19",
+        "relevance_hint": 0.7,
+        "snippet": "Looking for clear, personalised advice about caring? Bridgit Care brings everything together in one simple online space \u2014 including wellbeing guidance, financial support and local services.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Looking for clear, personalised advice about caring? Bridgit Care brings everything together in one simple online space \u2014 including wellbein",
+        "url": "https://x.com/CarersBSG/status/2101246922337993087",
+        "why_relevant": "Mentions Bridgit Care app for caregiver support and elderly care resources."
+      },
+      {
+        "author": "nickandre",
+        "body": "Psyched to announce our first product! We designed this app from the ground up to be a patient and caregiver focused experience to help with the biggest pain points in caregiving. We'd love your thoughts and feedback!",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 2,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 2
+        },
+        "engagement_score": 10,
+        "freshness": 42,
+        "item_id": "X1",
+        "local_rank_score": 0.1735,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-08",
+        "relevance_hint": 0.95,
+        "snippet": "Psyched to announce our first product! We designed this app from the ground up to be a patient and caregiver focused experience to help with the biggest pain points in caregiving. We'd love your thoughts and feedback!",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Psyched to announce our first product! We designed this app from the ground up to be a patient and caregiver focused experience to help with",
+        "url": "https://x.com/nickandre/status/2097351382105788843",
+        "why_relevant": "Direct announcement and call for feedback on a new caregiver-focused app for patients and elderly care coordination."
+      },
+      {
+        "author": "heyato_ai",
+        "body": "Introducing Ato, your grandparent\u2019s next computer. Over the past year, more than 2,500 older adults around the globe have used Ato in their daily lives through our beta program...",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 8739,
+          "quotes": 380,
+          "replies": 370,
+          "reposts": 610
+        },
+        "engagement_score": 100,
+        "freshness": 25,
+        "item_id": "X7",
+        "local_rank_score": 0.1625,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-02",
+        "relevance_hint": 0.95,
+        "snippet": "Introducing Ato, your grandparent\u2019s next computer. Over the past year, more than 2,500 older adults around the globe have used Ato in their daily lives through our beta program...",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Introducing Ato, your grandparent\u2019s next computer. Over the past year, more than 2,500 older adults around the globe have used Ato in their",
+        "url": "https://x.com/heyato_ai/status/2095167624229626164",
+        "why_relevant": "Detailed post on Ato AI app for seniors/elderly with beta user experiences and family coordination features."
+      },
+      {
+        "author": "JuanCereigido",
+        "body": "before launching yesterday, i was living in a senior living community in North Carolina. I literally moved there with our Beta device and spent every day with different residents. i've never been more convinced of how fucking helpful tech can be for seniors living alone...",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 258,
+          "quotes": 0,
+          "replies": 17,
+          "reposts": 2
+        },
+        "engagement_score": 47,
+        "freshness": 28,
+        "item_id": "X3",
+        "local_rank_score": 0.117,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-03",
+        "relevance_hint": 0.9,
+        "snippet": "before launching yesterday, i was living in a senior living community in North Carolina. I literally moved there with our Beta device and spent every day with different residents. i've never been more convinced of how fucking helpful tech can be for seniors living alone...",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "before launching yesterday, i was living in a senior living community in North Carolina. I literally moved there with our Beta device and sp",
+        "url": "https://x.com/JuanCereigido/status/2095647985527071219",
+        "why_relevant": "Real-world beta experience testing AI caregiver companion app for seniors/elderly in community settings."
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [
+      "focus on practical app discussions on X and Bluesky"
+    ],
+    "raw_topic": "caregivers app for elderly parent",
+    "source_weights": {
+      "x": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "app recommendations",
+        "ranking_query": "Which apps do caregivers recommend for managing care of elderly parents?",
+        "search_query": "caregiver app elderly parent OR senior",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.2777777777777778
+      },
+      {
+        "label": "user experiences",
+        "ranking_query": "Real user experiences with caregiver apps for elderly parents?",
+        "search_query": "caregiver app review OR experience elderly",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.2777777777777778
+      },
+      {
+        "label": "key features",
+        "ranking_query": "What features matter most in apps for caregivers of elderly parents?",
+        "search_query": "caregiver app features medication tracking OR reminders",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.22222222222222224
+      },
+      {
+        "label": "pain points",
+        "ranking_query": "Common problems caregivers face with apps for elderly parents?",
+        "search_query": "caregiving app struggles OR problems elderly parent",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.22222222222222224
+      }
+    ]
+  },
+  "range_from": "2026-08-27",
+  "range_to": "2026-09-26",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://x.com/newonpolsia/status/2102444392233766916",
+      "cluster_id": "cluster-1",
+      "explanation": "Direct product announcement for Kinsprig, family coordination app for aging parents",
+      "final_score": 61.53843351548269,
+      "freshness": 78,
+      "fun_explanation": "straight product pitch",
+      "fun_score": 25.0,
+      "item_id": "X3",
+      "local_relevance": 0.29,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X3",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "app recommendations"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recommendations:x": 1
+      },
+      "rerank_score": 82.0,
+      "rrf_score": 0.004553734061930784,
+      "snippet": "Families caring for aging parents are still coordinating through scattered texts, missed reminders, and outdated apps. I built Kinsprig: one simple place for shared calendars, medications, tasks, documents, and emergency contacts. Care is easier when everyone stays aligned.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "newonpolsia",
+          "body": "Families caring for aging parents are still coordinating through scattered texts, missed reminders, and outdated apps. I built Kinsprig: one simple place for shared calendars, medications, tasks, documents, and emergency contacts. Care is easier when everyone stays aligned.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 78,
+          "item_id": "X3",
+          "local_rank_score": 0.3835,
+          "local_relevance": 0.29,
+          "metadata": {},
+          "published_at": "2026-09-22",
+          "relevance_hint": 0.95,
+          "snippet": "Families caring for aging parents are still coordinating through scattered texts, missed reminders, and outdated apps. I built Kinsprig: one simple place for shared calendars, medications, tasks, documents, and emergency contacts. Care is easier when everyone stays aligned.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Families caring for aging parents are still coordinating through scattered texts, missed reminders, and outdated apps. I built Kinsprig: one",
+          "url": "https://x.com/newonpolsia/status/2102444392233766916",
+          "why_relevant": "Announces a new app specifically for family caregiver coordination for aging parents"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recommendations"
+      ],
+      "title": "Families caring for aging parents are still coordinating through scattered texts, missed reminders, and outdated apps. I built Kinsprig: one",
+      "url": "https://x.com/newonpolsia/status/2102444392233766916"
+    },
+    {
+      "candidate_id": "https://x.com/newonpolsia/status/2103389371559002458",
+      "cluster_id": "cluster-2",
+      "explanation": "CareBranch coordination app for family caregiving responsibilities",
+      "final_score": 53.88506944444444,
+      "freshness": 86,
+      "fun_explanation": "sharp telepathy line, punchy",
+      "fun_score": 88.0,
+      "item_id": "X9",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X9",
+            "native_rank": 4,
+            "source": "x",
+            "subquery_label": "user experiences"
+          }
+        ]
+      },
+      "native_ranks": {
+        "user experiences:x": 4
+      },
+      "rerank_score": 68.0,
+      "rrf_score": 0.004340277777777778,
+      "snippet": "Caregiving loves assigning jobs by telepathy. CareBranch makes responsibilities visible, so \u201cI thought you had it\u201d can retire with dignity.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "newonpolsia",
+          "body": "Caregiving loves assigning jobs by telepathy. CareBranch makes responsibilities visible, so \u201cI thought you had it\u201d can retire with dignity.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 86,
+          "item_id": "X9",
+          "local_rank_score": 0.215,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-25",
+          "relevance_hint": 0.75,
+          "snippet": "Caregiving loves assigning jobs by telepathy. CareBranch makes responsibilities visible, so \u201cI thought you had it\u201d can retire with dignity.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Caregiving loves assigning jobs by telepathy. CareBranch makes responsibilities visible, so \u201cI thought you had it\u201d can retire with dignity.",
+          "url": "https://x.com/newonpolsia/status/2103389371559002458",
+          "why_relevant": "Highlights CareBranch app benefits for family caregivers of elderly."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "user experiences"
+      ],
+      "title": "Caregiving loves assigning jobs by telepathy. CareBranch makes responsibilities visible, so \u201cI thought you had it\u201d can retire with dignity.",
+      "url": "https://x.com/newonpolsia/status/2103389371559002458"
+    },
+    {
+      "candidate_id": "https://x.com/newonpolsia/status/2102264179885478099",
+      "cluster_id": "cluster-3",
+      "explanation": "CareBranch family update app for caregiving, promotional but on-topic",
+      "final_score": 51.268376068376064,
+      "freshness": 78,
+      "fun_explanation": "clever plot-twist analogy",
+      "fun_score": 72.0,
+      "item_id": "X6",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X6",
+            "native_rank": 5,
+            "source": "x",
+            "subquery_label": "user experiences"
+          }
+        ]
+      },
+      "native_ranks": {
+        "user experiences:x": 5
+      },
+      "rerank_score": 65.0,
+      "rrf_score": 0.004273504273504274,
+      "snippet": "Caregiving has enough plot twists without family members receiving different versions of reality. CareBranch keeps updates, questions, and next steps in one private place.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "newonpolsia",
+          "body": "Caregiving has enough plot twists without family members receiving different versions of reality. CareBranch keeps updates, questions, and next steps in one private place.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 78,
+          "item_id": "X6",
+          "local_rank_score": 0.195,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-22",
+          "relevance_hint": 0.8,
+          "snippet": "Caregiving has enough plot twists without family members receiving different versions of reality. CareBranch keeps updates, questions, and next steps in one private place.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Caregiving has enough plot twists without family members receiving different versions of reality. CareBranch keeps updates, questions, and n",
+          "url": "https://x.com/newonpolsia/status/2102264179885478099",
+          "why_relevant": "Promotes CareBranch app for better family caregiver coordination in elderly care."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "user experiences"
+      ],
+      "title": "Caregiving has enough plot twists without family members receiving different versions of reality. CareBranch keeps updates, questions, and n",
+      "url": "https://x.com/newonpolsia/status/2102264179885478099"
+    },
+    {
+      "candidate_id": "https://x.com/nickandre/status/2097351382105788843",
+      "cluster_id": "cluster-4",
+      "engagement": 10,
+      "explanation": "New caregiver-focused app announcement, relevant but lacks specifics",
+      "final_score": 44.63648424543947,
+      "freshness": 42,
+      "fun_explanation": "standard launch tweet",
+      "fun_score": 18.0,
+      "item_id": "X1",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X1",
+            "native_rank": 7,
+            "source": "x",
+            "subquery_label": "user experiences"
+          }
+        ]
+      },
+      "native_ranks": {
+        "user experiences:x": 7
+      },
+      "rerank_score": 55.0,
+      "rrf_score": 0.0041459369817578775,
+      "snippet": "Psyched to announce our first product! We designed this app from the ground up to be a patient and caregiver focused experience to help with the biggest pain points in caregiving. We'd love your thoughts and feedback!",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "nickandre",
+          "body": "Psyched to announce our first product! We designed this app from the ground up to be a patient and caregiver focused experience to help with the biggest pain points in caregiving. We'd love your thoughts and feedback!",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 2,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 2
+          },
+          "engagement_score": 10,
+          "freshness": 42,
+          "item_id": "X1",
+          "local_rank_score": 0.1735,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-08",
+          "relevance_hint": 0.95,
+          "snippet": "Psyched to announce our first product! We designed this app from the ground up to be a patient and caregiver focused experience to help with the biggest pain points in caregiving. We'd love your thoughts and feedback!",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Psyched to announce our first product! We designed this app from the ground up to be a patient and caregiver focused experience to help with",
+          "url": "https://x.com/nickandre/status/2097351382105788843",
+          "why_relevant": "Direct announcement and call for feedback on a new caregiver-focused app for patients and elderly care coordination."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "user experiences"
+      ],
+      "title": "Psyched to announce our first product! We designed this app from the ground up to be a patient and caregiver focused experience to help with",
+      "url": "https://x.com/nickandre/status/2097351382105788843"
+    },
+    {
+      "candidate_id": "https://x.com/tawadotcom/status/2101877013175046612",
+      "cluster_id": "cluster-5",
+      "engagement": 0,
+      "explanation": "Mentions caregiver features in cancer app, weak match to elderly parent focus",
+      "final_score": 33.12007168458781,
+      "freshness": 76,
+      "fun_explanation": "decent quote, otherwise flat",
+      "fun_score": 45.0,
+      "item_id": "X2",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X2",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "user experiences"
+          }
+        ]
+      },
+      "native_ranks": {
+        "user experiences:x": 2
+      },
+      "rerank_score": 35.0,
+      "rrf_score": 0.004480286738351254,
+      "snippet": "- Caregiver features, including a burnout tracker. Strong emphasis on privacy, and the app is completely free. Teddy has said, \u201cYou can\u2019t put a paywall on cancer.\u201d",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Tawadotcom",
+          "body": "- Caregiver features, including a burnout tracker. Strong emphasis on privacy, and the app is completely free. Teddy has said, \u201cYou can\u2019t put a paywall on cancer.\u201d",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 0,
+          "freshness": 76,
+          "item_id": "X2",
+          "local_rank_score": 0.2485,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-21",
+          "relevance_hint": 0.85,
+          "snippet": "- Caregiver features, including a burnout tracker. Strong emphasis on privacy, and the app is completely free. Teddy has said, \u201cYou can\u2019t put a paywall on cancer.\u201d",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "- Caregiver features, including a burnout tracker. Strong emphasis on privacy, and the app is completely free. Teddy has said, \u201cYou can\u2019t pu",
+          "url": "https://x.com/Tawadotcom/status/2101877013175046612",
+          "why_relevant": "Mentions specific caregiver app features like burnout tracker for elderly care support."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "user experiences"
+      ],
+      "title": "- Caregiver features, including a burnout tracker. Strong emphasis on privacy, and the app is completely free. Teddy has said, \u201cYou can\u2019t pu",
+      "url": "https://x.com/Tawadotcom/status/2101877013175046612"
+    },
+    {
+      "candidate_id": "https://x.com/adhisaatindia/status/2102209237330096528",
+      "cluster_id": "cluster-6",
+      "engagement": 5,
+      "explanation": "Booking app for elderly care services, not a caregiver management product",
+      "final_score": 30.620071684587813,
+      "freshness": 78,
+      "fun_explanation": "promotional listing",
+      "fun_score": 12.0,
+      "item_id": "X8",
+      "local_relevance": 0.18,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X8",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "app recommendations"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recommendations:x": 2
+      },
+      "rerank_score": 28.0,
+      "rrf_score": 0.004480286738351254,
+      "snippet": "\u0905\u092c \u0939\u0947\u0932\u094d\u0925\u0915\u0947\u092f\u0930 \u092c\u0941\u0915 \u0915\u0930\u0928\u093e \u092a\u0939\u0932\u0947 \u0938\u0947 \u092d\u0940 \u0906\u0938\u093e\u0928! \ud83d\udcf1 Adhisaat App \u0915\u0947 \u0938\u093e\u0925 Jaipur \u092e\u0947\u0902 \u0918\u0930 \u092c\u0948\u0920\u0947 Verified Healthcare Services ... Elderly Care Nursing Care ... Caregiver Services",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "adhisaatindia",
+          "body": "\u0905\u092c \u0939\u0947\u0932\u094d\u0925\u0915\u0947\u092f\u0930 \u092c\u0941\u0915 \u0915\u0930\u0928\u093e \u092a\u0939\u0932\u0947 \u0938\u0947 \u092d\u0940 \u0906\u0938\u093e\u0928! \ud83d\udcf1 Adhisaat App \u0915\u0947 \u0938\u093e\u0925 Jaipur \u092e\u0947\u0902 \u0918\u0930 \u092c\u0948\u0920\u0947 Verified Healthcare Services ... Elderly Care Nursing Care ... Caregiver Services",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 5,
+          "freshness": 78,
+          "item_id": "X8",
+          "local_rank_score": 0.317,
+          "local_relevance": 0.18,
+          "metadata": {},
+          "published_at": "2026-09-22",
+          "relevance_hint": 0.9,
+          "snippet": "\u0905\u092c \u0939\u0947\u0932\u094d\u0925\u0915\u0947\u092f\u0930 \u092c\u0941\u0915 \u0915\u0930\u0928\u093e \u092a\u0939\u0932\u0947 \u0938\u0947 \u092d\u0940 \u0906\u0938\u093e\u0928! \ud83d\udcf1 Adhisaat App \u0915\u0947 \u0938\u093e\u0925 Jaipur \u092e\u0947\u0902 \u0918\u0930 \u092c\u0948\u0920\u0947 Verified Healthcare Services ... Elderly Care Nursing Care ... Caregiver Services",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "\u0905\u092c \u0939\u0947\u0932\u094d\u0925\u0915\u0947\u092f\u0930 \u092c\u0941\u0915 \u0915\u0930\u0928\u093e \u092a\u0939\u0932\u0947 \u0938\u0947 \u092d\u0940 \u0906\u0938\u093e\u0928! \ud83d\udcf1 Adhisaat App \u0915\u0947 \u0938\u093e\u0925 Jaipur \u092e\u0947\u0902 \u0918\u0930 \u092c\u0948\u0920\u0947 Verified Healthcare Services ... Elderly Care Nursing Care .",
+          "url": "https://x.com/adhisaatindia/status/2102209237330096528",
+          "why_relevant": "Promotes Adhisaat app for booking elderly care and caregiver services"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recommendations"
+      ],
+      "title": "\u0905\u092c \u0939\u0947\u0932\u094d\u0925\u0915\u0947\u092f\u0930 \u092c\u0941\u0915 \u0915\u0930\u0928\u093e \u092a\u0939\u0932\u0947 \u0938\u0947 \u092d\u0940 \u0906\u0938\u093e\u0928! \ud83d\udcf1 Adhisaat App \u0915\u0947 \u0938\u093e\u0925 Jaipur \u092e\u0947\u0902 \u0918\u0930 \u092c\u0948\u0920\u0947 Verified Healthcare Services ... Elderly Care Nursing Care .",
+      "url": "https://x.com/adhisaatindia/status/2102209237330096528"
+    },
+    {
+      "candidate_id": "https://x.com/carersbsg/status/2101246922337993087",
+      "cluster_id": "cluster-7",
+      "explanation": "Bridgit Care advice platform, not a core caregiver management app",
+      "final_score": 29.452188552188552,
+      "freshness": 70,
+      "fun_explanation": "plain service description",
+      "fun_score": 15.0,
+      "item_id": "X8",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X8",
+            "native_rank": 6,
+            "source": "x",
+            "subquery_label": "user experiences"
+          }
+        ]
+      },
+      "native_ranks": {
+        "user experiences:x": 6
+      },
+      "rerank_score": 30.0,
+      "rrf_score": 0.004208754208754209,
+      "snippet": "Looking for clear, personalised advice about caring? Bridgit Care brings everything together in one simple online space \u2014 including wellbeing guidance, financial support and local services.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "CarersBSG",
+          "body": "Looking for clear, personalised advice about caring? Bridgit Care brings everything together in one simple online space \u2014 including wellbeing guidance, financial support and local services.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 70,
+          "item_id": "X8",
+          "local_rank_score": 0.175,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-19",
+          "relevance_hint": 0.7,
+          "snippet": "Looking for clear, personalised advice about caring? Bridgit Care brings everything together in one simple online space \u2014 including wellbeing guidance, financial support and local services.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Looking for clear, personalised advice about caring? Bridgit Care brings everything together in one simple online space \u2014 including wellbein",
+          "url": "https://x.com/CarersBSG/status/2101246922337993087",
+          "why_relevant": "Mentions Bridgit Care app for caregiver support and elderly care resources."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "user experiences"
+      ],
+      "title": "Looking for clear, personalised advice about caring? Bridgit Care brings everything together in one simple online space \u2014 including wellbein",
+      "url": "https://x.com/CarersBSG/status/2101246922337993087"
+    },
+    {
+      "candidate_id": "https://x.com/axiscareus/status/2102812743308857747",
+      "cluster_id": "cluster-8",
+      "explanation": "AxisCare professional shift app, not family caregiver tool for elderly parents",
+      "final_score": 25.938433515482693,
+      "freshness": 82,
+      "fun_explanation": "corporate feature note",
+      "fun_score": 10.0,
+      "item_id": "X4",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X4",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "user experiences"
+          }
+        ]
+      },
+      "native_ranks": {
+        "user experiences:x": 1
+      },
+      "rerank_score": 22.0,
+      "rrf_score": 0.004553734061930784,
+      "snippet": "Recommended Visits in the AxisCare Caregiver App delivers personalized shift suggestions directly to caregivers, making it easier to fill open visits fast.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "AxisCareUS",
+          "body": "Recommended Visits in the AxisCare Caregiver App delivers personalized shift suggestions directly to caregivers, making it easier to fill open visits fast.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 82,
+          "item_id": "X4",
+          "local_rank_score": 0.26349999999999996,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.8,
+          "snippet": "Recommended Visits in the AxisCare Caregiver App delivers personalized shift suggestions directly to caregivers, making it easier to fill open visits fast.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Recommended Visits in the AxisCare Caregiver App delivers personalized shift suggestions directly to caregivers, making it easier to fill op",
+          "url": "https://x.com/AxisCareUS/status/2102812743308857747",
+          "why_relevant": "Highlights features of a dedicated caregiver app for home care of elderly."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "user experiences"
+      ],
+      "title": "Recommended Visits in the AxisCare Caregiver App delivers personalized shift suggestions directly to caregivers, making it easier to fill op",
+      "url": "https://x.com/AxisCareUS/status/2102812743308857747"
+    },
+    {
+      "candidate_id": "https://x.com/dahboss_vibez/status/2100861295322919409",
+      "cluster_id": "cluster-9",
+      "engagement": 67,
+      "explanation": "General task app including caregiving, no elderly parent specificity",
+      "final_score": 8.130687830687831,
+      "freshness": 68,
+      "fun_explanation": "casual rant with emoji energy",
+      "fun_score": 55.0,
+      "item_id": "X5",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X5",
+            "native_rank": 3,
+            "source": "x",
+            "subquery_label": "user experiences"
+          }
+        ]
+      },
+      "native_ranks": {
+        "user experiences:x": 3
+      },
+      "rerank_score": 18.0,
+      "rrf_score": 0.004409171075837743,
+      "snippet": "Una too dey hide update for Naija \ud83d\ude2d I never knew there was an app where you could simply request someone to come help you wash your car, babysit, give you a massage, walk your pet, provide caregiving, do your laundry, and more. \ud83d\ude02 Not until I came across this app on the App Store called \u201cQuestUnit.\u201d",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "dahboss_vibez",
+          "body": "Una too dey hide update for Naija \ud83d\ude2d I never knew there was an app where you could simply request someone to come help you wash your car, babysit, give you a massage, walk your pet, provide caregiving, do your laundry, and more. \ud83d\ude02 Not until I came across this app on the App Store called \u201cQuestUnit.\u201d",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 477,
+            "quotes": 0,
+            "replies": 54,
+            "reposts": 183
+          },
+          "engagement_score": 67,
+          "freshness": 68,
+          "item_id": "X5",
+          "local_rank_score": 0.23700000000000002,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-18",
+          "relevance_hint": 0.75,
+          "snippet": "Una too dey hide update for Naija \ud83d\ude2d I never knew there was an app where you could simply request someone to come help you wash your car, babysit, give you a massage, walk your pet, provide caregiving, do your laundry, and more. \ud83d\ude02 Not until I came across this app on the App Store called \u201cQuestUnit.\u201d",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Una too dey hide update for Naija \ud83d\ude2d I never knew there was an app where you could simply request someone to come help you wash your car, bab",
+          "url": "https://x.com/dahboss_vibez/status/2100861295322919409",
+          "why_relevant": "User discovery and positive mention of a multi-service app including caregiving for elderly/family."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "user experiences"
+      ],
+      "title": "Una too dey hide update for Naija \ud83d\ude2d I never knew there was an app where you could simply request someone to come help you wash your car, bab",
+      "url": "https://x.com/dahboss_vibez/status/2100861295322919409"
+    },
+    {
+      "candidate_id": "https://x.com/heyato_ai/status/2095167624229626164",
+      "cluster_id": "cluster-10",
+      "engagement": 100,
+      "explanation": "Ato device for seniors, not a caregivers app",
+      "final_score": 6.276372549019609,
+      "freshness": 25,
+      "fun_explanation": "earnest beta announcement",
+      "fun_score": 20.0,
+      "item_id": "X7",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X7",
+            "native_rank": 8,
+            "source": "x",
+            "subquery_label": "user experiences"
+          }
+        ]
+      },
+      "native_ranks": {
+        "user experiences:x": 8
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.004084967320261438,
+      "snippet": "Introducing Ato, your grandparent\u2019s next computer. Over the past year, more than 2,500 older adults around the globe have used Ato in their daily lives through our beta program...",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "heyato_ai",
+          "body": "Introducing Ato, your grandparent\u2019s next computer. Over the past year, more than 2,500 older adults around the globe have used Ato in their daily lives through our beta program...",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 8739,
+            "quotes": 380,
+            "replies": 370,
+            "reposts": 610
+          },
+          "engagement_score": 100,
+          "freshness": 25,
+          "item_id": "X7",
+          "local_rank_score": 0.1625,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-02",
+          "relevance_hint": 0.95,
+          "snippet": "Introducing Ato, your grandparent\u2019s next computer. Over the past year, more than 2,500 older adults around the globe have used Ato in their daily lives through our beta program...",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Introducing Ato, your grandparent\u2019s next computer. Over the past year, more than 2,500 older adults around the globe have used Ato in their",
+          "url": "https://x.com/heyato_ai/status/2095167624229626164",
+          "why_relevant": "Detailed post on Ato AI app for seniors/elderly with beta user experiences and family coordination features."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "user experiences"
+      ],
+      "title": "Introducing Ato, your grandparent\u2019s next computer. Over the past year, more than 2,500 older adults around the globe have used Ato in their",
+      "url": "https://x.com/heyato_ai/status/2095167624229626164"
+    },
+    {
+      "candidate_id": "https://x.com/juancereigido/status/2095647985527071219",
+      "cluster_id": "cluster-11",
+      "engagement": 47,
+      "explanation": "Beta device for seniors living alone, off-target for caregiver apps",
+      "final_score": 5.821932367149759,
+      "freshness": 28,
+      "fun_explanation": "personal story, mild edge",
+      "fun_score": 38.0,
+      "item_id": "X3",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X3",
+            "native_rank": 9,
+            "source": "x",
+            "subquery_label": "user experiences"
+          }
+        ]
+      },
+      "native_ranks": {
+        "user experiences:x": 9
+      },
+      "rerank_score": 12.0,
+      "rrf_score": 0.004025764895330113,
+      "snippet": "before launching yesterday, i was living in a senior living community in North Carolina. I literally moved there with our Beta device and spent every day with different residents. i've never been more convinced of how fucking helpful tech can be for seniors living alone...",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "JuanCereigido",
+          "body": "before launching yesterday, i was living in a senior living community in North Carolina. I literally moved there with our Beta device and spent every day with different residents. i've never been more convinced of how fucking helpful tech can be for seniors living alone...",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 258,
+            "quotes": 0,
+            "replies": 17,
+            "reposts": 2
+          },
+          "engagement_score": 47,
+          "freshness": 28,
+          "item_id": "X3",
+          "local_rank_score": 0.117,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-03",
+          "relevance_hint": 0.9,
+          "snippet": "before launching yesterday, i was living in a senior living community in North Carolina. I literally moved there with our Beta device and spent every day with different residents. i've never been more convinced of how fucking helpful tech can be for seniors living alone...",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "before launching yesterday, i was living in a senior living community in North Carolina. I literally moved there with our Beta device and sp",
+          "url": "https://x.com/JuanCereigido/status/2095647985527071219",
+          "why_relevant": "Real-world beta experience testing AI caregiver companion app for seniors/elderly in community settings."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "user experiences"
+      ],
+      "title": "before launching yesterday, i was living in a senior living community in North Carolina. I literally moved there with our Beta device and sp",
+      "url": "https://x.com/JuanCereigido/status/2095647985527071219"
+    }
+  ],
+  "topic": "caregivers app for elderly parent",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}
