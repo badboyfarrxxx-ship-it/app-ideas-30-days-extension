@@ -1,0 +1,91 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "small landlords app for tenants",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-26T00:20:48.034128+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "market",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [
+      "Focus on practical discussions from small-scale landlords"
+    ],
+    "raw_topic": "small landlords app for tenants",
+    "source_weights": {
+      "hackernews": 0.3,
+      "reddit": 0.7
+    },
+    "subqueries": [
+      {
+        "label": "existing apps",
+        "ranking_query": "What apps or tools do small landlords actually use to manage tenants and rent?",
+        "search_query": "small landlord tenant app OR management software",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.28169014084507044
+      },
+      {
+        "label": "build vs buy",
+        "ranking_query": "Should small landlords build their own tenant management app or use existing tools?",
+        "search_query": "build landlord tenant app OR software",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.2535211267605634
+      },
+      {
+        "label": "pain points",
+        "ranking_query": "What are the main pain points small landlords face with tenants that an app could solve?",
+        "search_query": "landlord tenant problems OR issues app",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.23943661971830987
+      },
+      {
+        "label": "recommendations",
+        "ranking_query": "Which tenant management apps or portals are recommended for small landlords?",
+        "search_query": "best landlord app OR tenant portal small scale",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.22535211267605637
+      }
+    ]
+  },
+  "range_from": "2026-08-27",
+  "range_to": "2026-09-26",
+  "ranked_candidates": [],
+  "topic": "small landlords app for tenants",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}
