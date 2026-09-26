@@ -224,13 +224,6 @@ jobs:
                LAUNCH / WORKFLOW. Quote the matching sentence verbatim
                from the candidate's title or excerpt. Drop any candidate
                that matches none.
-               - A post praising or recommending an app the author
-                 already uses is not PAIN; nobody is complaining.
-               - A post by a product's own account (or its founder)
-                 promoting that product is LAUNCH only, never PAIN,
-                 however it words the problem.
-               - If an excerpt is cut off (ends in "…"), quote only up
-                 to the cut. Never complete a truncated sentence.
             2. **Mobile-shippable gate (HARD).** Drop any candidate that
                cannot reasonably ship as a standalone Android or iOS app.
                If the unmet need is fundamentally desktop/web (e.g.
@@ -247,20 +240,17 @@ jobs:
                  - Workflow stitching 2+ paid apps together
                Ideas WITH a WTP quote rank above ideas without one.
                PAIN-only candidates ("I wish there was an app") are KEPT;
-               for those, the Monetization signal is exactly "None in the
-               evidence." Do not propose prices or pricing models.
+               for those, propose how the app could charge and label it
+               as your inference, not evidence.
             4. **Cluster duplicates** — merge candidates that describe
                the same opportunity into one idea, citing all URLs.
             5. **Rank** by evidence strength × engagement (the `eng:`
                field) × recency (the date field). High engagement on
                organic complaint language outweighs low engagement on a
                literal trigger phrase.
-            6. **Competitor check** — for each surviving idea, name
-               existing Android/iOS competitors if you know them. If you
-               can name 2+, the idea is CROWDED: rank it below every
-               idea that is not crowded, start its competitors line with
-               "Crowded:", and never call it "less crowded", "less
-               saturated" or "underserved".
+            6. **Competitor check** — for each surviving idea, name 2+
+               existing Android/iOS competitors if you know them.
+               Downrank crowded mobile markets and say so explicitly.
                If the named incumbent is already a popular paid mobile
                app, downrank harder — the author's complaint may not
                translate to a switchable market.
@@ -284,15 +274,15 @@ jobs:
               - **Proposed app:** <one sentence — must be a mobile app>
               - **Monetization signal:** <quoted WTP sentence verbatim
                 from brief.md> ([source](URL from brief.md)), or if
-                there is none, exactly: "None in the evidence."
+                there is none: "None in the evidence. Inferred model:
+                <one sentence on how it could charge>"
               - **Evidence:** (every URL must come from brief.md)
                 - [link description](URL from brief.md) — quoted matching
                   sentence
                 - [link description](URL from brief.md) — quoted matching
                   sentence
-              - **Existing competitors:** <"Crowded: " + names if you
-                can name 2+ Android/iOS apps; otherwise the ones you know
-                or "None known">
+              - **Existing competitors:** <name 2+ Android/iOS apps if
+                you know them; downrank crowded markets>
               - **Score signal:** <PAIN | WILL-PAY | LAUNCH | WORKFLOW combo>
 
               (repeat for 3-7 ideas, ordered by combined score)
@@ -306,9 +296,9 @@ jobs:
               brief.md. Every quoted sentence must come from the
               candidate's title or excerpt.
             - Every idea MUST have a Monetization signal line: a
-              verbatim WTP quote if one exists, otherwise exactly "None
-              in the evidence." Never write a price, price range or
-              pricing model that is not quoted from brief.md.
+              verbatim WTP quote if one exists, otherwise the "None in
+              the evidence. Inferred model: ..." form. Never present an
+              inferred model as a quote.
             - Every surviving idea MUST be shippable as Android or iOS.
             - LAUNCH-only signals describe an *adjacency* opportunity
               ("X exists but nobody has done Y for Z"), not "build X".
