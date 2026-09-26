@@ -1,0 +1,87 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "hobby app \"I wish there was\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {
+    "grounding": "HTTP 422: "
+  },
+  "generated_at": "2026-09-26T20:14:57.848303+00:00",
+  "items_by_source": {},
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "market",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [
+      "focus on product discovery and idea aggregation mechanics"
+    ],
+    "raw_topic": "hobby app \"I wish there was\"",
+    "source_weights": {
+      "grounding": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "similar platforms",
+        "ranking_query": "platforms or apps where users post requests for products or apps that do not exist yet",
+        "search_query": "\"I wish there was\" app OR platform OR site",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.2857142857142857
+      },
+      {
+        "label": "idea crowdsourcing",
+        "ranking_query": "how communities collect and vote on app or product ideas from users",
+        "search_query": "wish list OR feature request app ideas community",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.2571428571428572
+      },
+      {
+        "label": "market validation",
+        "ranking_query": "examples of validating a hobby app concept by collecting user wishes or pain points",
+        "search_query": "hobby app idea validation OR MVP feedback",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.2285714285714286
+      },
+      {
+        "label": "competitor examples",
+        "ranking_query": "existing tools that let users submit and discuss missing apps or features",
+        "search_query": "product request board OR feature voting app",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.2285714285714286
+      }
+    ]
+  },
+  "range_from": "2026-08-27",
+  "range_to": "2026-09-26",
+  "ranked_candidates": [],
+  "topic": "hobby app \"I wish there was\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic.",
+    "Some sources failed: grounding",
+    "No source returned usable items."
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "side hustle \"is there an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {
+    "grounding": "HTTP 422: "
+  },
+  "generated_at": "2026-09-26T20:14:47.202927+00:00",
+  "items_by_source": {},
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [],
+    "raw_topic": "side hustle \"is there an app\"",
+    "source_weights": {
+      "grounding": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "side hustle apps",
+        "ranking_query": "Is there an app for finding or managing side hustles?",
+        "search_query": "side hustle app OR platform",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.5263157894736842
+      },
+      {
+        "label": "gig work tools",
+        "ranking_query": "Which mobile apps help people run side hustles or gig work?",
+        "search_query": "side hustle tracker OR finder app",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.4736842105263158
+      }
+    ]
+  },
+  "range_from": "2026-08-27",
+  "range_to": "2026-09-26",
+  "ranked_candidates": [],
+  "topic": "side hustle \"is there an app\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic.",
+    "Some sources failed: grounding",
+    "No source returned usable items."
+  ]
+}
