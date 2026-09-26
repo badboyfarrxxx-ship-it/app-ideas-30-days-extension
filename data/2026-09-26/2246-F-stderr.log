@@ -1,0 +1,45 @@
+Batch F sources=grounding,perplexity
+Started at 2026-09-26T22:46:56Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/36277371171
+----
+
+===== Seed: side hustle "is there an app" =====
+/last30days · researching: side hustle "is there an app"
+⏳ [95mProcessing[0m Finding patterns...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=2, source=llm
+[Planner]   sq1 label=side hustle apps search="side hustle app" sources=[grounding]
+[Planner]   sq2 label=side hustle tools search="side hustle tracker OR finder app" sources=[grounding]
+✓ Research complete (28.4s) - Web: 7 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-26/2247-side-hustle-is-there-an-app.json
+[OK] seed succeeded
+
+===== Seed: hobby app "I wish there was" =====
+/last30days · researching: hobby app "I wish there was"
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] Plan: intent=concept, freshness=balanced_recent, cluster_mode=none, subqueries=2, source=llm
+[Planner]   sq1 label=core concept search=""i wish there was" app OR "wish there was an app"" sources=[grounding]
+[Planner]   sq2 label=similar apps search="app idea marketplace OR feature request platform OR "app ideas" community" sources=[grounding]
+✓ Research complete (23.3s) - Web: 4 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-26/2247-hobby-app-i-wish-there-was.json
+[OK] seed succeeded
+
+----
+Batch summary: 2 succeeded, 0 failed

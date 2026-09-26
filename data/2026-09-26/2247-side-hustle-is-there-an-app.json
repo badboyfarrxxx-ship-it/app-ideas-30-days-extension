@@ -1,0 +1,719 @@
+{
+  "artifacts": {
+    "grounding": [
+      {
+        "label": "brave",
+        "resultCount": 5,
+        "webSearchQueries": [
+          "side hustle app"
+        ]
+      },
+      {
+        "label": "brave",
+        "resultCount": 5,
+        "webSearchQueries": [
+          "side hustle tracker OR finder app"
+        ]
+      }
+    ],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "side hustle \"is there an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://play.google.com/store/apps/details?id=com.wishbanc.funngro&hl=en"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://play.google.com/store/apps/details?id=com.wishbanc.funngro&hl=en"
+      ],
+      "score": 27.384126984126986,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Funngro: Earning App for Youth - Apps on Google Play"
+    },
+    {
+      "candidate_ids": [
+        "https://thepennyhoarder.com/make-money/side-gigs/remote-side-hustles"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://thepennyhoarder.com/make-money/side-gigs/remote-side-hustles"
+      ],
+      "score": 26.816129032258065,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Remote Side Hustles: Make Extra Money Working From Home"
+    },
+    {
+      "candidate_ids": [
+        "https://airwallex.com/en-us/blog/top-business-expense-trackers"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://airwallex.com/en-us/blog/top-business-expense-trackers"
+      ],
+      "score": 24.649180327868855,
+      "sources": [
+        "grounding"
+      ],
+      "title": "10 Best Expense Tracker Apps of 2026: Costs Compared \u2014 Airwallex US"
+    },
+    {
+      "candidate_ids": [
+        "https://nerdwallet.com/finance/learn/how-to-make-money"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://nerdwallet.com/finance/learn/how-to-make-money"
+      ],
+      "score": 23.849180327868854,
+      "sources": [
+        "grounding"
+      ],
+      "title": "20 Realistic Side Hustles for 2026 - NerdWallet"
+    },
+    {
+      "candidate_ids": [
+        "https://financebuzz.com/best-side-hustles"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://financebuzz.com/best-side-hustles"
+      ],
+      "score": 20.953125,
+      "sources": [
+        "grounding"
+      ],
+      "title": "20 Best Side Hustles [2026]: Online + In-Person Gigs | FinanceBuzz"
+    },
+    {
+      "candidate_ids": [
+        "https://selfmadesuccess.com/viral-side-hustles-ranked"
+      ],
+      "cluster_id": "cluster-6",
+      "representative_ids": [
+        "https://selfmadesuccess.com/viral-side-hustles-ranked"
+      ],
+      "score": 6.304838709677419,
+      "sources": [
+        "grounding"
+      ],
+      "title": "6 Viral Side Hustles Ranked Worst to Best - Self-Made Success"
+    },
+    {
+      "candidate_ids": [
+        "https://sidehustleschool.com/guides/ai-side-hustles"
+      ],
+      "cluster_id": "cluster-7",
+      "representative_ids": [
+        "https://sidehustleschool.com/guides/ai-side-hustles"
+      ],
+      "score": 5.515238095238095,
+      "sources": [
+        "grounding"
+      ],
+      "title": "AI Side Hustles: How Real People Are Making Money with AI in 2026 | Side Hustle School"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-26T22:47:25.414398+00:00",
+  "items_by_source": {
+    "grounding": [
+      {
+        "body": "10 Best Expense Tracker Apps of 2026: Costs Compared \u2014 Airwallex US\nA Plus tier at $199 a year adds forecasting, advanced investment analysis and business-income tracking for people with a side hustle or rental property.3 \u00b7 Plus is annual only, and there is no free tier at all, just a seven-day trial. ... Copilot is the best-looking app in this category.",
+        "container": "www.airwallex.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 46,
+        "item_id": "WB1",
+        "local_rank_score": 0.41400000000000003,
+        "local_relevance": 0.46,
+        "metadata": {},
+        "published_at": "2026-09-10",
+        "relevance_hint": 0.8,
+        "snippet": "A Plus tier at $199 a year adds forecasting, advanced investment analysis and business-income tracking for people with a side hustle or rental property.3 \u00b7 Plus is annual only, and there is no free tier at all, just a seven-day trial. ... Copilot is the best-looking app in this category.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "10 Best Expense Tracker Apps of 2026: Costs Compared \u2014 Airwallex US",
+        "url": "https://www.airwallex.com/en-us/blog/top-business-expense-trackers",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "6 Viral Side Hustles Ranked Worst to Best - Self-Made Success\nUse the <strong>Self-Made Success Side Hustle Finder</strong> to compare more income opportunities and choose a strategy that fits your skills, available capital, preferred work style, and tolerance for uncertainty.",
+        "container": "selfmadesuccess.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 70,
+        "item_id": "WB4",
+        "local_rank_score": 0.409,
+        "local_relevance": 0.36,
+        "metadata": {},
+        "published_at": "2026-09-19",
+        "relevance_hint": 0.8,
+        "snippet": "Use the <strong>Self-Made Success Side Hustle Finder</strong> to compare more income opportunities and choose a strategy that fits your skills, available capital, preferred work style, and tolerance for uncertainty.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "6 Viral Side Hustles Ranked Worst to Best - Self-Made Success",
+        "url": "https://selfmadesuccess.com/viral-side-hustles-ranked/",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "20 Realistic Side Hustles for 2026 - NerdWallet\nWag: The application process takes about two weeks, and you must pass a background check and pet care quiz. ... For Rover and Wag, you&#x27;ll need to live in an area where the service operates. You&#x27;ll have to pass a background check. Babysitting has been a legit side job since before the term &quot;side hustle&quot; existed.",
+        "container": "www.nerdwallet.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 68,
+        "item_id": "WB3",
+        "local_rank_score": 0.3325,
+        "local_relevance": 0.25,
+        "metadata": {},
+        "published_at": "2026-09-18",
+        "relevance_hint": 0.8,
+        "snippet": "Wag: The application process takes about two weeks, and you must pass a background check and pet care quiz. ... For Rover and Wag, you&#x27;ll need to live in an area where the service operates. You&#x27;ll have to pass a background check. Babysitting has been a legit side job since before the term &quot;side hustle&quot; existed.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "20 Realistic Side Hustles for 2026 - NerdWallet",
+        "url": "https://www.nerdwallet.com/finance/learn/how-to-make-money",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "AI Side Hustles: How Real People Are Making Money with AI in 2026 | Side Hustle School\nFor the broader launch sequence after you pick an offer, use the how to start a side business guide. If you&#x27;re still deciding what kind of offer fits you, try the Side Hustle Finder or the main side hustle ideas hub.",
+        "container": "sidehustleschool.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 62,
+        "item_id": "WB3",
+        "local_rank_score": 0.3175,
+        "local_relevance": 0.25,
+        "metadata": {},
+        "published_at": "2026-09-16",
+        "relevance_hint": 0.8,
+        "snippet": "For the broader launch sequence after you pick an offer, use the how to start a side business guide. If you&#x27;re still deciding what kind of offer fits you, try the Side Hustle Finder or the main side hustle ideas hub.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "AI Side Hustles: How Real People Are Making Money with AI in 2026 | Side Hustle School",
+        "url": "https://sidehustleschool.com/guides/ai-side-hustles/",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Remote Side Hustles: Make Extra Money Working From Home\nTesterup: Get paid to test out new apps and games. Your earnings will depend on available offers. UserTesting: Easy sign up, and you can work when you have the time. Trymata: Get the opportunity to test about three times per week. Pay range: $14 to $41 per hour, according to Indeed \u00b7 If you\u2019re great with Photoshop, crush on Canva and know how to navigate Procreate, a remote side hustle as a graphic designer is ideal.",
+        "container": "www.thepennyhoarder.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 50,
+        "item_id": "WB4",
+        "local_rank_score": 0.2875,
+        "local_relevance": 0.25,
+        "metadata": {},
+        "published_at": "2026-09-11",
+        "relevance_hint": 0.8,
+        "snippet": "Testerup: Get paid to test out new apps and games. Your earnings will depend on available offers. UserTesting: Easy sign up, and you can work when you have the time. Trymata: Get the opportunity to test about three times per week. Pay range: $14 to $41 per hour, according to Indeed \u00b7 If you\u2019re great with Photoshop, crush on Canva and know how to navigate Procreate, a remote side hustle as a graphic designer is ideal.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Remote Side Hustles: Make Extra Money Working From Home",
+        "url": "https://www.thepennyhoarder.com/make-money/side-gigs/remote-side-hustles/",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Funngro: Earning App for Youth - Apps on Google Play\nOur genuine and trusted money-earning app is ideal for: \u2714\ufe0fAny person looking to earn money online as a side hustle \u2714\ufe0fSchool and college students (14-25) \u2714\ufe0fTeens looking for freelance jobs \u2714\ufe0fYouth looking for work-from-home jobs to earn pocket money Whether you want part-time ...",
+        "container": "play.google.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 44,
+        "item_id": "WB5",
+        "local_rank_score": 0.2725,
+        "local_relevance": 0.25,
+        "metadata": {},
+        "published_at": "2026-09-09",
+        "relevance_hint": 0.8,
+        "snippet": "Our genuine and trusted money-earning app is ideal for: \u2714\ufe0fAny person looking to earn money online as a side hustle \u2714\ufe0fSchool and college students (14-25) \u2714\ufe0fTeens looking for freelance jobs \u2714\ufe0fYouth looking for work-from-home jobs to earn pocket money Whether you want part-time ...",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Funngro: Earning App for Youth - Apps on Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro&hl=en",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "20 Best Side Hustles [2026]: Online + In-Person Gigs | FinanceBuzz\nThe key in making this side hustle work is that you move fast, pay attention to details, and don&#x27;t mind communicating with customers if the store doesn&#x27;t have the items they wanted. How to get started: The two most popular grocery delivery apps are Instacart and Shipt.",
+        "container": "financebuzz.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 28,
+        "item_id": "WB1",
+        "local_rank_score": 0.2325,
+        "local_relevance": 0.25,
+        "metadata": {},
+        "published_at": "2026-09-03",
+        "relevance_hint": 0.8,
+        "snippet": "The key in making this side hustle work is that you move fast, pay attention to details, and don&#x27;t mind communicating with customers if the store doesn&#x27;t have the items they wanted. How to get started: The two most popular grocery delivery apps are Instacart and Shipt.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "20 Best Side Hustles [2026]: Online + In-Person Gigs | FinanceBuzz",
+        "url": "https://financebuzz.com/best-side-hustles",
+        "why_relevant": "Brave web search"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [],
+    "raw_topic": "side hustle \"is there an app\"",
+    "source_weights": {
+      "grounding": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "side hustle apps",
+        "ranking_query": "Is there an app for finding or managing side hustles?",
+        "search_query": "side hustle app",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.5
+      },
+      {
+        "label": "side hustle tools",
+        "ranking_query": "What apps exist for side hustle ideas, tracking income, or gig work?",
+        "search_query": "side hustle tracker OR finder app",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.5
+      }
+    ]
+  },
+  "range_from": "2026-08-27",
+  "range_to": "2026-09-26",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro&hl=en",
+      "cluster_id": "cluster-1",
+      "explanation": "actual earning app positioned for side hustles, closest product match but generic marketing",
+      "final_score": 27.384126984126986,
+      "freshness": 44,
+      "fun_explanation": "basic promo, zero wit",
+      "fun_score": 25.0,
+      "item_id": "WB5",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB5",
+            "native_rank": 3,
+            "source": "grounding",
+            "subquery_label": "side hustle apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "side hustle apps:grounding": 3
+      },
+      "rerank_score": 30.0,
+      "rrf_score": 0.007936507936507936,
+      "snippet": "Our genuine and trusted money-earning app is ideal for: \u2714\ufe0fAny person looking to earn money online as a side hustle \u2714\ufe0fSchool and college students (14-25) \u2714\ufe0fTeens looking for freelance jobs \u2714\ufe0fYouth looking for work-from-home jobs to earn pocket money Whether you want part-time ...",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Funngro: Earning App for Youth - Apps on Google Play\nOur genuine and trusted money-earning app is ideal for: \u2714\ufe0fAny person looking to earn money online as a side hustle \u2714\ufe0fSchool and college students (14-25) \u2714\ufe0fTeens looking for freelance jobs \u2714\ufe0fYouth looking for work-from-home jobs to earn pocket money Whether you want part-time ...",
+          "container": "play.google.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 44,
+          "item_id": "WB5",
+          "local_rank_score": 0.2725,
+          "local_relevance": 0.25,
+          "metadata": {},
+          "published_at": "2026-09-09",
+          "relevance_hint": 0.8,
+          "snippet": "Our genuine and trusted money-earning app is ideal for: \u2714\ufe0fAny person looking to earn money online as a side hustle \u2714\ufe0fSchool and college students (14-25) \u2714\ufe0fTeens looking for freelance jobs \u2714\ufe0fYouth looking for work-from-home jobs to earn pocket money Whether you want part-time ...",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Funngro: Earning App for Youth - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro&hl=en",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "side hustle apps"
+      ],
+      "title": "Funngro: Earning App for Youth - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro&hl=en"
+    },
+    {
+      "candidate_id": "https://thepennyhoarder.com/make-money/side-gigs/remote-side-hustles",
+      "cluster_id": "cluster-2",
+      "explanation": "names testing apps usable as side hustles but does not address dedicated side-hustle apps",
+      "final_score": 26.816129032258065,
+      "freshness": 50,
+      "fun_explanation": "lists apps flatly, no punch",
+      "fun_score": 30.0,
+      "item_id": "WB4",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB4",
+            "native_rank": 2,
+            "source": "grounding",
+            "subquery_label": "side hustle apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "side hustle apps:grounding": 2
+      },
+      "rerank_score": 28.0,
+      "rrf_score": 0.008064516129032258,
+      "snippet": "Testerup: Get paid to test out new apps and games. Your earnings will depend on available offers. UserTesting: Easy sign up, and you can work when you have the time. Trymata: Get the opportunity to test about three times per week. Pay range: $14 to $41 per hour, according to Indeed \u00b7 If you\u2019re great with Photoshop, crush on Canva and know how to navigate Procreate, a remote side hustle as a graphic designer is ideal.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Remote Side Hustles: Make Extra Money Working From Home\nTesterup: Get paid to test out new apps and games. Your earnings will depend on available offers. UserTesting: Easy sign up, and you can work when you have the time. Trymata: Get the opportunity to test about three times per week. Pay range: $14 to $41 per hour, according to Indeed \u00b7 If you\u2019re great with Photoshop, crush on Canva and know how to navigate Procreate, a remote side hustle as a graphic designer is ideal.",
+          "container": "www.thepennyhoarder.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 50,
+          "item_id": "WB4",
+          "local_rank_score": 0.2875,
+          "local_relevance": 0.25,
+          "metadata": {},
+          "published_at": "2026-09-11",
+          "relevance_hint": 0.8,
+          "snippet": "Testerup: Get paid to test out new apps and games. Your earnings will depend on available offers. UserTesting: Easy sign up, and you can work when you have the time. Trymata: Get the opportunity to test about three times per week. Pay range: $14 to $41 per hour, according to Indeed \u00b7 If you\u2019re great with Photoshop, crush on Canva and know how to navigate Procreate, a remote side hustle as a graphic designer is ideal.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Remote Side Hustles: Make Extra Money Working From Home",
+          "url": "https://www.thepennyhoarder.com/make-money/side-gigs/remote-side-hustles/",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "side hustle apps"
+      ],
+      "title": "Remote Side Hustles: Make Extra Money Working From Home",
+      "url": "https://www.thepennyhoarder.com/make-money/side-gigs/remote-side-hustles/"
+    },
+    {
+      "candidate_id": "https://airwallex.com/en-us/blog/top-business-expense-trackers",
+      "cluster_id": "cluster-3",
+      "explanation": "mentions side hustle but focuses on generic expense tools, not app discovery for side hustles",
+      "final_score": 24.649180327868855,
+      "freshness": 46,
+      "fun_explanation": "dry finance list",
+      "fun_score": 10.0,
+      "item_id": "WB1",
+      "local_relevance": 0.46,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB1",
+            "native_rank": 1,
+            "source": "grounding",
+            "subquery_label": "side hustle tools"
+          }
+        ]
+      },
+      "native_ranks": {
+        "side hustle tools:grounding": 1
+      },
+      "rerank_score": 25.0,
+      "rrf_score": 0.00819672131147541,
+      "snippet": "A Plus tier at $199 a year adds forecasting, advanced investment analysis and business-income tracking for people with a side hustle or rental property.3 \u00b7 Plus is annual only, and there is no free tier at all, just a seven-day trial. ... Copilot is the best-looking app in this category.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "10 Best Expense Tracker Apps of 2026: Costs Compared \u2014 Airwallex US\nA Plus tier at $199 a year adds forecasting, advanced investment analysis and business-income tracking for people with a side hustle or rental property.3 \u00b7 Plus is annual only, and there is no free tier at all, just a seven-day trial. ... Copilot is the best-looking app in this category.",
+          "container": "www.airwallex.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 46,
+          "item_id": "WB1",
+          "local_rank_score": 0.41400000000000003,
+          "local_relevance": 0.46,
+          "metadata": {},
+          "published_at": "2026-09-10",
+          "relevance_hint": 0.8,
+          "snippet": "A Plus tier at $199 a year adds forecasting, advanced investment analysis and business-income tracking for people with a side hustle or rental property.3 \u00b7 Plus is annual only, and there is no free tier at all, just a seven-day trial. ... Copilot is the best-looking app in this category.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "10 Best Expense Tracker Apps of 2026: Costs Compared \u2014 Airwallex US",
+          "url": "https://www.airwallex.com/en-us/blog/top-business-expense-trackers",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "side hustle tools"
+      ],
+      "title": "10 Best Expense Tracker Apps of 2026: Costs Compared \u2014 Airwallex US",
+      "url": "https://www.airwallex.com/en-us/blog/top-business-expense-trackers"
+    },
+    {
+      "candidate_id": "https://nerdwallet.com/finance/learn/how-to-make-money",
+      "cluster_id": "cluster-4",
+      "explanation": "lists side gigs using apps but no focus on side-hustle-specific apps or discovery",
+      "final_score": 23.849180327868854,
+      "freshness": 68,
+      "fun_explanation": "straight side-hustle roundup",
+      "fun_score": 20.0,
+      "item_id": "WB3",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB3",
+            "native_rank": 1,
+            "source": "grounding",
+            "subquery_label": "side hustle apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "side hustle apps:grounding": 1
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.00819672131147541,
+      "snippet": "Wag: The application process takes about two weeks, and you must pass a background check and pet care quiz. ... For Rover and Wag, you&#x27;ll need to live in an area where the service operates. You&#x27;ll have to pass a background check. Babysitting has been a legit side job since before the term &quot;side hustle&quot; existed.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "20 Realistic Side Hustles for 2026 - NerdWallet\nWag: The application process takes about two weeks, and you must pass a background check and pet care quiz. ... For Rover and Wag, you&#x27;ll need to live in an area where the service operates. You&#x27;ll have to pass a background check. Babysitting has been a legit side job since before the term &quot;side hustle&quot; existed.",
+          "container": "www.nerdwallet.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 68,
+          "item_id": "WB3",
+          "local_rank_score": 0.3325,
+          "local_relevance": 0.25,
+          "metadata": {},
+          "published_at": "2026-09-18",
+          "relevance_hint": 0.8,
+          "snippet": "Wag: The application process takes about two weeks, and you must pass a background check and pet care quiz. ... For Rover and Wag, you&#x27;ll need to live in an area where the service operates. You&#x27;ll have to pass a background check. Babysitting has been a legit side job since before the term &quot;side hustle&quot; existed.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "20 Realistic Side Hustles for 2026 - NerdWallet",
+          "url": "https://www.nerdwallet.com/finance/learn/how-to-make-money",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "side hustle apps"
+      ],
+      "title": "20 Realistic Side Hustles for 2026 - NerdWallet",
+      "url": "https://www.nerdwallet.com/finance/learn/how-to-make-money"
+    },
+    {
+      "candidate_id": "https://financebuzz.com/best-side-hustles",
+      "cluster_id": "cluster-5",
+      "explanation": "mentions delivery apps in passing within gig listicles, weak product focus",
+      "final_score": 20.953125,
+      "freshness": 28,
+      "fun_explanation": "standard gig advice",
+      "fun_score": 22.0,
+      "item_id": "WB1",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB1",
+            "native_rank": 4,
+            "source": "grounding",
+            "subquery_label": "side hustle apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "side hustle apps:grounding": 4
+      },
+      "rerank_score": 22.0,
+      "rrf_score": 0.0078125,
+      "snippet": "The key in making this side hustle work is that you move fast, pay attention to details, and don&#x27;t mind communicating with customers if the store doesn&#x27;t have the items they wanted. How to get started: The two most popular grocery delivery apps are Instacart and Shipt.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "20 Best Side Hustles [2026]: Online + In-Person Gigs | FinanceBuzz\nThe key in making this side hustle work is that you move fast, pay attention to details, and don&#x27;t mind communicating with customers if the store doesn&#x27;t have the items they wanted. How to get started: The two most popular grocery delivery apps are Instacart and Shipt.",
+          "container": "financebuzz.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 28,
+          "item_id": "WB1",
+          "local_rank_score": 0.2325,
+          "local_relevance": 0.25,
+          "metadata": {},
+          "published_at": "2026-09-03",
+          "relevance_hint": 0.8,
+          "snippet": "The key in making this side hustle work is that you move fast, pay attention to details, and don&#x27;t mind communicating with customers if the store doesn&#x27;t have the items they wanted. How to get started: The two most popular grocery delivery apps are Instacart and Shipt.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "20 Best Side Hustles [2026]: Online + In-Person Gigs | FinanceBuzz",
+          "url": "https://financebuzz.com/best-side-hustles",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "side hustle apps"
+      ],
+      "title": "20 Best Side Hustles [2026]: Online + In-Person Gigs | FinanceBuzz",
+      "url": "https://financebuzz.com/best-side-hustles"
+    },
+    {
+      "candidate_id": "https://selfmadesuccess.com/viral-side-hustles-ranked",
+      "cluster_id": "cluster-6",
+      "explanation": "promotes a web finder tool, no app discussion or entity match",
+      "final_score": 6.304838709677419,
+      "freshness": 70,
+      "fun_explanation": "clickbait title, bland text",
+      "fun_score": 15.0,
+      "item_id": "WB4",
+      "local_relevance": 0.36,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB4",
+            "native_rank": 2,
+            "source": "grounding",
+            "subquery_label": "side hustle tools"
+          }
+        ]
+      },
+      "native_ranks": {
+        "side hustle tools:grounding": 2
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.008064516129032258,
+      "snippet": "Use the <strong>Self-Made Success Side Hustle Finder</strong> to compare more income opportunities and choose a strategy that fits your skills, available capital, preferred work style, and tolerance for uncertainty.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "6 Viral Side Hustles Ranked Worst to Best - Self-Made Success\nUse the <strong>Self-Made Success Side Hustle Finder</strong> to compare more income opportunities and choose a strategy that fits your skills, available capital, preferred work style, and tolerance for uncertainty.",
+          "container": "selfmadesuccess.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 70,
+          "item_id": "WB4",
+          "local_rank_score": 0.409,
+          "local_relevance": 0.36,
+          "metadata": {},
+          "published_at": "2026-09-19",
+          "relevance_hint": 0.8,
+          "snippet": "Use the <strong>Self-Made Success Side Hustle Finder</strong> to compare more income opportunities and choose a strategy that fits your skills, available capital, preferred work style, and tolerance for uncertainty.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "6 Viral Side Hustles Ranked Worst to Best - Self-Made Success",
+          "url": "https://selfmadesuccess.com/viral-side-hustles-ranked/",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "side hustle tools"
+      ],
+      "title": "6 Viral Side Hustles Ranked Worst to Best - Self-Made Success",
+      "url": "https://selfmadesuccess.com/viral-side-hustles-ranked/"
+    },
+    {
+      "candidate_id": "https://sidehustleschool.com/guides/ai-side-hustles",
+      "cluster_id": "cluster-7",
+      "explanation": "web-based finder references only, no app content",
+      "final_score": 5.515238095238095,
+      "freshness": 62,
+      "fun_explanation": "meta promo, no laughs",
+      "fun_score": 12.0,
+      "item_id": "WB3",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB3",
+            "native_rank": 3,
+            "source": "grounding",
+            "subquery_label": "side hustle tools"
+          }
+        ]
+      },
+      "native_ranks": {
+        "side hustle tools:grounding": 3
+      },
+      "rerank_score": 12.0,
+      "rrf_score": 0.007936507936507936,
+      "snippet": "For the broader launch sequence after you pick an offer, use the how to start a side business guide. If you&#x27;re still deciding what kind of offer fits you, try the Side Hustle Finder or the main side hustle ideas hub.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "AI Side Hustles: How Real People Are Making Money with AI in 2026 | Side Hustle School\nFor the broader launch sequence after you pick an offer, use the how to start a side business guide. If you&#x27;re still deciding what kind of offer fits you, try the Side Hustle Finder or the main side hustle ideas hub.",
+          "container": "sidehustleschool.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 62,
+          "item_id": "WB3",
+          "local_rank_score": 0.3175,
+          "local_relevance": 0.25,
+          "metadata": {},
+          "published_at": "2026-09-16",
+          "relevance_hint": 0.8,
+          "snippet": "For the broader launch sequence after you pick an offer, use the how to start a side business guide. If you&#x27;re still deciding what kind of offer fits you, try the Side Hustle Finder or the main side hustle ideas hub.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "AI Side Hustles: How Real People Are Making Money with AI in 2026 | Side Hustle School",
+          "url": "https://sidehustleschool.com/guides/ai-side-hustles/",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "side hustle tools"
+      ],
+      "title": "AI Side Hustles: How Real People Are Making Money with AI in 2026 | Side Hustle School",
+      "url": "https://sidehustleschool.com/guides/ai-side-hustles/"
+    }
+  ],
+  "topic": "side hustle \"is there an app\"",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}

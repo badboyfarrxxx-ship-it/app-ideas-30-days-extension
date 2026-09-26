@@ -1,0 +1,449 @@
+{
+  "artifacts": {
+    "grounding": [
+      {
+        "label": "brave",
+        "resultCount": 2,
+        "webSearchQueries": [
+          "\"i wish there was\" app OR \"wish there was an app\""
+        ]
+      },
+      {
+        "label": "brave",
+        "resultCount": 5,
+        "webSearchQueries": [
+          "app idea marketplace OR feature request platform OR \"app ideas\" community"
+        ]
+      }
+    ],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "hobby app \"I wish there was\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://tiktok.com/discover/wishful-app"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://tiktok.com/discover/wishful-app"
+      ],
+      "score": 53.922241086587434,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Wishful App | TikTok"
+    },
+    {
+      "candidate_ids": [
+        "https://swiftspeed.app/creative-on-demand-mobile-app-ideas"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://swiftspeed.app/creative-on-demand-mobile-app-ideas"
+      ],
+      "score": 23.54132873166523,
+      "sources": [
+        "grounding"
+      ],
+      "title": "80 Best Mobile App Ideas for Startups in 2026"
+    },
+    {
+      "candidate_ids": [
+        "https://catdoes.com/blog/best-app-ideas"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://catdoes.com/blog/best-app-ideas"
+      ],
+      "score": 22.710016977928696,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Best App Ideas: 10 Data-Backed Picks for 2026 - CatDoes"
+    },
+    {
+      "candidate_ids": [
+        "https://reddit.com/r/wowui/comments/1wn0zbm/addon_wowforever_melloui_huge_update_optional"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://reddit.com/r/wowui/comments/1wn0zbm/addon_wowforever_melloui_huge_update_optional"
+      ],
+      "score": 6.587109577221743,
+      "sources": [
+        "grounding"
+      ],
+      "title": "r/WowUI on Reddit: [ADDON] WoW:Forever - MelloUI - Huge Update (Optional Old-School UI Reskin + Custom Sounds) + Too Many New QoL/Tweaks Added to list at once."
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-26T22:47:48.944844+00:00",
+  "items_by_source": {
+    "grounding": [
+      {
+        "body": "80 Best Mobile App Ideas for Startups in 2026\nThe Neighborhood Lost and Found App creates a local community platform where people can report lost or found items.",
+        "container": "www.swiftspeed.app",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 66,
+        "item_id": "WB5",
+        "local_rank_score": 0.29500000000000004,
+        "local_relevance": 0.2,
+        "metadata": {},
+        "published_at": "2026-09-17",
+        "relevance_hint": 0.8,
+        "snippet": "The Neighborhood Lost and Found App creates a local community platform where people can report lost or found items.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "80 Best Mobile App Ideas for Startups in 2026",
+        "url": "https://www.swiftspeed.app/creative-on-demand-mobile-app-ideas/",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Best App Ideas: 10 Data-Backed Picks for 2026 - CatDoes\nNo mobile app does all four well. Build one that rewrites a resume for a specific job post in under a minute. That single feature is enough to launch. The US Administration for Community Living expects 78.3 million Americans aged 65 and over by 2040.",
+        "container": "catdoes.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 58,
+        "item_id": "WB1",
+        "local_rank_score": 0.275,
+        "local_relevance": 0.2,
+        "metadata": {},
+        "published_at": "2026-09-14",
+        "relevance_hint": 0.8,
+        "snippet": "No mobile app does all four well. Build one that rewrites a resume for a specific job post in under a minute. That single feature is enough to launch. The US Administration for Community Living expects 78.3 million Americans aged 65 and over by 2040.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Best App Ideas: 10 Data-Backed Picks for 2026 - CatDoes",
+        "url": "https://catdoes.com/blog/best-app-ideas",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "r/WowUI on Reddit: [ADDON] WoW:Forever - MelloUI - Huge Update (Optional Old-School UI Reskin + Custom Sounds) + Too Many New QoL/Tweaks Added to list at once.\n28 votes, 196 comments. MelloUI \u2013 Voiced NPCs, a Full UI Reskin &amp; a Map That Actually Helps Hey! MelloUI is my all-in-one UI for World of Warcraft\u2026",
+        "container": "www.reddit.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 78,
+        "item_id": "WB2",
+        "local_rank_score": 0.195,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-22",
+        "relevance_hint": 0.8,
+        "snippet": "28 votes, 196 comments. MelloUI \u2013 Voiced NPCs, a Full UI Reskin &amp; a Map That Actually Helps Hey! MelloUI is my all-in-one UI for World of Warcraft\u2026",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "r/WowUI on Reddit: [ADDON] WoW:Forever - MelloUI - Huge Update (Optional Old-School UI Reskin + Custom Sounds) + Too Many New QoL/Tweaks Added to list at once.",
+        "url": "https://www.reddit.com/r/WowUI/comments/1wn0zbm/addon_wowforever_melloui_huge_update_optional/",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Wishful App | TikTok\nExplore how to use the Wish app for makeup organization and Genshin Impact character acquisition. Find tips and tricks for your orders!See more videos about Giftful App Wishlist, Giftful App, App Wishmaker, Wishmaker App, Listful App, Wish There Was An App.",
+        "container": "www.tiktok.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 38,
+        "item_id": "WB1",
+        "local_rank_score": 0.14700000000000002,
+        "local_relevance": 0.08,
+        "metadata": {},
+        "published_at": "2026-09-07",
+        "relevance_hint": 0.8,
+        "snippet": "Explore how to use the Wish app for makeup organization and Genshin Impact character acquisition. Find tips and tricks for your orders!See more videos about Giftful App Wishlist, Giftful App, App Wishmaker, Wishmaker App, Listful App, Wish There Was An App.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Wishful App | TikTok",
+        "url": "https://www.tiktok.com/discover/wishful-app",
+        "why_relevant": "Brave web search"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "concept",
+    "notes": [
+      "Focus on validating demand for an 'I wish there was' idea-sharing app"
+    ],
+    "raw_topic": "hobby app \"I wish there was\"",
+    "source_weights": {
+      "grounding": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "core concept",
+        "ranking_query": "What kinds of hobby or niche apps do people commonly wish existed?",
+        "search_query": "\"i wish there was\" app OR \"wish there was an app\"",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.5263157894736842
+      },
+      {
+        "label": "similar apps",
+        "ranking_query": "Are there existing apps or platforms where users post and vote on missing app ideas?",
+        "search_query": "app idea marketplace OR feature request platform OR \"app ideas\" community",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.4736842105263158
+      }
+    ]
+  },
+  "range_from": "2026-08-27",
+  "range_to": "2026-09-26",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://tiktok.com/discover/wishful-app",
+      "cluster_id": "cluster-1",
+      "explanation": "Mentions 'Wish There Was An App' matching entity; relates to wished-for apps",
+      "final_score": 53.922241086587434,
+      "freshness": 38,
+      "fun_explanation": "dry promo snippet, zero punch",
+      "fun_score": 15.0,
+      "item_id": "WB1",
+      "local_relevance": 0.08,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB1",
+            "native_rank": 2,
+            "source": "grounding",
+            "subquery_label": "core concept"
+          }
+        ]
+      },
+      "native_ranks": {
+        "core concept:grounding": 2
+      },
+      "rerank_score": 75.0,
+      "rrf_score": 0.008488964346349746,
+      "snippet": "Explore how to use the Wish app for makeup organization and Genshin Impact character acquisition. Find tips and tricks for your orders!See more videos about Giftful App Wishlist, Giftful App, App Wishmaker, Wishmaker App, Listful App, Wish There Was An App.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Wishful App | TikTok\nExplore how to use the Wish app for makeup organization and Genshin Impact character acquisition. Find tips and tricks for your orders!See more videos about Giftful App Wishlist, Giftful App, App Wishmaker, Wishmaker App, Listful App, Wish There Was An App.",
+          "container": "www.tiktok.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 38,
+          "item_id": "WB1",
+          "local_rank_score": 0.14700000000000002,
+          "local_relevance": 0.08,
+          "metadata": {},
+          "published_at": "2026-09-07",
+          "relevance_hint": 0.8,
+          "snippet": "Explore how to use the Wish app for makeup organization and Genshin Impact character acquisition. Find tips and tricks for your orders!See more videos about Giftful App Wishlist, Giftful App, App Wishmaker, Wishmaker App, Listful App, Wish There Was An App.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Wishful App | TikTok",
+          "url": "https://www.tiktok.com/discover/wishful-app",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "core concept"
+      ],
+      "title": "Wishful App | TikTok",
+      "url": "https://www.tiktok.com/discover/wishful-app"
+    },
+    {
+      "candidate_id": "https://swiftspeed.app/creative-on-demand-mobile-app-ideas",
+      "cluster_id": "cluster-2",
+      "explanation": "App ideas list; no mention of entity 'I wish there was'",
+      "final_score": 23.54132873166523,
+      "freshness": 66,
+      "fun_explanation": "plain list item, no wit",
+      "fun_score": 10.0,
+      "item_id": "WB5",
+      "local_relevance": 0.2,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB5",
+            "native_rank": 1,
+            "source": "grounding",
+            "subquery_label": "similar apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "similar apps:grounding": 1
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.007765314926660915,
+      "snippet": "The Neighborhood Lost and Found App creates a local community platform where people can report lost or found items.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "80 Best Mobile App Ideas for Startups in 2026\nThe Neighborhood Lost and Found App creates a local community platform where people can report lost or found items.",
+          "container": "www.swiftspeed.app",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 66,
+          "item_id": "WB5",
+          "local_rank_score": 0.29500000000000004,
+          "local_relevance": 0.2,
+          "metadata": {},
+          "published_at": "2026-09-17",
+          "relevance_hint": 0.8,
+          "snippet": "The Neighborhood Lost and Found App creates a local community platform where people can report lost or found items.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "80 Best Mobile App Ideas for Startups in 2026",
+          "url": "https://www.swiftspeed.app/creative-on-demand-mobile-app-ideas/",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "similar apps"
+      ],
+      "title": "80 Best Mobile App Ideas for Startups in 2026",
+      "url": "https://www.swiftspeed.app/creative-on-demand-mobile-app-ideas/"
+    },
+    {
+      "candidate_id": "https://catdoes.com/blog/best-app-ideas",
+      "cluster_id": "cluster-3",
+      "explanation": "App ideas article; no mention of entity 'I wish there was'",
+      "final_score": 22.710016977928696,
+      "freshness": 58,
+      "fun_explanation": "straight resume pitch, boring",
+      "fun_score": 12.0,
+      "item_id": "WB1",
+      "local_relevance": 0.2,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB1",
+            "native_rank": 2,
+            "source": "grounding",
+            "subquery_label": "similar apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "similar apps:grounding": 2
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.007640067911714771,
+      "snippet": "No mobile app does all four well. Build one that rewrites a resume for a specific job post in under a minute. That single feature is enough to launch. The US Administration for Community Living expects 78.3 million Americans aged 65 and over by 2040.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Best App Ideas: 10 Data-Backed Picks for 2026 - CatDoes\nNo mobile app does all four well. Build one that rewrites a resume for a specific job post in under a minute. That single feature is enough to launch. The US Administration for Community Living expects 78.3 million Americans aged 65 and over by 2040.",
+          "container": "catdoes.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 58,
+          "item_id": "WB1",
+          "local_rank_score": 0.275,
+          "local_relevance": 0.2,
+          "metadata": {},
+          "published_at": "2026-09-14",
+          "relevance_hint": 0.8,
+          "snippet": "No mobile app does all four well. Build one that rewrites a resume for a specific job post in under a minute. That single feature is enough to launch. The US Administration for Community Living expects 78.3 million Americans aged 65 and over by 2040.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Best App Ideas: 10 Data-Backed Picks for 2026 - CatDoes",
+          "url": "https://catdoes.com/blog/best-app-ideas",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "similar apps"
+      ],
+      "title": "Best App Ideas: 10 Data-Backed Picks for 2026 - CatDoes",
+      "url": "https://catdoes.com/blog/best-app-ideas"
+    },
+    {
+      "candidate_id": "https://reddit.com/r/wowui/comments/1wn0zbm/addon_wowforever_melloui_huge_update_optional",
+      "cluster_id": "cluster-4",
+      "explanation": "WoW UI addon post; no mention of entity 'I wish there was'",
+      "final_score": 6.587109577221743,
+      "freshness": 78,
+      "fun_explanation": "game UI nerd post, mildly shareable but flat",
+      "fun_score": 20.0,
+      "item_id": "WB2",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB2",
+            "native_rank": 1,
+            "source": "grounding",
+            "subquery_label": "core concept"
+          }
+        ]
+      },
+      "native_ranks": {
+        "core concept:grounding": 1
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.008628127696289905,
+      "snippet": "28 votes, 196 comments. MelloUI \u2013 Voiced NPCs, a Full UI Reskin &amp; a Map That Actually Helps Hey! MelloUI is my all-in-one UI for World of Warcraft\u2026",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "r/WowUI on Reddit: [ADDON] WoW:Forever - MelloUI - Huge Update (Optional Old-School UI Reskin + Custom Sounds) + Too Many New QoL/Tweaks Added to list at once.\n28 votes, 196 comments. MelloUI \u2013 Voiced NPCs, a Full UI Reskin &amp; a Map That Actually Helps Hey! MelloUI is my all-in-one UI for World of Warcraft\u2026",
+          "container": "www.reddit.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 78,
+          "item_id": "WB2",
+          "local_rank_score": 0.195,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-22",
+          "relevance_hint": 0.8,
+          "snippet": "28 votes, 196 comments. MelloUI \u2013 Voiced NPCs, a Full UI Reskin &amp; a Map That Actually Helps Hey! MelloUI is my all-in-one UI for World of Warcraft\u2026",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "r/WowUI on Reddit: [ADDON] WoW:Forever - MelloUI - Huge Update (Optional Old-School UI Reskin + Custom Sounds) + Too Many New QoL/Tweaks Added to list at once.",
+          "url": "https://www.reddit.com/r/WowUI/comments/1wn0zbm/addon_wowforever_melloui_huge_update_optional/",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "core concept"
+      ],
+      "title": "r/WowUI on Reddit: [ADDON] WoW:Forever - MelloUI - Huge Update (Optional Old-School UI Reskin + Custom Sounds) + Too Many New QoL/Tweaks Added to list at once.",
+      "url": "https://www.reddit.com/r/WowUI/comments/1wn0zbm/addon_wowforever_melloui_huge_update_optional/"
+    }
+  ],
+  "topic": "hobby app \"I wish there was\"",
+  "warnings": [
+    "Evidence is thin for this topic.",
+    "Top evidence is highly concentrated in one source."
+  ]
+}
