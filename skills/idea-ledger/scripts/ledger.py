@@ -144,6 +144,41 @@ def _parse_brief(brief_path: Path) -> list[Row]:
     return out
 
 
+# Words too common in idea titles to say two ideas are the same.
+_GENERIC_WORDS = {
+    "a", "an", "the", "and", "or", "for", "of", "to", "with", "that", "if", "is",
+    "it", "in", "on", "by", "your", "my", "app", "apps", "mobile", "tool",
+    "tracker", "study", "student", "students", "learning", "better", "than",
+    "alternative", "general", "companion", "focused", "advises", "keeping",
+    "analyzer", "checker", "generator", "manager", "maker", "prep", "exam",
+    "quiz", "interactive", "simple", "new", "based", "creative", "consolidation",
+}
+
+
+def _key_words(title: str) -> set[str]:
+    words = set()
+    for word in re.findall(r"[a-z0-9]+", title.lower()):
+        if word.endswith("s") and len(word) > 4:
+            word = word[:-1]
+        if word not in _GENERIC_WORDS:
+            words.add(word)
+    return words
+
+
+def _shares_key_words(a: str, b: str) -> bool:
+    """True when two titles share 2+ distinctive words covering half the shorter.
+
+    Catches rewordings the character matcher misses, e.g. "Subscription
+    tracker that advises if subscriptions are worth keeping" vs
+    "Subscription Worth-It Checker".
+    """
+    words_a, words_b = _key_words(a), _key_words(b)
+    shared = words_a & words_b
+    if len(shared) < 2:
+        return False
+    return len(shared) / min(len(words_a), len(words_b)) >= 0.5
+
+
 def _dedup_candidates(title: str, rows: list[Row], top_n: int = 3) -> list[tuple[Row, float]]:
     norm = title.lower().strip()
     scored: list[tuple[Row, float]] = []
@@ -152,6 +187,8 @@ def _dedup_candidates(title: str, rows: list[Row], top_n: int = 3) -> list[tuple
         # boost on substring containment
         if norm in row.title.lower() or row.title.lower() in norm:
             ratio = max(ratio, 0.85)
+        if _shares_key_words(title, row.title):
+            ratio = max(ratio, 0.75)
         if ratio >= 0.55:
             scored.append((row, ratio))
     scored.sort(key=lambda pair: pair[1], reverse=True)
