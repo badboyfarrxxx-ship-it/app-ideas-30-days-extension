@@ -62,3 +62,37 @@ def test_force_still_adds_everything(tmp_path):
     result = _run("add", "--brief", str(brief), "--ledger", str(ledger), "--force")
     assert result.returncode == 0, result.stderr
     assert len(_rows(ledger)) == 3
+
+
+def _load_ledger_module():
+    import importlib.util
+    spec = importlib.util.spec_from_file_location("idea_ledger", SCRIPT)
+    module = importlib.util.module_from_spec(spec)
+    sys.modules["idea_ledger"] = module  # dataclasses look the module up here
+    spec.loader.exec_module(module)
+    return module
+
+
+def test_reworded_repeats_share_key_words():
+    ledger = _load_ledger_module()
+    pairs = [
+        ("Subscription tracker that advises if subscriptions are worth keeping",
+         "Subscription Worth-It Checker"),
+        ("Language learning app better than Duolingo for Mandarin",
+         "Duolingo alternative focused on Mandarin Chinese"),
+        ("Medical/health science study app with interactive quizzes",
+         "Health science study app (general)"),
+    ]
+    for a, b in pairs:
+        assert ledger._shares_key_words(a, b), (a, b)
+
+
+def test_distinct_ideas_do_not_share_key_words():
+    ledger = _load_ledger_module()
+    pairs = [
+        ("Nursing school study companion app", "Health science study app (general)"),
+        ("Radiology Tech Study & ARRT Exam Prep", "Health science study app (general)"),
+        ("Mobile invoice generator for freelancers", "Temporary shared expense pool app"),
+    ]
+    for a, b in pairs:
+        assert not ledger._shares_key_words(a, b), (a, b)
