@@ -1,0 +1,237 @@
+Batch C sources=youtube
+Started at 2026-09-26T08:16:12Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/36229267799
+----
+
+===== Seed: site:reddit.com/r/androidapps =====
+/last30days · researching: site:reddit.com/r/androidapps
+⏳ [95mProcessing[0m Scoring and ranking...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs androidapps
+[Competitors] Comparing: site:reddit.com vs r vs androidapps
+[Resolve] Search failed for news: HTTP 422: 
+[Resolve] Search failed for x_handle: HTTP 422: 
+[Resolve] Search failed for subreddit: HTTP 422: 
+[Resolve] Search failed for news: HTTP 422: 
+[Resolve] Search failed for subreddit: HTTP 422: 
+[Resolve] Search failed for x_handle: HTTP 422: 
+[Resolve] Search failed for github: HTTP 422: 
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] androidapps: x=@- subs=0 gh=- (auto)
+[Resolve] Search failed for github: HTTP 422: 
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] r: x=@- subs=0 gh=- (auto)
+[Planner] Plan: intent=factual, freshness=evergreen_ok, cluster_mode=none, subqueries=2, source=llm
+[Planner]   sq1 label=r overview search="r programming" sources=[youtube]
+[Planner]   sq2 label=r basics search="r language tutorial" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for 'r' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=r
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for 'r' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=r
+[YouTube] SC YouTube search returned 0 results
+[Planner] Plan: intent=concept, freshness=balanced_recent, cluster_mode=none, subqueries=2, source=llm
+[Planner]   sq1 label=popular apps search="best android apps 2024" sources=[youtube]
+[Planner]   sq2 label=app development search="android app development tutorial" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for 'androidapps' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=androidapps
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for 'androidapps' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=androidapps
+[YouTube] SC YouTube search returned 0 results
+[Planner] Plan: intent=factual, freshness=evergreen_ok, cluster_mode=none, subqueries=2, source=llm
+[Planner]   sq1 label=reddit overview search="reddit.com" sources=[youtube]
+[Planner]   sq2 label=reddit features search="reddit site features" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for 'site:reddit.com' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=site%3Areddit.com
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for 'site:reddit.com' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=site%3Areddit.com
+[YouTube] SC YouTube search returned 0 results
+✓ Research complete (9.6s) - YouTube: 0 videos
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-26/0816-site-reddit-com.json
+[OK] seed succeeded
+
+===== Seed: site:reddit.com/r/Android =====
+/last30days · researching: site:reddit.com/r/Android
+⏳ [95mProcessing[0m Organizing findings...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs Android
+[Competitors] Comparing: site:reddit.com vs r vs Android
+[Resolve] Search failed for subreddit: HTTP 422: 
+[Resolve] Search failed for x_handle: HTTP 422: 
+[Resolve] Search failed for subreddit: HTTP 422: 
+[Resolve] Search failed for news: HTTP 422: 
+[Resolve] Search failed for news: HTTP 422: 
+[Resolve] Search failed for x_handle: HTTP 422: 
+[Resolve] Search failed for github: HTTP 422: 
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] Android: x=@- subs=0 gh=- (auto)
+[Resolve] Search failed for github: HTTP 422: 
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] r: x=@- subs=0 gh=- (auto)
+[Planner] Plan: intent=concept, freshness=balanced_recent, cluster_mode=none, subqueries=2, source=llm
+[Planner]   sq1 label=Android overview search="Android operating system" sources=[youtube]
+[Planner]   sq2 label=Android features search="Android features" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for 'android' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=android
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for 'android' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=android
+[YouTube] SC YouTube search returned 0 results
+[Planner] Plan: intent=factual, freshness=balanced_recent, cluster_mode=none, subqueries=2, source=llm
+[Planner]   sq1 label=r overview search="r" sources=[youtube]
+[Planner]   sq2 label=r examples search="r tutorial" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for 'r' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=r
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for 'r' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=r
+[YouTube] SC YouTube search returned 0 results
+[Planner] Plan: intent=opinion, freshness=balanced_recent, cluster_mode=debate, subqueries=3, source=llm
+[Planner]   sq1 label=Reddit AITA stories search="reddit aita" sources=[youtube]
+[Planner]   sq2 label=Reddit relationship advice search="reddit relationships" sources=[youtube]
+[Planner]   sq3 label=Reddit workplace stories search="reddit work OR antiwork" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for 'site:reddit.com' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=site%3Areddit.com
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for 'site:reddit.com' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=site%3Areddit.com
+[YouTube] SC YouTube search returned 0 results
+✓ Research complete (10.2s) - YouTube: 0 videos
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-26/0816-site-reddit-com.json
+[OK] seed succeeded
+
+===== Seed: site:reddit.com/r/iOSApps =====
+/last30days · researching: site:reddit.com/r/iOSApps
+⏳ [95mProcessing[0m Organizing findings...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs iOSApps
+[Competitors] Comparing: site:reddit.com vs r vs iOSApps
+[Resolve] Search failed for news: HTTP 422: 
+[Resolve] Search failed for x_handle: HTTP 422: 
+[Resolve] Search failed for x_handle: HTTP 422: 
+[Resolve] Search failed for subreddit: HTTP 422: 
+[Resolve] Search failed for news: HTTP 422: 
+[Resolve] Search failed for subreddit: HTTP 422: 
+[Resolve] Search failed for github: HTTP 422: 
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] iOSApps: x=@- subs=0 gh=- (auto)
+[Resolve] Search failed for github: HTTP 422: 
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] r: x=@- subs=0 gh=- (auto)
+[Planner] Plan: intent=concept, freshness=balanced_recent, cluster_mode=none, subqueries=2, source=llm
+[Planner]   sq1 label=iOS app discovery search="iOS apps OR iPhone apps" sources=[youtube]
+[Planner]   sq2 label=app development basics search="iOS app development OR SwiftUI" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for 'iosapps' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=iosapps
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for 'iosapps' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=iosapps
+[YouTube] SC YouTube search returned 0 results
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=2, source=llm
+[Planner]   sq1 label=letter r basics search="r letter alphabet" sources=[youtube]
+[Planner]   sq2 label=programming language R search="r programming language" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for 'r' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=r
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for 'r' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=r
+[YouTube] SC YouTube search returned 0 results
+[Planner] Plan: intent=opinion, freshness=balanced_recent, cluster_mode=debate, subqueries=2, source=llm
+[Planner]   sq1 label=reddit discussions search="reddit" sources=[youtube]
+[Planner]   sq2 label=reddit stories search="reddit stories" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for 'site:reddit.com' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=site%3Areddit.com
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for 'site:reddit.com' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=site%3Areddit.com
+[YouTube] SC YouTube search returned 0 results
+✓ Research complete (8.4s) - YouTube: 0 videos
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-26/0816-site-reddit-com.json
+[OK] seed succeeded
+
+===== Seed: site:reddit.com/r/iphone =====
+/last30days · researching: site:reddit.com/r/iphone
+⏳ [95mProcessing[0m Organizing findings...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs iphone
+[Competitors] Comparing: site:reddit.com vs r vs iphone
+[Resolve] Search failed for x_handle: HTTP 422: 
+[Resolve] Search failed for subreddit: HTTP 422: 
+[Resolve] Search failed for news: HTTP 422: 
+[Resolve] Search failed for news: HTTP 422: 
+[Resolve] Search failed for x_handle: HTTP 422: 
+[Resolve] Search failed for subreddit: HTTP 422: 
+[Resolve] Search failed for github: HTTP 422: 
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] iphone: x=@- subs=0 gh=- (auto)
+[Resolve] Search failed for github: HTTP 422: 
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] r: x=@- subs=0 gh=- (auto)
+[Planner] Plan: intent=factual, freshness=evergreen_ok, cluster_mode=none, subqueries=2, source=llm
+[Planner]   sq1 label=core definition search="r" sources=[youtube]
+[Planner]   sq2 label=basic usage search="r basics" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for 'r' (depth=default)
+[Planner] Plan: intent=factual, freshness=balanced_recent, cluster_mode=none, subqueries=2, source=llm
+[Planner]   sq1 label=reddit platform overview search="reddit.com OR reddit site discussion" sources=[youtube]
+[Planner]   sq2 label=reddit user experiences search="reddit.com user stories OR reddit experience" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for 'site:reddit.com' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=r
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for 'r' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=site%3Areddit.com
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for 'site:reddit.com' (depth=default)
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=3, source=llm
+[Planner]   sq1 label=iPhone reviews search="iphone review" sources=[youtube]
+[Planner]   sq2 label=iPhone specs search="iphone specs OR features" sources=[youtube]
+[Planner]   sq3 label=iPhone comparisons search="iphone vs" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for 'iphone' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=r
+[YouTube] SC YouTube search returned 0 results
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=site%3Areddit.com
+[YouTube] SC YouTube search returned 0 results
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=iphone
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for 'iphone' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=iphone
+[YouTube] SC YouTube search returned 0 results
+✓ Research complete (7.2s) - YouTube: 0 videos
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-26/0816-site-reddit-com.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed
