@@ -45,6 +45,34 @@ class BraveSearchTests(unittest.TestCase):
 
 
 class SerperSearchTests(unittest.TestCase):
+    def test_brave_error_message_carries_brave_error_code(self):
+        body = (
+            '{"type":"ErrorResponse","error":{"status":422,'
+            '"code":"SUBSCRIPTION_TOKEN_INVALID",'
+            '"detail":"The provided subscription token is invalid."}}'
+        )
+        exc = grounding.http.HTTPError("HTTP 422: ", 422, body)
+        with patch("lib.grounding.http.request", side_effect=exc):
+            with self.assertRaises(grounding.http.HTTPError) as ctx:
+                grounding.brave_search("test", ("2026-02-25", "2026-03-27"), "fake-key")
+        self.assertEqual(
+            "HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.",
+            str(ctx.exception),
+        )
+        self.assertEqual(422, ctx.exception.status_code)
+
+    def test_brave_error_without_json_body_is_unchanged(self):
+        exc = grounding.http.HTTPError("HTTP 422: ", 422, "")
+        with patch("lib.grounding.http.request", side_effect=exc):
+            with self.assertRaises(grounding.http.HTTPError) as ctx:
+                grounding.brave_search("test", ("2026-02-25", "2026-03-27"), "fake-key")
+        self.assertIs(exc, ctx.exception)
+
+    def test_brave_search_strips_whitespace_from_key(self):
+        with patch("lib.grounding.http.request", return_value={}) as mock_req:
+            grounding.brave_search("test", ("2026-02-25", "2026-03-27"), " fake-key \n")
+        self.assertEqual("fake-key", mock_req.call_args.kwargs["headers"]["X-Subscription-Token"])
+
     def test_serper_search_filters_to_in_range_dated_items(self):
         mock_response = {
             "organic": [
