@@ -1,0 +1,99 @@
+Batch E sources=github
+Started at 2026-09-26T16:15:37Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/36254806966
+----
+
+===== Seed: site:news.ycombinator.com "Show HN" android =====
+/last30days · researching: site:news.ycombinator.com "Show HN" android
+⏳ [95mProcessing[0m Scoring and ranking...
+[Planner] Plan: intent=factual, freshness=balanced_recent, cluster_mode=none, subqueries=2, source=llm
+[Planner]   sq1 label=Android Show HN repos search="android "show hn" OR "Show HN"" sources=[github]
+[Planner]   sq2 label=Android app launches search="android app github" sources=[github]
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+✓ Research complete (8.4s) - Github: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-26/1615-site-news-ycombinator-com-show-hn-android.json
+[OK] seed succeeded
+
+===== Seed: site:news.ycombinator.com "Show HN" iOS =====
+/last30days · researching: site:news.ycombinator.com "Show HN" iOS
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] Plan: intent=factual, freshness=balanced_recent, cluster_mode=none, subqueries=2, source=llm
+[Planner]   sq1 label=Show HN iOS repos search=""Show HN" iOS" sources=[github]
+[Planner]   sq2 label=iOS app launches github search="iOS app OR swiftui "Show HN"" sources=[github]
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+✓ Research complete (6.3s) - Github: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-26/1615-site-news-ycombinator-com-show-hn-ios.json
+[OK] seed succeeded
+
+===== Seed: site:news.ycombinator.com "Show HN" "mobile app" =====
+/last30days · researching: site:news.ycombinator.com "Show HN" "mobile app"
+⏳ [95mProcessing[0m Finding patterns...
+[Planner] Plan: intent=factual, freshness=strict_recent, cluster_mode=story, subqueries=2, source=llm
+[Planner]   sq1 label=Show HN mobile repos search=""Show HN" "mobile app" github" sources=[github]
+[Planner]   sq2 label=mobile app launches search="mobile app launch OR release github" sources=[github]
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+✓ Research complete (7.1s) - Github: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-26/1616-site-news-ycombinator-com-show-hn-mobile-app.json
+[OK] seed succeeded
+
+===== Seed: site:news.ycombinator.com "Ask HN" "is there an app" =====
+/last30days · researching: site:news.ycombinator.com "Ask HN" "is there an app"
+⏳ [95mProcessing[0m Removing duplicates...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=4, source=llm
+[Planner]   sq1 label=HN app thread search=""Ask HN" app" sources=[github]
+[Planner]   sq2 label=Hacker News client search="hacker news client OR reader app" sources=[github]
+[Planner]   sq3 label=Ask HN aggregator search="ask hn aggregator OR search tool" sources=[github]
+[Planner]   sq4 label=HN mobile app search="hacker news mobile app OR ios OR android" sources=[github]
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+✓ Research complete (10.6s) - Github: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-26/1616-site-news-ycombinator-com-ask-hn-is-there-an-app.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed

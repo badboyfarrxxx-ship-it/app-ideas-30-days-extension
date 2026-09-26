@@ -1,0 +1,65 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "site:news.ycombinator.com \"Show HN\" iOS",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-26T16:15:52.751620+00:00",
+  "items_by_source": {
+    "github": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "factual",
+    "notes": [],
+    "raw_topic": "site:news.ycombinator.com \"Show HN\" iOS",
+    "source_weights": {
+      "github": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "Show HN iOS repos",
+        "ranking_query": "GitHub repositories linked from Hacker News Show HN posts about iOS apps or tools",
+        "search_query": "\"Show HN\" iOS",
+        "sources": [
+          "github"
+        ],
+        "weight": 0.5
+      },
+      {
+        "label": "iOS app launches github",
+        "ranking_query": "Open source iOS projects and Swift repositories that appeared as Show HN launches",
+        "search_query": "iOS app OR swiftui \"Show HN\"",
+        "sources": [
+          "github"
+        ],
+        "weight": 0.5
+      }
+    ]
+  },
+  "range_from": "2026-08-27",
+  "range_to": "2026-09-26",
+  "ranked_candidates": [],
+  "topic": "site:news.ycombinator.com \"Show HN\" iOS",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

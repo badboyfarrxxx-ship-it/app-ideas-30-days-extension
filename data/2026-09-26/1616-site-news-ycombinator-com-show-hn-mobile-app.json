@@ -1,0 +1,67 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "site:news.ycombinator.com \"Show HN\" \"mobile app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-26T16:16:00.038804+00:00",
+  "items_by_source": {
+    "github": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "story",
+    "freshness_mode": "strict_recent",
+    "intent": "factual",
+    "notes": [
+      "Topic references HN Show HN but queries limited to github source only"
+    ],
+    "raw_topic": "site:news.ycombinator.com \"Show HN\" \"mobile app\"",
+    "source_weights": {
+      "github": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "Show HN mobile repos",
+        "ranking_query": "Which GitHub repositories are linked to Show HN posts about mobile apps?",
+        "search_query": "\"Show HN\" \"mobile app\" github",
+        "sources": [
+          "github"
+        ],
+        "weight": 0.5263157894736842
+      },
+      {
+        "label": "mobile app launches",
+        "ranking_query": "Open source mobile apps recently launched or shared on developer platforms",
+        "search_query": "mobile app launch OR release github",
+        "sources": [
+          "github"
+        ],
+        "weight": 0.4736842105263158
+      }
+    ]
+  },
+  "range_from": "2026-08-27",
+  "range_to": "2026-09-26",
+  "ranked_candidates": [],
+  "topic": "site:news.ycombinator.com \"Show HN\" \"mobile app\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

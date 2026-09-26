@@ -1,0 +1,85 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "site:news.ycombinator.com \"Ask HN\" \"is there an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-26T16:16:10.771231+00:00",
+  "items_by_source": {
+    "github": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [
+      "Topic targets HN Ask HN posts; limited to GitHub for engineering tools and open source clients"
+    ],
+    "raw_topic": "site:news.ycombinator.com \"Ask HN\" \"is there an app\"",
+    "source_weights": {
+      "github": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "HN app thread",
+        "ranking_query": "Is there an app that surfaces or searches Ask HN threads?",
+        "search_query": "\"Ask HN\" app",
+        "sources": [
+          "github"
+        ],
+        "weight": 0.2857142857142857
+      },
+      {
+        "label": "Hacker News client",
+        "ranking_query": "Open source apps or tools that let users browse Ask HN posts",
+        "search_query": "hacker news client OR reader app",
+        "sources": [
+          "github"
+        ],
+        "weight": 0.2571428571428572
+      },
+      {
+        "label": "Ask HN aggregator",
+        "ranking_query": "GitHub projects that aggregate or search Ask HN content",
+        "search_query": "ask hn aggregator OR search tool",
+        "sources": [
+          "github"
+        ],
+        "weight": 0.2285714285714286
+      },
+      {
+        "label": "HN mobile app",
+        "ranking_query": "Mobile apps or repos built to read Ask HN discussions",
+        "search_query": "hacker news mobile app OR ios OR android",
+        "sources": [
+          "github"
+        ],
+        "weight": 0.2285714285714286
+      }
+    ]
+  },
+  "range_from": "2026-08-27",
+  "range_to": "2026-09-26",
+  "ranked_candidates": [],
+  "topic": "site:news.ycombinator.com \"Ask HN\" \"is there an app\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

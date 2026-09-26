@@ -1,0 +1,67 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "site:news.ycombinator.com \"Show HN\" android",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-26T16:15:46.289432+00:00",
+  "items_by_source": {
+    "github": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "factual",
+    "notes": [
+      "Topic constrained to HN Show HN Android; GitHub used to locate linked repositories"
+    ],
+    "raw_topic": "site:news.ycombinator.com \"Show HN\" android",
+    "source_weights": {
+      "github": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "Android Show HN repos",
+        "ranking_query": "GitHub repositories linked to Android projects posted as Show HN on Hacker News",
+        "search_query": "android \"show hn\" OR \"Show HN\"",
+        "sources": [
+          "github"
+        ],
+        "weight": 0.5555555555555556
+      },
+      {
+        "label": "Android app launches",
+        "ranking_query": "Popular open source Android apps that match typical Show HN launches",
+        "search_query": "android app github",
+        "sources": [
+          "github"
+        ],
+        "weight": 0.4444444444444445
+      }
+    ]
+  },
+  "range_from": "2026-08-27",
+  "range_to": "2026-09-26",
+  "ranked_candidates": [],
+  "topic": "site:news.ycombinator.com \"Show HN\" android",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}
