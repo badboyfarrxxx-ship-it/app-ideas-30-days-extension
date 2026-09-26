@@ -183,7 +183,19 @@ def cmd_add(args: argparse.Namespace) -> int:
         if matches:
             flagged.append((candidate, matches))
 
-    if flagged and not args.force:
+    if flagged and args.skip_duplicates:
+        # Record the repeat on the best-matching existing row instead of adding
+        # a second row for the same idea, so its status (e.g. triaged_no) holds.
+        flagged_ids = {candidate.id for candidate, _ in flagged}
+        for candidate, matches in flagged:
+            match = matches[0][0]
+            seen = candidate.date_surfaced
+            match.last_updated = seen
+            note = f"Seen again {seen} as '{candidate.title}'"
+            match.notes = f"{match.notes}; {note}".lstrip("; ")
+            print(f"[ledger] ~ {match.id}  seen again as '{candidate.title}'")
+        new_rows = [row for row in new_rows if row.id not in flagged_ids]
+    elif flagged and not args.force:
         print("[ledger] Potential duplicates found. Re-run with --force to add anyway,")
         print("         or update the existing rows with `status` instead.")
         print()
@@ -278,6 +290,10 @@ def main(argv: list[str] | None = None) -> int:
     p_add.add_argument("--brief", required=True)
     p_add.add_argument("--ledger", required=True)
     p_add.add_argument("--force", action="store_true")
+    p_add.add_argument(
+        "--skip-duplicates", action="store_true",
+        help="Instead of adding a flagged row, note the repeat on the matching existing row.",
+    )
     p_add.add_argument("--init", action="store_true")
     p_add.set_defaults(func=cmd_add)
 
