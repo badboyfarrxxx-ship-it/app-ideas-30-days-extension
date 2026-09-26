@@ -1,0 +1,79 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "side hustle \"is there an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-26T21:23:02.065995+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [],
+    "raw_topic": "side hustle \"is there an app\"",
+    "source_weights": {
+      "hackernews": 0.3,
+      "reddit": 0.7
+    },
+    "subqueries": [
+      {
+        "label": "side hustle app existence",
+        "ranking_query": "Is there an app for tracking or managing side hustles?",
+        "search_query": "side hustle app",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.37037037037037035
+      },
+      {
+        "label": "side hustle tools discussion",
+        "ranking_query": "What apps do people actually use for their side hustles?",
+        "search_query": "side hustle tracker OR manager app",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.3333333333333333
+      },
+      {
+        "label": "recommended side hustle apps",
+        "ranking_query": "Best apps recommended for running a side hustle",
+        "search_query": "\"side hustle\" (app OR tool) recommend",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.2962962962962963
+      }
+    ]
+  },
+  "range_from": "2026-08-27",
+  "range_to": "2026-09-26",
+  "ranked_candidates": [],
+  "topic": "side hustle \"is there an app\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"I would pay for an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-26T21:23:26.489747+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "debate",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [
+      "Focus on user willingness-to-pay discussions rather than free app complaints"
+    ],
+    "raw_topic": "\"I would pay for an app\"",
+    "source_weights": {
+      "hackernews": 0.25,
+      "reddit": 0.75
+    },
+    "subqueries": [
+      {
+        "label": "apps worth paying for",
+        "ranking_query": "What apps or app features would users actually pay money for?",
+        "search_query": "\"pay for app\" OR \"paid app\" OR \"willing to pay\" app",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.36363636363636365
+      },
+      {
+        "label": "premium app pain points",
+        "ranking_query": "Which app subscriptions or premium tiers do people find genuinely valuable?",
+        "search_query": "app subscription OR premium worth it",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.32727272727272727
+      },
+      {
+        "label": "app monetization ideas",
+        "ranking_query": "App ideas or features that users say they would happily pay for",
+        "search_query": "app idea pay OR monetize OR revenue",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.3090909090909091
+      }
+    ]
+  },
+  "range_from": "2026-08-27",
+  "range_to": "2026-09-26",
+  "ranked_candidates": [],
+  "topic": "\"I would pay for an app\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

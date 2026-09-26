@@ -1,0 +1,91 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "hobby app \"I wish there was\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-26T21:23:10.272371+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [
+      "Focus on hobby/personal use cases rather than enterprise tools"
+    ],
+    "raw_topic": "hobby app \"I wish there was\"",
+    "source_weights": {
+      "hackernews": 0.3,
+      "reddit": 0.7
+    },
+    "subqueries": [
+      {
+        "label": "Direct wishes",
+        "ranking_query": "Posts where users say they wish a specific hobby or personal app existed",
+        "search_query": "\"I wish there was\" app",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.28169014084507044
+      },
+      {
+        "label": "App idea requests",
+        "ranking_query": "Threads sharing unmet needs or requesting someone to build a simple hobby app",
+        "search_query": "app idea OR \"somebody make this\"",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.2535211267605634
+      },
+      {
+        "label": "Feature gaps",
+        "ranking_query": "Discussions about everyday tasks or hobbies that lack a good existing app",
+        "search_query": "\"wish there was an app\" OR \"missing app for\"",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.23943661971830987
+      },
+      {
+        "label": "HN wish lists",
+        "ranking_query": "Hacker News comments expressing desire for niche apps that don't exist yet",
+        "search_query": "\"I wish\" (app OR tool) hobby OR personal",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.22535211267605637
+      }
+    ]
+  },
+  "range_from": "2026-08-27",
+  "range_to": "2026-09-26",
+  "ranked_candidates": [],
+  "topic": "hobby app \"I wish there was\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}
