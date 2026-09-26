@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import json
 import urllib.parse
 from datetime import datetime
 from urllib.parse import urlparse
@@ -26,7 +27,12 @@ def brave_search(
             }
         )
     )
-    data = http.request("GET", url, headers={"X-Subscription-Token": api_key}, timeout=15)
+    try:
+        data = http.request(
+            "GET", url, headers={"X-Subscription-Token": api_key.strip()}, timeout=15,
+        )
+    except http.HTTPError as exc:
+        raise _brave_error(exc) from exc
     items = []
     for i, r in enumerate((data.get("web", {}).get("results", []))[:count]):
         raw_date = r.get("page_age") or ""
@@ -45,6 +51,26 @@ def brave_search(
         })
     artifact = {"label": "brave", "webSearchQueries": [query], "resultCount": len(items)}
     return items, artifact
+
+
+def _brave_error(exc: http.HTTPError) -> http.HTTPError:
+    """Add Brave's error code and detail to the message.
+
+    Brave answers over HTTP/2, which has no reason phrase, so the generic
+    message is a bare "HTTP 422: " and says nothing about the cause (for
+    example SUBSCRIPTION_TOKEN_INVALID). The message is what reaches
+    errors_by_source and the brief's SOURCE HEALTH section.
+    """
+    try:
+        err = json.loads(exc.body or "").get("error") or {}
+    except (ValueError, AttributeError):
+        err = {}
+    parts = [str(p) for p in (err.get("code"), err.get("detail")) if p]
+    if not parts:
+        return exc
+    return http.HTTPError(
+        f"HTTP {exc.status_code}: {' '.join(parts)}"[:300], exc.status_code, exc.body,
+    )
 
 
 # ---------------------------------------------------------------------------
