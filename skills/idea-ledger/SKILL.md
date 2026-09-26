@@ -58,7 +58,7 @@ uv run --frozen python3 skills/idea-ledger/scripts/ledger.py add \
   --ledger ledger.csv
 ```
 
-The script prints any flagged dedup candidates and exits non-zero unless the user passes `--force` (each dedup match must be reviewed manually).
+The script prints any flagged dedup candidates and exits non-zero unless the user passes `--force` (each dedup match must be reviewed manually). `--skip-duplicates` adds only the unflagged ideas and notes each repeat on its matching existing row, which keeps that row's status. The daily-brief workflow uses it.
 
 ### `list [--status <s>]` — show ledger state
 

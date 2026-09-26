@@ -312,6 +312,11 @@ jobs:
             - Every surviving idea MUST be shippable as Android or iOS.
             - LAUNCH-only signals describe an *adjacency* opportunity
               ("X exists but nobody has done Y for Z"), not "build X".
+            - Before writing ideas.md, check every idea's competitors
+              line. If it names 2 or more apps, it MUST start with
+              "Crowded:". Then order the ideas so every Crowded idea
+              comes after every idea that is not Crowded, however high
+              its engagement.
             - If fewer than 3 candidates survive the mobile gate,
               output what you have and say so in the honest assessment.
               Do NOT invent ideas to hit the 3-7 target.
@@ -379,8 +384,9 @@ jobs:
         # The ledger lives in the App-Ideas repo (next to the ideas it
         # tracks). Run a dry-pass first: if the script detects near-
         # duplicates against existing ledger rows it returns exit code 3
-        # without writing anything. We then re-run with --force to commit
-        # the new rows and stash the warnings for a follow-up PR comment.
+        # without writing anything. We then re-run with --skip-duplicates:
+        # new ideas are added, repeats are noted on the matching existing
+        # row (keeping its status), and the warnings go in a PR comment.
         if: steps.synth.outputs.have_ideas == 'true'
         id: ledger
         run: |
@@ -403,7 +409,7 @@ jobs:
             uv run --frozen python3 skills/idea-ledger/scripts/ledger.py add \
               --brief "$BRIEF" \
               --ledger "$LEDGER" \
-              --init --force
+              --init --skip-duplicates
             echo "have_warnings=true" >> "$GITHUB_OUTPUT"
           else
             echo "::warning::Ledger script returned ${LEDGER_RC} — skipping ledger update."
@@ -466,13 +472,13 @@ jobs:
           {
             echo "### Idea ledger — dedup warnings"
             echo ""
-            echo "The following titles in today's brief look similar to existing ledger rows. Review before acting — you may be re-surfacing an idea that was already killed or feasibility-tested."
+            echo "The following titles in today's brief look similar to existing ledger rows, so they were not added as new rows. Each repeat is noted on the matching row instead, and that row keeps its status. If a match is wrong, add the idea by hand."
             echo ""
             echo '```'
             cat /tmp/dedup-warnings.txt
             echo '```'
             echo ""
-            echo "If a match is real, use \`/idea-ledger status <id> <new-status>\` on the existing row instead of treating today's row as a new idea."
+            echo "To change an idea's fate, use \`/idea-ledger status <id> <new-status>\` on the existing row."
           } > /tmp/dedup-comment.md
           gh pr comment "${{ steps.pr.outputs.pull-request-number }}" \
             --repo "${{ env.IDEAS_REPO }}" \
