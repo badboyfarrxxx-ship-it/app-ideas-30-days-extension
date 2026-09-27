@@ -1,0 +1,74 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "personal trainers app for clients",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-27T16:15:47.300020+00:00",
+  "items_by_source": {
+    "github": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [],
+    "raw_topic": "personal trainers app for clients",
+    "source_weights": {
+      "github": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "trainer client app repos",
+        "ranking_query": "open source GitHub repositories for personal trainer apps that connect trainers with clients",
+        "search_query": "personal trainer client app OR fitness trainer management",
+        "sources": [
+          "github"
+        ],
+        "weight": 0.3333333333333333
+      },
+      {
+        "label": "fitness booking platform",
+        "ranking_query": "GitHub projects implementing booking and client management features for personal trainers",
+        "search_query": "fitness app trainer booking OR workout client management",
+        "sources": [
+          "github"
+        ],
+        "weight": 0.3333333333333333
+      },
+      {
+        "label": "mobile fitness app code",
+        "ranking_query": "open source mobile app codebases designed for personal trainers and their clients",
+        "search_query": "trainer client mobile app OR fitness platform flutter OR react native",
+        "sources": [
+          "github"
+        ],
+        "weight": 0.3333333333333333
+      }
+    ]
+  },
+  "range_from": "2026-08-28",
+  "range_to": "2026-09-27",
+  "ranked_candidates": [],
+  "topic": "personal trainers app for clients",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

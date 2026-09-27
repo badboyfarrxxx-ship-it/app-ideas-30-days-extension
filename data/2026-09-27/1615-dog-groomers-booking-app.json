@@ -1,0 +1,74 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "dog groomers booking app",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-27T16:15:38.441959+00:00",
+  "items_by_source": {
+    "github": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [],
+    "raw_topic": "dog groomers booking app",
+    "source_weights": {
+      "github": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "github repos",
+        "ranking_query": "open source GitHub repositories for a dog groomers booking app",
+        "search_query": "dog groomer OR pet grooming booking app OR scheduler",
+        "sources": [
+          "github"
+        ],
+        "weight": 0.3333333333333333
+      },
+      {
+        "label": "scheduling code",
+        "ranking_query": "GitHub projects implementing booking and scheduling for pet groomers",
+        "search_query": "grooming appointment booking system OR calendar",
+        "sources": [
+          "github"
+        ],
+        "weight": 0.3333333333333333
+      },
+      {
+        "label": "pet services tools",
+        "ranking_query": "existing GitHub codebases for dog groomer appointment booking apps",
+        "search_query": "pet grooming OR dog groomer reservation OR booking platform",
+        "sources": [
+          "github"
+        ],
+        "weight": 0.3333333333333333
+      }
+    ]
+  },
+  "range_from": "2026-08-28",
+  "range_to": "2026-09-27",
+  "ranked_candidates": [],
+  "topic": "dog groomers booking app",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}
