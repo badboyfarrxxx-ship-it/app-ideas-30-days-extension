@@ -1,0 +1,744 @@
+{
+  "artifacts": {
+    "grounding": [
+      {
+        "label": "brave",
+        "resultCount": 5,
+        "webSearchQueries": [
+          "therapist \"pay for\" (app OR platform OR software) (notes OR billing OR scheduling)"
+        ]
+      },
+      {
+        "label": "brave",
+        "resultCount": 5,
+        "webSearchQueries": [
+          "therapists \"I would pay\" app OR tool OR software"
+        ]
+      },
+      {
+        "label": "brave",
+        "resultCount": 5,
+        "webSearchQueries": [
+          "therapists (frustrated OR hate) (current app OR software) \"would pay\""
+        ]
+      }
+    ],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "therapists \"I would pay for an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://blaze.today/blog/tools-for-therapists"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://blaze.today/blog/tools-for-therapists"
+      ],
+      "score": 4.88709388971684,
+      "sources": [
+        "grounding"
+      ],
+      "title": "8 Best Tools for Therapists in 2026: Clinical Work and Practice Management",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://uk.trustpilot.com/review/www.betterhelp.com"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://uk.trustpilot.com/review/www.betterhelp.com"
+      ],
+      "score": 4.213900293255132,
+      "sources": [
+        "grounding"
+      ],
+      "title": "BetterHelp Reviews | Read Customer Service Reviews of www.betterhelp.com",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://scienceworkshealth.com/post/therapist-frustrated-with-me"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://scienceworkshealth.com/post/therapist-frustrated-with-me"
+      ],
+      "score": 3.8600298062593144,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Is My Therapist Frustrated With Me? | ScienceWorks",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://play.google.com/store/apps/details?id=com.betterhelp&hl=en_us"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://play.google.com/store/apps/details?id=com.betterhelp&hl=en_us"
+      ],
+      "score": 3.487965367965368,
+      "sources": [
+        "grounding"
+      ],
+      "title": "BetterHelp - Therapy - Apps on Google Play",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://upheal.io/blog/best-therapist-billing-software-for-private-practice"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://upheal.io/blog/best-therapist-billing-software-for-private-practice"
+      ],
+      "score": 3.2823845007451564,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Best therapist billing software for private practice",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://topconsumerreviews.com/best-online-therapy/detailed-reviews.php"
+      ],
+      "cluster_id": "cluster-6",
+      "representative_ids": [
+        "https://topconsumerreviews.com/best-online-therapy/detailed-reviews.php"
+      ],
+      "score": 3.062215909090909,
+      "sources": [
+        "grounding"
+      ],
+      "title": "The 10 Best Online Therapy for 2026 | Free Buyers Guide",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://apps.apple.com/us/app/wysa-mental-wellbeing-ai/id1166585565"
+      ],
+      "cluster_id": "cluster-7",
+      "representative_ids": [
+        "https://apps.apple.com/us/app/wysa-mental-wellbeing-ai/id1166585565"
+      ],
+      "score": 1.6766433566433565,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Wysa: Mental Wellbeing AI - App Store - Apple",
+      "uncertainty": "single-source"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-27T20:16:48.198398+00:00",
+  "items_by_source": {
+    "grounding": [
+      {
+        "body": "8 Best Tools for Therapists in 2026: Clinical Work and Practice Management\nAn attractive dashboard does not turn a generic wellness app into a clinical instrument. First up on our list of the best free tools for therapists is <strong>Text Blaze</strong>, the ultimate productivity and automation tool.",
+        "container": "blaze.today",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 58,
+        "item_id": "WB4",
+        "local_rank_score": 0.2945,
+        "local_relevance": 0.23,
+        "metadata": {},
+        "published_at": "2026-09-15",
+        "relevance_hint": 0.8,
+        "snippet": "An attractive dashboard does not turn a generic wellness app into a clinical instrument. First up on our list of the best free tools for therapists is <strong>Text Blaze</strong>, the ultimate productivity and automation tool.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "8 Best Tools for Therapists in 2026: Clinical Work and Practice Management",
+        "url": "https://blaze.today/blog/tools-for-therapists/",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Is My Therapist Frustrated With Me? | ScienceWorks\nThe broader relationship between you and your therapist is consistently linked to how well therapy goes, across hundreds of studies and many kinds of treatment [2][3]. That is why a strain is worth talking about, not hiding. Our specialized therapy page describes the approaches our clinicians use. Misconception 1: &quot;A good therapist never feels frustrated.&quot; Therapists have their own reactions to clients.",
+        "container": "www.scienceworkshealth.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 86,
+        "item_id": "WB5",
+        "local_rank_score": 0.267,
+        "local_relevance": 0.08,
+        "metadata": {},
+        "published_at": "2026-09-26",
+        "relevance_hint": 0.8,
+        "snippet": "The broader relationship between you and your therapist is consistently linked to how well therapy goes, across hundreds of studies and many kinds of treatment [2][3]. That is why a strain is worth talking about, not hiding. Our specialized therapy page describes the approaches our clinicians use. Misconception 1: &quot;A good therapist never feels frustrated.&quot; Therapists have their own reactions to clients.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Is My Therapist Frustrated With Me? | ScienceWorks",
+        "url": "https://www.scienceworkshealth.com/post/therapist-frustrated-with-me",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "BetterHelp Reviews | Read Customer Service Reviews of www.betterhelp.com\nMany people also find the therapist ... not feel right. <strong>Some reviewers were not happy with unexpected billing charges and completely unclear pricing structures that left them feeling financially frustrated</strong>....",
+        "container": "uk.trustpilot.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 68,
+        "item_id": "WB4",
+        "local_rank_score": 0.22200000000000003,
+        "local_relevance": 0.08,
+        "metadata": {},
+        "published_at": "2026-09-19",
+        "relevance_hint": 0.8,
+        "snippet": "Many people also find the therapist ... not feel right. <strong>Some reviewers were not happy with unexpected billing charges and completely unclear pricing structures that left them feeling financially frustrated</strong>....",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "BetterHelp Reviews | Read Customer Service Reviews of www.betterhelp.com",
+        "url": "https://uk.trustpilot.com/review/www.betterhelp.com",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Best therapist billing software for private practice\n<strong>Upheal is an EHR built for private practice therapists that combines AI-generated clinical notes, scheduling, billing, and practice management in a single platform</strong>. Billing is integrated: you set up insurance panels or self-pay rates, collect ...",
+        "container": "www.upheal.io",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 36,
+        "item_id": "WB2",
+        "local_rank_score": 0.194,
+        "local_relevance": 0.16,
+        "metadata": {},
+        "published_at": "2026-09-07",
+        "relevance_hint": 0.8,
+        "snippet": "<strong>Upheal is an EHR built for private practice therapists that combines AI-generated clinical notes, scheduling, billing, and practice management in a single platform</strong>. Billing is integrated: you set up insurance panels or self-pay rates, collect ...",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Best therapist billing software for private practice",
+        "url": "https://www.upheal.io/blog/best-therapist-billing-software-for-private-practice",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "BetterHelp - Therapy - Apps on Google Play\nIt&#x27;s extremely frustrating and disappointing considering I just spent nearly $300 to use this app. ... Thank you for sharing this with us. Can you please contact our Member Success Team at contact@betterhelp.com and let us know the issue you\u2019ve encountered? We would be glad to help with this. Hope to hear from you soon! ... the platform itself is very user-friendly finding a therapist is also very user-friendly and I enjoyed the time that I have spent on the platform for my own personal growth.",
+        "container": "play.google.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 44,
+        "item_id": "WB1",
+        "local_rank_score": 0.162,
+        "local_relevance": 0.08,
+        "metadata": {},
+        "published_at": "2026-09-10",
+        "relevance_hint": 0.8,
+        "snippet": "It&#x27;s extremely frustrating and disappointing considering I just spent nearly $300 to use this app. ... Thank you for sharing this with us. Can you please contact our Member Success Team at contact@betterhelp.com and let us know the issue you\u2019ve encountered? We would be glad to help with this. Hope to hear from you soon! ... the platform itself is very user-friendly finding a therapist is also very user-friendly and I enjoyed the time that I have spent on the platform for my own personal growth.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "BetterHelp - Therapy - Apps on Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.betterhelp&hl=en_US",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "The 10 Best Online Therapy for 2026 | Free Buyers Guide\nThey particularly appreciated the ... Hand... In contrast, a frustrated one-star reviewer described their experience as disappointing, citing <strong>high costs and poor management</strong>....",
+        "container": "www.topconsumerreviews.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 60,
+        "item_id": "WB2",
+        "local_rank_score": 0.15,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-16",
+        "relevance_hint": 0.8,
+        "snippet": "They particularly appreciated the ... Hand... In contrast, a frustrated one-star reviewer described their experience as disappointing, citing <strong>high costs and poor management</strong>....",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "The 10 Best Online Therapy for 2026 | Free Buyers Guide",
+        "url": "https://www.topconsumerreviews.com/best-online-therapy/detailed-reviews.php",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Wysa: Mental Wellbeing AI - App Store - Apple\nThey went into the app thinking they were going to be talking to a real person, and complain when they find out it\u2019s an AI bot. That is literally what\u2019s advertised...why would they expect otherwise. Others complain about the payment plan, but that\u2019s not Wysa\u2019s fault, it may just be theirs.",
+        "container": "apps.apple.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 14,
+        "item_id": "WB3",
+        "local_rank_score": 0.035,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-08-30",
+        "relevance_hint": 0.8,
+        "snippet": "They went into the app thinking they were going to be talking to a real person, and complain when they find out it\u2019s an AI bot. That is literally what\u2019s advertised...why would they expect otherwise. Others complain about the payment plan, but that\u2019s not Wysa\u2019s fault, it may just be theirs.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Wysa: Mental Wellbeing AI - App Store - Apple",
+        "url": "https://apps.apple.com/us/app/wysa-mental-wellbeing-ai/id1166585565",
+        "why_relevant": "Brave web search"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "market",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [
+      "Focus on direct quotes expressing payment willingness"
+    ],
+    "raw_topic": "therapists \"I would pay for an app\"",
+    "source_weights": {
+      "grounding": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "therapist pay intent",
+        "ranking_query": "Discussions where therapists say they would pay for a specific app or tool",
+        "search_query": "therapists \"I would pay\" app OR tool OR software",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.36363636363636365
+      },
+      {
+        "label": "therapist app wishlist",
+        "ranking_query": "What features or apps do therapists explicitly say they would pay money for",
+        "search_query": "therapist \"pay for\" (app OR platform OR software) (notes OR billing OR scheduling)",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.32727272727272727
+      },
+      {
+        "label": "therapist pain points monetization",
+        "ranking_query": "Therapist complaints about existing tools and willingness to pay for better alternatives",
+        "search_query": "therapists (frustrated OR hate) (current app OR software) \"would pay\"",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.3090909090909091
+      }
+    ]
+  },
+  "range_from": "2026-08-28",
+  "range_to": "2026-09-27",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://blaze.today/blog/tools-for-therapists",
+      "cluster_id": "cluster-1",
+      "explanation": "promotional tool list, no therapist pay statements",
+      "final_score": 4.88709388971684,
+      "freshness": 58,
+      "fun_explanation": "dry product list, zero wit",
+      "fun_score": 8.0,
+      "item_id": "WB4",
+      "local_relevance": 0.23,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB4",
+            "native_rank": 1,
+            "source": "grounding",
+            "subquery_label": "therapist pay intent"
+          }
+        ]
+      },
+      "native_ranks": {
+        "therapist pay intent:grounding": 1
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.005961251862891207,
+      "snippet": "An attractive dashboard does not turn a generic wellness app into a clinical instrument. First up on our list of the best free tools for therapists is <strong>Text Blaze</strong>, the ultimate productivity and automation tool.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "8 Best Tools for Therapists in 2026: Clinical Work and Practice Management\nAn attractive dashboard does not turn a generic wellness app into a clinical instrument. First up on our list of the best free tools for therapists is <strong>Text Blaze</strong>, the ultimate productivity and automation tool.",
+          "container": "blaze.today",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 58,
+          "item_id": "WB4",
+          "local_rank_score": 0.2945,
+          "local_relevance": 0.23,
+          "metadata": {},
+          "published_at": "2026-09-15",
+          "relevance_hint": 0.8,
+          "snippet": "An attractive dashboard does not turn a generic wellness app into a clinical instrument. First up on our list of the best free tools for therapists is <strong>Text Blaze</strong>, the ultimate productivity and automation tool.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "8 Best Tools for Therapists in 2026: Clinical Work and Practice Management",
+          "url": "https://blaze.today/blog/tools-for-therapists/",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "therapist pay intent"
+      ],
+      "title": "8 Best Tools for Therapists in 2026: Clinical Work and Practice Management",
+      "url": "https://blaze.today/blog/tools-for-therapists/"
+    },
+    {
+      "candidate_id": "https://uk.trustpilot.com/review/www.betterhelp.com",
+      "cluster_id": "cluster-2",
+      "explanation": "client billing complaints, not therapists",
+      "final_score": 4.213900293255132,
+      "freshness": 68,
+      "fun_explanation": "billing gripes, no punch",
+      "fun_score": 12.0,
+      "item_id": "WB4",
+      "local_relevance": 0.08,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB4",
+            "native_rank": 2,
+            "source": "grounding",
+            "subquery_label": "therapist pain points monetization"
+          }
+        ]
+      },
+      "native_ranks": {
+        "therapist pain points monetization:grounding": 2
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.004985337243401759,
+      "snippet": "Many people also find the therapist ... not feel right. <strong>Some reviewers were not happy with unexpected billing charges and completely unclear pricing structures that left them feeling financially frustrated</strong>....",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "BetterHelp Reviews | Read Customer Service Reviews of www.betterhelp.com\nMany people also find the therapist ... not feel right. <strong>Some reviewers were not happy with unexpected billing charges and completely unclear pricing structures that left them feeling financially frustrated</strong>....",
+          "container": "uk.trustpilot.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 68,
+          "item_id": "WB4",
+          "local_rank_score": 0.22200000000000003,
+          "local_relevance": 0.08,
+          "metadata": {},
+          "published_at": "2026-09-19",
+          "relevance_hint": 0.8,
+          "snippet": "Many people also find the therapist ... not feel right. <strong>Some reviewers were not happy with unexpected billing charges and completely unclear pricing structures that left them feeling financially frustrated</strong>....",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "BetterHelp Reviews | Read Customer Service Reviews of www.betterhelp.com",
+          "url": "https://uk.trustpilot.com/review/www.betterhelp.com",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "therapist pain points monetization"
+      ],
+      "title": "BetterHelp Reviews | Read Customer Service Reviews of www.betterhelp.com",
+      "url": "https://uk.trustpilot.com/review/www.betterhelp.com"
+    },
+    {
+      "candidate_id": "https://scienceworkshealth.com/post/therapist-frustrated-with-me",
+      "cluster_id": "cluster-3",
+      "explanation": "client-therapist dynamics, unrelated to app payments",
+      "final_score": 3.8600298062593144,
+      "freshness": 86,
+      "fun_explanation": "clinical advice, flat",
+      "fun_score": 5.0,
+      "item_id": "WB5",
+      "local_relevance": 0.08,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB5",
+            "native_rank": 1,
+            "source": "grounding",
+            "subquery_label": "therapist pain points monetization"
+          }
+        ]
+      },
+      "native_ranks": {
+        "therapist pain points monetization:grounding": 1
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.005067064083457526,
+      "snippet": "The broader relationship between you and your therapist is consistently linked to how well therapy goes, across hundreds of studies and many kinds of treatment [2][3]. That is why a strain is worth talking about, not hiding. Our specialized therapy page describes the approaches our clinicians use. Misconception 1: &quot;A good therapist never feels frustrated.&quot; Therapists have their own reactions to clients.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Is My Therapist Frustrated With Me? | ScienceWorks\nThe broader relationship between you and your therapist is consistently linked to how well therapy goes, across hundreds of studies and many kinds of treatment [2][3]. That is why a strain is worth talking about, not hiding. Our specialized therapy page describes the approaches our clinicians use. Misconception 1: &quot;A good therapist never feels frustrated.&quot; Therapists have their own reactions to clients.",
+          "container": "www.scienceworkshealth.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 86,
+          "item_id": "WB5",
+          "local_rank_score": 0.267,
+          "local_relevance": 0.08,
+          "metadata": {},
+          "published_at": "2026-09-26",
+          "relevance_hint": 0.8,
+          "snippet": "The broader relationship between you and your therapist is consistently linked to how well therapy goes, across hundreds of studies and many kinds of treatment [2][3]. That is why a strain is worth talking about, not hiding. Our specialized therapy page describes the approaches our clinicians use. Misconception 1: &quot;A good therapist never feels frustrated.&quot; Therapists have their own reactions to clients.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Is My Therapist Frustrated With Me? | ScienceWorks",
+          "url": "https://www.scienceworkshealth.com/post/therapist-frustrated-with-me",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "therapist pain points monetization"
+      ],
+      "title": "Is My Therapist Frustrated With Me? | ScienceWorks",
+      "url": "https://www.scienceworkshealth.com/post/therapist-frustrated-with-me"
+    },
+    {
+      "candidate_id": "https://play.google.com/store/apps/details?id=com.betterhelp&hl=en_us",
+      "cluster_id": "cluster-4",
+      "explanation": "client app reviews, no therapist pay intent",
+      "final_score": 3.487965367965368,
+      "freshness": 44,
+      "fun_explanation": "user rants, slight edge",
+      "fun_score": 15.0,
+      "item_id": "WB1",
+      "local_relevance": 0.08,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB1",
+            "native_rank": 3,
+            "source": "grounding",
+            "subquery_label": "therapist pain points monetization"
+          }
+        ]
+      },
+      "native_ranks": {
+        "therapist pain points monetization:grounding": 3
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.004906204906204906,
+      "snippet": "It&#x27;s extremely frustrating and disappointing considering I just spent nearly $300 to use this app. ... Thank you for sharing this with us. Can you please contact our Member Success Team at contact@betterhelp.com and let us know the issue you\u2019ve encountered? We would be glad to help with this. Hope to hear from you soon! ... the platform itself is very user-friendly finding a therapist is also very user-friendly and I enjoyed the time that I have spent on the platform for my own personal growth.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "BetterHelp - Therapy - Apps on Google Play\nIt&#x27;s extremely frustrating and disappointing considering I just spent nearly $300 to use this app. ... Thank you for sharing this with us. Can you please contact our Member Success Team at contact@betterhelp.com and let us know the issue you\u2019ve encountered? We would be glad to help with this. Hope to hear from you soon! ... the platform itself is very user-friendly finding a therapist is also very user-friendly and I enjoyed the time that I have spent on the platform for my own personal growth.",
+          "container": "play.google.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 44,
+          "item_id": "WB1",
+          "local_rank_score": 0.162,
+          "local_relevance": 0.08,
+          "metadata": {},
+          "published_at": "2026-09-10",
+          "relevance_hint": 0.8,
+          "snippet": "It&#x27;s extremely frustrating and disappointing considering I just spent nearly $300 to use this app. ... Thank you for sharing this with us. Can you please contact our Member Success Team at contact@betterhelp.com and let us know the issue you\u2019ve encountered? We would be glad to help with this. Hope to hear from you soon! ... the platform itself is very user-friendly finding a therapist is also very user-friendly and I enjoyed the time that I have spent on the platform for my own personal growth.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "BetterHelp - Therapy - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.betterhelp&hl=en_US",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "therapist pain points monetization"
+      ],
+      "title": "BetterHelp - Therapy - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.betterhelp&hl=en_US"
+    },
+    {
+      "candidate_id": "https://upheal.io/blog/best-therapist-billing-software-for-private-practice",
+      "cluster_id": "cluster-5",
+      "explanation": "vendor pitch, no therapist opinions on paying",
+      "final_score": 3.2823845007451564,
+      "freshness": 36,
+      "fun_explanation": "sales pitch, lifeless",
+      "fun_score": 6.0,
+      "item_id": "WB2",
+      "local_relevance": 0.16,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB2",
+            "native_rank": 1,
+            "source": "grounding",
+            "subquery_label": "therapist app wishlist"
+          }
+        ]
+      },
+      "native_ranks": {
+        "therapist app wishlist:grounding": 1
+      },
+      "rerank_score": 5.0,
+      "rrf_score": 0.005365126676602086,
+      "snippet": "<strong>Upheal is an EHR built for private practice therapists that combines AI-generated clinical notes, scheduling, billing, and practice management in a single platform</strong>. Billing is integrated: you set up insurance panels or self-pay rates, collect ...",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Best therapist billing software for private practice\n<strong>Upheal is an EHR built for private practice therapists that combines AI-generated clinical notes, scheduling, billing, and practice management in a single platform</strong>. Billing is integrated: you set up insurance panels or self-pay rates, collect ...",
+          "container": "www.upheal.io",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 36,
+          "item_id": "WB2",
+          "local_rank_score": 0.194,
+          "local_relevance": 0.16,
+          "metadata": {},
+          "published_at": "2026-09-07",
+          "relevance_hint": 0.8,
+          "snippet": "<strong>Upheal is an EHR built for private practice therapists that combines AI-generated clinical notes, scheduling, billing, and practice management in a single platform</strong>. Billing is integrated: you set up insurance panels or self-pay rates, collect ...",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Best therapist billing software for private practice",
+          "url": "https://www.upheal.io/blog/best-therapist-billing-software-for-private-practice",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "therapist app wishlist"
+      ],
+      "title": "Best therapist billing software for private practice",
+      "url": "https://www.upheal.io/blog/best-therapist-billing-software-for-private-practice"
+    },
+    {
+      "candidate_id": "https://topconsumerreviews.com/best-online-therapy/detailed-reviews.php",
+      "cluster_id": "cluster-6",
+      "explanation": "client-focused therapy reviews, off-topic",
+      "final_score": 3.062215909090909,
+      "freshness": 60,
+      "fun_explanation": "review roundup, bland",
+      "fun_score": 10.0,
+      "item_id": "WB2",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB2",
+            "native_rank": 4,
+            "source": "grounding",
+            "subquery_label": "therapist pain points monetization"
+          }
+        ]
+      },
+      "native_ranks": {
+        "therapist pain points monetization:grounding": 4
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.004829545454545454,
+      "snippet": "They particularly appreciated the ... Hand... In contrast, a frustrated one-star reviewer described their experience as disappointing, citing <strong>high costs and poor management</strong>....",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "The 10 Best Online Therapy for 2026 | Free Buyers Guide\nThey particularly appreciated the ... Hand... In contrast, a frustrated one-star reviewer described their experience as disappointing, citing <strong>high costs and poor management</strong>....",
+          "container": "www.topconsumerreviews.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 60,
+          "item_id": "WB2",
+          "local_rank_score": 0.15,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-16",
+          "relevance_hint": 0.8,
+          "snippet": "They particularly appreciated the ... Hand... In contrast, a frustrated one-star reviewer described their experience as disappointing, citing <strong>high costs and poor management</strong>....",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "The 10 Best Online Therapy for 2026 | Free Buyers Guide",
+          "url": "https://www.topconsumerreviews.com/best-online-therapy/detailed-reviews.php",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "therapist pain points monetization"
+      ],
+      "title": "The 10 Best Online Therapy for 2026 | Free Buyers Guide",
+      "url": "https://www.topconsumerreviews.com/best-online-therapy/detailed-reviews.php"
+    },
+    {
+      "candidate_id": "https://apps.apple.com/us/app/wysa-mental-wellbeing-ai/id1166585565",
+      "cluster_id": "cluster-7",
+      "explanation": "AI app user reviews, no therapists or pay discussions",
+      "final_score": 1.6766433566433565,
+      "freshness": 14,
+      "fun_explanation": "AI complaints, minor spark",
+      "fun_score": 14.0,
+      "item_id": "WB3",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB3",
+            "native_rank": 5,
+            "source": "grounding",
+            "subquery_label": "therapist pain points monetization"
+          }
+        ]
+      },
+      "native_ranks": {
+        "therapist pain points monetization:grounding": 5
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.004755244755244755,
+      "snippet": "They went into the app thinking they were going to be talking to a real person, and complain when they find out it\u2019s an AI bot. That is literally what\u2019s advertised...why would they expect otherwise. Others complain about the payment plan, but that\u2019s not Wysa\u2019s fault, it may just be theirs.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Wysa: Mental Wellbeing AI - App Store - Apple\nThey went into the app thinking they were going to be talking to a real person, and complain when they find out it\u2019s an AI bot. That is literally what\u2019s advertised...why would they expect otherwise. Others complain about the payment plan, but that\u2019s not Wysa\u2019s fault, it may just be theirs.",
+          "container": "apps.apple.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 14,
+          "item_id": "WB3",
+          "local_rank_score": 0.035,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-08-30",
+          "relevance_hint": 0.8,
+          "snippet": "They went into the app thinking they were going to be talking to a real person, and complain when they find out it\u2019s an AI bot. That is literally what\u2019s advertised...why would they expect otherwise. Others complain about the payment plan, but that\u2019s not Wysa\u2019s fault, it may just be theirs.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Wysa: Mental Wellbeing AI - App Store - Apple",
+          "url": "https://apps.apple.com/us/app/wysa-mental-wellbeing-ai/id1166585565",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "therapist pain points monetization"
+      ],
+      "title": "Wysa: Mental Wellbeing AI - App Store - Apple",
+      "url": "https://apps.apple.com/us/app/wysa-mental-wellbeing-ai/id1166585565"
+    }
+  ],
+  "topic": "therapists \"I would pay for an app\"",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}

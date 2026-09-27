@@ -1,0 +1,580 @@
+{
+  "artifacts": {
+    "grounding": [
+      {
+        "label": "brave",
+        "resultCount": 5,
+        "webSearchQueries": [
+          "trucker GPS app OR ELD app"
+        ]
+      },
+      {
+        "label": "brave",
+        "resultCount": 5,
+        "webSearchQueries": [
+          "truckers app OR apps for truck drivers"
+        ]
+      },
+      {
+        "label": "brave",
+        "resultCount": 5,
+        "webSearchQueries": [
+          "truckers load board app"
+        ]
+      }
+    ],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "truckers \"is there an app that\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://fleetopsclub.com/blog/best-apps-for-truck-drivers"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://fleetopsclub.com/blog/best-apps-for-truck-drivers"
+      ],
+      "score": 55.78819374744433,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Best Apps for Truck Drivers: Navigation, HOS, Load Boards"
+    },
+    {
+      "candidate_ids": [
+        "https://freightwaves.com/checkpoint/best-load-boards"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://freightwaves.com/checkpoint/best-load-boards"
+      ],
+      "score": 52.94009216589862,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Best Load Boards for Truckers (2026 Guide) - Freightwaves Checkpoint"
+    },
+    {
+      "candidate_ids": [
+        "https://play.google.com/store/apps/details?id=com.sixdays.truckerpath&hl=en_us"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://play.google.com/store/apps/details?id=com.sixdays.truckerpath&hl=en_us"
+      ],
+      "score": 40.86370023419204,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Trucker Path: Truck GPS & Fuel - Apps on Google Play"
+    },
+    {
+      "candidate_ids": [
+        "https://apps.apple.com/us/app/dat-one-truck-load-board/id1516702470"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://apps.apple.com/us/app/dat-one-truck-load-board/id1516702470"
+      ],
+      "score": 35.26370023419204,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Dat One: Truck Load Board App - App Store"
+    },
+    {
+      "candidate_ids": [
+        "https://play.google.com/store/apps/details?id=com.truckerguide.droid&hl=en_us"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://play.google.com/store/apps/details?id=com.truckerguide.droid&hl=en_us"
+      ],
+      "score": 31.340092165898618,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Trucker Guide: Truck Stops - Apps on Google Play"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-27T20:15:59.848803+00:00",
+  "items_by_source": {
+    "grounding": [
+      {
+        "body": "Dat One: Truck Load Board App - App Store\n<strong>DAT One</strong> is the #1 load board for truckers and carriers. Find truck loads, check freight rates, and book loads faster with the largest freight marketplace in North America. Spend less time searching and more time hauling with <strong>DAT One</strong>, the load ...",
+        "container": "apps.apple.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 20,
+        "item_id": "WB2",
+        "local_rank_score": 0.41400000000000003,
+        "local_relevance": 0.56,
+        "metadata": {},
+        "published_at": "2026-09-01",
+        "relevance_hint": 0.8,
+        "snippet": "<strong>DAT One</strong> is the #1 load board for truckers and carriers. Find truck loads, check freight rates, and book loads faster with the largest freight marketplace in North America. Spend less time searching and more time hauling with <strong>DAT One</strong>, the load ...",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Dat One: Truck Load Board App - App Store",
+        "url": "https://apps.apple.com/us/app/dat-one-truck-load-board/id1516702470",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Best Load Boards for Truckers (2026 Guide) - Freightwaves Checkpoint\n<strong>DAT One</strong> earns its spot as the best overall load board because they combine unmatched freight volume with tools that support everyday decision-making. Instead of just listing loads, they help truckers evaluate rates, vet brokers, and plan routes ...",
+        "container": "www.freightwaves.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 17,
+        "item_id": "WB3",
+        "local_rank_score": 0.40650000000000003,
+        "local_relevance": 0.56,
+        "metadata": {},
+        "published_at": "2026-08-31",
+        "relevance_hint": 0.8,
+        "snippet": "<strong>DAT One</strong> earns its spot as the best overall load board because they combine unmatched freight volume with tools that support everyday decision-making. Instead of just listing loads, they help truckers evaluate rates, vet brokers, and plan routes ...",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Best Load Boards for Truckers (2026 Guide) - Freightwaves Checkpoint",
+        "url": "https://www.freightwaves.com/checkpoint/best-load-boards/",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Trucker Path: Truck GPS & Fuel - Apps on Google Play\nAll your trucker tools (trucker map) in one free app. Join the largest community in America for truckers and keeptruckin with <strong>Trucker Path</strong> as your copilot over the road. Like CB radio, but bigger and better!",
+        "container": "play.google.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 34,
+        "item_id": "WB1",
+        "local_rank_score": 0.22800000000000004,
+        "local_relevance": 0.22,
+        "metadata": {},
+        "published_at": "2026-09-06",
+        "relevance_hint": 0.8,
+        "snippet": "All your trucker tools (trucker map) in one free app. Join the largest community in America for truckers and keeptruckin with <strong>Trucker Path</strong> as your copilot over the road. Like CB radio, but bigger and better!",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Trucker Path: Truck GPS & Fuel - Apps on Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.sixdays.truckerpath&hl=en_US",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Best Apps for Truck Drivers: Navigation, HOS, Load Boards\nTalk to working truck drivers and the same names come up repeatedly: Trucker Path for navigation and truck stop planning, DAT One or Truckstop.com for finding loads, GasBuddy or the Pilot Flying J app for fuel prices, and PrePass or Drivewyze for weigh station bypass. HOS and ELD apps vary because many company drivers use whatever system their carrier has installed, while owner-operators choose their own.",
+        "container": "fleetopsclub.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 10,
+        "item_id": "WB5",
+        "local_rank_score": 0.1875,
+        "local_relevance": 0.25,
+        "metadata": {},
+        "published_at": "2026-08-28",
+        "relevance_hint": 0.8,
+        "snippet": "Talk to working truck drivers and the same names come up repeatedly: Trucker Path for navigation and truck stop planning, DAT One or Truckstop.com for finding loads, GasBuddy or the Pilot Flying J app for fuel prices, and PrePass or Drivewyze for weigh station bypass. HOS and ELD apps vary because many company drivers use whatever system their carrier has installed, while owner-operators choose their own.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Best Apps for Truck Drivers: Navigation, HOS, Load Boards",
+        "url": "https://fleetopsclub.com/blog/best-apps-for-truck-drivers",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Trucker Guide: Truck Stops - Apps on Google Play\nFind truck stops, truck parking, fuel stations, and essential driver services wherever the road takes you. <strong>Trucker Guide</strong> is a truck GPS app built for professional drivers, helping truckers find reliable stops, plan trips, and access ...",
+        "container": "play.google.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 17,
+        "item_id": "WB3",
+        "local_rank_score": 0.18550000000000003,
+        "local_relevance": 0.22,
+        "metadata": {},
+        "published_at": "2026-08-31",
+        "relevance_hint": 0.8,
+        "snippet": "Find truck stops, truck parking, fuel stations, and essential driver services wherever the road takes you. <strong>Trucker Guide</strong> is a truck GPS app built for professional drivers, helping truckers find reliable stops, plan trips, and access ...",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Trucker Guide: Truck Stops - Apps on Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.truckerguide.droid&hl=en_US",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Best Apps for Truck Drivers: Navigation, HOS, Load Boards\nTalk to working truck drivers and ... <strong>Trucker Path for navigation and truck stop planning, DAT One or Truckstop.com for finding loads, GasBuddy or the Pilot Flying J app for fuel prices, and PrePass or Drivewyze for weigh station bypass</strong>...",
+        "container": "fleetopsclub.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 10,
+        "item_id": "WB5",
+        "local_rank_score": 0.168,
+        "local_relevance": 0.22,
+        "metadata": {},
+        "published_at": "2026-08-28",
+        "relevance_hint": 0.8,
+        "snippet": "Talk to working truck drivers and ... <strong>Trucker Path for navigation and truck stop planning, DAT One or Truckstop.com for finding loads, GasBuddy or the Pilot Flying J app for fuel prices, and PrePass or Drivewyze for weigh station bypass</strong>...",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Best Apps for Truck Drivers: Navigation, HOS, Load Boards",
+        "url": "https://fleetopsclub.com/blog/best-apps-for-truck-drivers",
+        "why_relevant": "Brave web search"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [],
+    "raw_topic": "truckers \"is there an app that\"",
+    "source_weights": {
+      "grounding": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "trucker apps existence",
+        "ranking_query": "Is there an app that truckers use for daily work or loads?",
+        "search_query": "truckers app OR apps for truck drivers",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.35714285714285715
+      },
+      {
+        "label": "load finding apps",
+        "ranking_query": "What apps help truckers find loads or freight?",
+        "search_query": "truckers load board app",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.35714285714285715
+      },
+      {
+        "label": "navigation and compliance",
+        "ranking_query": "Are there apps that provide trucker-specific navigation or hours of service tracking?",
+        "search_query": "trucker GPS app OR ELD app",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.28571428571428575
+      }
+    ]
+  },
+  "range_from": "2026-08-28",
+  "range_to": "2026-09-27",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://fleetopsclub.com/blog/best-apps-for-truck-drivers",
+      "cluster_id": "cluster-1",
+      "explanation": "hands-on list of apps drawn from driver interviews; matches trucker apps and navigation/compliance queries",
+      "final_score": 55.78819374744433,
+      "freshness": 10,
+      "fun_explanation": "dry list of app names",
+      "fun_score": 12.0,
+      "item_id": "WB5",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB5",
+            "native_rank": 1,
+            "source": "grounding",
+            "subquery_label": "navigation and compliance"
+          },
+          {
+            "item_id": "WB5",
+            "native_rank": 3,
+            "source": "grounding",
+            "subquery_label": "trucker apps existence"
+          }
+        ]
+      },
+      "native_ranks": {
+        "navigation and compliance:grounding": 1,
+        "trucker apps existence:grounding": 3
+      },
+      "rerank_score": 82.0,
+      "rrf_score": 0.010352774989777332,
+      "snippet": "Talk to working truck drivers and the same names come up repeatedly: Trucker Path for navigation and truck stop planning, DAT One or Truckstop.com for finding loads, GasBuddy or the Pilot Flying J app for fuel prices, and PrePass or Drivewyze for weigh station bypass. HOS and ELD apps vary because many company drivers use whatever system their carrier has installed, while owner-operators choose their own.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Best Apps for Truck Drivers: Navigation, HOS, Load Boards\nTalk to working truck drivers and the same names come up repeatedly: Trucker Path for navigation and truck stop planning, DAT One or Truckstop.com for finding loads, GasBuddy or the Pilot Flying J app for fuel prices, and PrePass or Drivewyze for weigh station bypass. HOS and ELD apps vary because many company drivers use whatever system their carrier has installed, while owner-operators choose their own.",
+          "container": "fleetopsclub.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 10,
+          "item_id": "WB5",
+          "local_rank_score": 0.1875,
+          "local_relevance": 0.25,
+          "metadata": {},
+          "published_at": "2026-08-28",
+          "relevance_hint": 0.8,
+          "snippet": "Talk to working truck drivers and the same names come up repeatedly: Trucker Path for navigation and truck stop planning, DAT One or Truckstop.com for finding loads, GasBuddy or the Pilot Flying J app for fuel prices, and PrePass or Drivewyze for weigh station bypass. HOS and ELD apps vary because many company drivers use whatever system their carrier has installed, while owner-operators choose their own.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Best Apps for Truck Drivers: Navigation, HOS, Load Boards",
+          "url": "https://fleetopsclub.com/blog/best-apps-for-truck-drivers",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "navigation and compliance",
+        "trucker apps existence"
+      ],
+      "title": "Best Apps for Truck Drivers: Navigation, HOS, Load Boards",
+      "url": "https://fleetopsclub.com/blog/best-apps-for-truck-drivers"
+    },
+    {
+      "candidate_id": "https://freightwaves.com/checkpoint/best-load-boards",
+      "cluster_id": "cluster-2",
+      "explanation": "2026 guide with decision-making details on load boards; clearly relevant to product intent",
+      "final_score": 52.94009216589862,
+      "freshness": 17,
+      "fun_explanation": "straightforward guide, no wit",
+      "fun_score": 8.0,
+      "item_id": "WB3",
+      "local_relevance": 0.56,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB3",
+            "native_rank": 2,
+            "source": "grounding",
+            "subquery_label": "load finding apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "load finding apps:grounding": 2
+      },
+      "rerank_score": 78.0,
+      "rrf_score": 0.00576036866359447,
+      "snippet": "<strong>DAT One</strong> earns its spot as the best overall load board because they combine unmatched freight volume with tools that support everyday decision-making. Instead of just listing loads, they help truckers evaluate rates, vet brokers, and plan routes ...",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Best Load Boards for Truckers (2026 Guide) - Freightwaves Checkpoint\n<strong>DAT One</strong> earns its spot as the best overall load board because they combine unmatched freight volume with tools that support everyday decision-making. Instead of just listing loads, they help truckers evaluate rates, vet brokers, and plan routes ...",
+          "container": "www.freightwaves.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 17,
+          "item_id": "WB3",
+          "local_rank_score": 0.40650000000000003,
+          "local_relevance": 0.56,
+          "metadata": {},
+          "published_at": "2026-08-31",
+          "relevance_hint": 0.8,
+          "snippet": "<strong>DAT One</strong> earns its spot as the best overall load board because they combine unmatched freight volume with tools that support everyday decision-making. Instead of just listing loads, they help truckers evaluate rates, vet brokers, and plan routes ...",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Best Load Boards for Truckers (2026 Guide) - Freightwaves Checkpoint",
+          "url": "https://www.freightwaves.com/checkpoint/best-load-boards/",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "load finding apps"
+      ],
+      "title": "Best Load Boards for Truckers (2026 Guide) - Freightwaves Checkpoint",
+      "url": "https://www.freightwaves.com/checkpoint/best-load-boards/"
+    },
+    {
+      "candidate_id": "https://play.google.com/store/apps/details?id=com.sixdays.truckerpath&hl=en_us",
+      "cluster_id": "cluster-3",
+      "explanation": "app-store promotional page; directly answers trucker apps existence but low on review substance",
+      "final_score": 40.86370023419204,
+      "freshness": 34,
+      "fun_explanation": "CB radio line adds slight personality",
+      "fun_score": 28.0,
+      "item_id": "WB1",
+      "local_relevance": 0.22,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB1",
+            "native_rank": 1,
+            "source": "grounding",
+            "subquery_label": "trucker apps existence"
+          }
+        ]
+      },
+      "native_ranks": {
+        "trucker apps existence:grounding": 1
+      },
+      "rerank_score": 55.0,
+      "rrf_score": 0.00585480093676815,
+      "snippet": "All your trucker tools (trucker map) in one free app. Join the largest community in America for truckers and keeptruckin with <strong>Trucker Path</strong> as your copilot over the road. Like CB radio, but bigger and better!",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Trucker Path: Truck GPS & Fuel - Apps on Google Play\nAll your trucker tools (trucker map) in one free app. Join the largest community in America for truckers and keeptruckin with <strong>Trucker Path</strong> as your copilot over the road. Like CB radio, but bigger and better!",
+          "container": "play.google.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 34,
+          "item_id": "WB1",
+          "local_rank_score": 0.22800000000000004,
+          "local_relevance": 0.22,
+          "metadata": {},
+          "published_at": "2026-09-06",
+          "relevance_hint": 0.8,
+          "snippet": "All your trucker tools (trucker map) in one free app. Join the largest community in America for truckers and keeptruckin with <strong>Trucker Path</strong> as your copilot over the road. Like CB radio, but bigger and better!",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Trucker Path: Truck GPS & Fuel - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.sixdays.truckerpath&hl=en_US",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "trucker apps existence"
+      ],
+      "title": "Trucker Path: Truck GPS & Fuel - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.sixdays.truckerpath&hl=en_US"
+    },
+    {
+      "candidate_id": "https://apps.apple.com/us/app/dat-one-truck-load-board/id1516702470",
+      "cluster_id": "cluster-4",
+      "explanation": "pure app-store marketing page for load-finding; limited user-experience depth",
+      "final_score": 35.26370023419204,
+      "freshness": 20,
+      "fun_explanation": "pure marketing copy",
+      "fun_score": 7.0,
+      "item_id": "WB2",
+      "local_relevance": 0.56,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB2",
+            "native_rank": 1,
+            "source": "grounding",
+            "subquery_label": "load finding apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "load finding apps:grounding": 1
+      },
+      "rerank_score": 48.0,
+      "rrf_score": 0.00585480093676815,
+      "snippet": "<strong>DAT One</strong> is the #1 load board for truckers and carriers. Find truck loads, check freight rates, and book loads faster with the largest freight marketplace in North America. Spend less time searching and more time hauling with <strong>DAT One</strong>, the load ...",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Dat One: Truck Load Board App - App Store\n<strong>DAT One</strong> is the #1 load board for truckers and carriers. Find truck loads, check freight rates, and book loads faster with the largest freight marketplace in North America. Spend less time searching and more time hauling with <strong>DAT One</strong>, the load ...",
+          "container": "apps.apple.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 20,
+          "item_id": "WB2",
+          "local_rank_score": 0.41400000000000003,
+          "local_relevance": 0.56,
+          "metadata": {},
+          "published_at": "2026-09-01",
+          "relevance_hint": 0.8,
+          "snippet": "<strong>DAT One</strong> is the #1 load board for truckers and carriers. Find truck loads, check freight rates, and book loads faster with the largest freight marketplace in North America. Spend less time searching and more time hauling with <strong>DAT One</strong>, the load ...",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Dat One: Truck Load Board App - App Store",
+          "url": "https://apps.apple.com/us/app/dat-one-truck-load-board/id1516702470",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "load finding apps"
+      ],
+      "title": "Dat One: Truck Load Board App - App Store",
+      "url": "https://apps.apple.com/us/app/dat-one-truck-load-board/id1516702470"
+    },
+    {
+      "candidate_id": "https://play.google.com/store/apps/details?id=com.truckerguide.droid&hl=en_us",
+      "cluster_id": "cluster-5",
+      "explanation": "app-store marketing copy for truck stops; weakest on hands-on reporting",
+      "final_score": 31.340092165898618,
+      "freshness": 17,
+      "fun_explanation": "standard app description",
+      "fun_score": 9.0,
+      "item_id": "WB3",
+      "local_relevance": 0.22,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB3",
+            "native_rank": 2,
+            "source": "grounding",
+            "subquery_label": "trucker apps existence"
+          }
+        ]
+      },
+      "native_ranks": {
+        "trucker apps existence:grounding": 2
+      },
+      "rerank_score": 42.0,
+      "rrf_score": 0.00576036866359447,
+      "snippet": "Find truck stops, truck parking, fuel stations, and essential driver services wherever the road takes you. <strong>Trucker Guide</strong> is a truck GPS app built for professional drivers, helping truckers find reliable stops, plan trips, and access ...",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Trucker Guide: Truck Stops - Apps on Google Play\nFind truck stops, truck parking, fuel stations, and essential driver services wherever the road takes you. <strong>Trucker Guide</strong> is a truck GPS app built for professional drivers, helping truckers find reliable stops, plan trips, and access ...",
+          "container": "play.google.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 17,
+          "item_id": "WB3",
+          "local_rank_score": 0.18550000000000003,
+          "local_relevance": 0.22,
+          "metadata": {},
+          "published_at": "2026-08-31",
+          "relevance_hint": 0.8,
+          "snippet": "Find truck stops, truck parking, fuel stations, and essential driver services wherever the road takes you. <strong>Trucker Guide</strong> is a truck GPS app built for professional drivers, helping truckers find reliable stops, plan trips, and access ...",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Trucker Guide: Truck Stops - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.truckerguide.droid&hl=en_US",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "trucker apps existence"
+      ],
+      "title": "Trucker Guide: Truck Stops - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.truckerguide.droid&hl=en_US"
+    }
+  ],
+  "topic": "truckers \"is there an app that\"",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}

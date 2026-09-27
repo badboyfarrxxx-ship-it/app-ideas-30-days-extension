@@ -1,0 +1,1705 @@
+{
+  "artifacts": {
+    "grounding": [
+      {
+        "label": "brave",
+        "resultCount": 5,
+        "webSearchQueries": [
+          "realtor app review OR experience real estate apps"
+        ]
+      },
+      {
+        "label": "brave",
+        "resultCount": 5,
+        "webSearchQueries": [
+          "realtor best apps OR real estate agent tools app"
+        ]
+      },
+      {
+        "label": "brave",
+        "resultCount": 5,
+        "webSearchQueries": [
+          "realtor app vs Zillow OR MLS tools"
+        ]
+      },
+      {
+        "label": "brave",
+        "resultCount": 5,
+        "webSearchQueries": [
+          "realtor productivity apps OR listing management app"
+        ]
+      }
+    ],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "realtors \"any good app for\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://listwithclever.com/real-estate-blog/top-10-sites-that-compete-with-zillow"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://listwithclever.com/real-estate-blog/top-10-sites-that-compete-with-zillow"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "10 Best Zillow Competitors to Find Your Next Home (2026)",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://play.google.com/store/apps/details?id=com.move.realtor&hl=en_us"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://play.google.com/store/apps/details?id=com.move.realtor&hl=en_us"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Realtor.com Real Estate & Rent - Apps on Google Play",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://play.google.com/store/apps/details?id=com.zillow.android.zillowmap&hl=en_us"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://play.google.com/store/apps/details?id=com.zillow.android.zillowmap&hl=en_us"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Zillow: Homes for Sale & Rent - Apps on Google Play",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://theclose.com/real-estate-software"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://theclose.com/real-estate-software"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "15 Best Real Estate Software for Agents in 2026 (+ Pricing)",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://play.google.com/store/apps/details?id=com.move.realtor"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://play.google.com/store/apps/details?id=com.move.realtor"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Realtor.com Real Estate & Rent - Apps on Google Play",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://prnewswire.com/news-releases/zillow-preview-listings-are-now-live-on-realtorcom-offering-the-same-early-access-on-the-two-most-visited-real-estate-platforms-in-the-country-302881543.html"
+      ],
+      "cluster_id": "cluster-6",
+      "representative_ids": [
+        "https://prnewswire.com/news-releases/zillow-preview-listings-are-now-live-on-realtorcom-offering-the-same-early-access-on-the-two-most-visited-real-estate-platforms-in-the-country-302881543.html"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Zillow Preview\u2120 listings are now live on Realtor.com\u00ae, offering the same early access on the two most-visited real estate platforms in the country",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://housingwire.com/articles/ai-tools-real-estate"
+      ],
+      "cluster_id": "cluster-7",
+      "representative_ids": [
+        "https://housingwire.com/articles/ai-tools-real-estate"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "16 Indispensable AI Tools for Real Estate Agents",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://theclose.com/aceable-agent-review"
+      ],
+      "cluster_id": "cluster-8",
+      "representative_ids": [
+        "https://theclose.com/aceable-agent-review"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "AceableAgent Review 2026: Pricing, Features, Pros & Cons",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://businessofapps.com/app-developers/real-estate"
+      ],
+      "cluster_id": "cluster-9",
+      "representative_ids": [
+        "https://businessofapps.com/app-developers/real-estate"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Real Estate App Development (2026) - Business of Apps",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://fastexpert.com/blog/best-accurate-home-value-estimators"
+      ],
+      "cluster_id": "cluster-10",
+      "representative_ids": [
+        "https://fastexpert.com/blog/best-accurate-home-value-estimators"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "What Is My Home Worth? 6 Most Accurate Home Value Estimators",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://capterra.com/real-estate-property-management-software"
+      ],
+      "cluster_id": "cluster-11",
+      "representative_ids": [
+        "https://capterra.com/real-estate-property-management-software"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Best Real Estate Property Management Software 2026 | Capterra",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://apps.apple.com/us/app/trulia-real-estate-rentals/id288487321"
+      ],
+      "cluster_id": "cluster-12",
+      "representative_ids": [
+        "https://apps.apple.com/us/app/trulia-real-estate-rentals/id288487321"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Trulia Real Estate & Rentals - App Store - Apple",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://prestigeprimerosehills.ind.in/who-is-the-biggest-competitor-of-zillow-a-market-analysis"
+      ],
+      "cluster_id": "cluster-13",
+      "representative_ids": [
+        "https://prestigeprimerosehills.ind.in/who-is-the-biggest-competitor-of-zillow-a-market-analysis"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Who is the Biggest Competitor of Zillow? A Market Analysis",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://housecanary.com/blog/5-ai-tools-for-real-estate-agents"
+      ],
+      "cluster_id": "cluster-14",
+      "representative_ids": [
+        "https://housecanary.com/blog/5-ai-tools-for-real-estate-agents"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "18 Best AI Tools for Real Estate Agents (2026)",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://altgage.com/blog/real-estate-listing-platforms-to-find-your-dream-home"
+      ],
+      "cluster_id": "cluster-15",
+      "representative_ids": [
+        "https://altgage.com/blog/real-estate-listing-platforms-to-find-your-dream-home"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Best Real Estate Listing Platforms (2026): Zillow Preview, AI Search & More - Altgage",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://trustpilot.com/review/realtor.com"
+      ],
+      "cluster_id": "cluster-16",
+      "representative_ids": [
+        "https://trustpilot.com/review/realtor.com"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "realtor.com Reviews | Read Customer Service Reviews of realtor.com",
+      "uncertainty": "single-source"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-27T20:15:37.312548+00:00",
+  "items_by_source": {
+    "grounding": [
+      {
+        "body": "10 Best Zillow Competitors to Find Your Next Home (2026)\nHe says that when the market moves ... at 9 p.m. may have been spoken for since Tuesday. <strong>The gap between the MLS and consumer apps is really a gap in speed and status accuracy</strong>....",
+        "container": "listwithclever.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 82,
+        "item_id": "WB2",
+        "local_rank_score": 0.283,
+        "local_relevance": 0.12,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.8,
+        "snippet": "He says that when the market moves ... at 9 p.m. may have been spoken for since Tuesday. <strong>The gap between the MLS and consumer apps is really a gap in speed and status accuracy</strong>....",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "10 Best Zillow Competitors to Find Your Next Home (2026)",
+        "url": "https://listwithclever.com/real-estate-blog/top-10-sites-that-compete-with-zillow/",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Zillow: Homes for Sale & Rent - Apps on Google Play\nThe 3 most important things in real estate? Location, location, location. And Zillow won&#x27;t let you use them any more. My saved searches have recently changed, and they are no longer limited to the areas I need to search in, or the commute distance I set from work.",
+        "container": "play.google.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 74,
+        "item_id": "WB4",
+        "local_rank_score": 0.2695,
+        "local_relevance": 0.13,
+        "metadata": {},
+        "published_at": "2026-09-21",
+        "relevance_hint": 0.8,
+        "snippet": "The 3 most important things in real estate? Location, location, location. And Zillow won&#x27;t let you use them any more. My saved searches have recently changed, and they are no longer limited to the areas I need to search in, or the commute distance I set from work.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Zillow: Homes for Sale & Rent - Apps on Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.zillow.android.zillowmap&hl=en_US",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Realtor.com Real Estate & Rent - Apps on Google Play\n<strong>Home search</strong> has never been easier or more fun thanks to Realtor.com. Whether you\u2019re buying, renting, or selling, we offer tons of easy-to-use tools and resources to help you achieve your homebuying goals.",
+        "container": "play.google.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 60,
+        "item_id": "WB4",
+        "local_rank_score": 0.267,
+        "local_relevance": 0.18,
+        "metadata": {},
+        "published_at": "2026-09-16",
+        "relevance_hint": 0.8,
+        "snippet": "<strong>Home search</strong> has never been easier or more fun thanks to Realtor.com. Whether you\u2019re buying, renting, or selling, we offer tons of easy-to-use tools and resources to help you achieve your homebuying goals.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Realtor.com Real Estate & Rent - Apps on Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.move.realtor&hl=en_US",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Zillow: Homes for Sale & Rent - Apps on Google Play\n- Customize your home tours- From home listings to apartment rentals, you can connect with a property agent and plan your tour. Find your perfect home with immersive photos, virtual home tours, and the most listings, including things you won\u2019t find anywhere else. Get pre-approved with Zillow Home Loans, filter your home search, or take a 3D home tour - The Zillow app gives you tools you won\u2019t find anywhere else, so you can shop smarter for your next new home. Houses for Sale &amp; Homes for Rent: Buy Homes, Rent Apartments &amp; Sell Real Estate",
+        "container": "play.google.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 74,
+        "item_id": "WB5",
+        "local_rank_score": 0.2565,
+        "local_relevance": 0.11,
+        "metadata": {},
+        "published_at": "2026-09-21",
+        "relevance_hint": 0.8,
+        "snippet": "- Customize your home tours- From home listings to apartment rentals, you can connect with a property agent and plan your tour. Find your perfect home with immersive photos, virtual home tours, and the most listings, including things you won\u2019t find anywhere else. Get pre-approved with Zillow Home Loans, filter your home search, or take a 3D home tour - The Zillow app gives you tools you won\u2019t find anywhere else, so you can shop smarter for your next new home. Houses for Sale &amp; Homes for Rent: Buy Homes, Rent Apartments &amp; Sell Real Estate",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Zillow: Homes for Sale & Rent - Apps on Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.zillow.android.zillowmap&hl=en_US",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "15 Best Real Estate Software for Agents in 2026 (+ Pricing)\nDotloop is user-friendly transaction management software that helps agents streamline deal coordination, contract creation, and document management. This means you don\u2019t have to juggle multiple tools and apps, which also helps reduce errors throughout the transaction. Dotloop allows agents to focus on listing appointments and showings rather than paperwork.",
+        "container": "theclose.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 25,
+        "item_id": "WB1",
+        "local_rank_score": 0.251,
+        "local_relevance": 0.29,
+        "metadata": {},
+        "published_at": "2026-09-03",
+        "relevance_hint": 0.8,
+        "snippet": "Dotloop is user-friendly transaction management software that helps agents streamline deal coordination, contract creation, and document management. This means you don\u2019t have to juggle multiple tools and apps, which also helps reduce errors throughout the transaction. Dotloop allows agents to focus on listing appointments and showings rather than paperwork.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "15 Best Real Estate Software for Agents in 2026 (+ Pricing)",
+        "url": "https://theclose.com/real-estate-software/",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Zillow Preview\u2120 listings are now live on Realtor.com\u00ae, offering the same early access on the two most-visited real estate platforms in the country\nReal buyer behavior during the Preview window \u2014 views, saves, tour requests \u2014 gives sellers and their agents pricing intelligence before a home officially launches on the MLS. Eighty-five percent of soon-to-be sellers say they&#x27;d be more likely to hire an agent who can pre-market their home to the broadest online audience. As part of this collaboration, agents will receive the same benefits for both their Zillow Preview and Realtor.com\u00ae Preview listings, available at no cost to sellers or agents participating through an enrolled brokerage.",
+        "container": "www.prnewswire.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 66,
+        "item_id": "WB3",
+        "local_rank_score": 0.243,
+        "local_relevance": 0.12,
+        "metadata": {},
+        "published_at": "2026-09-18",
+        "relevance_hint": 0.8,
+        "snippet": "Real buyer behavior during the Preview window \u2014 views, saves, tour requests \u2014 gives sellers and their agents pricing intelligence before a home officially launches on the MLS. Eighty-five percent of soon-to-be sellers say they&#x27;d be more likely to hire an agent who can pre-market their home to the broadest online audience. As part of this collaboration, agents will receive the same benefits for both their Zillow Preview and Realtor.com\u00ae Preview listings, available at no cost to sellers or agents participating through an enrolled brokerage.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Zillow Preview\u2120 listings are now live on Realtor.com\u00ae, offering the same early access on the two most-visited real estate platforms in the country",
+        "url": "https://www.prnewswire.com/news-releases/zillow-preview-listings-are-now-live-on-realtorcom-offering-the-same-early-access-on-the-two-most-visited-real-estate-platforms-in-the-country-302881543.html",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Realtor.com Real Estate & Rent - Apps on Google Play\n<strong>The #1 app trusted by real estate professionals</strong>* *Based on an Aug. 2024 proprietary survey among real estate professionals. Home search has never been easier or more fun thanks to Realtor.com.",
+        "container": "play.google.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 60,
+        "item_id": "WB1",
+        "local_rank_score": 0.2345,
+        "local_relevance": 0.13,
+        "metadata": {},
+        "published_at": "2026-09-16",
+        "relevance_hint": 0.8,
+        "snippet": "<strong>The #1 app trusted by real estate professionals</strong>* *Based on an Aug. 2024 proprietary survey among real estate professionals. Home search has never been easier or more fun thanks to Realtor.com.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Realtor.com Real Estate & Rent - Apps on Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.move.realtor",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Realtor.com Real Estate & Rent - Apps on Google Play\nSearch homes for sale that are so you with customizable tools \u2022 Filter your home search to see listings that fit your unique wants and needs \u2022 Search homes for sale by price, size, number of bedrooms and bathrooms, schools, commute time, and more Map out your home search \u2022 Refine your search area with the draw on map feature \u2022 Zoom in on the map to see nearby restaurants, shops, cafes, and more \u2022 Use map layers to view neighborhood noise levels and traffic \u2022 Assess a home\u2019s flood and wildfire risk Explore homes for sale or for rent up close \u2022 Get exclusive gallery features and",
+        "container": "play.google.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 60,
+        "item_id": "WB3",
+        "local_rank_score": 0.2215,
+        "local_relevance": 0.11,
+        "metadata": {},
+        "published_at": "2026-09-16",
+        "relevance_hint": 0.8,
+        "snippet": "Search homes for sale that are so you with customizable tools \u2022 Filter your home search to see listings that fit your unique wants and needs \u2022 Search homes for sale by price, size, number of bedrooms and bathrooms, schools, commute time, and more Map out your home search \u2022 Refine your search area with the draw on map feature \u2022 Zoom in on the map to see nearby restaurants, shops, cafes, and more \u2022 Use map layers to view neighborhood noise levels and traffic \u2022 Assess a home\u2019s flood and wildfire risk Explore homes for sale or for rent up close \u2022 Get exclusive gallery features and",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Realtor.com Real Estate & Rent - Apps on Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.move.realtor&hl=en_US",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Real Estate App Development (2026) - Business of Apps\nReal estate apps enhance productivity for both agents and clients by streamlining processes and reducing time spent on administrative tasks. Agents can manage property listings, schedule showings, and communicate with clients all within one platform, allowing them to focus more on sales and client relationships.",
+        "container": "www.businessofapps.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 38,
+        "item_id": "WB3",
+        "local_rank_score": 0.212,
+        "local_relevance": 0.18,
+        "metadata": {},
+        "published_at": "2026-09-08",
+        "relevance_hint": 0.8,
+        "snippet": "Real estate apps enhance productivity for both agents and clients by streamlining processes and reducing time spent on administrative tasks. Agents can manage property listings, schedule showings, and communicate with clients all within one platform, allowing them to focus more on sales and client relationships.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Real Estate App Development (2026) - Business of Apps",
+        "url": "https://www.businessofapps.com/app-developers/real-estate/",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "What Is My Home Worth? 6 Most Accurate Home Value Estimators\n<strong>Realtor is just as popular as Zillow, and they are very comparable in features to calculate home value</strong>. It is a Coke versus Pepsi kind-of thing with these two sites, and it boils down to personal preference.",
+        "container": "www.fastexpert.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 78,
+        "item_id": "WB5",
+        "local_rank_score": 0.195,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.8,
+        "snippet": "<strong>Realtor is just as popular as Zillow, and they are very comparable in features to calculate home value</strong>. It is a Coke versus Pepsi kind-of thing with these two sites, and it boils down to personal preference.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "What Is My Home Worth? 6 Most Accurate Home Value Estimators",
+        "url": "https://www.fastexpert.com/blog/best-accurate-home-value-estimators/",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "16 Indispensable AI Tools for Real Estate Agents\nWhile ChatGPT has become a go-to tool for many of us, there are tons of AI tools for real estate that offer a more efficient, data-driven approach to generating new client leads. From automated chatbots that qualify incoming leads and analytics to predict upcoming sellers, AI saves time and provides endless solutions for real estate professionals. Since real estate tech changes by the hour these days, we did a deep dive into the most helpful AI tools for real estate agents on the market today.",
+        "container": "www.housingwire.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 76,
+        "item_id": "WB4",
+        "local_rank_score": 0.19,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-22",
+        "relevance_hint": 0.8,
+        "snippet": "While ChatGPT has become a go-to tool for many of us, there are tons of AI tools for real estate that offer a more efficient, data-driven approach to generating new client leads. From automated chatbots that qualify incoming leads and analytics to predict upcoming sellers, AI saves time and provides endless solutions for real estate professionals. Since real estate tech changes by the hour these days, we did a deep dive into the most helpful AI tools for real estate agents on the market today.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "16 Indispensable AI Tools for Real Estate Agents",
+        "url": "https://www.housingwire.com/articles/ai-tools-real-estate/",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Who is the Biggest Competitor of Zillow? A Market Analysis\nHowever, <strong>Realtor.com lacks the user-friendly polish of Zillow</strong>. The interface is denser, and the mobile app feels more like a utility tool than a browsing experience. If you\u2019re casually dreaming about homes on your commute, Zillow is still smoother.",
+        "container": "prestigeprimerosehills.ind.in",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 76,
+        "item_id": "WB4",
+        "local_rank_score": 0.19,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-22",
+        "relevance_hint": 0.8,
+        "snippet": "However, <strong>Realtor.com lacks the user-friendly polish of Zillow</strong>. The interface is denser, and the mobile app feels more like a utility tool than a browsing experience. If you\u2019re casually dreaming about homes on your commute, Zillow is still smoother.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Who is the Biggest Competitor of Zillow? A Market Analysis",
+        "url": "https://prestigeprimerosehills.ind.in/who-is-the-biggest-competitor-of-zillow-a-market-analysis",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Best Real Estate Property Management Software 2026 | Capterra\nPopularity score: Relative popularity of software based on web search trends and products\u2019 web presence. Real estate property management software assists realtors in managing property-related operations, such as sales and purchase, maintenance, and accounting. It helps users list their properties on industry-leading websites and capture potential leads.",
+        "container": "www.capterra.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 28,
+        "item_id": "WB2",
+        "local_rank_score": 0.187,
+        "local_relevance": 0.18,
+        "metadata": {},
+        "published_at": "2026-09-04",
+        "relevance_hint": 0.8,
+        "snippet": "Popularity score: Relative popularity of software based on web search trends and products\u2019 web presence. Real estate property management software assists realtors in managing property-related operations, such as sales and purchase, maintenance, and accounting. It helps users list their properties on industry-leading websites and capture potential leads.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Best Real Estate Property Management Software 2026 | Capterra",
+        "url": "https://www.capterra.com/real-estate-property-management-software/",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Best Real Estate Listing Platforms (2026): Zillow Preview, AI Search & More - Altgage\nIf you want the most accurate, up-to-date listing data, <strong>Realtor.com is the platform to watch</strong>. Its direct MLS connection refreshes every 15 minutes \u2014 faster than Zillow&#x27;s approximately 30-minute cycle and most other aggregators.",
+        "container": "www.altgage.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 70,
+        "item_id": "WB1",
+        "local_rank_score": 0.175,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-20",
+        "relevance_hint": 0.8,
+        "snippet": "If you want the most accurate, up-to-date listing data, <strong>Realtor.com is the platform to watch</strong>. Its direct MLS connection refreshes every 15 minutes \u2014 faster than Zillow&#x27;s approximately 30-minute cycle and most other aggregators.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Best Real Estate Listing Platforms (2026): Zillow Preview, AI Search & More - Altgage",
+        "url": "https://www.altgage.com/blog/real-estate-listing-platforms-to-find-your-dream-home",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "AceableAgent Review 2026: Pricing, Features, Pros & Cons\nAs a licensed real estate agent, I understand how much information prospective agents must absorb before they can begin working with clients. AceableAgent stands out for its mobile-first, self-paced learning platform, but its course selection and instructional formats will not suit everyone. In this AceableAgent review, I\u2019ll examine its 2026 pricing, course availability, learning experience, support, customer feedback, pros and cons, and overall value.",
+        "container": "theclose.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 62,
+        "item_id": "WB2",
+        "local_rank_score": 0.155,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-17",
+        "relevance_hint": 0.8,
+        "snippet": "As a licensed real estate agent, I understand how much information prospective agents must absorb before they can begin working with clients. AceableAgent stands out for its mobile-first, self-paced learning platform, but its course selection and instructional formats will not suit everyone. In this AceableAgent review, I\u2019ll examine its 2026 pricing, course availability, learning experience, support, customer feedback, pros and cons, and overall value.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "AceableAgent Review 2026: Pricing, Features, Pros & Cons",
+        "url": "https://theclose.com/aceable-agent-review/",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Trulia Real Estate & Rentals - App Store - Apple\nTrulia is fun to use on travel: however, it assumes you are actively looking for real estate and starts to send you house recommendations. I have had to ask realtors to stop solicitations, which they are happy to do. It would be nice to indicate to the App whether you were SERIOUSLY looking, or just looking.",
+        "container": "apps.apple.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 22,
+        "item_id": "WB3",
+        "local_rank_score": 0.1395,
+        "local_relevance": 0.13,
+        "metadata": {},
+        "published_at": "2026-09-02",
+        "relevance_hint": 0.8,
+        "snippet": "Trulia is fun to use on travel: however, it assumes you are actively looking for real estate and starts to send you house recommendations. I have had to ask realtors to stop solicitations, which they are happy to do. It would be nice to indicate to the App whether you were SERIOUSLY looking, or just looking.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Trulia Real Estate & Rentals - App Store - Apple",
+        "url": "https://apps.apple.com/us/app/trulia-real-estate-rentals/id288487321",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "realtor.com Reviews | Read Customer Service Reviews of realtor.com\nI&#x27;m happy I haven&#x27;t fell into real estate scam. A $200,000 house would generate $2,000 month at 10%. As much as I can carry out of stores with two hands or a run down wood chop house. 99% of market is over valued the housing market will crumble one moldy wood Chop house at a time. ... I was disappointed with my experience with Realtor.com.",
+        "container": "www.trustpilot.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 46,
+        "item_id": "WB5",
+        "local_rank_score": 0.115,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-11",
+        "relevance_hint": 0.8,
+        "snippet": "I&#x27;m happy I haven&#x27;t fell into real estate scam. A $200,000 house would generate $2,000 month at 10%. As much as I can carry out of stores with two hands or a run down wood chop house. 99% of market is over valued the housing market will crumble one moldy wood Chop house at a time. ... I was disappointed with my experience with Realtor.com.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "realtor.com Reviews | Read Customer Service Reviews of realtor.com",
+        "url": "https://www.trustpilot.com/review/realtor.com",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "15 Best Real Estate Software for Agents in 2026 (+ Pricing)\nA real estate agent\u2019s guide to the best real estate software for agents in 2026, including CRMs, marketing tools, lead generation, and more.",
+        "container": "theclose.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 25,
+        "item_id": "WB1",
+        "local_rank_score": 0.0625,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-03",
+        "relevance_hint": 0.8,
+        "snippet": "A real estate agent\u2019s guide to the best real estate software for agents in 2026, including CRMs, marketing tools, lead generation, and more.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "15 Best Real Estate Software for Agents in 2026 (+ Pricing)",
+        "url": "https://theclose.com/real-estate-software/",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "18 Best AI Tools for Real Estate Agents (2026)\nDealMachine is a lead-generation and property research tool that helps real estate professionals quickly identify distressed properties, access owner contact info, and launch outreach campaigns in minutes. ... Instant owner data: Provides property owner contact information (including phone, email, and mailing address) on the spot. Driving for Dollars app: Tracks routes, saves properties you spot in person, and quickly adds them to your lead pipeline.",
+        "container": "www.housecanary.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 22,
+        "item_id": "WB2",
+        "local_rank_score": 0.055,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-02",
+        "relevance_hint": 0.8,
+        "snippet": "DealMachine is a lead-generation and property research tool that helps real estate professionals quickly identify distressed properties, access owner contact info, and launch outreach campaigns in minutes. ... Instant owner data: Provides property owner contact information (including phone, email, and mailing address) on the spot. Driving for Dollars app: Tracks routes, saves properties you spot in person, and quickly adds them to your lead pipeline.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "18 Best AI Tools for Real Estate Agents (2026)",
+        "url": "https://www.housecanary.com/blog/5-ai-tools-for-real-estate-agents",
+        "why_relevant": "Brave web search"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "debate",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [],
+    "raw_topic": "realtors \"any good app for\"",
+    "source_weights": {
+      "grounding": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "app recs",
+        "ranking_query": "What apps do realtors recommend as actually useful?",
+        "search_query": "realtor best apps OR real estate agent tools app",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "workflow tools",
+        "ranking_query": "Which apps help realtors with daily workflow and client management?",
+        "search_query": "realtor productivity apps OR listing management app",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "community picks",
+        "ranking_query": "What apps have realtors tried and found worth using?",
+        "search_query": "realtor app review OR experience real estate apps",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "alternatives",
+        "ranking_query": "How do realtors compare different apps for their work?",
+        "search_query": "realtor app vs Zillow OR MLS tools",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.25
+      }
+    ]
+  },
+  "range_from": "2026-08-28",
+  "range_to": "2026-09-27",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://listwithclever.com/real-estate-blog/top-10-sites-that-compete-with-zillow",
+      "cluster_id": "cluster-1",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 82,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "WB2",
+      "local_relevance": 0.12,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB2",
+            "native_rank": 1,
+            "source": "grounding",
+            "subquery_label": "alternatives"
+          }
+        ]
+      },
+      "native_ranks": {
+        "alternatives:grounding": 1
+      },
+      "rerank_score": 5.800000000000001,
+      "rrf_score": 0.004098360655737705,
+      "snippet": "He says that when the market moves ... at 9 p.m. may have been spoken for since Tuesday. <strong>The gap between the MLS and consumer apps is really a gap in speed and status accuracy</strong>....",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "10 Best Zillow Competitors to Find Your Next Home (2026)\nHe says that when the market moves ... at 9 p.m. may have been spoken for since Tuesday. <strong>The gap between the MLS and consumer apps is really a gap in speed and status accuracy</strong>....",
+          "container": "listwithclever.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 82,
+          "item_id": "WB2",
+          "local_rank_score": 0.283,
+          "local_relevance": 0.12,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.8,
+          "snippet": "He says that when the market moves ... at 9 p.m. may have been spoken for since Tuesday. <strong>The gap between the MLS and consumer apps is really a gap in speed and status accuracy</strong>....",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "10 Best Zillow Competitors to Find Your Next Home (2026)",
+          "url": "https://listwithclever.com/real-estate-blog/top-10-sites-that-compete-with-zillow/",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "alternatives"
+      ],
+      "title": "10 Best Zillow Competitors to Find Your Next Home (2026)",
+      "url": "https://listwithclever.com/real-estate-blog/top-10-sites-that-compete-with-zillow/"
+    },
+    {
+      "candidate_id": "https://play.google.com/store/apps/details?id=com.move.realtor&hl=en_us",
+      "cluster_id": "cluster-2",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 60,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "WB4",
+      "local_relevance": 0.18,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB3",
+            "native_rank": 2,
+            "source": "grounding",
+            "subquery_label": "app recs"
+          },
+          {
+            "item_id": "WB4",
+            "native_rank": 1,
+            "source": "grounding",
+            "subquery_label": "workflow tools"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recs:grounding": 2,
+        "workflow tools:grounding": 1
+      },
+      "rerank_score": 5.600000000000001,
+      "rrf_score": 0.008130618720253835,
+      "snippet": "<strong>Home search</strong> has never been easier or more fun thanks to Realtor.com. Whether you\u2019re buying, renting, or selling, we offer tons of easy-to-use tools and resources to help you achieve your homebuying goals.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Realtor.com Real Estate & Rent - Apps on Google Play\nSearch homes for sale that are so you with customizable tools \u2022 Filter your home search to see listings that fit your unique wants and needs \u2022 Search homes for sale by price, size, number of bedrooms and bathrooms, schools, commute time, and more Map out your home search \u2022 Refine your search area with the draw on map feature \u2022 Zoom in on the map to see nearby restaurants, shops, cafes, and more \u2022 Use map layers to view neighborhood noise levels and traffic \u2022 Assess a home\u2019s flood and wildfire risk Explore homes for sale or for rent up close \u2022 Get exclusive gallery features and",
+          "container": "play.google.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 60,
+          "item_id": "WB3",
+          "local_rank_score": 0.2215,
+          "local_relevance": 0.11,
+          "metadata": {},
+          "published_at": "2026-09-16",
+          "relevance_hint": 0.8,
+          "snippet": "Search homes for sale that are so you with customizable tools \u2022 Filter your home search to see listings that fit your unique wants and needs \u2022 Search homes for sale by price, size, number of bedrooms and bathrooms, schools, commute time, and more Map out your home search \u2022 Refine your search area with the draw on map feature \u2022 Zoom in on the map to see nearby restaurants, shops, cafes, and more \u2022 Use map layers to view neighborhood noise levels and traffic \u2022 Assess a home\u2019s flood and wildfire risk Explore homes for sale or for rent up close \u2022 Get exclusive gallery features and",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Realtor.com Real Estate & Rent - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.move.realtor&hl=en_US",
+          "why_relevant": "Brave web search"
+        },
+        {
+          "body": "Realtor.com Real Estate & Rent - Apps on Google Play\n<strong>Home search</strong> has never been easier or more fun thanks to Realtor.com. Whether you\u2019re buying, renting, or selling, we offer tons of easy-to-use tools and resources to help you achieve your homebuying goals.",
+          "container": "play.google.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 60,
+          "item_id": "WB4",
+          "local_rank_score": 0.267,
+          "local_relevance": 0.18,
+          "metadata": {},
+          "published_at": "2026-09-16",
+          "relevance_hint": 0.8,
+          "snippet": "<strong>Home search</strong> has never been easier or more fun thanks to Realtor.com. Whether you\u2019re buying, renting, or selling, we offer tons of easy-to-use tools and resources to help you achieve your homebuying goals.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Realtor.com Real Estate & Rent - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.move.realtor&hl=en_US",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "app recs",
+        "workflow tools"
+      ],
+      "title": "Realtor.com Real Estate & Rent - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.move.realtor&hl=en_US"
+    },
+    {
+      "candidate_id": "https://play.google.com/store/apps/details?id=com.zillow.android.zillowmap&hl=en_us",
+      "cluster_id": "cluster-3",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 74,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "WB4",
+      "local_relevance": 0.13,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB4",
+            "native_rank": 1,
+            "source": "grounding",
+            "subquery_label": "community picks"
+          },
+          {
+            "item_id": "WB5",
+            "native_rank": 1,
+            "source": "grounding",
+            "subquery_label": "app recs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recs:grounding": 1,
+        "community picks:grounding": 1
+      },
+      "rerank_score": 4.899999999999999,
+      "rrf_score": 0.00819672131147541,
+      "snippet": "- Customize your home tours- From home listings to apartment rentals, you can connect with a property agent and plan your tour. Find your perfect home with immersive photos, virtual home tours, and the most listings, including things you won\u2019t find anywhere else. Get pre-approved with Zillow Home Loans, filter your home search, or take a 3D home tour - The Zillow app gives you tools you won\u2019t find anywhere else, so you can shop smarter for your next new home. Houses for Sale &amp; Homes for Rent: Buy Homes, Rent Apartments &amp; Sell Real Estate",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Zillow: Homes for Sale & Rent - Apps on Google Play\nThe 3 most important things in real estate? Location, location, location. And Zillow won&#x27;t let you use them any more. My saved searches have recently changed, and they are no longer limited to the areas I need to search in, or the commute distance I set from work.",
+          "container": "play.google.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 74,
+          "item_id": "WB4",
+          "local_rank_score": 0.2695,
+          "local_relevance": 0.13,
+          "metadata": {},
+          "published_at": "2026-09-21",
+          "relevance_hint": 0.8,
+          "snippet": "The 3 most important things in real estate? Location, location, location. And Zillow won&#x27;t let you use them any more. My saved searches have recently changed, and they are no longer limited to the areas I need to search in, or the commute distance I set from work.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Zillow: Homes for Sale & Rent - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.zillow.android.zillowmap&hl=en_US",
+          "why_relevant": "Brave web search"
+        },
+        {
+          "body": "Zillow: Homes for Sale & Rent - Apps on Google Play\n- Customize your home tours- From home listings to apartment rentals, you can connect with a property agent and plan your tour. Find your perfect home with immersive photos, virtual home tours, and the most listings, including things you won\u2019t find anywhere else. Get pre-approved with Zillow Home Loans, filter your home search, or take a 3D home tour - The Zillow app gives you tools you won\u2019t find anywhere else, so you can shop smarter for your next new home. Houses for Sale &amp; Homes for Rent: Buy Homes, Rent Apartments &amp; Sell Real Estate",
+          "container": "play.google.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 74,
+          "item_id": "WB5",
+          "local_rank_score": 0.2565,
+          "local_relevance": 0.11,
+          "metadata": {},
+          "published_at": "2026-09-21",
+          "relevance_hint": 0.8,
+          "snippet": "- Customize your home tours- From home listings to apartment rentals, you can connect with a property agent and plan your tour. Find your perfect home with immersive photos, virtual home tours, and the most listings, including things you won\u2019t find anywhere else. Get pre-approved with Zillow Home Loans, filter your home search, or take a 3D home tour - The Zillow app gives you tools you won\u2019t find anywhere else, so you can shop smarter for your next new home. Houses for Sale &amp; Homes for Rent: Buy Homes, Rent Apartments &amp; Sell Real Estate",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Zillow: Homes for Sale & Rent - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.zillow.android.zillowmap&hl=en_US",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "community picks",
+        "app recs"
+      ],
+      "title": "Zillow: Homes for Sale & Rent - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.zillow.android.zillowmap&hl=en_US"
+    },
+    {
+      "candidate_id": "https://theclose.com/real-estate-software",
+      "cluster_id": "cluster-4",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 25,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "WB1",
+      "local_relevance": 0.29,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB1",
+            "native_rank": 4,
+            "source": "grounding",
+            "subquery_label": "app recs"
+          },
+          {
+            "item_id": "WB1",
+            "native_rank": 2,
+            "source": "grounding",
+            "subquery_label": "workflow tools"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recs:grounding": 4,
+        "workflow tools:grounding": 2
+      },
+      "rerank_score": 6.299999999999997,
+      "rrf_score": 0.007938508064516129,
+      "snippet": "Dotloop is user-friendly transaction management software that helps agents streamline deal coordination, contract creation, and document management. This means you don\u2019t have to juggle multiple tools and apps, which also helps reduce errors throughout the transaction. Dotloop allows agents to focus on listing appointments and showings rather than paperwork.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "15 Best Real Estate Software for Agents in 2026 (+ Pricing)\nA real estate agent\u2019s guide to the best real estate software for agents in 2026, including CRMs, marketing tools, lead generation, and more.",
+          "container": "theclose.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 25,
+          "item_id": "WB1",
+          "local_rank_score": 0.0625,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-03",
+          "relevance_hint": 0.8,
+          "snippet": "A real estate agent\u2019s guide to the best real estate software for agents in 2026, including CRMs, marketing tools, lead generation, and more.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "15 Best Real Estate Software for Agents in 2026 (+ Pricing)",
+          "url": "https://theclose.com/real-estate-software/",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "app recs",
+        "workflow tools"
+      ],
+      "title": "15 Best Real Estate Software for Agents in 2026 (+ Pricing)",
+      "url": "https://theclose.com/real-estate-software/"
+    },
+    {
+      "candidate_id": "https://play.google.com/store/apps/details?id=com.move.realtor",
+      "cluster_id": "cluster-5",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 60,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "WB1",
+      "local_relevance": 0.13,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB1",
+            "native_rank": 2,
+            "source": "grounding",
+            "subquery_label": "community picks"
+          }
+        ]
+      },
+      "native_ranks": {
+        "community picks:grounding": 2
+      },
+      "rerank_score": 2.1000000000000014,
+      "rrf_score": 0.004032258064516129,
+      "snippet": "<strong>The #1 app trusted by real estate professionals</strong>* *Based on an Aug. 2024 proprietary survey among real estate professionals. Home search has never been easier or more fun thanks to Realtor.com.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Realtor.com Real Estate & Rent - Apps on Google Play\n<strong>The #1 app trusted by real estate professionals</strong>* *Based on an Aug. 2024 proprietary survey among real estate professionals. Home search has never been easier or more fun thanks to Realtor.com.",
+          "container": "play.google.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 60,
+          "item_id": "WB1",
+          "local_rank_score": 0.2345,
+          "local_relevance": 0.13,
+          "metadata": {},
+          "published_at": "2026-09-16",
+          "relevance_hint": 0.8,
+          "snippet": "<strong>The #1 app trusted by real estate professionals</strong>* *Based on an Aug. 2024 proprietary survey among real estate professionals. Home search has never been easier or more fun thanks to Realtor.com.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Realtor.com Real Estate & Rent - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.move.realtor",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "community picks"
+      ],
+      "title": "Realtor.com Real Estate & Rent - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.move.realtor"
+    },
+    {
+      "candidate_id": "https://prnewswire.com/news-releases/zillow-preview-listings-are-now-live-on-realtorcom-offering-the-same-early-access-on-the-two-most-visited-real-estate-platforms-in-the-country-302881543.html",
+      "cluster_id": "cluster-6",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 66,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 10.0,
+      "item_id": "WB3",
+      "local_relevance": 0.12,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB3",
+            "native_rank": 2,
+            "source": "grounding",
+            "subquery_label": "alternatives"
+          }
+        ]
+      },
+      "native_ranks": {
+        "alternatives:grounding": 2
+      },
+      "rerank_score": 2.6000000000000014,
+      "rrf_score": 0.004032258064516129,
+      "snippet": "Real buyer behavior during the Preview window \u2014 views, saves, tour requests \u2014 gives sellers and their agents pricing intelligence before a home officially launches on the MLS. Eighty-five percent of soon-to-be sellers say they&#x27;d be more likely to hire an agent who can pre-market their home to the broadest online audience. As part of this collaboration, agents will receive the same benefits for both their Zillow Preview and Realtor.com\u00ae Preview listings, available at no cost to sellers or agents participating through an enrolled brokerage.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Zillow Preview\u2120 listings are now live on Realtor.com\u00ae, offering the same early access on the two most-visited real estate platforms in the country\nReal buyer behavior during the Preview window \u2014 views, saves, tour requests \u2014 gives sellers and their agents pricing intelligence before a home officially launches on the MLS. Eighty-five percent of soon-to-be sellers say they&#x27;d be more likely to hire an agent who can pre-market their home to the broadest online audience. As part of this collaboration, agents will receive the same benefits for both their Zillow Preview and Realtor.com\u00ae Preview listings, available at no cost to sellers or agents participating through an enrolled brokerage.",
+          "container": "www.prnewswire.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 66,
+          "item_id": "WB3",
+          "local_rank_score": 0.243,
+          "local_relevance": 0.12,
+          "metadata": {},
+          "published_at": "2026-09-18",
+          "relevance_hint": 0.8,
+          "snippet": "Real buyer behavior during the Preview window \u2014 views, saves, tour requests \u2014 gives sellers and their agents pricing intelligence before a home officially launches on the MLS. Eighty-five percent of soon-to-be sellers say they&#x27;d be more likely to hire an agent who can pre-market their home to the broadest online audience. As part of this collaboration, agents will receive the same benefits for both their Zillow Preview and Realtor.com\u00ae Preview listings, available at no cost to sellers or agents participating through an enrolled brokerage.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Zillow Preview\u2120 listings are now live on Realtor.com\u00ae, offering the same early access on the two most-visited real estate platforms in the country",
+          "url": "https://www.prnewswire.com/news-releases/zillow-preview-listings-are-now-live-on-realtorcom-offering-the-same-early-access-on-the-two-most-visited-real-estate-platforms-in-the-country-302881543.html",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "alternatives"
+      ],
+      "title": "Zillow Preview\u2120 listings are now live on Realtor.com\u00ae, offering the same early access on the two most-visited real estate platforms in the country",
+      "url": "https://www.prnewswire.com/news-releases/zillow-preview-listings-are-now-live-on-realtorcom-offering-the-same-early-access-on-the-two-most-visited-real-estate-platforms-in-the-country-302881543.html"
+    },
+    {
+      "candidate_id": "https://housingwire.com/articles/ai-tools-real-estate",
+      "cluster_id": "cluster-7",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 76,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "WB4",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB4",
+            "native_rank": 3,
+            "source": "grounding",
+            "subquery_label": "app recs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recs:grounding": 3
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.003968253968253968,
+      "snippet": "While ChatGPT has become a go-to tool for many of us, there are tons of AI tools for real estate that offer a more efficient, data-driven approach to generating new client leads. From automated chatbots that qualify incoming leads and analytics to predict upcoming sellers, AI saves time and provides endless solutions for real estate professionals. Since real estate tech changes by the hour these days, we did a deep dive into the most helpful AI tools for real estate agents on the market today.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "16 Indispensable AI Tools for Real Estate Agents\nWhile ChatGPT has become a go-to tool for many of us, there are tons of AI tools for real estate that offer a more efficient, data-driven approach to generating new client leads. From automated chatbots that qualify incoming leads and analytics to predict upcoming sellers, AI saves time and provides endless solutions for real estate professionals. Since real estate tech changes by the hour these days, we did a deep dive into the most helpful AI tools for real estate agents on the market today.",
+          "container": "www.housingwire.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 76,
+          "item_id": "WB4",
+          "local_rank_score": 0.19,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-22",
+          "relevance_hint": 0.8,
+          "snippet": "While ChatGPT has become a go-to tool for many of us, there are tons of AI tools for real estate that offer a more efficient, data-driven approach to generating new client leads. From automated chatbots that qualify incoming leads and analytics to predict upcoming sellers, AI saves time and provides endless solutions for real estate professionals. Since real estate tech changes by the hour these days, we did a deep dive into the most helpful AI tools for real estate agents on the market today.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "16 Indispensable AI Tools for Real Estate Agents",
+          "url": "https://www.housingwire.com/articles/ai-tools-real-estate/",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "app recs"
+      ],
+      "title": "16 Indispensable AI Tools for Real Estate Agents",
+      "url": "https://www.housingwire.com/articles/ai-tools-real-estate/"
+    },
+    {
+      "candidate_id": "https://theclose.com/aceable-agent-review",
+      "cluster_id": "cluster-8",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 62,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "WB2",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB2",
+            "native_rank": 3,
+            "source": "grounding",
+            "subquery_label": "community picks"
+          }
+        ]
+      },
+      "native_ranks": {
+        "community picks:grounding": 3
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.003968253968253968,
+      "snippet": "As a licensed real estate agent, I understand how much information prospective agents must absorb before they can begin working with clients. AceableAgent stands out for its mobile-first, self-paced learning platform, but its course selection and instructional formats will not suit everyone. In this AceableAgent review, I\u2019ll examine its 2026 pricing, course availability, learning experience, support, customer feedback, pros and cons, and overall value.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "AceableAgent Review 2026: Pricing, Features, Pros & Cons\nAs a licensed real estate agent, I understand how much information prospective agents must absorb before they can begin working with clients. AceableAgent stands out for its mobile-first, self-paced learning platform, but its course selection and instructional formats will not suit everyone. In this AceableAgent review, I\u2019ll examine its 2026 pricing, course availability, learning experience, support, customer feedback, pros and cons, and overall value.",
+          "container": "theclose.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 62,
+          "item_id": "WB2",
+          "local_rank_score": 0.155,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-17",
+          "relevance_hint": 0.8,
+          "snippet": "As a licensed real estate agent, I understand how much information prospective agents must absorb before they can begin working with clients. AceableAgent stands out for its mobile-first, self-paced learning platform, but its course selection and instructional formats will not suit everyone. In this AceableAgent review, I\u2019ll examine its 2026 pricing, course availability, learning experience, support, customer feedback, pros and cons, and overall value.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "AceableAgent Review 2026: Pricing, Features, Pros & Cons",
+          "url": "https://theclose.com/aceable-agent-review/",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "community picks"
+      ],
+      "title": "AceableAgent Review 2026: Pricing, Features, Pros & Cons",
+      "url": "https://theclose.com/aceable-agent-review/"
+    },
+    {
+      "candidate_id": "https://businessofapps.com/app-developers/real-estate",
+      "cluster_id": "cluster-9",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 38,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "WB3",
+      "local_relevance": 0.18,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB3",
+            "native_rank": 3,
+            "source": "grounding",
+            "subquery_label": "workflow tools"
+          }
+        ]
+      },
+      "native_ranks": {
+        "workflow tools:grounding": 3
+      },
+      "rerank_score": 1.1999999999999993,
+      "rrf_score": 0.003968253968253968,
+      "snippet": "Real estate apps enhance productivity for both agents and clients by streamlining processes and reducing time spent on administrative tasks. Agents can manage property listings, schedule showings, and communicate with clients all within one platform, allowing them to focus more on sales and client relationships.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Real Estate App Development (2026) - Business of Apps\nReal estate apps enhance productivity for both agents and clients by streamlining processes and reducing time spent on administrative tasks. Agents can manage property listings, schedule showings, and communicate with clients all within one platform, allowing them to focus more on sales and client relationships.",
+          "container": "www.businessofapps.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 38,
+          "item_id": "WB3",
+          "local_rank_score": 0.212,
+          "local_relevance": 0.18,
+          "metadata": {},
+          "published_at": "2026-09-08",
+          "relevance_hint": 0.8,
+          "snippet": "Real estate apps enhance productivity for both agents and clients by streamlining processes and reducing time spent on administrative tasks. Agents can manage property listings, schedule showings, and communicate with clients all within one platform, allowing them to focus more on sales and client relationships.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Real Estate App Development (2026) - Business of Apps",
+          "url": "https://www.businessofapps.com/app-developers/real-estate/",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "workflow tools"
+      ],
+      "title": "Real Estate App Development (2026) - Business of Apps",
+      "url": "https://www.businessofapps.com/app-developers/real-estate/"
+    },
+    {
+      "candidate_id": "https://fastexpert.com/blog/best-accurate-home-value-estimators",
+      "cluster_id": "cluster-10",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 78,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "WB5",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB5",
+            "native_rank": 3,
+            "source": "grounding",
+            "subquery_label": "alternatives"
+          }
+        ]
+      },
+      "native_ranks": {
+        "alternatives:grounding": 3
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.003968253968253968,
+      "snippet": "<strong>Realtor is just as popular as Zillow, and they are very comparable in features to calculate home value</strong>. It is a Coke versus Pepsi kind-of thing with these two sites, and it boils down to personal preference.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "What Is My Home Worth? 6 Most Accurate Home Value Estimators\n<strong>Realtor is just as popular as Zillow, and they are very comparable in features to calculate home value</strong>. It is a Coke versus Pepsi kind-of thing with these two sites, and it boils down to personal preference.",
+          "container": "www.fastexpert.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 78,
+          "item_id": "WB5",
+          "local_rank_score": 0.195,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.8,
+          "snippet": "<strong>Realtor is just as popular as Zillow, and they are very comparable in features to calculate home value</strong>. It is a Coke versus Pepsi kind-of thing with these two sites, and it boils down to personal preference.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "What Is My Home Worth? 6 Most Accurate Home Value Estimators",
+          "url": "https://www.fastexpert.com/blog/best-accurate-home-value-estimators/",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "alternatives"
+      ],
+      "title": "What Is My Home Worth? 6 Most Accurate Home Value Estimators",
+      "url": "https://www.fastexpert.com/blog/best-accurate-home-value-estimators/"
+    },
+    {
+      "candidate_id": "https://capterra.com/real-estate-property-management-software",
+      "cluster_id": "cluster-11",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 28,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 10.0,
+      "item_id": "WB2",
+      "local_relevance": 0.18,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB2",
+            "native_rank": 4,
+            "source": "grounding",
+            "subquery_label": "workflow tools"
+          }
+        ]
+      },
+      "native_ranks": {
+        "workflow tools:grounding": 4
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.00390625,
+      "snippet": "Popularity score: Relative popularity of software based on web search trends and products\u2019 web presence. Real estate property management software assists realtors in managing property-related operations, such as sales and purchase, maintenance, and accounting. It helps users list their properties on industry-leading websites and capture potential leads.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Best Real Estate Property Management Software 2026 | Capterra\nPopularity score: Relative popularity of software based on web search trends and products\u2019 web presence. Real estate property management software assists realtors in managing property-related operations, such as sales and purchase, maintenance, and accounting. It helps users list their properties on industry-leading websites and capture potential leads.",
+          "container": "www.capterra.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 28,
+          "item_id": "WB2",
+          "local_rank_score": 0.187,
+          "local_relevance": 0.18,
+          "metadata": {},
+          "published_at": "2026-09-04",
+          "relevance_hint": 0.8,
+          "snippet": "Popularity score: Relative popularity of software based on web search trends and products\u2019 web presence. Real estate property management software assists realtors in managing property-related operations, such as sales and purchase, maintenance, and accounting. It helps users list their properties on industry-leading websites and capture potential leads.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Best Real Estate Property Management Software 2026 | Capterra",
+          "url": "https://www.capterra.com/real-estate-property-management-software/",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "workflow tools"
+      ],
+      "title": "Best Real Estate Property Management Software 2026 | Capterra",
+      "url": "https://www.capterra.com/real-estate-property-management-software/"
+    },
+    {
+      "candidate_id": "https://apps.apple.com/us/app/trulia-real-estate-rentals/id288487321",
+      "cluster_id": "cluster-12",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 22,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "WB3",
+      "local_relevance": 0.13,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB3",
+            "native_rank": 4,
+            "source": "grounding",
+            "subquery_label": "community picks"
+          }
+        ]
+      },
+      "native_ranks": {
+        "community picks:grounding": 4
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.00390625,
+      "snippet": "Trulia is fun to use on travel: however, it assumes you are actively looking for real estate and starts to send you house recommendations. I have had to ask realtors to stop solicitations, which they are happy to do. It would be nice to indicate to the App whether you were SERIOUSLY looking, or just looking.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Trulia Real Estate & Rentals - App Store - Apple\nTrulia is fun to use on travel: however, it assumes you are actively looking for real estate and starts to send you house recommendations. I have had to ask realtors to stop solicitations, which they are happy to do. It would be nice to indicate to the App whether you were SERIOUSLY looking, or just looking.",
+          "container": "apps.apple.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 22,
+          "item_id": "WB3",
+          "local_rank_score": 0.1395,
+          "local_relevance": 0.13,
+          "metadata": {},
+          "published_at": "2026-09-02",
+          "relevance_hint": 0.8,
+          "snippet": "Trulia is fun to use on travel: however, it assumes you are actively looking for real estate and starts to send you house recommendations. I have had to ask realtors to stop solicitations, which they are happy to do. It would be nice to indicate to the App whether you were SERIOUSLY looking, or just looking.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Trulia Real Estate & Rentals - App Store - Apple",
+          "url": "https://apps.apple.com/us/app/trulia-real-estate-rentals/id288487321",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "community picks"
+      ],
+      "title": "Trulia Real Estate & Rentals - App Store - Apple",
+      "url": "https://apps.apple.com/us/app/trulia-real-estate-rentals/id288487321"
+    },
+    {
+      "candidate_id": "https://prestigeprimerosehills.ind.in/who-is-the-biggest-competitor-of-zillow-a-market-analysis",
+      "cluster_id": "cluster-13",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 76,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 10.0,
+      "item_id": "WB4",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB4",
+            "native_rank": 4,
+            "source": "grounding",
+            "subquery_label": "alternatives"
+          }
+        ]
+      },
+      "native_ranks": {
+        "alternatives:grounding": 4
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.00390625,
+      "snippet": "However, <strong>Realtor.com lacks the user-friendly polish of Zillow</strong>. The interface is denser, and the mobile app feels more like a utility tool than a browsing experience. If you\u2019re casually dreaming about homes on your commute, Zillow is still smoother.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Who is the Biggest Competitor of Zillow? A Market Analysis\nHowever, <strong>Realtor.com lacks the user-friendly polish of Zillow</strong>. The interface is denser, and the mobile app feels more like a utility tool than a browsing experience. If you\u2019re casually dreaming about homes on your commute, Zillow is still smoother.",
+          "container": "prestigeprimerosehills.ind.in",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 76,
+          "item_id": "WB4",
+          "local_rank_score": 0.19,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-22",
+          "relevance_hint": 0.8,
+          "snippet": "However, <strong>Realtor.com lacks the user-friendly polish of Zillow</strong>. The interface is denser, and the mobile app feels more like a utility tool than a browsing experience. If you\u2019re casually dreaming about homes on your commute, Zillow is still smoother.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Who is the Biggest Competitor of Zillow? A Market Analysis",
+          "url": "https://prestigeprimerosehills.ind.in/who-is-the-biggest-competitor-of-zillow-a-market-analysis",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "alternatives"
+      ],
+      "title": "Who is the Biggest Competitor of Zillow? A Market Analysis",
+      "url": "https://prestigeprimerosehills.ind.in/who-is-the-biggest-competitor-of-zillow-a-market-analysis"
+    },
+    {
+      "candidate_id": "https://housecanary.com/blog/5-ai-tools-for-real-estate-agents",
+      "cluster_id": "cluster-14",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 22,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 10.0,
+      "item_id": "WB2",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB2",
+            "native_rank": 5,
+            "source": "grounding",
+            "subquery_label": "app recs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recs:grounding": 5
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.0038461538461538464,
+      "snippet": "DealMachine is a lead-generation and property research tool that helps real estate professionals quickly identify distressed properties, access owner contact info, and launch outreach campaigns in minutes. ... Instant owner data: Provides property owner contact information (including phone, email, and mailing address) on the spot. Driving for Dollars app: Tracks routes, saves properties you spot in person, and quickly adds them to your lead pipeline.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "18 Best AI Tools for Real Estate Agents (2026)\nDealMachine is a lead-generation and property research tool that helps real estate professionals quickly identify distressed properties, access owner contact info, and launch outreach campaigns in minutes. ... Instant owner data: Provides property owner contact information (including phone, email, and mailing address) on the spot. Driving for Dollars app: Tracks routes, saves properties you spot in person, and quickly adds them to your lead pipeline.",
+          "container": "www.housecanary.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 22,
+          "item_id": "WB2",
+          "local_rank_score": 0.055,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-02",
+          "relevance_hint": 0.8,
+          "snippet": "DealMachine is a lead-generation and property research tool that helps real estate professionals quickly identify distressed properties, access owner contact info, and launch outreach campaigns in minutes. ... Instant owner data: Provides property owner contact information (including phone, email, and mailing address) on the spot. Driving for Dollars app: Tracks routes, saves properties you spot in person, and quickly adds them to your lead pipeline.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "18 Best AI Tools for Real Estate Agents (2026)",
+          "url": "https://www.housecanary.com/blog/5-ai-tools-for-real-estate-agents",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "app recs"
+      ],
+      "title": "18 Best AI Tools for Real Estate Agents (2026)",
+      "url": "https://www.housecanary.com/blog/5-ai-tools-for-real-estate-agents"
+    },
+    {
+      "candidate_id": "https://altgage.com/blog/real-estate-listing-platforms-to-find-your-dream-home",
+      "cluster_id": "cluster-15",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 70,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "WB1",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB1",
+            "native_rank": 5,
+            "source": "grounding",
+            "subquery_label": "alternatives"
+          }
+        ]
+      },
+      "native_ranks": {
+        "alternatives:grounding": 5
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.0038461538461538464,
+      "snippet": "If you want the most accurate, up-to-date listing data, <strong>Realtor.com is the platform to watch</strong>. Its direct MLS connection refreshes every 15 minutes \u2014 faster than Zillow&#x27;s approximately 30-minute cycle and most other aggregators.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Best Real Estate Listing Platforms (2026): Zillow Preview, AI Search & More - Altgage\nIf you want the most accurate, up-to-date listing data, <strong>Realtor.com is the platform to watch</strong>. Its direct MLS connection refreshes every 15 minutes \u2014 faster than Zillow&#x27;s approximately 30-minute cycle and most other aggregators.",
+          "container": "www.altgage.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 70,
+          "item_id": "WB1",
+          "local_rank_score": 0.175,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-20",
+          "relevance_hint": 0.8,
+          "snippet": "If you want the most accurate, up-to-date listing data, <strong>Realtor.com is the platform to watch</strong>. Its direct MLS connection refreshes every 15 minutes \u2014 faster than Zillow&#x27;s approximately 30-minute cycle and most other aggregators.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Best Real Estate Listing Platforms (2026): Zillow Preview, AI Search & More - Altgage",
+          "url": "https://www.altgage.com/blog/real-estate-listing-platforms-to-find-your-dream-home",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "alternatives"
+      ],
+      "title": "Best Real Estate Listing Platforms (2026): Zillow Preview, AI Search & More - Altgage",
+      "url": "https://www.altgage.com/blog/real-estate-listing-platforms-to-find-your-dream-home"
+    },
+    {
+      "candidate_id": "https://trustpilot.com/review/realtor.com",
+      "cluster_id": "cluster-16",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 46,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "WB5",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB5",
+            "native_rank": 5,
+            "source": "grounding",
+            "subquery_label": "community picks"
+          }
+        ]
+      },
+      "native_ranks": {
+        "community picks:grounding": 5
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.0038461538461538464,
+      "snippet": "I&#x27;m happy I haven&#x27;t fell into real estate scam. A $200,000 house would generate $2,000 month at 10%. As much as I can carry out of stores with two hands or a run down wood chop house. 99% of market is over valued the housing market will crumble one moldy wood Chop house at a time. ... I was disappointed with my experience with Realtor.com.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "realtor.com Reviews | Read Customer Service Reviews of realtor.com\nI&#x27;m happy I haven&#x27;t fell into real estate scam. A $200,000 house would generate $2,000 month at 10%. As much as I can carry out of stores with two hands or a run down wood chop house. 99% of market is over valued the housing market will crumble one moldy wood Chop house at a time. ... I was disappointed with my experience with Realtor.com.",
+          "container": "www.trustpilot.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 46,
+          "item_id": "WB5",
+          "local_rank_score": 0.115,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-11",
+          "relevance_hint": 0.8,
+          "snippet": "I&#x27;m happy I haven&#x27;t fell into real estate scam. A $200,000 house would generate $2,000 month at 10%. As much as I can carry out of stores with two hands or a run down wood chop house. 99% of market is over valued the housing market will crumble one moldy wood Chop house at a time. ... I was disappointed with my experience with Realtor.com.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "realtor.com Reviews | Read Customer Service Reviews of realtor.com",
+          "url": "https://www.trustpilot.com/review/realtor.com",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "community picks"
+      ],
+      "title": "realtor.com Reviews | Read Customer Service Reviews of realtor.com",
+      "url": "https://www.trustpilot.com/review/realtor.com"
+    }
+  ],
+  "topic": "realtors \"any good app for\"",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}

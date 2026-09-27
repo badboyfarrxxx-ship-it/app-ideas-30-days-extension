@@ -1,0 +1,874 @@
+{
+  "artifacts": {
+    "grounding": [
+      {
+        "label": "brave",
+        "resultCount": 5,
+        "webSearchQueries": [
+          "nurses shift app features OR functionality"
+        ]
+      },
+      {
+        "label": "brave",
+        "resultCount": 5,
+        "webSearchQueries": [
+          "nurse shift scheduling app"
+        ]
+      },
+      {
+        "label": "brave",
+        "resultCount": 5,
+        "webSearchQueries": [
+          "nurse shift app review OR experience"
+        ]
+      }
+    ],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "nurses shift app",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://appbrain.com/app/nursie-nurse-shift-planner/app.nursie"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://appbrain.com/app/nursie-nurse-shift-planner/app.nursie"
+      ],
+      "score": 60.566120218579236,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Nursie: Nurse Shift Planner - Free APK Download for Android"
+    },
+    {
+      "candidate_ids": [
+        "https://play.google.com/store/apps/details?id=com.eshyft.app&hl=en_us"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://play.google.com/store/apps/details?id=com.eshyft.app&hl=en_us"
+      ],
+      "score": 56.469723691945916,
+      "sources": [
+        "grounding"
+      ],
+      "title": "ESHYFT - Per Diem Nursing - Apps on Google Play"
+    },
+    {
+      "candidate_ids": [
+        "https://nurse.org/news/nurse-flexibility-gig-apps"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://nurse.org/news/nurse-flexibility-gig-apps"
+      ],
+      "score": 56.41432908318154,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Nursing's New Flexibility: What Gig Apps, Float Pools, and Internal Travel Really Pay | Nurse.org"
+    },
+    {
+      "candidate_ids": [
+        "https://tiktok.com/discover/apps-for-nurses-to-pick-up-shifts"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://tiktok.com/discover/apps-for-nurses-to-pick-up-shifts"
+      ],
+      "score": 53.11791135397693,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Apps for Nurses to Pick Up Shifts | TikTok"
+    },
+    {
+      "candidate_ids": [
+        "https://play.google.com/store/apps/details?id=uk.co.mybuzztechnologies.myshiftplanner&hl=en_au"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://play.google.com/store/apps/details?id=uk.co.mybuzztechnologies.myshiftplanner&hl=en_au"
+      ],
+      "score": 49.922751322751324,
+      "sources": [
+        "grounding"
+      ],
+      "title": "My Shift Planner - Calendar \u2013 Apps on Google Play"
+    },
+    {
+      "candidate_ids": [
+        "https://community.nursa.com/forums/topic/17872-i-need-help"
+      ],
+      "cluster_id": "cluster-6",
+      "representative_ids": [
+        "https://community.nursa.com/forums/topic/17872-i-need-help"
+      ],
+      "score": 44.87577895355673,
+      "sources": [
+        "grounding"
+      ],
+      "title": "I need help - Community Introductions - Nursa Community"
+    },
+    {
+      "candidate_ids": [
+        "https://connecteam.com/top-nurse-scheduling-software-solutions"
+      ],
+      "cluster_id": "cluster-7",
+      "representative_ids": [
+        "https://connecteam.com/top-nurse-scheduling-software-solutions"
+      ],
+      "score": 40.994743130227,
+      "sources": [
+        "grounding"
+      ],
+      "title": "5 Best Nurse Scheduling Software (In-Depth Reviews)"
+    },
+    {
+      "candidate_ids": [
+        "https://play.google.com/store/apps/details?id=app.supershift&hl=en_us"
+      ],
+      "cluster_id": "cluster-8",
+      "representative_ids": [
+        "https://play.google.com/store/apps/details?id=app.supershift&hl=en_us"
+      ],
+      "score": 27.037514934289128,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Supershift Shift Work Calendar - Apps on Google Play"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-27T20:16:26.791018+00:00",
+  "items_by_source": {
+    "grounding": [
+      {
+        "body": "Nursie: Nurse Shift Planner - Free APK Download for Android\nNursie Friends Nursing Estimate Sync Designed Evening Night Plans Upcoming Built Improved Shifts Shift Nurse Calendar Schedule Planner Plan Schedules Personal Work Pay Set Reminders Day Days Simple Screen Nurses \u00b7 Hours App Time Workers Li Custom Track Notes Add Easy View Multiple Patterns Manage Working Life Events Stay Share Overtime Rotating Family Widget Features Earnings Support Calendars Week Jobs Monthly Create Tracking",
+        "container": "www.appbrain.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 22,
+        "item_id": "WB3",
+        "local_rank_score": 0.2955,
+        "local_relevance": 0.37,
+        "metadata": {},
+        "published_at": "2026-09-02",
+        "relevance_hint": 0.8,
+        "snippet": "Nursie Friends Nursing Estimate Sync Designed Evening Night Plans Upcoming Built Improved Shifts Shift Nurse Calendar Schedule Planner Plan Schedules Personal Work Pay Set Reminders Day Days Simple Screen Nurses \u00b7 Hours App Time Workers Li Custom Track Notes Add Easy View Multiple Patterns Manage Working Life Events Stay Share Overtime Rotating Family Widget Features Earnings Support Calendars Week Jobs Monthly Create Tracking",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Nursie: Nurse Shift Planner - Free APK Download for Android",
+        "url": "https://www.appbrain.com/app/nursie-nurse-shift-planner/app.nursie",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Supershift Shift Work Calendar - Apps on Google Play\nSUPERSHIFT PRO FEATURES \u2022 <strong>Android Calendar Export: Push your shifts directly to Google Calendar</strong>. \u2022 PDF Export: Create and share a polished PDF version of your monthly calendar complete with title, times, breaks, notes, location, and total ...",
+        "container": "play.google.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 62,
+        "item_id": "WB2",
+        "local_rank_score": 0.28500000000000003,
+        "local_relevance": 0.2,
+        "metadata": {},
+        "published_at": "2026-09-17",
+        "relevance_hint": 0.8,
+        "snippet": "SUPERSHIFT PRO FEATURES \u2022 <strong>Android Calendar Export: Push your shifts directly to Google Calendar</strong>. \u2022 PDF Export: Create and share a polished PDF version of your monthly calendar complete with title, times, breaks, notes, location, and total ...",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Supershift Shift Work Calendar - Apps on Google Play",
+        "url": "https://play.google.com/store/apps/details?id=app.supershift&hl=en_US",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Apps for Nurses to Pick Up Shifts | TikTok\nFinally, a rota app made for nurses ... see when you\u2019re all off together \ud83d\ude02 We\u2019ve finally released it for everyone \ud83d\udc9c <strong>Search Nursie</strong> on the App Store -hope you love it!!...",
+        "container": "www.tiktok.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 36,
+        "item_id": "WB5",
+        "local_rank_score": 0.28500000000000003,
+        "local_relevance": 0.3,
+        "metadata": {},
+        "published_at": "2026-09-07",
+        "relevance_hint": 0.8,
+        "snippet": "Finally, a rota app made for nurses ... see when you\u2019re all off together \ud83d\ude02 We\u2019ve finally released it for everyone \ud83d\udc9c <strong>Search Nursie</strong> on the App Store -hope you love it!!...",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Apps for Nurses to Pick Up Shifts | TikTok",
+        "url": "https://www.tiktok.com/discover/apps-for-nurses-to-pick-up-shifts",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Supershift Shift Work Calendar - Apps on Google Play\n<strong>Supershift is one of the world&#x27;s most popular shift calendar apps on Android</strong>. It is built specifically for nurses, doctors, paramedics, police officers, firefighters, factory and manufacturing workers, retail staff, airport crew, and bus, train, ...",
+        "container": "play.google.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 60,
+        "item_id": "WB3",
+        "local_rank_score": 0.2735,
+        "local_relevance": 0.19,
+        "metadata": {},
+        "published_at": "2026-09-16",
+        "relevance_hint": 0.8,
+        "snippet": "<strong>Supershift is one of the world&#x27;s most popular shift calendar apps on Android</strong>. It is built specifically for nurses, doctors, paramedics, police officers, firefighters, factory and manufacturing workers, retail staff, airport crew, and bus, train, ...",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Supershift Shift Work Calendar - Apps on Google Play",
+        "url": "https://play.google.com/store/apps/details?id=app.supershift&hl=en_US",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Nursing's New Flexibility: What Gig Apps, Float Pools, and Internal Travel Really Pay | Nurse.org\nWe reviewed 18 of the most visible gig nursing marketplaces, plus a handful of staffing networks operating in the same space, and there are likely more. These are real options for nurses who want flexibility: you may be able to pick up individual shifts, choose when you work, and, on some platforms, even set or negotiate your own rate. But before you download an app because the posted rate caught your attention, there are a few things I would look at first.",
+        "container": "nurse.org",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 42,
+        "item_id": "WB3",
+        "local_rank_score": 0.22199999999999998,
+        "local_relevance": 0.18,
+        "metadata": {},
+        "published_at": "2026-09-09",
+        "relevance_hint": 0.8,
+        "snippet": "We reviewed 18 of the most visible gig nursing marketplaces, plus a handful of staffing networks operating in the same space, and there are likely more. These are real options for nurses who want flexibility: you may be able to pick up individual shifts, choose when you work, and, on some platforms, even set or negotiate your own rate. But before you download an app because the posted rate caught your attention, there are a few things I would look at first.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Nursing's New Flexibility: What Gig Apps, Float Pools, and Internal Travel Really Pay | Nurse.org",
+        "url": "https://nurse.org/news/nurse-flexibility-gig-apps/",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "My Shift Planner - Calendar \u2013 Apps on Google Play\nIt <strong>helps you keep track of your work schedule, shift pattern, overtime, annual leave and earnings in one place</strong>, giving you a clearer picture of both your work and personal life. TRUSTED BY SHIFT WORKERS MyShiftPlanner is used by nurses, healthcare ...",
+        "container": "play.google.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 36,
+        "item_id": "WB4",
+        "local_rank_score": 0.22,
+        "local_relevance": 0.2,
+        "metadata": {},
+        "published_at": "2026-09-07",
+        "relevance_hint": 0.8,
+        "snippet": "It <strong>helps you keep track of your work schedule, shift pattern, overtime, annual leave and earnings in one place</strong>, giving you a clearer picture of both your work and personal life. TRUSTED BY SHIFT WORKERS MyShiftPlanner is used by nurses, healthcare ...",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "My Shift Planner - Calendar \u2013 Apps on Google Play",
+        "url": "https://play.google.com/store/apps/details?id=uk.co.mybuzztechnologies.myShiftPlanner&hl=en_AU",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "5 Best Nurse Scheduling Software (In-Depth Reviews)\nI found Sling\u2019s scheduling interface particularly effective for nurse unit management through its \u201canchor employee\u201d approach. Instead of scheduling day by day, you can first place your most experienced nurses\u2014your \u201canchors\u201d\u2014across different shifts.",
+        "container": "connecteam.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 38,
+        "item_id": "WB2",
+        "local_rank_score": 0.212,
+        "local_relevance": 0.18,
+        "metadata": {},
+        "published_at": "2026-09-08",
+        "relevance_hint": 0.8,
+        "snippet": "I found Sling\u2019s scheduling interface particularly effective for nurse unit management through its \u201canchor employee\u201d approach. Instead of scheduling day by day, you can first place your most experienced nurses\u2014your \u201canchors\u201d\u2014across different shifts.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "5 Best Nurse Scheduling Software (In-Depth Reviews)",
+        "url": "https://connecteam.com/top-nurse-scheduling-software-solutions/",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "I need help - Community Introductions - Nursa Community\nIt\u2019s saying \u201c shift in review\u201d and when I click that it shows a picture of a small clock \u23f0 and it says \u201c recorded shift activity\u201d. When I got home I saw I had to fill in the clock in/out &amp; the lunch break. (Clinical report) I used my bank instead of the Nursa cash out.",
+        "container": "community.nursa.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 17,
+        "item_id": "WB4",
+        "local_rank_score": 0.1595,
+        "local_relevance": 0.18,
+        "metadata": {},
+        "published_at": "2026-08-31",
+        "relevance_hint": 0.8,
+        "snippet": "It\u2019s saying \u201c shift in review\u201d and when I click that it shows a picture of a small clock \u23f0 and it says \u201c recorded shift activity\u201d. When I got home I saw I had to fill in the clock in/out &amp; the lunch break. (Clinical report) I used my bank instead of the Nursa cash out.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "I need help - Community Introductions - Nursa Community",
+        "url": "https://community.nursa.com/forums/topic/17872-i-need-help/#comment-32249",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "ESHYFT - Per Diem Nursing - Apps on Google Play\nMaintain work-life balance by signing up for <strong>ESHYFT! ESHYFT is an easy way to pick up per diem nursing shifts and connect to local facilities that need you. Whether you&#x27;re a CNA, LPN, RN, STNA, CMA, QMA, GNA, or CMT, using ESHYFT is easy! Create your account - Download the ESHYFT app</strong> ...",
+        "container": "play.google.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 10,
+        "item_id": "WB2",
+        "local_rank_score": 0.14850000000000002,
+        "local_relevance": 0.19,
+        "metadata": {},
+        "published_at": "2026-08-28",
+        "relevance_hint": 0.8,
+        "snippet": "Maintain work-life balance by signing up for <strong>ESHYFT! ESHYFT is an easy way to pick up per diem nursing shifts and connect to local facilities that need you. Whether you&#x27;re a CNA, LPN, RN, STNA, CMA, QMA, GNA, or CMT, using ESHYFT is easy! Create your account - Download the ESHYFT app</strong> ...",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "ESHYFT - Per Diem Nursing - Apps on Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.eshyft.app&hl=en_US",
+        "why_relevant": "Brave web search"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [
+      "focus on product discovery and current app landscape"
+    ],
+    "raw_topic": "nurses shift app",
+    "source_weights": {
+      "grounding": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "core apps",
+        "ranking_query": "What are the main mobile apps nurses use for managing shifts and schedules?",
+        "search_query": "nurse shift scheduling app",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.37037037037037035
+      },
+      {
+        "label": "features comparison",
+        "ranking_query": "How do popular nurse shift apps differ in features like swapping, overtime tracking, and notifications?",
+        "search_query": "nurses shift app features OR functionality",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.3333333333333333
+      },
+      {
+        "label": "user feedback",
+        "ranking_query": "What do nurses report about usability, reliability, and problems with shift management apps?",
+        "search_query": "nurse shift app review OR experience",
+        "sources": [
+          "grounding"
+        ],
+        "weight": 0.2962962962962963
+      }
+    ]
+  },
+  "range_from": "2026-08-28",
+  "range_to": "2026-09-27",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://appbrain.com/app/nursie-nurse-shift-planner/app.nursie",
+      "cluster_id": "cluster-1",
+      "explanation": "Exact 'Nurse Shift Planner' app; features comparison match and entity grounding",
+      "final_score": 60.566120218579236,
+      "freshness": 22,
+      "fun_explanation": "keyword salad, zero wit",
+      "fun_score": 12.0,
+      "item_id": "WB3",
+      "local_relevance": 0.37,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB3",
+            "native_rank": 1,
+            "source": "grounding",
+            "subquery_label": "features comparison"
+          }
+        ]
+      },
+      "native_ranks": {
+        "features comparison:grounding": 1
+      },
+      "rerank_score": 90.0,
+      "rrf_score": 0.00546448087431694,
+      "snippet": "Nursie Friends Nursing Estimate Sync Designed Evening Night Plans Upcoming Built Improved Shifts Shift Nurse Calendar Schedule Planner Plan Schedules Personal Work Pay Set Reminders Day Days Simple Screen Nurses \u00b7 Hours App Time Workers Li Custom Track Notes Add Easy View Multiple Patterns Manage Working Life Events Stay Share Overtime Rotating Family Widget Features Earnings Support Calendars Week Jobs Monthly Create Tracking",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Nursie: Nurse Shift Planner - Free APK Download for Android\nNursie Friends Nursing Estimate Sync Designed Evening Night Plans Upcoming Built Improved Shifts Shift Nurse Calendar Schedule Planner Plan Schedules Personal Work Pay Set Reminders Day Days Simple Screen Nurses \u00b7 Hours App Time Workers Li Custom Track Notes Add Easy View Multiple Patterns Manage Working Life Events Stay Share Overtime Rotating Family Widget Features Earnings Support Calendars Week Jobs Monthly Create Tracking",
+          "container": "www.appbrain.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 22,
+          "item_id": "WB3",
+          "local_rank_score": 0.2955,
+          "local_relevance": 0.37,
+          "metadata": {},
+          "published_at": "2026-09-02",
+          "relevance_hint": 0.8,
+          "snippet": "Nursie Friends Nursing Estimate Sync Designed Evening Night Plans Upcoming Built Improved Shifts Shift Nurse Calendar Schedule Planner Plan Schedules Personal Work Pay Set Reminders Day Days Simple Screen Nurses \u00b7 Hours App Time Workers Li Custom Track Notes Add Easy View Multiple Patterns Manage Working Life Events Stay Share Overtime Rotating Family Widget Features Earnings Support Calendars Week Jobs Monthly Create Tracking",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Nursie: Nurse Shift Planner - Free APK Download for Android",
+          "url": "https://www.appbrain.com/app/nursie-nurse-shift-planner/app.nursie",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "features comparison"
+      ],
+      "title": "Nursie: Nurse Shift Planner - Free APK Download for Android",
+      "url": "https://www.appbrain.com/app/nursie-nurse-shift-planner/app.nursie"
+    },
+    {
+      "candidate_id": "https://play.google.com/store/apps/details?id=com.eshyft.app&hl=en_us",
+      "cluster_id": "cluster-2",
+      "explanation": "Nurse-focused per diem shift app; strong entity match and product relevance",
+      "final_score": 56.469723691945916,
+      "freshness": 10,
+      "fun_explanation": "straight promo copy",
+      "fun_score": 18.0,
+      "item_id": "WB2",
+      "local_relevance": 0.19,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB2",
+            "native_rank": 3,
+            "source": "grounding",
+            "subquery_label": "core apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "core apps:grounding": 3
+      },
+      "rerank_score": 85.0,
+      "rrf_score": 0.005878894767783656,
+      "snippet": "Maintain work-life balance by signing up for <strong>ESHYFT! ESHYFT is an easy way to pick up per diem nursing shifts and connect to local facilities that need you. Whether you&#x27;re a CNA, LPN, RN, STNA, CMA, QMA, GNA, or CMT, using ESHYFT is easy! Create your account - Download the ESHYFT app</strong> ...",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "ESHYFT - Per Diem Nursing - Apps on Google Play\nMaintain work-life balance by signing up for <strong>ESHYFT! ESHYFT is an easy way to pick up per diem nursing shifts and connect to local facilities that need you. Whether you&#x27;re a CNA, LPN, RN, STNA, CMA, QMA, GNA, or CMT, using ESHYFT is easy! Create your account - Download the ESHYFT app</strong> ...",
+          "container": "play.google.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 10,
+          "item_id": "WB2",
+          "local_rank_score": 0.14850000000000002,
+          "local_relevance": 0.19,
+          "metadata": {},
+          "published_at": "2026-08-28",
+          "relevance_hint": 0.8,
+          "snippet": "Maintain work-life balance by signing up for <strong>ESHYFT! ESHYFT is an easy way to pick up per diem nursing shifts and connect to local facilities that need you. Whether you&#x27;re a CNA, LPN, RN, STNA, CMA, QMA, GNA, or CMT, using ESHYFT is easy! Create your account - Download the ESHYFT app</strong> ...",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "ESHYFT - Per Diem Nursing - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.eshyft.app&hl=en_US",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "core apps"
+      ],
+      "title": "ESHYFT - Per Diem Nursing - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.eshyft.app&hl=en_US"
+    },
+    {
+      "candidate_id": "https://nurse.org/news/nurse-flexibility-gig-apps",
+      "cluster_id": "cluster-3",
+      "explanation": "Review of gig nurse shift apps with flexibility and pay insights; user feedback intent",
+      "final_score": 56.41432908318154,
+      "freshness": 42,
+      "fun_explanation": "dry article, no punch",
+      "fun_score": 22.0,
+      "item_id": "WB3",
+      "local_relevance": 0.18,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB3",
+            "native_rank": 1,
+            "source": "grounding",
+            "subquery_label": "user feedback"
+          }
+        ]
+      },
+      "native_ranks": {
+        "user feedback:grounding": 1
+      },
+      "rerank_score": 80.0,
+      "rrf_score": 0.004857316332726168,
+      "snippet": "We reviewed 18 of the most visible gig nursing marketplaces, plus a handful of staffing networks operating in the same space, and there are likely more. These are real options for nurses who want flexibility: you may be able to pick up individual shifts, choose when you work, and, on some platforms, even set or negotiate your own rate. But before you download an app because the posted rate caught your attention, there are a few things I would look at first.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Nursing's New Flexibility: What Gig Apps, Float Pools, and Internal Travel Really Pay | Nurse.org\nWe reviewed 18 of the most visible gig nursing marketplaces, plus a handful of staffing networks operating in the same space, and there are likely more. These are real options for nurses who want flexibility: you may be able to pick up individual shifts, choose when you work, and, on some platforms, even set or negotiate your own rate. But before you download an app because the posted rate caught your attention, there are a few things I would look at first.",
+          "container": "nurse.org",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 42,
+          "item_id": "WB3",
+          "local_rank_score": 0.22199999999999998,
+          "local_relevance": 0.18,
+          "metadata": {},
+          "published_at": "2026-09-09",
+          "relevance_hint": 0.8,
+          "snippet": "We reviewed 18 of the most visible gig nursing marketplaces, plus a handful of staffing networks operating in the same space, and there are likely more. These are real options for nurses who want flexibility: you may be able to pick up individual shifts, choose when you work, and, on some platforms, even set or negotiate your own rate. But before you download an app because the posted rate caught your attention, there are a few things I would look at first.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Nursing's New Flexibility: What Gig Apps, Float Pools, and Internal Travel Really Pay | Nurse.org",
+          "url": "https://nurse.org/news/nurse-flexibility-gig-apps/",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "user feedback"
+      ],
+      "title": "Nursing's New Flexibility: What Gig Apps, Float Pools, and Internal Travel Really Pay | Nurse.org",
+      "url": "https://nurse.org/news/nurse-flexibility-gig-apps/"
+    },
+    {
+      "candidate_id": "https://tiktok.com/discover/apps-for-nurses-to-pick-up-shifts",
+      "cluster_id": "cluster-4",
+      "explanation": "Directly lists nurse shift pickup apps with user mentions; matches core apps",
+      "final_score": 53.11791135397693,
+      "freshness": 36,
+      "fun_explanation": "has \ud83d\ude02 and casual vibe",
+      "fun_score": 41.0,
+      "item_id": "WB5",
+      "local_relevance": 0.3,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB5",
+            "native_rank": 1,
+            "source": "grounding",
+            "subquery_label": "core apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "core apps:grounding": 1
+      },
+      "rerank_score": 75.0,
+      "rrf_score": 0.006071645415907711,
+      "snippet": "Finally, a rota app made for nurses ... see when you\u2019re all off together \ud83d\ude02 We\u2019ve finally released it for everyone \ud83d\udc9c <strong>Search Nursie</strong> on the App Store -hope you love it!!...",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Apps for Nurses to Pick Up Shifts | TikTok\nFinally, a rota app made for nurses ... see when you\u2019re all off together \ud83d\ude02 We\u2019ve finally released it for everyone \ud83d\udc9c <strong>Search Nursie</strong> on the App Store -hope you love it!!...",
+          "container": "www.tiktok.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 36,
+          "item_id": "WB5",
+          "local_rank_score": 0.28500000000000003,
+          "local_relevance": 0.3,
+          "metadata": {},
+          "published_at": "2026-09-07",
+          "relevance_hint": 0.8,
+          "snippet": "Finally, a rota app made for nurses ... see when you\u2019re all off together \ud83d\ude02 We\u2019ve finally released it for everyone \ud83d\udc9c <strong>Search Nursie</strong> on the App Store -hope you love it!!...",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Apps for Nurses to Pick Up Shifts | TikTok",
+          "url": "https://www.tiktok.com/discover/apps-for-nurses-to-pick-up-shifts",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "core apps"
+      ],
+      "title": "Apps for Nurses to Pick Up Shifts | TikTok",
+      "url": "https://www.tiktok.com/discover/apps-for-nurses-to-pick-up-shifts"
+    },
+    {
+      "candidate_id": "https://play.google.com/store/apps/details?id=uk.co.mybuzztechnologies.myshiftplanner&hl=en_au",
+      "cluster_id": "cluster-5",
+      "explanation": "Shift planner used by nurses; feature details but broader than nurses-only",
+      "final_score": 49.922751322751324,
+      "freshness": 36,
+      "fun_explanation": "plain app blurb",
+      "fun_score": 15.0,
+      "item_id": "WB4",
+      "local_relevance": 0.2,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB4",
+            "native_rank": 3,
+            "source": "grounding",
+            "subquery_label": "features comparison"
+          }
+        ]
+      },
+      "native_ranks": {
+        "features comparison:grounding": 3
+      },
+      "rerank_score": 70.0,
+      "rrf_score": 0.005291005291005291,
+      "snippet": "It <strong>helps you keep track of your work schedule, shift pattern, overtime, annual leave and earnings in one place</strong>, giving you a clearer picture of both your work and personal life. TRUSTED BY SHIFT WORKERS MyShiftPlanner is used by nurses, healthcare ...",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "My Shift Planner - Calendar \u2013 Apps on Google Play\nIt <strong>helps you keep track of your work schedule, shift pattern, overtime, annual leave and earnings in one place</strong>, giving you a clearer picture of both your work and personal life. TRUSTED BY SHIFT WORKERS MyShiftPlanner is used by nurses, healthcare ...",
+          "container": "play.google.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 36,
+          "item_id": "WB4",
+          "local_rank_score": 0.22,
+          "local_relevance": 0.2,
+          "metadata": {},
+          "published_at": "2026-09-07",
+          "relevance_hint": 0.8,
+          "snippet": "It <strong>helps you keep track of your work schedule, shift pattern, overtime, annual leave and earnings in one place</strong>, giving you a clearer picture of both your work and personal life. TRUSTED BY SHIFT WORKERS MyShiftPlanner is used by nurses, healthcare ...",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "My Shift Planner - Calendar \u2013 Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=uk.co.mybuzztechnologies.myShiftPlanner&hl=en_AU",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "features comparison"
+      ],
+      "title": "My Shift Planner - Calendar \u2013 Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=uk.co.mybuzztechnologies.myShiftPlanner&hl=en_AU"
+    },
+    {
+      "candidate_id": "https://community.nursa.com/forums/topic/17872-i-need-help",
+      "cluster_id": "cluster-6",
+      "explanation": "Real user problem report on Nursa shift app; narrow but authentic feedback",
+      "final_score": 44.87577895355673,
+      "freshness": 17,
+      "fun_explanation": "clock emoji adds tiny personality",
+      "fun_score": 27.0,
+      "item_id": "WB4",
+      "local_relevance": 0.18,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB4",
+            "native_rank": 3,
+            "source": "grounding",
+            "subquery_label": "user feedback"
+          }
+        ]
+      },
+      "native_ranks": {
+        "user feedback:grounding": 3
+      },
+      "rerank_score": 65.0,
+      "rrf_score": 0.004703115814226925,
+      "snippet": "It\u2019s saying \u201c shift in review\u201d and when I click that it shows a picture of a small clock \u23f0 and it says \u201c recorded shift activity\u201d. When I got home I saw I had to fill in the clock in/out &amp; the lunch break. (Clinical report) I used my bank instead of the Nursa cash out.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "I need help - Community Introductions - Nursa Community\nIt\u2019s saying \u201c shift in review\u201d and when I click that it shows a picture of a small clock \u23f0 and it says \u201c recorded shift activity\u201d. When I got home I saw I had to fill in the clock in/out &amp; the lunch break. (Clinical report) I used my bank instead of the Nursa cash out.",
+          "container": "community.nursa.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 17,
+          "item_id": "WB4",
+          "local_rank_score": 0.1595,
+          "local_relevance": 0.18,
+          "metadata": {},
+          "published_at": "2026-08-31",
+          "relevance_hint": 0.8,
+          "snippet": "It\u2019s saying \u201c shift in review\u201d and when I click that it shows a picture of a small clock \u23f0 and it says \u201c recorded shift activity\u201d. When I got home I saw I had to fill in the clock in/out &amp; the lunch break. (Clinical report) I used my bank instead of the Nursa cash out.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "I need help - Community Introductions - Nursa Community",
+          "url": "https://community.nursa.com/forums/topic/17872-i-need-help/#comment-32249",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "user feedback"
+      ],
+      "title": "I need help - Community Introductions - Nursa Community",
+      "url": "https://community.nursa.com/forums/topic/17872-i-need-help/#comment-32249"
+    },
+    {
+      "candidate_id": "https://connecteam.com/top-nurse-scheduling-software-solutions",
+      "cluster_id": "cluster-7",
+      "explanation": "Nurse scheduling software review; somewhat relevant but marketing-oriented and not app-focused",
+      "final_score": 40.994743130227,
+      "freshness": 38,
+      "fun_explanation": "corporate listicle tone",
+      "fun_score": 19.0,
+      "item_id": "WB2",
+      "local_relevance": 0.18,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB2",
+            "native_rank": 2,
+            "source": "grounding",
+            "subquery_label": "user feedback"
+          }
+        ]
+      },
+      "native_ranks": {
+        "user feedback:grounding": 2
+      },
+      "rerank_score": 55.0,
+      "rrf_score": 0.0047789725209080045,
+      "snippet": "I found Sling\u2019s scheduling interface particularly effective for nurse unit management through its \u201canchor employee\u201d approach. Instead of scheduling day by day, you can first place your most experienced nurses\u2014your \u201canchors\u201d\u2014across different shifts.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "5 Best Nurse Scheduling Software (In-Depth Reviews)\nI found Sling\u2019s scheduling interface particularly effective for nurse unit management through its \u201canchor employee\u201d approach. Instead of scheduling day by day, you can first place your most experienced nurses\u2014your \u201canchors\u201d\u2014across different shifts.",
+          "container": "connecteam.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 38,
+          "item_id": "WB2",
+          "local_rank_score": 0.212,
+          "local_relevance": 0.18,
+          "metadata": {},
+          "published_at": "2026-09-08",
+          "relevance_hint": 0.8,
+          "snippet": "I found Sling\u2019s scheduling interface particularly effective for nurse unit management through its \u201canchor employee\u201d approach. Instead of scheduling day by day, you can first place your most experienced nurses\u2014your \u201canchors\u201d\u2014across different shifts.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "5 Best Nurse Scheduling Software (In-Depth Reviews)",
+          "url": "https://connecteam.com/top-nurse-scheduling-software-solutions/",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "user feedback"
+      ],
+      "title": "5 Best Nurse Scheduling Software (In-Depth Reviews)",
+      "url": "https://connecteam.com/top-nurse-scheduling-software-solutions/"
+    },
+    {
+      "candidate_id": "https://play.google.com/store/apps/details?id=app.supershift&hl=en_us",
+      "cluster_id": "cluster-8",
+      "explanation": "General shift calendar app; no mention of nurses or nurse-specific entity",
+      "final_score": 27.037514934289128,
+      "freshness": 62,
+      "fun_explanation": "feature dump, no spark",
+      "fun_score": 14.0,
+      "item_id": "WB2",
+      "local_relevance": 0.2,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB2",
+            "native_rank": 2,
+            "source": "grounding",
+            "subquery_label": "features comparison"
+          },
+          {
+            "item_id": "WB3",
+            "native_rank": 2,
+            "source": "grounding",
+            "subquery_label": "core apps"
+          }
+        ]
+      },
+      "native_ranks": {
+        "core apps:grounding": 2,
+        "features comparison:grounding": 2
+      },
+      "rerank_score": 25.0,
+      "rrf_score": 0.01135005973715651,
+      "snippet": "SUPERSHIFT PRO FEATURES \u2022 <strong>Android Calendar Export: Push your shifts directly to Google Calendar</strong>. \u2022 PDF Export: Create and share a polished PDF version of your monthly calendar complete with title, times, breaks, notes, location, and total ...",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Supershift Shift Work Calendar - Apps on Google Play\nSUPERSHIFT PRO FEATURES \u2022 <strong>Android Calendar Export: Push your shifts directly to Google Calendar</strong>. \u2022 PDF Export: Create and share a polished PDF version of your monthly calendar complete with title, times, breaks, notes, location, and total ...",
+          "container": "play.google.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 62,
+          "item_id": "WB2",
+          "local_rank_score": 0.28500000000000003,
+          "local_relevance": 0.2,
+          "metadata": {},
+          "published_at": "2026-09-17",
+          "relevance_hint": 0.8,
+          "snippet": "SUPERSHIFT PRO FEATURES \u2022 <strong>Android Calendar Export: Push your shifts directly to Google Calendar</strong>. \u2022 PDF Export: Create and share a polished PDF version of your monthly calendar complete with title, times, breaks, notes, location, and total ...",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Supershift Shift Work Calendar - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=app.supershift&hl=en_US",
+          "why_relevant": "Brave web search"
+        },
+        {
+          "body": "Supershift Shift Work Calendar - Apps on Google Play\n<strong>Supershift is one of the world&#x27;s most popular shift calendar apps on Android</strong>. It is built specifically for nurses, doctors, paramedics, police officers, firefighters, factory and manufacturing workers, retail staff, airport crew, and bus, train, ...",
+          "container": "play.google.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 60,
+          "item_id": "WB3",
+          "local_rank_score": 0.2735,
+          "local_relevance": 0.19,
+          "metadata": {},
+          "published_at": "2026-09-16",
+          "relevance_hint": 0.8,
+          "snippet": "<strong>Supershift is one of the world&#x27;s most popular shift calendar apps on Android</strong>. It is built specifically for nurses, doctors, paramedics, police officers, firefighters, factory and manufacturing workers, retail staff, airport crew, and bus, train, ...",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Supershift Shift Work Calendar - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=app.supershift&hl=en_US",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "features comparison",
+        "core apps"
+      ],
+      "title": "Supershift Shift Work Calendar - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=app.supershift&hl=en_US"
+    }
+  ],
+  "topic": "nurses shift app",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}
