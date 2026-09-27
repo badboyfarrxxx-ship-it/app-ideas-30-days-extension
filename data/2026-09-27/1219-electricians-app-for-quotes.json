@@ -1,0 +1,79 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "electricians app for quotes",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-27T12:19:41.922992+00:00",
+  "items_by_source": {
+    "instagram": [],
+    "tiktok": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [],
+    "raw_topic": "electricians app for quotes",
+    "source_weights": {
+      "instagram": 0.5,
+      "tiktok": 0.5
+    },
+    "subqueries": [
+      {
+        "label": "core app search",
+        "ranking_query": "Apps electricians use to create and send job quotes",
+        "search_query": "electrician quote app",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 0.35714285714285715
+      },
+      {
+        "label": "demo videos",
+        "ranking_query": "Short videos showing how electricians generate quotes in an app",
+        "search_query": "electrician quoting tool demo",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 0.35714285714285715
+      },
+      {
+        "label": "user tips",
+        "ranking_query": "Electricians sharing tips on using quote apps for jobs",
+        "search_query": "electricians app quotes workflow",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 0.28571428571428575
+      }
+    ]
+  },
+  "range_from": "2026-08-28",
+  "range_to": "2026-09-27",
+  "ranked_candidates": [],
+  "topic": "electricians app for quotes",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

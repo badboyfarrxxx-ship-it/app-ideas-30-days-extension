@@ -1,0 +1,79 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "rad tech student app",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-27T12:19:34.629216+00:00",
+  "items_by_source": {
+    "instagram": [],
+    "tiktok": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [],
+    "raw_topic": "rad tech student app",
+    "source_weights": {
+      "instagram": 0.4,
+      "tiktok": 0.6
+    },
+    "subqueries": [
+      {
+        "label": "app recommendations",
+        "ranking_query": "What mobile apps are rad tech students using or recommending?",
+        "search_query": "rad tech app OR radiology student app",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 0.37037037037037035
+      },
+      {
+        "label": "study tools",
+        "ranking_query": "Which apps help rad tech students study anatomy positioning or registry prep?",
+        "search_query": "rad tech student OR radiology tech app review",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 0.3333333333333333
+      },
+      {
+        "label": "user experiences",
+        "ranking_query": "Real experiences from rad tech students with specific apps?",
+        "search_query": "rad tech app OR radiology app student",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 0.2962962962962963
+      }
+    ]
+  },
+  "range_from": "2026-08-28",
+  "range_to": "2026-09-27",
+  "ranked_candidates": [],
+  "topic": "rad tech student app",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

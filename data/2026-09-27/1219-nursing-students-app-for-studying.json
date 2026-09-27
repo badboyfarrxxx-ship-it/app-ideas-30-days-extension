@@ -1,0 +1,89 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "nursing students app for studying",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-27T12:19:27.789517+00:00",
+  "items_by_source": {
+    "instagram": [],
+    "tiktok": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "workflow",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [],
+    "raw_topic": "nursing students app for studying",
+    "source_weights": {
+      "instagram": 0.45,
+      "tiktok": 0.55
+    },
+    "subqueries": [
+      {
+        "label": "App recommendations",
+        "ranking_query": "What apps do nursing students recommend for studying and exam prep?",
+        "search_query": "nursing student study app",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 0.25641025641025644
+      },
+      {
+        "label": "App reviews",
+        "ranking_query": "Real user reviews of study apps popular with nursing students",
+        "search_query": "nursing school app review",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 0.25641025641025644
+      },
+      {
+        "label": "Best apps",
+        "ranking_query": "Which apps are considered best for nursing students to study with?",
+        "search_query": "best nursing student app",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 0.25641025641025644
+      },
+      {
+        "label": "Usage tutorials",
+        "ranking_query": "How nursing students actually use study apps day to day",
+        "search_query": "nursing app tutorial",
+        "sources": [
+          "tiktok",
+          "instagram"
+        ],
+        "weight": 0.23076923076923078
+      }
+    ]
+  },
+  "range_from": "2026-08-28",
+  "range_to": "2026-09-27",
+  "ranked_candidates": [],
+  "topic": "nursing students app for studying",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}
