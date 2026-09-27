@@ -1,0 +1,85 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"I still use a spreadsheet for\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-27T08:16:02.749104+00:00",
+  "items_by_source": {
+    "youtube": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "workflow",
+    "freshness_mode": "evergreen_ok",
+    "intent": "opinion",
+    "notes": [
+      "Topic implies ongoing user workflows and opinions"
+    ],
+    "raw_topic": "\"I still use a spreadsheet for\"",
+    "source_weights": {
+      "youtube": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "why spreadsheets persist",
+        "ranking_query": "Why do people still choose spreadsheets over newer tools for daily work",
+        "search_query": "spreadsheet OR excel \"still use\" OR \"why I use\"",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "spreadsheet workflow examples",
+        "ranking_query": "Real examples of spreadsheet-based workflows people rely on",
+        "search_query": "excel workflow OR spreadsheet process OR \"my spreadsheet\"",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "personal spreadsheet use",
+        "ranking_query": "Personal stories of tasks people still handle with spreadsheets",
+        "search_query": "excel OR spreadsheet \"I use\" OR \"my excel\"",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "spreadsheet vs modern tools",
+        "ranking_query": "Comparisons of spreadsheets versus newer apps in practice",
+        "search_query": "excel vs notion OR airtable OR \"still use excel\"",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.25
+      }
+    ]
+  },
+  "range_from": "2026-08-28",
+  "range_to": "2026-09-27",
+  "ranked_candidates": [],
+  "topic": "\"I still use a spreadsheet for\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

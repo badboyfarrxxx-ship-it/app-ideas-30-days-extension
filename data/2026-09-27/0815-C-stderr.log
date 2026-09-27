@@ -1,0 +1,115 @@
+Batch C sources=youtube
+Started at 2026-09-27T08:15:48Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/36305636290
+----
+
+===== Seed: "worth paying for" app =====
+/last30days · researching: "worth paying for" app
+⏳ [95mProcessing[0m Removing duplicates...
+[Planner] Plan: intent=opinion, freshness=balanced_recent, cluster_mode=debate, subqueries=4, source=llm
+[Planner]   sq1 label=paid apps worth cost search="worth paying for apps OR subscriptions" sources=[youtube]
+[Planner]   sq2 label=best paid app reviews search="best paid apps review OR experience" sources=[youtube]
+[Planner]   sq3 label=subscription apps debate search="paid apps vs free alternatives" sources=[youtube]
+[Planner]   sq4 label=premium apps value search="premium apps worth money OR subscription" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for '"worth paying for" app' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=%22worth+paying+for%22+app
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for '"worth paying for" app' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=%22worth+paying+for%22+app
+[YouTube] SC YouTube search returned 0 results
+✓ Research complete (6.5s) - YouTube: 0 videos
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-27/0815-worth-paying-for-app.json
+[OK] seed succeeded
+
+===== Seed: "I still use a spreadsheet for" =====
+/last30days · researching: "I still use a spreadsheet for"
+⏳ [95mProcessing[0m Scoring and ranking...
+[Planner] Plan: intent=opinion, freshness=evergreen_ok, cluster_mode=workflow, subqueries=4, source=llm
+[Planner]   sq1 label=why spreadsheets persist search="spreadsheet OR excel "still use" OR "why I use"" sources=[youtube]
+[Planner]   sq2 label=spreadsheet workflow examples search="excel workflow OR spreadsheet process OR "my spreadsheet"" sources=[youtube]
+[Planner]   sq3 label=personal spreadsheet use search="excel OR spreadsheet "I use" OR "my excel"" sources=[youtube]
+[Planner]   sq4 label=spreadsheet vs modern tools search="excel vs notion OR airtable OR "still use excel"" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for '"i still use a spreadsheet for"' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=%22i+still+use+a+spreadsheet+for%22
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for '"i still use a spreadsheet for"' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=%22i+still+use+a+spreadsheet+for%22
+[YouTube] SC YouTube search returned 0 results
+✓ Research complete (7.2s) - YouTube: 0 videos
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-27/0816-i-still-use-a-spreadsheet-for.json
+[OK] seed succeeded
+
+===== Seed: "I track it in my notes app" =====
+/last30days · researching: "I track it in my notes app"
+⏳ [95mProcessing[0m Scoring and ranking...
+[Planner] Plan: intent=how_to, freshness=evergreen_ok, cluster_mode=workflow, subqueries=5, source=llm
+[Planner]   sq1 label=notes app tracking setup search="notes app track habits OR tasks OR metrics" sources=[youtube]
+[Planner]   sq2 label=simple notes workflow search="notes app daily tracking system OR template" sources=[youtube]
+[Planner]   sq3 label=notes vs dedicated apps search="notes app habit tracking vs app OR spreadsheet" sources=[youtube]
+[Planner]   sq4 label=notes app examples search="notes app tracking example OR template walkthrough" sources=[youtube]
+[Planner]   sq5 label=community notes tracking search="notes app tracking method OR system tutorial" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for '"i track it in my notes app"' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=%22i+track+it+in+my+notes+app%22
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for '"i track it in my notes app"' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=%22i+track+it+in+my+notes+app%22
+[YouTube] SC YouTube search returned 0 results
+✓ Research complete (8.1s) - YouTube: 0 videos
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-27/0816-i-track-it-in-my-notes-app.json
+[OK] seed succeeded
+
+===== Seed: "there has to be a better way to" =====
+/last30days · researching: "there has to be a better way to"
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] Plan: intent=how_to, freshness=evergreen_ok, cluster_mode=workflow, subqueries=3, source=llm
+[Planner]   sq1 label=productivity alternatives search="better way to productivity OR efficiency OR workflow" sources=[youtube]
+[Planner]   sq2 label=task optimization search="better way to organize OR automate OR simplify tasks" sources=[youtube]
+[Planner]   sq3 label=life hack improvements search="better way to chores OR routine OR habits" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for '"there has to be a better way to"' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=%22there+has+to+be+a+better+way+to%22
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for '"there has to be a better way to"' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=%22there+has+to+be+a+better+way+to%22
+[YouTube] SC YouTube search returned 0 results
+✓ Research complete (8.5s) - YouTube: 0 videos
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-27/0816-there-has-to-be-a-better-way-to.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed

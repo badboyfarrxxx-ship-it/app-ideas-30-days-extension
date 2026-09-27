@@ -1,0 +1,83 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"worth paying for\" app",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-27T08:15:55.361401+00:00",
+  "items_by_source": {
+    "youtube": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "debate",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [],
+    "raw_topic": "\"worth paying for\" app",
+    "source_weights": {
+      "youtube": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "paid apps worth cost",
+        "ranking_query": "Which apps or subscriptions are genuinely worth paying for?",
+        "search_query": "worth paying for apps OR subscriptions",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "best paid app reviews",
+        "ranking_query": "Real user reviews of paid apps that deliver value",
+        "search_query": "best paid apps review OR experience",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "subscription apps debate",
+        "ranking_query": "Are paid apps better than free alternatives and why?",
+        "search_query": "paid apps vs free alternatives",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "premium apps value",
+        "ranking_query": "Which premium apps actually justify their price tag?",
+        "search_query": "premium apps worth money OR subscription",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.25
+      }
+    ]
+  },
+  "range_from": "2026-08-28",
+  "range_to": "2026-09-27",
+  "ranked_candidates": [],
+  "topic": "\"worth paying for\" app",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

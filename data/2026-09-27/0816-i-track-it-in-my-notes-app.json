@@ -1,0 +1,92 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"I track it in my notes app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-27T08:16:11.057533+00:00",
+  "items_by_source": {
+    "youtube": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "workflow",
+    "freshness_mode": "evergreen_ok",
+    "intent": "how_to",
+    "notes": [],
+    "raw_topic": "\"I track it in my notes app\"",
+    "source_weights": {
+      "youtube": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "notes app tracking setup",
+        "ranking_query": "How do people set up tracking inside a notes app instead of dedicated tools?",
+        "search_query": "notes app track habits OR tasks OR metrics",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.2
+      },
+      {
+        "label": "simple notes workflow",
+        "ranking_query": "What does a practical daily tracking workflow look like when everything lives in a notes app?",
+        "search_query": "notes app daily tracking system OR template",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.2
+      },
+      {
+        "label": "notes vs dedicated apps",
+        "ranking_query": "Why do some people choose to track everything in a plain notes app instead of purpose-built apps?",
+        "search_query": "notes app habit tracking vs app OR spreadsheet",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.2
+      },
+      {
+        "label": "notes app examples",
+        "ranking_query": "Can you show real examples of people tracking goals or data inside their notes app?",
+        "search_query": "notes app tracking example OR template walkthrough",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.2
+      },
+      {
+        "label": "community notes tracking",
+        "ranking_query": "What tracking methods do users commonly share for keeping everything in a notes app?",
+        "search_query": "notes app tracking method OR system tutorial",
+        "sources": [
+          "youtube"
+        ],
+        "weight": 0.2
+      }
+    ]
+  },
+  "range_from": "2026-08-28",
+  "range_to": "2026-09-27",
+  "ranked_candidates": [],
+  "topic": "\"I track it in my notes app\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}
