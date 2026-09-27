@@ -1,0 +1,1228 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"any good app for\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://x.com/_drippingcoco_/status/2101813173804294432"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://x.com/_drippingcoco_/status/2101813173804294432"
+      ],
+      "score": 33.30035211267606,
+      "sources": [
+        "x"
+      ],
+      "title": "Too Good to Go : If you\u2019re not picky about food, I definitely recommend I use it all the time. It\u2019s basically an app to let you buy food tha"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/eniola_ng/status/2102710181922750672"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://x.com/eniola_ng/status/2102710181922750672"
+      ],
+      "score": 32.33584734211722,
+      "sources": [
+        "x"
+      ],
+      "title": "Please help recommend good invoice app \ud83d\ude4f\ud83c\udffb"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/i0oser/status/2098716883604173244"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://x.com/i0oser/status/2098716883604173244"
+      ],
+      "score": 30.651082615093543,
+      "sources": [
+        "x"
+      ],
+      "title": "drawing w a mouse for the first time in a whiiile. Can anyone recommend a good app for drawing? #sketch #art #artist #artmoots #csmfanart #p"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/hadesdevs/status/2103041248722350345"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://x.com/hadesdevs/status/2103041248722350345"
+      ],
+      "score": 30.639021011313787,
+      "sources": [
+        "x"
+      ],
+      "title": "Hii, I'm currently working on many things, but right now, https://canireplaceit.com/en/ the best alternatives website, not only free options"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/rishabjainn/status/2101005786386477140"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://x.com/rishabjainn/status/2101005786386477140"
+      ],
+      "score": 30.283423618634888,
+      "sources": [
+        "x"
+      ],
+      "title": "Any recommendations for a good mobile app builder that can turn a Shopify store into an app? I\u2019ve already spoken to a few agencies, but want"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/harinlike/status/2103543941362762022"
+      ],
+      "cluster_id": "cluster-6",
+      "representative_ids": [
+        "https://x.com/harinlike/status/2103543941362762022"
+      ],
+      "score": 29.754467790348652,
+      "sources": [
+        "x"
+      ],
+      "title": "my app is out!! but there are still some Korean foods I personally wanna recommend \ud83d\udc40 Jeon (\uc804) traditionally more of a seasonal/holiday food,"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/sravad/status/2100448104655053217"
+      ],
+      "cluster_id": "cluster-7",
+      "representative_ids": [
+        "https://x.com/sravad/status/2100448104655053217"
+      ],
+      "score": 28.917818019226466,
+      "sources": [
+        "x"
+      ],
+      "title": "I\u2019m feeling hungry and want to order biryani, pizza, and a cold drink from Swiggy or Zomato. Recommend me the best app and branded restauran"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/berryhyukjae/status/2097058020278583460"
+      ],
+      "cluster_id": "cluster-8",
+      "representative_ids": [
+        "https://x.com/berryhyukjae/status/2097058020278583460"
+      ],
+      "score": 27.520616452337208,
+      "sources": [
+        "x"
+      ],
+      "title": "can anyone recommend a good app to learn spanish? i have du\u00e5lingo but it doesn\u2019t let me do more than one lesson a day without subscribing so"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/da_gr8_immanuel/status/2097562822720819464"
+      ],
+      "cluster_id": "cluster-9",
+      "representative_ids": [
+        "https://x.com/da_gr8_immanuel/status/2097562822720819464"
+      ],
+      "score": 27.43562551781276,
+      "sources": [
+        "x"
+      ],
+      "title": "I know letterboxd might be the generally accepted app for logging and reviewing movies but I bet you framerate is just as good (I'd say it's"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/peepeepissshit/status/2096080056837877845"
+      ],
+      "cluster_id": "cluster-10",
+      "representative_ids": [
+        "https://x.com/peepeepissshit/status/2096080056837877845"
+      ],
+      "score": 24.506036217303823,
+      "sources": [
+        "x"
+      ],
+      "title": "#gymtwt can anyone recommend a good macro tracking app but specifically for building muscle n not for weight loss?? I want to see my protein"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/teacherman1986/status/2100387582534164708"
+      ],
+      "cluster_id": "cluster-11",
+      "representative_ids": [
+        "https://x.com/teacherman1986/status/2100387582534164708"
+      ],
+      "score": 7.520102432778488,
+      "sources": [
+        "x"
+      ],
+      "title": "Another very good Launch Quickness App is available. I highly recommend it. The Command Drill will get you doing what the greats do."
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-27T04:17:47.217345+00:00",
+  "items_by_source": {
+    "x": [
+      {
+        "author": "HarinLike",
+        "body": "my app is out!! but there are still some Korean foods I personally wanna recommend \ud83d\udc40 Jeon (\uc804) traditionally more of a seasonal/holiday food, but now you can pretty much eat it anytime. crispy, savory and so good \ud83e\udd24 Kimchi jjigae (\uae40\uce58\ucc0c\uac1c) get the one with pork in it. and add ramen noodles. trust me \ud83d\ude2d Korean pizza \ud83c\udf55 try a spicy one with toppings you\u2019d never expect to see on pizza \ud83d\ude02 there are sooo many combinations. Makgeolli \ud83c\udf76 rice wine!! if you\u2019re having jeon, get this too. they belong together \ud83d\ude02 th",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 11,
+          "quotes": 0,
+          "replies": 2,
+          "reposts": 0
+        },
+        "engagement_score": 16,
+        "freshness": 84,
+        "item_id": "X1",
+        "local_rank_score": 0.486,
+        "local_relevance": 0.4,
+        "metadata": {},
+        "published_at": "2026-09-25",
+        "relevance_hint": 0.9,
+        "snippet": "my app is out!! but there are still some Korean foods I personally wanna recommend \ud83d\udc40 Jeon (\uc804) traditionally more of a seasonal/holiday food, but now you can pretty much eat it anytime. crispy, savory and so good \ud83e\udd24 Kimchi jjigae (\uae40\uce58\ucc0c\uac1c) get the one with pork in it. and add ramen noodles. trust me \ud83d\ude2d Korean pizza \ud83c\udf55 try a spicy one with toppings you\u2019d never expect to see on pizza \ud83d\ude02 there are sooo many combinations. Makgeolli \ud83c\udf76 rice wine!! if you\u2019re having jeon, get this too. they belong together \ud83d\ude02 th",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "my app is out!! but there are still some Korean foods I personally wanna recommend \ud83d\udc40 Jeon (\uc804) traditionally more of a seasonal/holiday food,",
+        "url": "https://x.com/HarinLike/status/2103543941362762022",
+        "why_relevant": "User recommending their own app alongside food suggestions in a personal, engaging way."
+      },
+      {
+        "author": "Eniola_Ng",
+        "body": "Please help recommend good invoice app \ud83d\ude4f\ud83c\udffb",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 6,
+          "quotes": 1,
+          "replies": 6,
+          "reposts": 6
+        },
+        "engagement_score": 22,
+        "freshness": 78,
+        "item_id": "X2",
+        "local_rank_score": 0.39250000000000007,
+        "local_relevance": 0.27,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.95,
+        "snippet": "Please help recommend good invoice app \ud83d\ude4f\ud83c\udffb",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Please help recommend good invoice app \ud83d\ude4f\ud83c\udffb",
+        "url": "https://x.com/Eniola_Ng/status/2102710181922750672",
+        "why_relevant": "Direct request for recommendations of a good invoice app."
+      },
+      {
+        "author": "hadesdevs",
+        "body": "Hii, I'm currently working on many things, but right now, https://canireplaceit.com/en/ the best alternatives website, not only free options, but cheaper ones, and soon a way to search apps by features you need",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 82,
+        "item_id": "X1",
+        "local_rank_score": 0.3675,
+        "local_relevance": 0.25,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.95,
+        "snippet": "Hii, I'm currently working on many things, but right now, https://canireplaceit.com/en/ the best alternatives website, not only free options, but cheaper ones, and soon a way to search apps by features you need",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Hii, I'm currently working on many things, but right now, https://canireplaceit.com/en/ the best alternatives website, not only free options",
+        "url": "https://x.com/hadesdevs/status/2103041248722350345",
+        "why_relevant": "Directly promotes a website for finding app alternatives including free/cheaper options"
+      },
+      {
+        "author": "Sravad",
+        "body": "I\u2019m feeling hungry and want to order biryani, pizza, and a cold drink from Swiggy or Zomato. Recommend me the best app and branded restaurant for ordering these items with a good discount. Please don\u2019t suggest Domino\u2019s or Pizza Hut.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 37,
+          "quotes": 0,
+          "replies": 11,
+          "reposts": 38
+        },
+        "engagement_score": 44,
+        "freshness": 62,
+        "item_id": "X5",
+        "local_rank_score": 0.3615,
+        "local_relevance": 0.25,
+        "metadata": {},
+        "published_at": "2026-09-17",
+        "relevance_hint": 0.85,
+        "snippet": "I\u2019m feeling hungry and want to order biryani, pizza, and a cold drink from Swiggy or Zomato. Recommend me the best app and branded restaurant for ordering these items with a good discount. Please don\u2019t suggest Domino\u2019s or Pizza Hut.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "I\u2019m feeling hungry and want to order biryani, pizza, and a cold drink from Swiggy or Zomato. Recommend me the best app and branded restauran",
+        "url": "https://x.com/Sravad/status/2100448104655053217",
+        "why_relevant": "Asking for the best app recommendation between Swiggy/Zomato for food ordering."
+      },
+      {
+        "author": "_DrippingCoCo_",
+        "body": "Too Good to Go : If you\u2019re not picky about food, I definitely recommend I use it all the time. It\u2019s basically an app to let you buy food that restaurants are going to throw away before they do at a very cheap price.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 17,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 17,
+        "freshness": 70,
+        "item_id": "X3",
+        "local_rank_score": 0.35450000000000004,
+        "local_relevance": 0.25,
+        "metadata": {},
+        "published_at": "2026-09-20",
+        "relevance_hint": 0.95,
+        "snippet": "Too Good to Go : If you\u2019re not picky about food, I definitely recommend I use it all the time. It\u2019s basically an app to let you buy food that restaurants are going to throw away before they do at a very cheap price.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Too Good to Go : If you\u2019re not picky about food, I definitely recommend I use it all the time. It\u2019s basically an app to let you buy food tha",
+        "url": "https://x.com/_DrippingCoCo_/status/2101813173804294432",
+        "why_relevant": "Strong personal recommendation for the Too Good to Go app with explanation of why it's good."
+      },
+      {
+        "author": "rishabjainn",
+        "body": "Any recommendations for a good mobile app builder that can turn a Shopify store into an app? I\u2019ve already spoken to a few agencies, but wanted to check if anyone here has worked with someone they\u2019d genuinely recommend. Firsthand experience or references would help.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 6,
+          "quotes": 0,
+          "replies": 5,
+          "reposts": 1
+        },
+        "engagement_score": 16,
+        "freshness": 66,
+        "item_id": "X4",
+        "local_rank_score": 0.3435,
+        "local_relevance": 0.25,
+        "metadata": {},
+        "published_at": "2026-09-18",
+        "relevance_hint": 0.9,
+        "snippet": "Any recommendations for a good mobile app builder that can turn a Shopify store into an app? I\u2019ve already spoken to a few agencies, but wanted to check if anyone here has worked with someone they\u2019d genuinely recommend. Firsthand experience or references would help.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Any recommendations for a good mobile app builder that can turn a Shopify store into an app? I\u2019ve already spoken to a few agencies, but want",
+        "url": "https://x.com/rishabjainn/status/2101005786386477140",
+        "why_relevant": "Seeking recommendations for a good app builder tool."
+      },
+      {
+        "author": "Teacherman1986",
+        "body": "Another very good Launch Quickness App is available. I highly recommend it. The Command Drill will get you doing what the greats do.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 7,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 12,
+        "freshness": 62,
+        "item_id": "X6",
+        "local_rank_score": 0.3295,
+        "local_relevance": 0.25,
+        "metadata": {},
+        "published_at": "2026-09-17",
+        "relevance_hint": 0.9,
+        "snippet": "Another very good Launch Quickness App is available. I highly recommend it. The Command Drill will get you doing what the greats do.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Another very good Launch Quickness App is available. I highly recommend it. The Command Drill will get you doing what the greats do.",
+        "url": "https://x.com/Teacherman1986/status/2100387582534164708",
+        "why_relevant": "Direct recommendation of a good app for launch quickness training."
+      },
+      {
+        "author": "i0oser",
+        "body": "drawing w a mouse for the first time in a whiiile. Can anyone recommend a good app for drawing? #sketch #art #artist #artmoots #csmfanart #powerfanart",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 11,
+          "quotes": 0,
+          "replies": 4,
+          "reposts": 0
+        },
+        "engagement_score": 17,
+        "freshness": 50,
+        "item_id": "X9",
+        "local_rank_score": 0.3045,
+        "local_relevance": 0.25,
+        "metadata": {},
+        "published_at": "2026-09-12",
+        "relevance_hint": 0.85,
+        "snippet": "drawing w a mouse for the first time in a whiiile. Can anyone recommend a good app for drawing? #sketch #art #artist #artmoots #csmfanart #powerfanart",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "drawing w a mouse for the first time in a whiiile. Can anyone recommend a good app for drawing? #sketch #art #artist #artmoots #csmfanart #p",
+        "url": "https://x.com/i0oser/status/2098716883604173244",
+        "why_relevant": "Request for good drawing app recommendations."
+      },
+      {
+        "author": "da_gr8_immanuel",
+        "body": "I know letterboxd might be the generally accepted app for logging and reviewing movies but I bet you framerate is just as good (I'd say it's better, but what's the point comparing them when they do the same thing \ud83e\udd37). I strongly recommend getting a frame rate account.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 15,
+          "quotes": 0,
+          "replies": 3,
+          "reposts": 2
+        },
+        "engagement_score": 24,
+        "freshness": 42,
+        "item_id": "X10",
+        "local_rank_score": 0.29150000000000004,
+        "local_relevance": 0.25,
+        "metadata": {},
+        "published_at": "2026-09-09",
+        "relevance_hint": 0.95,
+        "snippet": "I know letterboxd might be the generally accepted app for logging and reviewing movies but I bet you framerate is just as good (I'd say it's better, but what's the point comparing them when they do the same thing \ud83e\udd37). I strongly recommend getting a frame rate account.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "I know letterboxd might be the generally accepted app for logging and reviewing movies but I bet you framerate is just as good (I'd say it's",
+        "url": "https://x.com/da_gr8_immanuel/status/2097562822720819464",
+        "why_relevant": "Strong recommendation for Framerate app as a good alternative to Letterboxd."
+      },
+      {
+        "author": "berryhyukjae",
+        "body": "can anyone recommend a good app to learn spanish? i have du\u00e5lingo but it doesn\u2019t let me do more than one lesson a day without subscribing so i would like to at least try more of the app before i purchase anything \ud83e\udee9",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 6,
+          "quotes": 0,
+          "replies": 5,
+          "reposts": 0
+        },
+        "engagement_score": 13,
+        "freshness": 36,
+        "item_id": "X7",
+        "local_rank_score": 0.2655,
+        "local_relevance": 0.25,
+        "metadata": {},
+        "published_at": "2026-09-07",
+        "relevance_hint": 0.95,
+        "snippet": "can anyone recommend a good app to learn spanish? i have du\u00e5lingo but it doesn\u2019t let me do more than one lesson a day without subscribing so i would like to at least try more of the app before i purchase anything \ud83e\udee9",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "can anyone recommend a good app to learn spanish? i have du\u00e5lingo but it doesn\u2019t let me do more than one lesson a day without subscribing so",
+        "url": "https://x.com/berryhyukjae/status/2097058020278583460",
+        "why_relevant": "Requesting recommendations for a good Spanish learning app alternative to Duolingo."
+      },
+      {
+        "author": "PeePeePissShit",
+        "body": "#gymtwt can anyone recommend a good macro tracking app but specifically for building muscle n not for weight loss?? I want to see my protein goals n shit",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 8,
+          "quotes": 0,
+          "replies": 5,
+          "reposts": 0
+        },
+        "engagement_score": 15,
+        "freshness": 30,
+        "item_id": "X8",
+        "local_rank_score": 0.2525,
+        "local_relevance": 0.25,
+        "metadata": {},
+        "published_at": "2026-09-05",
+        "relevance_hint": 0.9,
+        "snippet": "#gymtwt can anyone recommend a good macro tracking app but specifically for building muscle n not for weight loss?? I want to see my protein goals n shit",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "#gymtwt can anyone recommend a good macro tracking app but specifically for building muscle n not for weight loss?? I want to see my protein",
+        "url": "https://x.com/PeePeePissShit/status/2096080056837877845",
+        "why_relevant": "Seeking a good macro tracking app recommendation tailored for muscle building."
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "debate",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [
+      "Topic is open-ended product recommendation query"
+    ],
+    "raw_topic": "\"any good app for\"",
+    "source_weights": {
+      "x": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "app recs",
+        "ranking_query": "What are some good apps people actually recommend?",
+        "search_query": "good app OR best app recommend",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.28169014084507044
+      },
+      {
+        "label": "app alternatives",
+        "ranking_query": "What apps do users suggest as better alternatives?",
+        "search_query": "app alternative OR instead of",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.2535211267605634
+      },
+      {
+        "label": "favorite apps",
+        "ranking_query": "Which apps do people call their favorites or must-haves?",
+        "search_query": "favorite app OR must-have app",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.23943661971830987
+      },
+      {
+        "label": "app discovery",
+        "ranking_query": "Any underrated or hidden-gem apps worth trying?",
+        "search_query": "hidden gem app OR underrated app",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.22535211267605637
+      }
+    ]
+  },
+  "range_from": "2026-08-28",
+  "range_to": "2026-09-27",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://x.com/_drippingcoco_/status/2101813173804294432",
+      "cluster_id": "cluster-1",
+      "engagement": 17,
+      "explanation": "Specific app recommendation but lacks primary entity",
+      "final_score": 33.30035211267606,
+      "freshness": 70,
+      "fun_explanation": "straightforward rec, mild personality",
+      "fun_score": 25.0,
+      "item_id": "X3",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X3",
+            "native_rank": 4,
+            "source": "x",
+            "subquery_label": "app recs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recs:x": 4
+      },
+      "rerank_score": 28.0,
+      "rrf_score": 0.0044014084507042256,
+      "snippet": "Too Good to Go : If you\u2019re not picky about food, I definitely recommend I use it all the time. It\u2019s basically an app to let you buy food that restaurants are going to throw away before they do at a very cheap price.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "_DrippingCoCo_",
+          "body": "Too Good to Go : If you\u2019re not picky about food, I definitely recommend I use it all the time. It\u2019s basically an app to let you buy food that restaurants are going to throw away before they do at a very cheap price.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 17,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 17,
+          "freshness": 70,
+          "item_id": "X3",
+          "local_rank_score": 0.35450000000000004,
+          "local_relevance": 0.25,
+          "metadata": {},
+          "published_at": "2026-09-20",
+          "relevance_hint": 0.95,
+          "snippet": "Too Good to Go : If you\u2019re not picky about food, I definitely recommend I use it all the time. It\u2019s basically an app to let you buy food that restaurants are going to throw away before they do at a very cheap price.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Too Good to Go : If you\u2019re not picky about food, I definitely recommend I use it all the time. It\u2019s basically an app to let you buy food tha",
+          "url": "https://x.com/_DrippingCoCo_/status/2101813173804294432",
+          "why_relevant": "Strong personal recommendation for the Too Good to Go app with explanation of why it's good."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recs"
+      ],
+      "title": "Too Good to Go : If you\u2019re not picky about food, I definitely recommend I use it all the time. It\u2019s basically an app to let you buy food tha",
+      "url": "https://x.com/_DrippingCoCo_/status/2101813173804294432"
+    },
+    {
+      "candidate_id": "https://x.com/eniola_ng/status/2102710181922750672",
+      "cluster_id": "cluster-2",
+      "engagement": 22,
+      "explanation": "Direct app recs request but no primary entity mention",
+      "final_score": 32.33584734211722,
+      "freshness": 78,
+      "fun_explanation": "plain request, zero wit",
+      "fun_score": 5.0,
+      "item_id": "X2",
+      "local_relevance": 0.27,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X2",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "app recs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recs:x": 2
+      },
+      "rerank_score": 25.0,
+      "rrf_score": 0.004543389368468878,
+      "snippet": "Please help recommend good invoice app \ud83d\ude4f\ud83c\udffb",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Eniola_Ng",
+          "body": "Please help recommend good invoice app \ud83d\ude4f\ud83c\udffb",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 6,
+            "quotes": 1,
+            "replies": 6,
+            "reposts": 6
+          },
+          "engagement_score": 22,
+          "freshness": 78,
+          "item_id": "X2",
+          "local_rank_score": 0.39250000000000007,
+          "local_relevance": 0.27,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.95,
+          "snippet": "Please help recommend good invoice app \ud83d\ude4f\ud83c\udffb",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Please help recommend good invoice app \ud83d\ude4f\ud83c\udffb",
+          "url": "https://x.com/Eniola_Ng/status/2102710181922750672",
+          "why_relevant": "Direct request for recommendations of a good invoice app."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recs"
+      ],
+      "title": "Please help recommend good invoice app \ud83d\ude4f\ud83c\udffb",
+      "url": "https://x.com/Eniola_Ng/status/2102710181922750672"
+    },
+    {
+      "candidate_id": "https://x.com/i0oser/status/2098716883604173244",
+      "cluster_id": "cluster-3",
+      "engagement": 17,
+      "explanation": "App recs request for drawing; close phrasing but no entity",
+      "final_score": 30.651082615093543,
+      "freshness": 50,
+      "fun_explanation": "basic ask with hashtags",
+      "fun_score": 15.0,
+      "item_id": "X9",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X9",
+            "native_rank": 7,
+            "source": "x",
+            "subquery_label": "app recs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recs:x": 7
+      },
+      "rerank_score": 27.0,
+      "rrf_score": 0.004204330460374186,
+      "snippet": "drawing w a mouse for the first time in a whiiile. Can anyone recommend a good app for drawing? #sketch #art #artist #artmoots #csmfanart #powerfanart",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "i0oser",
+          "body": "drawing w a mouse for the first time in a whiiile. Can anyone recommend a good app for drawing? #sketch #art #artist #artmoots #csmfanart #powerfanart",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 11,
+            "quotes": 0,
+            "replies": 4,
+            "reposts": 0
+          },
+          "engagement_score": 17,
+          "freshness": 50,
+          "item_id": "X9",
+          "local_rank_score": 0.3045,
+          "local_relevance": 0.25,
+          "metadata": {},
+          "published_at": "2026-09-12",
+          "relevance_hint": 0.85,
+          "snippet": "drawing w a mouse for the first time in a whiiile. Can anyone recommend a good app for drawing? #sketch #art #artist #artmoots #csmfanart #powerfanart",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "drawing w a mouse for the first time in a whiiile. Can anyone recommend a good app for drawing? #sketch #art #artist #artmoots #csmfanart #p",
+          "url": "https://x.com/i0oser/status/2098716883604173244",
+          "why_relevant": "Request for good drawing app recommendations."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recs"
+      ],
+      "title": "drawing w a mouse for the first time in a whiiile. Can anyone recommend a good app for drawing? #sketch #art #artist #artmoots #csmfanart #p",
+      "url": "https://x.com/i0oser/status/2098716883604173244"
+    },
+    {
+      "candidate_id": "https://x.com/hadesdevs/status/2103041248722350345",
+      "cluster_id": "cluster-4",
+      "explanation": "App alternatives site; matches subquery but no primary entity",
+      "final_score": 30.639021011313787,
+      "freshness": 82,
+      "fun_explanation": "promo text, dry",
+      "fun_score": 10.0,
+      "item_id": "X1",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X1",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "app alternatives"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app alternatives:x": 1
+      },
+      "rerank_score": 30.0,
+      "rrf_score": 0.004156084045255137,
+      "snippet": "Hii, I'm currently working on many things, but right now, https://canireplaceit.com/en/ the best alternatives website, not only free options, but cheaper ones, and soon a way to search apps by features you need",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "hadesdevs",
+          "body": "Hii, I'm currently working on many things, but right now, https://canireplaceit.com/en/ the best alternatives website, not only free options, but cheaper ones, and soon a way to search apps by features you need",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 82,
+          "item_id": "X1",
+          "local_rank_score": 0.3675,
+          "local_relevance": 0.25,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.95,
+          "snippet": "Hii, I'm currently working on many things, but right now, https://canireplaceit.com/en/ the best alternatives website, not only free options, but cheaper ones, and soon a way to search apps by features you need",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Hii, I'm currently working on many things, but right now, https://canireplaceit.com/en/ the best alternatives website, not only free options",
+          "url": "https://x.com/hadesdevs/status/2103041248722350345",
+          "why_relevant": "Directly promotes a website for finding app alternatives including free/cheaper options"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app alternatives"
+      ],
+      "title": "Hii, I'm currently working on many things, but right now, https://canireplaceit.com/en/ the best alternatives website, not only free options",
+      "url": "https://x.com/hadesdevs/status/2103041248722350345"
+    },
+    {
+      "candidate_id": "https://x.com/rishabjainn/status/2101005786386477140",
+      "cluster_id": "cluster-5",
+      "engagement": 16,
+      "explanation": "App builder recs request; no primary entity",
+      "final_score": 30.283423618634888,
+      "freshness": 66,
+      "fun_explanation": "detailed but bland request",
+      "fun_score": 12.0,
+      "item_id": "X4",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X4",
+            "native_rank": 5,
+            "source": "x",
+            "subquery_label": "app recs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recs:x": 5
+      },
+      "rerank_score": 24.0,
+      "rrf_score": 0.004333694474539546,
+      "snippet": "Any recommendations for a good mobile app builder that can turn a Shopify store into an app? I\u2019ve already spoken to a few agencies, but wanted to check if anyone here has worked with someone they\u2019d genuinely recommend. Firsthand experience or references would help.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "rishabjainn",
+          "body": "Any recommendations for a good mobile app builder that can turn a Shopify store into an app? I\u2019ve already spoken to a few agencies, but wanted to check if anyone here has worked with someone they\u2019d genuinely recommend. Firsthand experience or references would help.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 6,
+            "quotes": 0,
+            "replies": 5,
+            "reposts": 1
+          },
+          "engagement_score": 16,
+          "freshness": 66,
+          "item_id": "X4",
+          "local_rank_score": 0.3435,
+          "local_relevance": 0.25,
+          "metadata": {},
+          "published_at": "2026-09-18",
+          "relevance_hint": 0.9,
+          "snippet": "Any recommendations for a good mobile app builder that can turn a Shopify store into an app? I\u2019ve already spoken to a few agencies, but wanted to check if anyone here has worked with someone they\u2019d genuinely recommend. Firsthand experience or references would help.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Any recommendations for a good mobile app builder that can turn a Shopify store into an app? I\u2019ve already spoken to a few agencies, but want",
+          "url": "https://x.com/rishabjainn/status/2101005786386477140",
+          "why_relevant": "Seeking recommendations for a good app builder tool."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recs"
+      ],
+      "title": "Any recommendations for a good mobile app builder that can turn a Shopify store into an app? I\u2019ve already spoken to a few agencies, but want",
+      "url": "https://x.com/rishabjainn/status/2101005786386477140"
+    },
+    {
+      "candidate_id": "https://x.com/harinlike/status/2103543941362762022",
+      "cluster_id": "cluster-6",
+      "engagement": 16,
+      "explanation": "No mention of primary entity; off-topic food recs",
+      "final_score": 29.754467790348652,
+      "freshness": 84,
+      "fun_explanation": "casual food hype with emojis, some energy",
+      "fun_score": 45.0,
+      "item_id": "X1",
+      "local_relevance": 0.4,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X1",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "app recs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recs:x": 1
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.004617871161394597,
+      "snippet": "my app is out!! but there are still some Korean foods I personally wanna recommend \ud83d\udc40 Jeon (\uc804) traditionally more of a seasonal/holiday food, but now you can pretty much eat it anytime. crispy, savory and so good \ud83e\udd24 Kimchi jjigae (\uae40\uce58\ucc0c\uac1c) get the one with pork in it. and add ramen noodles. trust me \ud83d\ude2d Korean pizza \ud83c\udf55 try a spicy one with toppings you\u2019d never expect to see on pizza \ud83d\ude02 there are sooo many combinations. Makgeolli \ud83c\udf76 rice wine!! if you\u2019re having jeon, get this too. they belong together \ud83d\ude02 th",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "HarinLike",
+          "body": "my app is out!! but there are still some Korean foods I personally wanna recommend \ud83d\udc40 Jeon (\uc804) traditionally more of a seasonal/holiday food, but now you can pretty much eat it anytime. crispy, savory and so good \ud83e\udd24 Kimchi jjigae (\uae40\uce58\ucc0c\uac1c) get the one with pork in it. and add ramen noodles. trust me \ud83d\ude2d Korean pizza \ud83c\udf55 try a spicy one with toppings you\u2019d never expect to see on pizza \ud83d\ude02 there are sooo many combinations. Makgeolli \ud83c\udf76 rice wine!! if you\u2019re having jeon, get this too. they belong together \ud83d\ude02 th",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 11,
+            "quotes": 0,
+            "replies": 2,
+            "reposts": 0
+          },
+          "engagement_score": 16,
+          "freshness": 84,
+          "item_id": "X1",
+          "local_rank_score": 0.486,
+          "local_relevance": 0.4,
+          "metadata": {},
+          "published_at": "2026-09-25",
+          "relevance_hint": 0.9,
+          "snippet": "my app is out!! but there are still some Korean foods I personally wanna recommend \ud83d\udc40 Jeon (\uc804) traditionally more of a seasonal/holiday food, but now you can pretty much eat it anytime. crispy, savory and so good \ud83e\udd24 Kimchi jjigae (\uae40\uce58\ucc0c\uac1c) get the one with pork in it. and add ramen noodles. trust me \ud83d\ude2d Korean pizza \ud83c\udf55 try a spicy one with toppings you\u2019d never expect to see on pizza \ud83d\ude02 there are sooo many combinations. Makgeolli \ud83c\udf76 rice wine!! if you\u2019re having jeon, get this too. they belong together \ud83d\ude02 th",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "my app is out!! but there are still some Korean foods I personally wanna recommend \ud83d\udc40 Jeon (\uc804) traditionally more of a seasonal/holiday food,",
+          "url": "https://x.com/HarinLike/status/2103543941362762022",
+          "why_relevant": "User recommending their own app alongside food suggestions in a personal, engaging way."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recs"
+      ],
+      "title": "my app is out!! but there are still some Korean foods I personally wanna recommend \ud83d\udc40 Jeon (\uc804) traditionally more of a seasonal/holiday food,",
+      "url": "https://x.com/HarinLike/status/2103543941362762022"
+    },
+    {
+      "candidate_id": "https://x.com/sravad/status/2100448104655053217",
+      "cluster_id": "cluster-7",
+      "engagement": 44,
+      "explanation": "App recs query but no primary entity; food ordering focus",
+      "final_score": 28.917818019226466,
+      "freshness": 62,
+      "fun_explanation": "hungry request, straightforward",
+      "fun_score": 18.0,
+      "item_id": "X5",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X5",
+            "native_rank": 3,
+            "source": "x",
+            "subquery_label": "app recs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recs:x": 3
+      },
+      "rerank_score": 22.0,
+      "rrf_score": 0.00447127207690588,
+      "snippet": "I\u2019m feeling hungry and want to order biryani, pizza, and a cold drink from Swiggy or Zomato. Recommend me the best app and branded restaurant for ordering these items with a good discount. Please don\u2019t suggest Domino\u2019s or Pizza Hut.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Sravad",
+          "body": "I\u2019m feeling hungry and want to order biryani, pizza, and a cold drink from Swiggy or Zomato. Recommend me the best app and branded restaurant for ordering these items with a good discount. Please don\u2019t suggest Domino\u2019s or Pizza Hut.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 37,
+            "quotes": 0,
+            "replies": 11,
+            "reposts": 38
+          },
+          "engagement_score": 44,
+          "freshness": 62,
+          "item_id": "X5",
+          "local_rank_score": 0.3615,
+          "local_relevance": 0.25,
+          "metadata": {},
+          "published_at": "2026-09-17",
+          "relevance_hint": 0.85,
+          "snippet": "I\u2019m feeling hungry and want to order biryani, pizza, and a cold drink from Swiggy or Zomato. Recommend me the best app and branded restaurant for ordering these items with a good discount. Please don\u2019t suggest Domino\u2019s or Pizza Hut.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "I\u2019m feeling hungry and want to order biryani, pizza, and a cold drink from Swiggy or Zomato. Recommend me the best app and branded restauran",
+          "url": "https://x.com/Sravad/status/2100448104655053217",
+          "why_relevant": "Asking for the best app recommendation between Swiggy/Zomato for food ordering."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recs"
+      ],
+      "title": "I\u2019m feeling hungry and want to order biryani, pizza, and a cold drink from Swiggy or Zomato. Recommend me the best app and branded restauran",
+      "url": "https://x.com/Sravad/status/2100448104655053217"
+    },
+    {
+      "candidate_id": "https://x.com/berryhyukjae/status/2097058020278583460",
+      "cluster_id": "cluster-8",
+      "engagement": 13,
+      "explanation": "Language app recs request; no primary entity",
+      "final_score": 27.520616452337208,
+      "freshness": 36,
+      "fun_explanation": "Duolingo gripe adds slight personality",
+      "fun_score": 28.0,
+      "item_id": "X7",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X7",
+            "native_rank": 9,
+            "source": "x",
+            "subquery_label": "app recs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recs:x": 9
+      },
+      "rerank_score": 26.0,
+      "rrf_score": 0.004082465809348847,
+      "snippet": "can anyone recommend a good app to learn spanish? i have du\u00e5lingo but it doesn\u2019t let me do more than one lesson a day without subscribing so i would like to at least try more of the app before i purchase anything \ud83e\udee9",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "berryhyukjae",
+          "body": "can anyone recommend a good app to learn spanish? i have du\u00e5lingo but it doesn\u2019t let me do more than one lesson a day without subscribing so i would like to at least try more of the app before i purchase anything \ud83e\udee9",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 6,
+            "quotes": 0,
+            "replies": 5,
+            "reposts": 0
+          },
+          "engagement_score": 13,
+          "freshness": 36,
+          "item_id": "X7",
+          "local_rank_score": 0.2655,
+          "local_relevance": 0.25,
+          "metadata": {},
+          "published_at": "2026-09-07",
+          "relevance_hint": 0.95,
+          "snippet": "can anyone recommend a good app to learn spanish? i have du\u00e5lingo but it doesn\u2019t let me do more than one lesson a day without subscribing so i would like to at least try more of the app before i purchase anything \ud83e\udee9",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "can anyone recommend a good app to learn spanish? i have du\u00e5lingo but it doesn\u2019t let me do more than one lesson a day without subscribing so",
+          "url": "https://x.com/berryhyukjae/status/2097058020278583460",
+          "why_relevant": "Requesting recommendations for a good Spanish learning app alternative to Duolingo."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recs"
+      ],
+      "title": "can anyone recommend a good app to learn spanish? i have du\u00e5lingo but it doesn\u2019t let me do more than one lesson a day without subscribing so",
+      "url": "https://x.com/berryhyukjae/status/2097058020278583460"
+    },
+    {
+      "candidate_id": "https://x.com/da_gr8_immanuel/status/2097562822720819464",
+      "cluster_id": "cluster-9",
+      "engagement": 24,
+      "explanation": "App comparison rec but no primary entity",
+      "final_score": 27.43562551781276,
+      "freshness": 42,
+      "fun_explanation": "opinionated but flat",
+      "fun_score": 22.0,
+      "item_id": "X10",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X10",
+            "native_rank": 8,
+            "source": "x",
+            "subquery_label": "app recs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recs:x": 8
+      },
+      "rerank_score": 23.0,
+      "rrf_score": 0.004142502071251036,
+      "snippet": "I know letterboxd might be the generally accepted app for logging and reviewing movies but I bet you framerate is just as good (I'd say it's better, but what's the point comparing them when they do the same thing \ud83e\udd37). I strongly recommend getting a frame rate account.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "da_gr8_immanuel",
+          "body": "I know letterboxd might be the generally accepted app for logging and reviewing movies but I bet you framerate is just as good (I'd say it's better, but what's the point comparing them when they do the same thing \ud83e\udd37). I strongly recommend getting a frame rate account.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 15,
+            "quotes": 0,
+            "replies": 3,
+            "reposts": 2
+          },
+          "engagement_score": 24,
+          "freshness": 42,
+          "item_id": "X10",
+          "local_rank_score": 0.29150000000000004,
+          "local_relevance": 0.25,
+          "metadata": {},
+          "published_at": "2026-09-09",
+          "relevance_hint": 0.95,
+          "snippet": "I know letterboxd might be the generally accepted app for logging and reviewing movies but I bet you framerate is just as good (I'd say it's better, but what's the point comparing them when they do the same thing \ud83e\udd37). I strongly recommend getting a frame rate account.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "I know letterboxd might be the generally accepted app for logging and reviewing movies but I bet you framerate is just as good (I'd say it's",
+          "url": "https://x.com/da_gr8_immanuel/status/2097562822720819464",
+          "why_relevant": "Strong recommendation for Framerate app as a good alternative to Letterboxd."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recs"
+      ],
+      "title": "I know letterboxd might be the generally accepted app for logging and reviewing movies but I bet you framerate is just as good (I'd say it's",
+      "url": "https://x.com/da_gr8_immanuel/status/2097562822720819464"
+    },
+    {
+      "candidate_id": "https://x.com/peepeepissshit/status/2096080056837877845",
+      "cluster_id": "cluster-10",
+      "engagement": 15,
+      "explanation": "Macro app recs request; no primary entity",
+      "final_score": 24.506036217303823,
+      "freshness": 30,
+      "fun_explanation": "gym request, plain",
+      "fun_score": 20.0,
+      "item_id": "X8",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X8",
+            "native_rank": 10,
+            "source": "x",
+            "subquery_label": "app recs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recs:x": 10
+      },
+      "rerank_score": 21.0,
+      "rrf_score": 0.004024144869215292,
+      "snippet": "#gymtwt can anyone recommend a good macro tracking app but specifically for building muscle n not for weight loss?? I want to see my protein goals n shit",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "PeePeePissShit",
+          "body": "#gymtwt can anyone recommend a good macro tracking app but specifically for building muscle n not for weight loss?? I want to see my protein goals n shit",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 8,
+            "quotes": 0,
+            "replies": 5,
+            "reposts": 0
+          },
+          "engagement_score": 15,
+          "freshness": 30,
+          "item_id": "X8",
+          "local_rank_score": 0.2525,
+          "local_relevance": 0.25,
+          "metadata": {},
+          "published_at": "2026-09-05",
+          "relevance_hint": 0.9,
+          "snippet": "#gymtwt can anyone recommend a good macro tracking app but specifically for building muscle n not for weight loss?? I want to see my protein goals n shit",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "#gymtwt can anyone recommend a good macro tracking app but specifically for building muscle n not for weight loss?? I want to see my protein",
+          "url": "https://x.com/PeePeePissShit/status/2096080056837877845",
+          "why_relevant": "Seeking a good macro tracking app recommendation tailored for muscle building."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recs"
+      ],
+      "title": "#gymtwt can anyone recommend a good macro tracking app but specifically for building muscle n not for weight loss?? I want to see my protein",
+      "url": "https://x.com/PeePeePissShit/status/2096080056837877845"
+    },
+    {
+      "candidate_id": "https://x.com/teacherman1986/status/2100387582534164708",
+      "cluster_id": "cluster-11",
+      "engagement": 12,
+      "explanation": "App promo with no primary entity match",
+      "final_score": 7.520102432778488,
+      "freshness": 62,
+      "fun_explanation": "promo, zero humor",
+      "fun_score": 8.0,
+      "item_id": "X6",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X6",
+            "native_rank": 6,
+            "source": "x",
+            "subquery_label": "app recs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recs:x": 6
+      },
+      "rerank_score": 18.0,
+      "rrf_score": 0.004268032437046522,
+      "snippet": "Another very good Launch Quickness App is available. I highly recommend it. The Command Drill will get you doing what the greats do.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Teacherman1986",
+          "body": "Another very good Launch Quickness App is available. I highly recommend it. The Command Drill will get you doing what the greats do.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 7,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 12,
+          "freshness": 62,
+          "item_id": "X6",
+          "local_rank_score": 0.3295,
+          "local_relevance": 0.25,
+          "metadata": {},
+          "published_at": "2026-09-17",
+          "relevance_hint": 0.9,
+          "snippet": "Another very good Launch Quickness App is available. I highly recommend it. The Command Drill will get you doing what the greats do.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Another very good Launch Quickness App is available. I highly recommend it. The Command Drill will get you doing what the greats do.",
+          "url": "https://x.com/Teacherman1986/status/2100387582534164708",
+          "why_relevant": "Direct recommendation of a good app for launch quickness training."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recs"
+      ],
+      "title": "Another very good Launch Quickness App is available. I highly recommend it. The Command Drill will get you doing what the greats do.",
+      "url": "https://x.com/Teacherman1986/status/2100387582534164708"
+    }
+  ],
+  "topic": "\"any good app for\"",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}

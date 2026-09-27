@@ -1,0 +1,2458 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"is there an app that\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://x.com/d_e_r_a_a_/status/2103957511930102160"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://x.com/d_e_r_a_a_/status/2103957511930102160"
+      ],
+      "score": 72.42045454545455,
+      "sources": [
+        "x"
+      ],
+      "title": "Is there an app or something where you can check if a product you\u2019re buying is real or fake, especially food products?"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/misterelikem/status/2103942897951539644"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://x.com/misterelikem/status/2103942897951539644"
+      ],
+      "score": 70.3175230566535,
+      "sources": [
+        "x"
+      ],
+      "title": "Is there an app you can download on a smart tv to watch live football??"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/1shonnhorton/status/2103941474522214758"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://x.com/1shonnhorton/status/2103941474522214758"
+      ],
+      "score": 64.93689839572193,
+      "sources": [
+        "x"
+      ],
+      "title": "Is there an app?? I fully support US businesses and would love to help starve foreign profits on our soil."
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/anthony06594509/status/2103979380326429136"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://x.com/anthony06594509/status/2103979380326429136"
+      ],
+      "score": 64.46627565982405,
+      "sources": [
+        "x"
+      ],
+      "title": "Is there an app I can download?????"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/808ethan/status/2103991893927641497"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://x.com/808ethan/status/2103991893927641497"
+      ],
+      "score": 34.9986013986014,
+      "sources": [
+        "x"
+      ],
+      "title": "An app that does my taxes for me. Clear they have that, or how wouldn't they know I cheated?"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/mephxbt/status/2101437994058310036"
+      ],
+      "cluster_id": "cluster-6",
+      "representative_ids": [
+        "https://x.com/mephxbt/status/2101437994058310036"
+      ],
+      "score": 31.690312965722804,
+      "sources": [
+        "x"
+      ],
+      "title": "tokenized communities / community coins is such a cool concept we are yet to see an app that does it right"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/d1nz_3/status/2103946971916775776"
+      ],
+      "cluster_id": "cluster-7",
+      "representative_ids": [
+        "https://x.com/d1nz_3/status/2103946971916775776"
+      ],
+      "score": 31.298701298701296,
+      "sources": [
+        "x"
+      ],
+      "title": "meetups r underrated tbh, my first real convos came from rooms too. one catch I hit: ppl go home n ask chatgpt for \"an app that does X\" n it"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/hylmew/status/2103980066166514047"
+      ],
+      "cluster_id": "cluster-8",
+      "representative_ids": [
+        "https://x.com/hylmew/status/2103980066166514047"
+      ],
+      "score": 30.443001443001442,
+      "sources": [
+        "x"
+      ],
+      "title": "Blitz's ads are an eyesore. Ascent is fine, but since I already had Overwolf, I'd rather use Outplayed. Now that we have an app that does it"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/wilson_dunham_f/status/2103964673171165615"
+      ],
+      "cluster_id": "cluster-9",
+      "representative_ids": [
+        "https://x.com/wilson_dunham_f/status/2103964673171165615"
+      ],
+      "score": 28.95685210312076,
+      "sources": [
+        "x"
+      ],
+      "title": "Excellent find. I recently found an app that does something similar just not for free. It's called Too Good To Go."
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/javierhuante/status/2101363900688093495"
+      ],
+      "cluster_id": "cluster-10",
+      "representative_ids": [
+        "https://x.com/javierhuante/status/2101363900688093495"
+      ],
+      "score": 28.28040973111396,
+      "sources": [
+        "x"
+      ],
+      "title": "@FoxNews @gop @realDonaldTrump here's a thought, the government needs AI app that does one thing only, look for other companies that are bre"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/movietalknow1/status/2101334399589482725"
+      ],
+      "cluster_id": "cluster-11",
+      "representative_ids": [
+        "https://x.com/movietalknow1/status/2101334399589482725"
+      ],
+      "score": 27.062626262626267,
+      "sources": [
+        "x"
+      ],
+      "title": "Did a quick video shoot for someone where the back light was way too strong... So what did I do? I created a 'relight' app that does it for"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/chroamhearts/status/2103831763344658836"
+      ],
+      "cluster_id": "cluster-12",
+      "representative_ids": [
+        "https://x.com/chroamhearts/status/2103831763344658836"
+      ],
+      "score": 8.202384500745156,
+      "sources": [
+        "x"
+      ],
+      "title": "New DPM app dropped today 10/10 would recommend @dpmlol"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/greasychud1/status/2103927078995300721"
+      ],
+      "cluster_id": "cluster-13",
+      "representative_ids": [
+        "https://x.com/greasychud1/status/2103927078995300721"
+      ],
+      "score": 8.189610389610388,
+      "sources": [
+        "x"
+      ],
+      "title": "can yall recommend me a drawing app for pc?"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/itsalicesoul/status/2103900058957840662"
+      ],
+      "cluster_id": "cluster-14",
+      "representative_ids": [
+        "https://x.com/itsalicesoul/status/2103900058957840662"
+      ],
+      "score": 8.183522727272726,
+      "sources": [
+        "x"
+      ],
+      "title": "Do you guys use a clipboard history app? Looking for one that saves everything I copy and makes finding old stuff easy. What do you recommen"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/ahtassham/status/2101324276163112975"
+      ],
+      "cluster_id": "cluster-15",
+      "representative_ids": [
+        "https://x.com/ahtassham/status/2101324276163112975"
+      ],
+      "score": 7.673223140495868,
+      "sources": [
+        "x"
+      ],
+      "title": "Got sick of the gatekeeping I'm building an app that does this"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/mommyissuefy/status/2103915406906061203"
+      ],
+      "cluster_id": "cluster-16",
+      "representative_ids": [
+        "https://x.com/mommyissuefy/status/2103915406906061203"
+      ],
+      "score": 7.277622377622378,
+      "sources": [
+        "x"
+      ],
+      "title": "I got an iPad, what app would you recommend to a beginner digital artist?"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/thismomsaid/status/2103145143096533218"
+      ],
+      "cluster_id": "cluster-17",
+      "representative_ids": [
+        "https://x.com/thismomsaid/status/2103145143096533218"
+      ],
+      "score": 7.151900826446282,
+      "sources": [
+        "x"
+      ],
+      "title": "I would recommend downloading the app \ud83e\udef6\ud83c\udffc"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/yubilip_/status/2100830209113280872"
+      ],
+      "cluster_id": "cluster-18",
+      "representative_ids": [
+        "https://x.com/yubilip_/status/2100830209113280872"
+      ],
+      "score": 6.695894428152493,
+      "sources": [
+        "x"
+      ],
+      "title": "\u0e43\u0e04\u0e23\u0e44\u0e1b #\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27\u0e08\u0e35\u0e19 \u0e15\u0e49\u0e2d\u0e07\u0e42\u0e2b\u0e25\u0e14 Dianping  \u5927\u4f17\u70b9\u8bc4  \u2728\ud83c\udde8\ud83c\uddf3 \u0e41\u0e2d\u0e1b\u0e23\u0e27\u0e21\u0e23\u0e35\u0e27\u0e34\u0e27\u0e23\u0e49\u0e32\u0e19\u0e2d\u0e32\u0e2b\u0e32\u0e23 \u0e04\u0e32\u0e40\u0e1f\u0e48 \u0e01\u0e34\u0e08\u0e01\u0e23\u0e23\u0e21\u0e15\u0e48\u0e32\u0e07\u0e46 \u0e02\u0e2d\u0e07\u0e04\u0e19\u0e08\u0e35\u0e19 \u0e40\u0e23\u0e32\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e43\u0e0a\u0e49\u0e41\u0e2d\u0e1b\u0e19\u0e35\u0e49\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e39\u0e23\u0e35\u0e27\u0e34\u0e27\u0e41\u0e25\u0e30\u0e08\u0e2d\u0e07\u0e23\u0e49\u0e32\u0e19\u0e2d\u0e32\u0e2b\u0e32\u0e23"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/510ubeezys/status/2101640712211349851"
+      ],
+      "cluster_id": "cluster-19",
+      "representative_ids": [
+        "https://x.com/510ubeezys/status/2101640712211349851"
+      ],
+      "score": 6.17064935064935,
+      "sources": [
+        "x"
+      ],
+      "title": "You should down load reelgood app.. it\u2019s an app that u type in any show or movie and it tells u where u can watch it .. perfect for when peo"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/tobi/status/2097529479639732697"
+      ],
+      "cluster_id": "cluster-20",
+      "representative_ids": [
+        "https://x.com/tobi/status/2097529479639732697"
+      ],
+      "score": 5.9357312252964425,
+      "sources": [
+        "x"
+      ],
+      "title": "You should try Meta\u2019s Muse app. It\u2019s pretty amazing."
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/mytakeonx/status/2103975212580528406"
+      ],
+      "cluster_id": "cluster-21",
+      "representative_ids": [
+        "https://x.com/mytakeonx/status/2103975212580528406"
+      ],
+      "score": 5.856350067842604,
+      "sources": [
+        "x"
+      ],
+      "title": "I highly recommend this app \ud83e\udee1"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/jordan_mryyan/status/2103969620923146366"
+      ],
+      "cluster_id": "cluster-22",
+      "representative_ids": [
+        "https://x.com/jordan_mryyan/status/2103969620923146366"
+      ],
+      "score": 5.76096256684492,
+      "sources": [
+        "x"
+      ],
+      "title": "@Muse is the first app i\u2019ve actively went out of my way to recommend since @meetgranola"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/ponyothecpa/status/2093924233059639330"
+      ],
+      "cluster_id": "cluster-23",
+      "representative_ids": [
+        "https://x.com/ponyothecpa/status/2093924233059639330"
+      ],
+      "score": 5.085710627400769,
+      "sources": [
+        "x"
+      ],
+      "title": "hello! \ud81a\uddb9\ud83c\udf40\u0b6d\u02da. sharing you the apps i use for review! \u1d4e\u1d4e\uff61\ud83e\uddf7\ud81a\uddb9\u00b0\u2027"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-27T04:16:44.116262+00:00",
+  "items_by_source": {
+    "x": [
+      {
+        "author": "mephXBT",
+        "body": "tokenized communities / community coins is such a cool concept we are yet to see an app that does it right",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 20,
+          "quotes": 1,
+          "replies": 12,
+          "reposts": 2
+        },
+        "engagement_score": 100,
+        "freshness": 68,
+        "item_id": "X11",
+        "local_rank_score": 0.3285,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-19",
+        "relevance_hint": 0.95,
+        "snippet": "tokenized communities / community coins is such a cool concept we are yet to see an app that does it right",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "tokenized communities / community coins is such a cool concept we are yet to see an app that does it right",
+        "url": "https://x.com/mephXBT/status/2101437994058310036",
+        "why_relevant": "Discusses need for an app that handles tokenized communities properly."
+      },
+      {
+        "author": "anthony06594509",
+        "body": "Is there an app I can download?????",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 86,
+        "item_id": "X3",
+        "local_rank_score": 0.306,
+        "local_relevance": 0.14,
+        "metadata": {},
+        "published_at": "2026-09-26",
+        "relevance_hint": 0.85,
+        "snippet": "Is there an app I can download?????",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Is there an app I can download?????",
+        "url": "https://x.com/anthony06594509/status/2103979380326429136",
+        "why_relevant": "Explicitly asks if there is an app for an implied purpose."
+      },
+      {
+        "author": "hylmew",
+        "body": "Blitz's ads are an eyesore. Ascent is fine, but since I already had Overwolf, I'd rather use Outplayed. Now that we have an app that does it all, I don't mind paying a small fee for it",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 2,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 22,
+        "freshness": 86,
+        "item_id": "X2",
+        "local_rank_score": 0.2955,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-26",
+        "relevance_hint": 0.9,
+        "snippet": "Blitz's ads are an eyesore. Ascent is fine, but since I already had Overwolf, I'd rather use Outplayed. Now that we have an app that does it all, I don't mind paying a small fee for it",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Blitz's ads are an eyesore. Ascent is fine, but since I already had Overwolf, I'd rather use Outplayed. Now that we have an app that does it",
+        "url": "https://x.com/hylmew/status/2103980066166514047",
+        "why_relevant": "Mentions an app that consolidates multiple features."
+      },
+      {
+        "author": "D_e_r_a_a_",
+        "body": "Is there an app or something where you can check if a product you\u2019re buying is real or fake, especially food products?",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 1
+        },
+        "engagement_score": 19,
+        "freshness": 86,
+        "item_id": "X5",
+        "local_rank_score": 0.2925,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-26",
+        "relevance_hint": 0.95,
+        "snippet": "Is there an app or something where you can check if a product you\u2019re buying is real or fake, especially food products?",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Is there an app or something where you can check if a product you\u2019re buying is real or fake, especially food products?",
+        "url": "https://x.com/D_e_r_a_a_/status/2103957511930102160",
+        "why_relevant": "Direct query for an app to verify product authenticity."
+      },
+      {
+        "author": "808ethan",
+        "body": "An app that does my taxes for me. Clear they have that, or how wouldn't they know I cheated?",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 12,
+        "freshness": 86,
+        "item_id": "X1",
+        "local_rank_score": 0.29200000000000004,
+        "local_relevance": 0.1,
+        "metadata": {},
+        "published_at": "2026-09-26",
+        "relevance_hint": 0.95,
+        "snippet": "An app that does my taxes for me. Clear they have that, or how wouldn't they know I cheated?",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "An app that does my taxes for me. Clear they have that, or how wouldn't they know I cheated?",
+        "url": "https://x.com/808ethan/status/2103991893927641497",
+        "why_relevant": "Directly asks for an app that performs a specific task (taxes)."
+      },
+      {
+        "author": "ahtassham",
+        "body": "Got sick of the gatekeeping I'm building an app that does this",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 6,
+          "quotes": 0,
+          "replies": 2,
+          "reposts": 0
+        },
+        "engagement_score": 49,
+        "freshness": 68,
+        "item_id": "X16",
+        "local_rank_score": 0.29050000000000004,
+        "local_relevance": 0.11,
+        "metadata": {},
+        "published_at": "2026-09-19",
+        "relevance_hint": 0.85,
+        "snippet": "Got sick of the gatekeeping I'm building an app that does this",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Got sick of the gatekeeping I'm building an app that does this",
+        "url": "https://x.com/ahtassham/status/2101324276163112975",
+        "why_relevant": "Mentions building an app to address a specific problem."
+      },
+      {
+        "author": "wilson_dunham_f",
+        "body": "Excellent find. I recently found an app that does something similar just not for free. It's called Too Good To Go.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 12,
+        "freshness": 86,
+        "item_id": "X4",
+        "local_rank_score": 0.2855,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-26",
+        "relevance_hint": 0.9,
+        "snippet": "Excellent find. I recently found an app that does something similar just not for free. It's called Too Good To Go.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Excellent find. I recently found an app that does something similar just not for free. It's called Too Good To Go.",
+        "url": "https://x.com/wilson_dunham_f/status/2103964673171165615",
+        "why_relevant": "Discusses finding an app for a specific use case (food waste)."
+      },
+      {
+        "author": "1ShonnHorton",
+        "body": "Is there an app?? I fully support US businesses and would love to help starve foreign profits on our soil.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 12,
+        "freshness": 86,
+        "item_id": "X8",
+        "local_rank_score": 0.2855,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-26",
+        "relevance_hint": 0.85,
+        "snippet": "Is there an app?? I fully support US businesses and would love to help starve foreign profits on our soil.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Is there an app?? I fully support US businesses and would love to help starve foreign profits on our soil.",
+        "url": "https://x.com/1ShonnHorton/status/2103941474522214758",
+        "why_relevant": "Explicit 'is there an app' query in context of business support."
+      },
+      {
+        "author": "MisterElikem",
+        "body": "Is there an app you can download on a smart tv to watch live football??",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 86,
+        "item_id": "X7",
+        "local_rank_score": 0.28,
+        "local_relevance": 0.1,
+        "metadata": {},
+        "published_at": "2026-09-26",
+        "relevance_hint": 0.9,
+        "snippet": "Is there an app you can download on a smart tv to watch live football??",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Is there an app you can download on a smart tv to watch live football??",
+        "url": "https://x.com/MisterElikem/status/2103942897951539644",
+        "why_relevant": "Asks for an app for a specific functionality (live sports streaming)."
+      },
+      {
+        "author": "d1nz_3",
+        "body": "meetups r underrated tbh, my first real convos came from rooms too. one catch I hit: ppl go home n ask chatgpt for \"an app that does X\" n it named other tools, not mine.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 86,
+        "item_id": "X6",
+        "local_rank_score": 0.27349999999999997,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-26",
+        "relevance_hint": 0.8,
+        "snippet": "meetups r underrated tbh, my first real convos came from rooms too. one catch I hit: ppl go home n ask chatgpt for \"an app that does X\" n it named other tools, not mine.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "meetups r underrated tbh, my first real convos came from rooms too. one catch I hit: ppl go home n ask chatgpt for \"an app that does X\" n it",
+        "url": "https://x.com/d1nz_3/status/2103946971916775776",
+        "why_relevant": "References the exact phrase in context of app discovery."
+      },
+      {
+        "author": "chroamhearts",
+        "body": "New DPM app dropped today 10/10 would recommend @dpmlol",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 200,
+          "quotes": 2,
+          "replies": 3,
+          "reposts": 4
+        },
+        "engagement_score": 50,
+        "freshness": 86,
+        "item_id": "X6",
+        "local_rank_score": 0.265,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-26",
+        "relevance_hint": 0.9,
+        "snippet": "New DPM app dropped today 10/10 would recommend @dpmlol",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "New DPM app dropped today 10/10 would recommend @dpmlol",
+        "url": "https://x.com/chroamhearts/status/2103831763344658836",
+        "why_relevant": "Strong recommendation of a new app"
+      },
+      {
+        "author": "yubilip_",
+        "body": "\u0e43\u0e04\u0e23\u0e44\u0e1b #\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27\u0e08\u0e35\u0e19 \u0e15\u0e49\u0e2d\u0e07\u0e42\u0e2b\u0e25\u0e14 Dianping  \u5927\u4f17\u70b9\u8bc4  \u2728\ud83c\udde8\ud83c\uddf3 \u0e41\u0e2d\u0e1b\u0e23\u0e27\u0e21\u0e23\u0e35\u0e27\u0e34\u0e27\u0e23\u0e49\u0e32\u0e19\u0e2d\u0e32\u0e2b\u0e32\u0e23 \u0e04\u0e32\u0e40\u0e1f\u0e48 \u0e01\u0e34\u0e08\u0e01\u0e23\u0e23\u0e21\u0e15\u0e48\u0e32\u0e07\u0e46 \u0e02\u0e2d\u0e07\u0e04\u0e19\u0e08\u0e35\u0e19 \u0e40\u0e23\u0e32\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e43\u0e0a\u0e49\u0e41\u0e2d\u0e1b\u0e19\u0e35\u0e49\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e39\u0e23\u0e35\u0e27\u0e34\u0e27\u0e41\u0e25\u0e30\u0e08\u0e2d\u0e07\u0e23\u0e49\u0e32\u0e19\u0e2d\u0e32\u0e2b\u0e32\u0e23 \u0e14\u0e39\u0e40\u0e21\u0e19\u0e39 \u0e23\u0e27\u0e21\u0e16\u0e36\u0e07\u0e2a\u0e31\u0e48\u0e07\u0e2d\u0e32\u0e2b\u0e32\u0e23\u0e25\u0e48\u0e27\u0e07\u0e2b\u0e19\u0e49\u0e32\u0e44\u0e14\u0e49\u0e14\u0e49\u0e27\u0e22",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 850,
+          "quotes": 7,
+          "replies": 4,
+          "reposts": 682
+        },
+        "engagement_score": 83,
+        "freshness": 66,
+        "item_id": "X11",
+        "local_rank_score": 0.248,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-18",
+        "relevance_hint": 0.85,
+        "snippet": "\u0e43\u0e04\u0e23\u0e44\u0e1b #\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27\u0e08\u0e35\u0e19 \u0e15\u0e49\u0e2d\u0e07\u0e42\u0e2b\u0e25\u0e14 Dianping \u5927\u4f17\u70b9\u8bc4 \u2728\ud83c\udde8\ud83c\uddf3 \u0e41\u0e2d\u0e1b\u0e23\u0e27\u0e21\u0e23\u0e35\u0e27\u0e34\u0e27\u0e23\u0e49\u0e32\u0e19\u0e2d\u0e32\u0e2b\u0e32\u0e23 \u0e04\u0e32\u0e40\u0e1f\u0e48 \u0e01\u0e34\u0e08\u0e01\u0e23\u0e23\u0e21\u0e15\u0e48\u0e32\u0e07\u0e46 \u0e02\u0e2d\u0e07\u0e04\u0e19\u0e08\u0e35\u0e19 \u0e40\u0e23\u0e32\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e43\u0e0a\u0e49\u0e41\u0e2d\u0e1b\u0e19\u0e35\u0e49\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e39\u0e23\u0e35\u0e27\u0e34\u0e27\u0e41\u0e25\u0e30\u0e08\u0e2d\u0e07\u0e23\u0e49\u0e32\u0e19\u0e2d\u0e32\u0e2b\u0e32\u0e23 \u0e14\u0e39\u0e40\u0e21\u0e19\u0e39 \u0e23\u0e27\u0e21\u0e16\u0e36\u0e07\u0e2a\u0e31\u0e48\u0e07\u0e2d\u0e32\u0e2b\u0e32\u0e23\u0e25\u0e48\u0e27\u0e07\u0e2b\u0e19\u0e49\u0e32\u0e44\u0e14\u0e49\u0e14\u0e49\u0e27\u0e22",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "\u0e43\u0e04\u0e23\u0e44\u0e1b #\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27\u0e08\u0e35\u0e19 \u0e15\u0e49\u0e2d\u0e07\u0e42\u0e2b\u0e25\u0e14 Dianping  \u5927\u4f17\u70b9\u8bc4  \u2728\ud83c\udde8\ud83c\uddf3 \u0e41\u0e2d\u0e1b\u0e23\u0e27\u0e21\u0e23\u0e35\u0e27\u0e34\u0e27\u0e23\u0e49\u0e32\u0e19\u0e2d\u0e32\u0e2b\u0e32\u0e23 \u0e04\u0e32\u0e40\u0e1f\u0e48 \u0e01\u0e34\u0e08\u0e01\u0e23\u0e23\u0e21\u0e15\u0e48\u0e32\u0e07\u0e46 \u0e02\u0e2d\u0e07\u0e04\u0e19\u0e08\u0e35\u0e19 \u0e40\u0e23\u0e32\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e43\u0e0a\u0e49\u0e41\u0e2d\u0e1b\u0e19\u0e35\u0e49\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e39\u0e23\u0e35\u0e27\u0e34\u0e27\u0e41\u0e25\u0e30\u0e08\u0e2d\u0e07\u0e23\u0e49\u0e32\u0e19\u0e2d\u0e32\u0e2b\u0e32\u0e23",
+        "url": "https://x.com/yubilip_/status/2100830209113280872",
+        "why_relevant": "Detailed recommendation of a travel/review app"
+      },
+      {
+        "author": "JavierHuante",
+        "body": "@FoxNews @gop @realDonaldTrump here's a thought, the government needs AI app that does one thing only, look for other companies that are breaking the law online.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 16,
+        "freshness": 68,
+        "item_id": "X13",
+        "local_rank_score": 0.2445,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-19",
+        "relevance_hint": 0.85,
+        "snippet": "@FoxNews @gop @realDonaldTrump here's a thought, the government needs AI app that does one thing only, look for other companies that are breaking the law online.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "@FoxNews @gop @realDonaldTrump here's a thought, the government needs AI app that does one thing only, look for other companies that are bre",
+        "url": "https://x.com/JavierHuante/status/2101363900688093495",
+        "why_relevant": "Proposes a specific AI app for legal monitoring."
+      },
+      {
+        "author": "Greasychud1",
+        "body": "can yall recommend me a drawing app for pc?",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 27,
+          "quotes": 1,
+          "replies": 15,
+          "reposts": 0
+        },
+        "engagement_score": 29,
+        "freshness": 86,
+        "item_id": "X3",
+        "local_rank_score": 0.244,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-26",
+        "relevance_hint": 0.85,
+        "snippet": "can yall recommend me a drawing app for pc?",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "can yall recommend me a drawing app for pc?",
+        "url": "https://x.com/Greasychud1/status/2103927078995300721",
+        "why_relevant": "Asking for app recommendation"
+      },
+      {
+        "author": "MovieTalkNOW1",
+        "body": "Did a quick video shoot for someone where the back light was way too strong... So what did I do? I created a 'relight' app that does it for me.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 12,
+        "freshness": 68,
+        "item_id": "X15",
+        "local_rank_score": 0.24050000000000002,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-19",
+        "relevance_hint": 0.9,
+        "snippet": "Did a quick video shoot for someone where the back light was way too strong... So what did I do? I created a 'relight' app that does it for me.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Did a quick video shoot for someone where the back light was way too strong... So what did I do? I created a 'relight' app that does it for",
+        "url": "https://x.com/MovieTalkNOW1/status/2101334399589482725",
+        "why_relevant": "Describes building an app that performs a specific video editing task."
+      },
+      {
+        "author": "itsalicesoul",
+        "body": "Do you guys use a clipboard history app? Looking for one that saves everything I copy and makes finding old stuff easy. What do you recommend?",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 15,
+          "quotes": 0,
+          "replies": 10,
+          "reposts": 0
+        },
+        "engagement_score": 23,
+        "freshness": 86,
+        "item_id": "X5",
+        "local_rank_score": 0.238,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-26",
+        "relevance_hint": 0.95,
+        "snippet": "Do you guys use a clipboard history app? Looking for one that saves everything I copy and makes finding old stuff easy. What do you recommend?",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Do you guys use a clipboard history app? Looking for one that saves everything I copy and makes finding old stuff easy. What do you recommen",
+        "url": "https://x.com/itsalicesoul/status/2103900058957840662",
+        "why_relevant": "Directly asking for app recommendations"
+      },
+      {
+        "author": "mommyissuefy",
+        "body": "I got an iPad, what app would you recommend to a beginner digital artist?",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 12,
+          "quotes": 0,
+          "replies": 5,
+          "reposts": 0
+        },
+        "engagement_score": 20,
+        "freshness": 86,
+        "item_id": "X4",
+        "local_rank_score": 0.235,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-26",
+        "relevance_hint": 0.9,
+        "snippet": "I got an iPad, what app would you recommend to a beginner digital artist?",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "I got an iPad, what app would you recommend to a beginner digital artist?",
+        "url": "https://x.com/mommyissuefy/status/2103915406906061203",
+        "why_relevant": "Seeking app recommendation for specific use"
+      },
+      {
+        "author": "ThisMomSaid",
+        "body": "I would recommend downloading the app \ud83e\udef6\ud83c\udffc",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 25,
+          "quotes": 0,
+          "replies": 3,
+          "reposts": 0
+        },
+        "engagement_score": 25,
+        "freshness": 82,
+        "item_id": "X9",
+        "local_rank_score": 0.22999999999999998,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.85,
+        "snippet": "I would recommend downloading the app \ud83e\udef6\ud83c\udffc",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "I would recommend downloading the app \ud83e\udef6\ud83c\udffc",
+        "url": "https://x.com/ThisMomSaid/status/2103145143096533218",
+        "why_relevant": "Direct app recommendation"
+      },
+      {
+        "author": "MyTakeOnX",
+        "body": "I highly recommend this app \ud83e\udee1",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 1,
+        "freshness": 86,
+        "item_id": "X1",
+        "local_rank_score": 0.216,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-26",
+        "relevance_hint": 0.95,
+        "snippet": "I highly recommend this app \ud83e\udee1",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "I highly recommend this app \ud83e\udee1",
+        "url": "https://x.com/MyTakeOnX/status/2103975212580528406",
+        "why_relevant": "Direct recommendation of an app"
+      },
+      {
+        "author": "Jordan_Mryyan",
+        "body": "@Muse is the first app i\u2019ve actively went out of my way to recommend since @meetgranola",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 86,
+        "item_id": "X2",
+        "local_rank_score": 0.215,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-26",
+        "relevance_hint": 0.9,
+        "snippet": "@Muse is the first app i\u2019ve actively went out of my way to recommend since @meetgranola",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "@Muse is the first app i\u2019ve actively went out of my way to recommend since @meetgranola",
+        "url": "https://x.com/Jordan_Mryyan/status/2103969620923146366",
+        "why_relevant": "Explicitly recommending an app to others"
+      },
+      {
+        "author": "tobi",
+        "body": "You should try Meta\u2019s Muse app. It\u2019s pretty amazing.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 3763,
+          "quotes": 50,
+          "replies": 272,
+          "reposts": 108
+        },
+        "engagement_score": 100,
+        "freshness": 42,
+        "item_id": "X10",
+        "local_rank_score": 0.20500000000000002,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-09",
+        "relevance_hint": 0.95,
+        "snippet": "You should try Meta\u2019s Muse app. It\u2019s pretty amazing.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "You should try Meta\u2019s Muse app. It\u2019s pretty amazing.",
+        "url": "https://x.com/tobi/status/2097529479639732697",
+        "why_relevant": "High-engagement post recommending an app"
+      },
+      {
+        "author": "510uBeezys",
+        "body": "You should down load reelgood app.. it\u2019s an app that u type in any show or movie and it tells u where u can watch it .. perfect for when people suggest shit to watch",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 0,
+        "freshness": 70,
+        "item_id": "X7",
+        "local_rank_score": 0.175,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-20",
+        "relevance_hint": 0.85,
+        "snippet": "You should down load reelgood app.. it\u2019s an app that u type in any show or movie and it tells u where u can watch it .. perfect for when people suggest shit to watch",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "You should down load reelgood app.. it\u2019s an app that u type in any show or movie and it tells u where u can watch it .. perfect for when peo",
+        "url": "https://x.com/510uBeezys/status/2101640712211349851",
+        "why_relevant": "Recommending a specific app with explanation"
+      },
+      {
+        "author": "ponyotheCPA",
+        "body": "hello! \ud81a\uddb9\ud83c\udf40\u0b6d\u02da. sharing you the apps i use for review! \u1d4e\u1d4e\uff61\ud83e\uddf7\ud81a\uddb9\u00b0\u2027",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 357,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 27
+        },
+        "engagement_score": 59,
+        "freshness": 14,
+        "item_id": "X8",
+        "local_rank_score": 0.1655,
+        "local_relevance": 0.11,
+        "metadata": {},
+        "published_at": "2026-08-30",
+        "relevance_hint": 0.8,
+        "snippet": "hello! \ud81a\uddb9\ud83c\udf40\u0b6d\u02da. sharing you the apps i use for review! \u1d4e\u1d4e\uff61\ud83e\uddf7\ud81a\uddb9\u00b0\u2027",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "hello! \ud81a\uddb9\ud83c\udf40\u0b6d\u02da. sharing you the apps i use for review! \u1d4e\u1d4e\uff61\ud83e\uddf7\ud81a\uddb9\u00b0\u2027",
+        "url": "https://x.com/ponyotheCPA/status/2093924233059639330",
+        "why_relevant": "Sharing and recommending multiple apps"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [
+      "topic appears truncated; queries focus on common phrasing for app existence checks"
+    ],
+    "raw_topic": "\"is there an app that\"",
+    "source_weights": {
+      "x": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "app existence queries",
+        "ranking_query": "posts asking if an app exists for a specific task or feature",
+        "search_query": "\"is there an app\" OR \"app that does\"",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.36363636363636365
+      },
+      {
+        "label": "app recommendations",
+        "ranking_query": "discussions recommending or requesting apps that solve everyday problems",
+        "search_query": "recommend app OR \"what app\" OR \"looking for an app\"",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.32727272727272727
+      },
+      {
+        "label": "niche app discovery",
+        "ranking_query": "users describing a need and asking for matching apps",
+        "search_query": "\"need an app that\" OR \"app for\"",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.3090909090909091
+      }
+    ]
+  },
+  "range_from": "2026-08-28",
+  "range_to": "2026-09-27",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://x.com/d_e_r_a_a_/status/2103957511930102160",
+      "cluster_id": "cluster-1",
+      "engagement": 19,
+      "explanation": "strong direct 'is there an app' match for product need",
+      "final_score": 72.42045454545455,
+      "freshness": 86,
+      "fun_explanation": "straight question, zero punch",
+      "fun_score": 12.0,
+      "item_id": "X5",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X5",
+            "native_rank": 4,
+            "source": "x",
+            "subquery_label": "app existence queries"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app existence queries:x": 4
+      },
+      "rerank_score": 90.0,
+      "rrf_score": 0.005681818181818182,
+      "snippet": "Is there an app or something where you can check if a product you\u2019re buying is real or fake, especially food products?",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "D_e_r_a_a_",
+          "body": "Is there an app or something where you can check if a product you\u2019re buying is real or fake, especially food products?",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 1
+          },
+          "engagement_score": 19,
+          "freshness": 86,
+          "item_id": "X5",
+          "local_rank_score": 0.2925,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-26",
+          "relevance_hint": 0.95,
+          "snippet": "Is there an app or something where you can check if a product you\u2019re buying is real or fake, especially food products?",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Is there an app or something where you can check if a product you\u2019re buying is real or fake, especially food products?",
+          "url": "https://x.com/D_e_r_a_a_/status/2103957511930102160",
+          "why_relevant": "Direct query for an app to verify product authenticity."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app existence queries"
+      ],
+      "title": "Is there an app or something where you can check if a product you\u2019re buying is real or fake, especially food products?",
+      "url": "https://x.com/D_e_r_a_a_/status/2103957511930102160"
+    },
+    {
+      "candidate_id": "https://x.com/misterelikem/status/2103942897951539644",
+      "cluster_id": "cluster-2",
+      "explanation": "perfect 'is there an app' phrasing for specific product need",
+      "final_score": 70.3175230566535,
+      "freshness": 86,
+      "fun_explanation": "basic request, no wit",
+      "fun_score": 8.0,
+      "item_id": "X7",
+      "local_relevance": 0.1,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X7",
+            "native_rank": 9,
+            "source": "x",
+            "subquery_label": "app existence queries"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app existence queries:x": 9
+      },
+      "rerank_score": 95.0,
+      "rrf_score": 0.005270092226613966,
+      "snippet": "Is there an app you can download on a smart tv to watch live football??",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "MisterElikem",
+          "body": "Is there an app you can download on a smart tv to watch live football??",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 86,
+          "item_id": "X7",
+          "local_rank_score": 0.28,
+          "local_relevance": 0.1,
+          "metadata": {},
+          "published_at": "2026-09-26",
+          "relevance_hint": 0.9,
+          "snippet": "Is there an app you can download on a smart tv to watch live football??",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Is there an app you can download on a smart tv to watch live football??",
+          "url": "https://x.com/MisterElikem/status/2103942897951539644",
+          "why_relevant": "Asks for an app for a specific functionality (live sports streaming)."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app existence queries"
+      ],
+      "title": "Is there an app you can download on a smart tv to watch live football??",
+      "url": "https://x.com/MisterElikem/status/2103942897951539644"
+    },
+    {
+      "candidate_id": "https://x.com/1shonnhorton/status/2103941474522214758",
+      "cluster_id": "cluster-3",
+      "engagement": 12,
+      "explanation": "direct 'is there an app' existence query",
+      "final_score": 64.93689839572193,
+      "freshness": 86,
+      "fun_explanation": "ideological but flat",
+      "fun_score": 18.0,
+      "item_id": "X8",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X8",
+            "native_rank": 8,
+            "source": "x",
+            "subquery_label": "app existence queries"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app existence queries:x": 8
+      },
+      "rerank_score": 80.0,
+      "rrf_score": 0.005347593582887701,
+      "snippet": "Is there an app?? I fully support US businesses and would love to help starve foreign profits on our soil.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "1ShonnHorton",
+          "body": "Is there an app?? I fully support US businesses and would love to help starve foreign profits on our soil.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 12,
+          "freshness": 86,
+          "item_id": "X8",
+          "local_rank_score": 0.2855,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-26",
+          "relevance_hint": 0.85,
+          "snippet": "Is there an app?? I fully support US businesses and would love to help starve foreign profits on our soil.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Is there an app?? I fully support US businesses and would love to help starve foreign profits on our soil.",
+          "url": "https://x.com/1ShonnHorton/status/2103941474522214758",
+          "why_relevant": "Explicit 'is there an app' query in context of business support."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app existence queries"
+      ],
+      "title": "Is there an app?? I fully support US businesses and would love to help starve foreign profits on our soil.",
+      "url": "https://x.com/1ShonnHorton/status/2103941474522214758"
+    },
+    {
+      "candidate_id": "https://x.com/anthony06594509/status/2103979380326429136",
+      "cluster_id": "cluster-4",
+      "explanation": "direct match to 'is there an app' existence query",
+      "final_score": 64.46627565982405,
+      "freshness": 86,
+      "fun_explanation": "incomplete, no content",
+      "fun_score": 3.0,
+      "item_id": "X3",
+      "local_relevance": 0.14,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X3",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "app existence queries"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app existence queries:x": 2
+      },
+      "rerank_score": 85.0,
+      "rrf_score": 0.005865102639296188,
+      "snippet": "Is there an app I can download?????",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "anthony06594509",
+          "body": "Is there an app I can download?????",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 86,
+          "item_id": "X3",
+          "local_rank_score": 0.306,
+          "local_relevance": 0.14,
+          "metadata": {},
+          "published_at": "2026-09-26",
+          "relevance_hint": 0.85,
+          "snippet": "Is there an app I can download?????",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Is there an app I can download?????",
+          "url": "https://x.com/anthony06594509/status/2103979380326429136",
+          "why_relevant": "Explicitly asks if there is an app for an implied purpose."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app existence queries"
+      ],
+      "title": "Is there an app I can download?????",
+      "url": "https://x.com/anthony06594509/status/2103979380326429136"
+    },
+    {
+      "candidate_id": "https://x.com/808ethan/status/2103991893927641497",
+      "cluster_id": "cluster-5",
+      "engagement": 12,
+      "explanation": "app reference but no entity phrasing",
+      "final_score": 34.9986013986014,
+      "freshness": 86,
+      "fun_explanation": "sharp tax-cheat one-liner, actually funny",
+      "fun_score": 88.0,
+      "item_id": "X1",
+      "local_relevance": 0.1,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X1",
+            "native_rank": 5,
+            "source": "x",
+            "subquery_label": "app existence queries"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app existence queries:x": 5
+      },
+      "rerank_score": 30.0,
+      "rrf_score": 0.005594405594405594,
+      "snippet": "An app that does my taxes for me. Clear they have that, or how wouldn't they know I cheated?",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "808ethan",
+          "body": "An app that does my taxes for me. Clear they have that, or how wouldn't they know I cheated?",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 12,
+          "freshness": 86,
+          "item_id": "X1",
+          "local_rank_score": 0.29200000000000004,
+          "local_relevance": 0.1,
+          "metadata": {},
+          "published_at": "2026-09-26",
+          "relevance_hint": 0.95,
+          "snippet": "An app that does my taxes for me. Clear they have that, or how wouldn't they know I cheated?",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "An app that does my taxes for me. Clear they have that, or how wouldn't they know I cheated?",
+          "url": "https://x.com/808ethan/status/2103991893927641497",
+          "why_relevant": "Directly asks for an app that performs a specific task (taxes)."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app existence queries"
+      ],
+      "title": "An app that does my taxes for me. Clear they have that, or how wouldn't they know I cheated?",
+      "url": "https://x.com/808ethan/status/2103991893927641497"
+    },
+    {
+      "candidate_id": "https://x.com/mephxbt/status/2101437994058310036",
+      "cluster_id": "cluster-6",
+      "engagement": 100,
+      "explanation": "mentions app existence but lacks primary entity phrasing",
+      "final_score": 31.690312965722804,
+      "freshness": 68,
+      "fun_explanation": "mild opinion, no joke",
+      "fun_score": 22.0,
+      "item_id": "X11",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X11",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "app existence queries"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app existence queries:x": 1
+      },
+      "rerank_score": 25.0,
+      "rrf_score": 0.005961251862891207,
+      "snippet": "tokenized communities / community coins is such a cool concept we are yet to see an app that does it right",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "mephXBT",
+          "body": "tokenized communities / community coins is such a cool concept we are yet to see an app that does it right",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 20,
+            "quotes": 1,
+            "replies": 12,
+            "reposts": 2
+          },
+          "engagement_score": 100,
+          "freshness": 68,
+          "item_id": "X11",
+          "local_rank_score": 0.3285,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-19",
+          "relevance_hint": 0.95,
+          "snippet": "tokenized communities / community coins is such a cool concept we are yet to see an app that does it right",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "tokenized communities / community coins is such a cool concept we are yet to see an app that does it right",
+          "url": "https://x.com/mephXBT/status/2101437994058310036",
+          "why_relevant": "Discusses need for an app that handles tokenized communities properly."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app existence queries"
+      ],
+      "title": "tokenized communities / community coins is such a cool concept we are yet to see an app that does it right",
+      "url": "https://x.com/mephXBT/status/2101437994058310036"
+    },
+    {
+      "candidate_id": "https://x.com/d1nz_3/status/2103946971916775776",
+      "cluster_id": "cluster-7",
+      "explanation": "mentions phrase in meta context but not direct query",
+      "final_score": 31.298701298701296,
+      "freshness": 86,
+      "fun_explanation": "meta jab at ChatGPT, some personality",
+      "fun_score": 35.0,
+      "item_id": "X6",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X6",
+            "native_rank": 10,
+            "source": "x",
+            "subquery_label": "app existence queries"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app existence queries:x": 10
+      },
+      "rerank_score": 30.0,
+      "rrf_score": 0.005194805194805195,
+      "snippet": "meetups r underrated tbh, my first real convos came from rooms too. one catch I hit: ppl go home n ask chatgpt for \"an app that does X\" n it named other tools, not mine.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "d1nz_3",
+          "body": "meetups r underrated tbh, my first real convos came from rooms too. one catch I hit: ppl go home n ask chatgpt for \"an app that does X\" n it named other tools, not mine.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 86,
+          "item_id": "X6",
+          "local_rank_score": 0.27349999999999997,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-26",
+          "relevance_hint": 0.8,
+          "snippet": "meetups r underrated tbh, my first real convos came from rooms too. one catch I hit: ppl go home n ask chatgpt for \"an app that does X\" n it named other tools, not mine.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "meetups r underrated tbh, my first real convos came from rooms too. one catch I hit: ppl go home n ask chatgpt for \"an app that does X\" n it",
+          "url": "https://x.com/d1nz_3/status/2103946971916775776",
+          "why_relevant": "References the exact phrase in context of app discovery."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app existence queries"
+      ],
+      "title": "meetups r underrated tbh, my first real convos came from rooms too. one catch I hit: ppl go home n ask chatgpt for \"an app that does X\" n it",
+      "url": "https://x.com/d1nz_3/status/2103946971916775776"
+    },
+    {
+      "candidate_id": "https://x.com/hylmew/status/2103980066166514047",
+      "cluster_id": "cluster-8",
+      "engagement": 22,
+      "explanation": "no primary entity phrasing, tangential app discussion",
+      "final_score": 30.443001443001442,
+      "freshness": 86,
+      "fun_explanation": "app comparison, dry",
+      "fun_score": 15.0,
+      "item_id": "X2",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X2",
+            "native_rank": 3,
+            "source": "x",
+            "subquery_label": "app existence queries"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app existence queries:x": 3
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.005772005772005772,
+      "snippet": "Blitz's ads are an eyesore. Ascent is fine, but since I already had Overwolf, I'd rather use Outplayed. Now that we have an app that does it all, I don't mind paying a small fee for it",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "hylmew",
+          "body": "Blitz's ads are an eyesore. Ascent is fine, but since I already had Overwolf, I'd rather use Outplayed. Now that we have an app that does it all, I don't mind paying a small fee for it",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 2,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 22,
+          "freshness": 86,
+          "item_id": "X2",
+          "local_rank_score": 0.2955,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-26",
+          "relevance_hint": 0.9,
+          "snippet": "Blitz's ads are an eyesore. Ascent is fine, but since I already had Overwolf, I'd rather use Outplayed. Now that we have an app that does it all, I don't mind paying a small fee for it",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Blitz's ads are an eyesore. Ascent is fine, but since I already had Overwolf, I'd rather use Outplayed. Now that we have an app that does it",
+          "url": "https://x.com/hylmew/status/2103980066166514047",
+          "why_relevant": "Mentions an app that consolidates multiple features."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app existence queries"
+      ],
+      "title": "Blitz's ads are an eyesore. Ascent is fine, but since I already had Overwolf, I'd rather use Outplayed. Now that we have an app that does it",
+      "url": "https://x.com/hylmew/status/2103980066166514047"
+    },
+    {
+      "candidate_id": "https://x.com/wilson_dunham_f/status/2103964673171165615",
+      "cluster_id": "cluster-9",
+      "engagement": 12,
+      "explanation": "no entity phrasing, recommendation only",
+      "final_score": 28.95685210312076,
+      "freshness": 86,
+      "fun_explanation": "plain recommendation",
+      "fun_score": 14.0,
+      "item_id": "X4",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X4",
+            "native_rank": 7,
+            "source": "x",
+            "subquery_label": "app existence queries"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app existence queries:x": 7
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.00542740841248304,
+      "snippet": "Excellent find. I recently found an app that does something similar just not for free. It's called Too Good To Go.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "wilson_dunham_f",
+          "body": "Excellent find. I recently found an app that does something similar just not for free. It's called Too Good To Go.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 12,
+          "freshness": 86,
+          "item_id": "X4",
+          "local_rank_score": 0.2855,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-26",
+          "relevance_hint": 0.9,
+          "snippet": "Excellent find. I recently found an app that does something similar just not for free. It's called Too Good To Go.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Excellent find. I recently found an app that does something similar just not for free. It's called Too Good To Go.",
+          "url": "https://x.com/wilson_dunham_f/status/2103964673171165615",
+          "why_relevant": "Discusses finding an app for a specific use case (food waste)."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app existence queries"
+      ],
+      "title": "Excellent find. I recently found an app that does something similar just not for free. It's called Too Good To Go.",
+      "url": "https://x.com/wilson_dunham_f/status/2103964673171165615"
+    },
+    {
+      "candidate_id": "https://x.com/javierhuante/status/2101363900688093495",
+      "cluster_id": "cluster-10",
+      "engagement": 16,
+      "explanation": "no entity phrasing, hypothetical app idea",
+      "final_score": 28.28040973111396,
+      "freshness": 68,
+      "fun_explanation": "odd idea but not witty",
+      "fun_score": 28.0,
+      "item_id": "X13",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X13",
+            "native_rank": 11,
+            "source": "x",
+            "subquery_label": "app existence queries"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app existence queries:x": 11
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.005121638924455826,
+      "snippet": "@FoxNews @gop @realDonaldTrump here's a thought, the government needs AI app that does one thing only, look for other companies that are breaking the law online.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "JavierHuante",
+          "body": "@FoxNews @gop @realDonaldTrump here's a thought, the government needs AI app that does one thing only, look for other companies that are breaking the law online.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 16,
+          "freshness": 68,
+          "item_id": "X13",
+          "local_rank_score": 0.2445,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-19",
+          "relevance_hint": 0.85,
+          "snippet": "@FoxNews @gop @realDonaldTrump here's a thought, the government needs AI app that does one thing only, look for other companies that are breaking the law online.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "@FoxNews @gop @realDonaldTrump here's a thought, the government needs AI app that does one thing only, look for other companies that are bre",
+          "url": "https://x.com/JavierHuante/status/2101363900688093495",
+          "why_relevant": "Proposes a specific AI app for legal monitoring."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app existence queries"
+      ],
+      "title": "@FoxNews @gop @realDonaldTrump here's a thought, the government needs AI app that does one thing only, look for other companies that are bre",
+      "url": "https://x.com/JavierHuante/status/2101363900688093495"
+    },
+    {
+      "candidate_id": "https://x.com/movietalknow1/status/2101334399589482725",
+      "cluster_id": "cluster-11",
+      "engagement": 12,
+      "explanation": "no entity phrasing, personal app creation",
+      "final_score": 27.062626262626267,
+      "freshness": 68,
+      "fun_explanation": "self-promo, mild interest",
+      "fun_score": 24.0,
+      "item_id": "X15",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X15",
+            "native_rank": 12,
+            "source": "x",
+            "subquery_label": "app existence queries"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app existence queries:x": 12
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.005050505050505051,
+      "snippet": "Did a quick video shoot for someone where the back light was way too strong... So what did I do? I created a 'relight' app that does it for me.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "MovieTalkNOW1",
+          "body": "Did a quick video shoot for someone where the back light was way too strong... So what did I do? I created a 'relight' app that does it for me.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 12,
+          "freshness": 68,
+          "item_id": "X15",
+          "local_rank_score": 0.24050000000000002,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-19",
+          "relevance_hint": 0.9,
+          "snippet": "Did a quick video shoot for someone where the back light was way too strong... So what did I do? I created a 'relight' app that does it for me.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Did a quick video shoot for someone where the back light was way too strong... So what did I do? I created a 'relight' app that does it for",
+          "url": "https://x.com/MovieTalkNOW1/status/2101334399589482725",
+          "why_relevant": "Describes building an app that performs a specific video editing task."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app existence queries"
+      ],
+      "title": "Did a quick video shoot for someone where the back light was way too strong... So what did I do? I created a 'relight' app that does it for",
+      "url": "https://x.com/MovieTalkNOW1/status/2101334399589482725"
+    },
+    {
+      "candidate_id": "https://x.com/chroamhearts/status/2103831763344658836",
+      "cluster_id": "cluster-12",
+      "engagement": 50,
+      "explanation": "recommendation, no entity phrasing",
+      "final_score": 8.202384500745156,
+      "freshness": 86,
+      "fun_explanation": "bare recommendation",
+      "fun_score": 9.0,
+      "item_id": "X6",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X6",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "app recommendations"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recommendations:x": 1
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.005365126676602086,
+      "snippet": "New DPM app dropped today 10/10 would recommend @dpmlol",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "chroamhearts",
+          "body": "New DPM app dropped today 10/10 would recommend @dpmlol",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 200,
+            "quotes": 2,
+            "replies": 3,
+            "reposts": 4
+          },
+          "engagement_score": 50,
+          "freshness": 86,
+          "item_id": "X6",
+          "local_rank_score": 0.265,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-26",
+          "relevance_hint": 0.9,
+          "snippet": "New DPM app dropped today 10/10 would recommend @dpmlol",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "New DPM app dropped today 10/10 would recommend @dpmlol",
+          "url": "https://x.com/chroamhearts/status/2103831763344658836",
+          "why_relevant": "Strong recommendation of a new app"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recommendations"
+      ],
+      "title": "New DPM app dropped today 10/10 would recommend @dpmlol",
+      "url": "https://x.com/chroamhearts/status/2103831763344658836"
+    },
+    {
+      "candidate_id": "https://x.com/greasychud1/status/2103927078995300721",
+      "cluster_id": "cluster-13",
+      "engagement": 29,
+      "explanation": "recommendation request, no entity phrasing",
+      "final_score": 8.189610389610388,
+      "freshness": 86,
+      "fun_explanation": "plain ask",
+      "fun_score": 7.0,
+      "item_id": "X3",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X3",
+            "native_rank": 3,
+            "source": "x",
+            "subquery_label": "app recommendations"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recommendations:x": 3
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.005194805194805195,
+      "snippet": "can yall recommend me a drawing app for pc?",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Greasychud1",
+          "body": "can yall recommend me a drawing app for pc?",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 27,
+            "quotes": 1,
+            "replies": 15,
+            "reposts": 0
+          },
+          "engagement_score": 29,
+          "freshness": 86,
+          "item_id": "X3",
+          "local_rank_score": 0.244,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-26",
+          "relevance_hint": 0.85,
+          "snippet": "can yall recommend me a drawing app for pc?",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "can yall recommend me a drawing app for pc?",
+          "url": "https://x.com/Greasychud1/status/2103927078995300721",
+          "why_relevant": "Asking for app recommendation"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recommendations"
+      ],
+      "title": "can yall recommend me a drawing app for pc?",
+      "url": "https://x.com/Greasychud1/status/2103927078995300721"
+    },
+    {
+      "candidate_id": "https://x.com/itsalicesoul/status/2103900058957840662",
+      "cluster_id": "cluster-14",
+      "engagement": 23,
+      "explanation": "recommendation request, no entity phrasing",
+      "final_score": 8.183522727272726,
+      "freshness": 86,
+      "fun_explanation": "straight request",
+      "fun_score": 6.0,
+      "item_id": "X5",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X5",
+            "native_rank": 4,
+            "source": "x",
+            "subquery_label": "app recommendations"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recommendations:x": 4
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.005113636363636364,
+      "snippet": "Do you guys use a clipboard history app? Looking for one that saves everything I copy and makes finding old stuff easy. What do you recommend?",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "itsalicesoul",
+          "body": "Do you guys use a clipboard history app? Looking for one that saves everything I copy and makes finding old stuff easy. What do you recommend?",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 15,
+            "quotes": 0,
+            "replies": 10,
+            "reposts": 0
+          },
+          "engagement_score": 23,
+          "freshness": 86,
+          "item_id": "X5",
+          "local_rank_score": 0.238,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-26",
+          "relevance_hint": 0.95,
+          "snippet": "Do you guys use a clipboard history app? Looking for one that saves everything I copy and makes finding old stuff easy. What do you recommend?",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Do you guys use a clipboard history app? Looking for one that saves everything I copy and makes finding old stuff easy. What do you recommen",
+          "url": "https://x.com/itsalicesoul/status/2103900058957840662",
+          "why_relevant": "Directly asking for app recommendations"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recommendations"
+      ],
+      "title": "Do you guys use a clipboard history app? Looking for one that saves everything I copy and makes finding old stuff easy. What do you recommen",
+      "url": "https://x.com/itsalicesoul/status/2103900058957840662"
+    },
+    {
+      "candidate_id": "https://x.com/ahtassham/status/2101324276163112975",
+      "cluster_id": "cluster-15",
+      "engagement": 49,
+      "explanation": "no entity phrasing, building app not querying existence",
+      "final_score": 7.673223140495868,
+      "freshness": 68,
+      "fun_explanation": "mild motivation, no humor",
+      "fun_score": 19.0,
+      "item_id": "X16",
+      "local_relevance": 0.11,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X16",
+            "native_rank": 6,
+            "source": "x",
+            "subquery_label": "app existence queries"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app existence queries:x": 6
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.005509641873278237,
+      "snippet": "Got sick of the gatekeeping I'm building an app that does this",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "ahtassham",
+          "body": "Got sick of the gatekeeping I'm building an app that does this",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 6,
+            "quotes": 0,
+            "replies": 2,
+            "reposts": 0
+          },
+          "engagement_score": 49,
+          "freshness": 68,
+          "item_id": "X16",
+          "local_rank_score": 0.29050000000000004,
+          "local_relevance": 0.11,
+          "metadata": {},
+          "published_at": "2026-09-19",
+          "relevance_hint": 0.85,
+          "snippet": "Got sick of the gatekeeping I'm building an app that does this",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Got sick of the gatekeeping I'm building an app that does this",
+          "url": "https://x.com/ahtassham/status/2101324276163112975",
+          "why_relevant": "Mentions building an app to address a specific problem."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app existence queries"
+      ],
+      "title": "Got sick of the gatekeeping I'm building an app that does this",
+      "url": "https://x.com/ahtassham/status/2101324276163112975"
+    },
+    {
+      "candidate_id": "https://x.com/mommyissuefy/status/2103915406906061203",
+      "cluster_id": "cluster-16",
+      "engagement": 20,
+      "explanation": "recommendation request, no entity phrasing",
+      "final_score": 7.277622377622378,
+      "freshness": 86,
+      "fun_explanation": "basic question",
+      "fun_score": 8.0,
+      "item_id": "X4",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X4",
+            "native_rank": 5,
+            "source": "x",
+            "subquery_label": "app recommendations"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recommendations:x": 5
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.005034965034965035,
+      "snippet": "I got an iPad, what app would you recommend to a beginner digital artist?",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "mommyissuefy",
+          "body": "I got an iPad, what app would you recommend to a beginner digital artist?",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 12,
+            "quotes": 0,
+            "replies": 5,
+            "reposts": 0
+          },
+          "engagement_score": 20,
+          "freshness": 86,
+          "item_id": "X4",
+          "local_rank_score": 0.235,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-26",
+          "relevance_hint": 0.9,
+          "snippet": "I got an iPad, what app would you recommend to a beginner digital artist?",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "I got an iPad, what app would you recommend to a beginner digital artist?",
+          "url": "https://x.com/mommyissuefy/status/2103915406906061203",
+          "why_relevant": "Seeking app recommendation for specific use"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recommendations"
+      ],
+      "title": "I got an iPad, what app would you recommend to a beginner digital artist?",
+      "url": "https://x.com/mommyissuefy/status/2103915406906061203"
+    },
+    {
+      "candidate_id": "https://x.com/thismomsaid/status/2103145143096533218",
+      "cluster_id": "cluster-17",
+      "engagement": 25,
+      "explanation": "generic recommendation, no entity phrasing",
+      "final_score": 7.151900826446282,
+      "freshness": 82,
+      "fun_explanation": "vague, nothing there",
+      "fun_score": 4.0,
+      "item_id": "X9",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X9",
+            "native_rank": 6,
+            "source": "x",
+            "subquery_label": "app recommendations"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recommendations:x": 6
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.0049586776859504135,
+      "snippet": "I would recommend downloading the app \ud83e\udef6\ud83c\udffc",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "ThisMomSaid",
+          "body": "I would recommend downloading the app \ud83e\udef6\ud83c\udffc",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 25,
+            "quotes": 0,
+            "replies": 3,
+            "reposts": 0
+          },
+          "engagement_score": 25,
+          "freshness": 82,
+          "item_id": "X9",
+          "local_rank_score": 0.22999999999999998,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.85,
+          "snippet": "I would recommend downloading the app \ud83e\udef6\ud83c\udffc",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "I would recommend downloading the app \ud83e\udef6\ud83c\udffc",
+          "url": "https://x.com/ThisMomSaid/status/2103145143096533218",
+          "why_relevant": "Direct app recommendation"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recommendations"
+      ],
+      "title": "I would recommend downloading the app \ud83e\udef6\ud83c\udffc",
+      "url": "https://x.com/ThisMomSaid/status/2103145143096533218"
+    },
+    {
+      "candidate_id": "https://x.com/yubilip_/status/2100830209113280872",
+      "cluster_id": "cluster-18",
+      "engagement": 83,
+      "explanation": "recommendation, no entity phrasing",
+      "final_score": 6.695894428152493,
+      "freshness": 66,
+      "fun_explanation": "informative rec, no wit",
+      "fun_score": 16.0,
+      "item_id": "X11",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X11",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "app recommendations"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recommendations:x": 2
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.005278592375366569,
+      "snippet": "\u0e43\u0e04\u0e23\u0e44\u0e1b #\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27\u0e08\u0e35\u0e19 \u0e15\u0e49\u0e2d\u0e07\u0e42\u0e2b\u0e25\u0e14 Dianping \u5927\u4f17\u70b9\u8bc4 \u2728\ud83c\udde8\ud83c\uddf3 \u0e41\u0e2d\u0e1b\u0e23\u0e27\u0e21\u0e23\u0e35\u0e27\u0e34\u0e27\u0e23\u0e49\u0e32\u0e19\u0e2d\u0e32\u0e2b\u0e32\u0e23 \u0e04\u0e32\u0e40\u0e1f\u0e48 \u0e01\u0e34\u0e08\u0e01\u0e23\u0e23\u0e21\u0e15\u0e48\u0e32\u0e07\u0e46 \u0e02\u0e2d\u0e07\u0e04\u0e19\u0e08\u0e35\u0e19 \u0e40\u0e23\u0e32\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e43\u0e0a\u0e49\u0e41\u0e2d\u0e1b\u0e19\u0e35\u0e49\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e39\u0e23\u0e35\u0e27\u0e34\u0e27\u0e41\u0e25\u0e30\u0e08\u0e2d\u0e07\u0e23\u0e49\u0e32\u0e19\u0e2d\u0e32\u0e2b\u0e32\u0e23 \u0e14\u0e39\u0e40\u0e21\u0e19\u0e39 \u0e23\u0e27\u0e21\u0e16\u0e36\u0e07\u0e2a\u0e31\u0e48\u0e07\u0e2d\u0e32\u0e2b\u0e32\u0e23\u0e25\u0e48\u0e27\u0e07\u0e2b\u0e19\u0e49\u0e32\u0e44\u0e14\u0e49\u0e14\u0e49\u0e27\u0e22",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "yubilip_",
+          "body": "\u0e43\u0e04\u0e23\u0e44\u0e1b #\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27\u0e08\u0e35\u0e19 \u0e15\u0e49\u0e2d\u0e07\u0e42\u0e2b\u0e25\u0e14 Dianping  \u5927\u4f17\u70b9\u8bc4  \u2728\ud83c\udde8\ud83c\uddf3 \u0e41\u0e2d\u0e1b\u0e23\u0e27\u0e21\u0e23\u0e35\u0e27\u0e34\u0e27\u0e23\u0e49\u0e32\u0e19\u0e2d\u0e32\u0e2b\u0e32\u0e23 \u0e04\u0e32\u0e40\u0e1f\u0e48 \u0e01\u0e34\u0e08\u0e01\u0e23\u0e23\u0e21\u0e15\u0e48\u0e32\u0e07\u0e46 \u0e02\u0e2d\u0e07\u0e04\u0e19\u0e08\u0e35\u0e19 \u0e40\u0e23\u0e32\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e43\u0e0a\u0e49\u0e41\u0e2d\u0e1b\u0e19\u0e35\u0e49\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e39\u0e23\u0e35\u0e27\u0e34\u0e27\u0e41\u0e25\u0e30\u0e08\u0e2d\u0e07\u0e23\u0e49\u0e32\u0e19\u0e2d\u0e32\u0e2b\u0e32\u0e23 \u0e14\u0e39\u0e40\u0e21\u0e19\u0e39 \u0e23\u0e27\u0e21\u0e16\u0e36\u0e07\u0e2a\u0e31\u0e48\u0e07\u0e2d\u0e32\u0e2b\u0e32\u0e23\u0e25\u0e48\u0e27\u0e07\u0e2b\u0e19\u0e49\u0e32\u0e44\u0e14\u0e49\u0e14\u0e49\u0e27\u0e22",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 850,
+            "quotes": 7,
+            "replies": 4,
+            "reposts": 682
+          },
+          "engagement_score": 83,
+          "freshness": 66,
+          "item_id": "X11",
+          "local_rank_score": 0.248,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-18",
+          "relevance_hint": 0.85,
+          "snippet": "\u0e43\u0e04\u0e23\u0e44\u0e1b #\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27\u0e08\u0e35\u0e19 \u0e15\u0e49\u0e2d\u0e07\u0e42\u0e2b\u0e25\u0e14 Dianping \u5927\u4f17\u70b9\u8bc4 \u2728\ud83c\udde8\ud83c\uddf3 \u0e41\u0e2d\u0e1b\u0e23\u0e27\u0e21\u0e23\u0e35\u0e27\u0e34\u0e27\u0e23\u0e49\u0e32\u0e19\u0e2d\u0e32\u0e2b\u0e32\u0e23 \u0e04\u0e32\u0e40\u0e1f\u0e48 \u0e01\u0e34\u0e08\u0e01\u0e23\u0e23\u0e21\u0e15\u0e48\u0e32\u0e07\u0e46 \u0e02\u0e2d\u0e07\u0e04\u0e19\u0e08\u0e35\u0e19 \u0e40\u0e23\u0e32\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e43\u0e0a\u0e49\u0e41\u0e2d\u0e1b\u0e19\u0e35\u0e49\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e39\u0e23\u0e35\u0e27\u0e34\u0e27\u0e41\u0e25\u0e30\u0e08\u0e2d\u0e07\u0e23\u0e49\u0e32\u0e19\u0e2d\u0e32\u0e2b\u0e32\u0e23 \u0e14\u0e39\u0e40\u0e21\u0e19\u0e39 \u0e23\u0e27\u0e21\u0e16\u0e36\u0e07\u0e2a\u0e31\u0e48\u0e07\u0e2d\u0e32\u0e2b\u0e32\u0e23\u0e25\u0e48\u0e27\u0e07\u0e2b\u0e19\u0e49\u0e32\u0e44\u0e14\u0e49\u0e14\u0e49\u0e27\u0e22",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "\u0e43\u0e04\u0e23\u0e44\u0e1b #\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27\u0e08\u0e35\u0e19 \u0e15\u0e49\u0e2d\u0e07\u0e42\u0e2b\u0e25\u0e14 Dianping  \u5927\u4f17\u70b9\u8bc4  \u2728\ud83c\udde8\ud83c\uddf3 \u0e41\u0e2d\u0e1b\u0e23\u0e27\u0e21\u0e23\u0e35\u0e27\u0e34\u0e27\u0e23\u0e49\u0e32\u0e19\u0e2d\u0e32\u0e2b\u0e32\u0e23 \u0e04\u0e32\u0e40\u0e1f\u0e48 \u0e01\u0e34\u0e08\u0e01\u0e23\u0e23\u0e21\u0e15\u0e48\u0e32\u0e07\u0e46 \u0e02\u0e2d\u0e07\u0e04\u0e19\u0e08\u0e35\u0e19 \u0e40\u0e23\u0e32\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e43\u0e0a\u0e49\u0e41\u0e2d\u0e1b\u0e19\u0e35\u0e49\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e39\u0e23\u0e35\u0e27\u0e34\u0e27\u0e41\u0e25\u0e30\u0e08\u0e2d\u0e07\u0e23\u0e49\u0e32\u0e19\u0e2d\u0e32\u0e2b\u0e32\u0e23",
+          "url": "https://x.com/yubilip_/status/2100830209113280872",
+          "why_relevant": "Detailed recommendation of a travel/review app"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recommendations"
+      ],
+      "title": "\u0e43\u0e04\u0e23\u0e44\u0e1b #\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27\u0e08\u0e35\u0e19 \u0e15\u0e49\u0e2d\u0e07\u0e42\u0e2b\u0e25\u0e14 Dianping  \u5927\u4f17\u70b9\u8bc4  \u2728\ud83c\udde8\ud83c\uddf3 \u0e41\u0e2d\u0e1b\u0e23\u0e27\u0e21\u0e23\u0e35\u0e27\u0e34\u0e27\u0e23\u0e49\u0e32\u0e19\u0e2d\u0e32\u0e2b\u0e32\u0e23 \u0e04\u0e32\u0e40\u0e1f\u0e48 \u0e01\u0e34\u0e08\u0e01\u0e23\u0e23\u0e21\u0e15\u0e48\u0e32\u0e07\u0e46 \u0e02\u0e2d\u0e07\u0e04\u0e19\u0e08\u0e35\u0e19 \u0e40\u0e23\u0e32\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e43\u0e0a\u0e49\u0e41\u0e2d\u0e1b\u0e19\u0e35\u0e49\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e39\u0e23\u0e35\u0e27\u0e34\u0e27\u0e41\u0e25\u0e30\u0e08\u0e2d\u0e07\u0e23\u0e49\u0e32\u0e19\u0e2d\u0e32\u0e2b\u0e32\u0e23",
+      "url": "https://x.com/yubilip_/status/2100830209113280872"
+    },
+    {
+      "candidate_id": "https://x.com/510ubeezys/status/2101640712211349851",
+      "cluster_id": "cluster-19",
+      "engagement": 0,
+      "explanation": "recommendation, no entity phrasing",
+      "final_score": 6.17064935064935,
+      "freshness": 70,
+      "fun_explanation": "clear rec with slight energy",
+      "fun_score": 32.0,
+      "item_id": "X7",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X7",
+            "native_rank": 10,
+            "source": "x",
+            "subquery_label": "app recommendations"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recommendations:x": 10
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.004675324675324675,
+      "snippet": "You should down load reelgood app.. it\u2019s an app that u type in any show or movie and it tells u where u can watch it .. perfect for when people suggest shit to watch",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "510uBeezys",
+          "body": "You should down load reelgood app.. it\u2019s an app that u type in any show or movie and it tells u where u can watch it .. perfect for when people suggest shit to watch",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 0,
+          "freshness": 70,
+          "item_id": "X7",
+          "local_rank_score": 0.175,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-20",
+          "relevance_hint": 0.85,
+          "snippet": "You should down load reelgood app.. it\u2019s an app that u type in any show or movie and it tells u where u can watch it .. perfect for when people suggest shit to watch",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "You should down load reelgood app.. it\u2019s an app that u type in any show or movie and it tells u where u can watch it .. perfect for when peo",
+          "url": "https://x.com/510uBeezys/status/2101640712211349851",
+          "why_relevant": "Recommending a specific app with explanation"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recommendations"
+      ],
+      "title": "You should down load reelgood app.. it\u2019s an app that u type in any show or movie and it tells u where u can watch it .. perfect for when peo",
+      "url": "https://x.com/510uBeezys/status/2101640712211349851"
+    },
+    {
+      "candidate_id": "https://x.com/tobi/status/2097529479639732697",
+      "cluster_id": "cluster-20",
+      "engagement": 100,
+      "explanation": "recommendation, no entity phrasing",
+      "final_score": 5.9357312252964425,
+      "freshness": 42,
+      "fun_explanation": "short plug, flat",
+      "fun_score": 11.0,
+      "item_id": "X10",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X10",
+            "native_rank": 9,
+            "source": "x",
+            "subquery_label": "app recommendations"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recommendations:x": 9
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.0047430830039525695,
+      "snippet": "You should try Meta\u2019s Muse app. It\u2019s pretty amazing.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "tobi",
+          "body": "You should try Meta\u2019s Muse app. It\u2019s pretty amazing.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 3763,
+            "quotes": 50,
+            "replies": 272,
+            "reposts": 108
+          },
+          "engagement_score": 100,
+          "freshness": 42,
+          "item_id": "X10",
+          "local_rank_score": 0.20500000000000002,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-09",
+          "relevance_hint": 0.95,
+          "snippet": "You should try Meta\u2019s Muse app. It\u2019s pretty amazing.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "You should try Meta\u2019s Muse app. It\u2019s pretty amazing.",
+          "url": "https://x.com/tobi/status/2097529479639732697",
+          "why_relevant": "High-engagement post recommending an app"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recommendations"
+      ],
+      "title": "You should try Meta\u2019s Muse app. It\u2019s pretty amazing.",
+      "url": "https://x.com/tobi/status/2097529479639732697"
+    },
+    {
+      "candidate_id": "https://x.com/mytakeonx/status/2103975212580528406",
+      "cluster_id": "cluster-21",
+      "engagement": 1,
+      "explanation": "generic recommendation, no entity phrasing",
+      "final_score": 5.856350067842604,
+      "freshness": 86,
+      "fun_explanation": "empty recommendation",
+      "fun_score": 5.0,
+      "item_id": "X1",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X1",
+            "native_rank": 7,
+            "source": "x",
+            "subquery_label": "app recommendations"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recommendations:x": 7
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.004884667571234735,
+      "snippet": "I highly recommend this app \ud83e\udee1",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "MyTakeOnX",
+          "body": "I highly recommend this app \ud83e\udee1",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 1,
+          "freshness": 86,
+          "item_id": "X1",
+          "local_rank_score": 0.216,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-26",
+          "relevance_hint": 0.95,
+          "snippet": "I highly recommend this app \ud83e\udee1",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "I highly recommend this app \ud83e\udee1",
+          "url": "https://x.com/MyTakeOnX/status/2103975212580528406",
+          "why_relevant": "Direct recommendation of an app"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recommendations"
+      ],
+      "title": "I highly recommend this app \ud83e\udee1",
+      "url": "https://x.com/MyTakeOnX/status/2103975212580528406"
+    },
+    {
+      "candidate_id": "https://x.com/jordan_mryyan/status/2103969620923146366",
+      "cluster_id": "cluster-22",
+      "explanation": "recommendation, no entity phrasing",
+      "final_score": 5.76096256684492,
+      "freshness": 86,
+      "fun_explanation": "name-drop only",
+      "fun_score": 10.0,
+      "item_id": "X2",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X2",
+            "native_rank": 8,
+            "source": "x",
+            "subquery_label": "app recommendations"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recommendations:x": 8
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.004812834224598931,
+      "snippet": "@Muse is the first app i\u2019ve actively went out of my way to recommend since @meetgranola",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Jordan_Mryyan",
+          "body": "@Muse is the first app i\u2019ve actively went out of my way to recommend since @meetgranola",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 86,
+          "item_id": "X2",
+          "local_rank_score": 0.215,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-26",
+          "relevance_hint": 0.9,
+          "snippet": "@Muse is the first app i\u2019ve actively went out of my way to recommend since @meetgranola",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "@Muse is the first app i\u2019ve actively went out of my way to recommend since @meetgranola",
+          "url": "https://x.com/Jordan_Mryyan/status/2103969620923146366",
+          "why_relevant": "Explicitly recommending an app to others"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recommendations"
+      ],
+      "title": "@Muse is the first app i\u2019ve actively went out of my way to recommend since @meetgranola",
+      "url": "https://x.com/Jordan_Mryyan/status/2103969620923146366"
+    },
+    {
+      "candidate_id": "https://x.com/ponyothecpa/status/2093924233059639330",
+      "cluster_id": "cluster-23",
+      "engagement": 59,
+      "explanation": "app list, no entity phrasing",
+      "final_score": 5.085710627400769,
+      "freshness": 14,
+      "fun_explanation": "list post, no humor",
+      "fun_score": 7.0,
+      "item_id": "X8",
+      "local_relevance": 0.11,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X8",
+            "native_rank": 11,
+            "source": "x",
+            "subquery_label": "app recommendations"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recommendations:x": 11
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.0046094750320102434,
+      "snippet": "hello! \ud81a\uddb9\ud83c\udf40\u0b6d\u02da. sharing you the apps i use for review! \u1d4e\u1d4e\uff61\ud83e\uddf7\ud81a\uddb9\u00b0\u2027",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "ponyotheCPA",
+          "body": "hello! \ud81a\uddb9\ud83c\udf40\u0b6d\u02da. sharing you the apps i use for review! \u1d4e\u1d4e\uff61\ud83e\uddf7\ud81a\uddb9\u00b0\u2027",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 357,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 27
+          },
+          "engagement_score": 59,
+          "freshness": 14,
+          "item_id": "X8",
+          "local_rank_score": 0.1655,
+          "local_relevance": 0.11,
+          "metadata": {},
+          "published_at": "2026-08-30",
+          "relevance_hint": 0.8,
+          "snippet": "hello! \ud81a\uddb9\ud83c\udf40\u0b6d\u02da. sharing you the apps i use for review! \u1d4e\u1d4e\uff61\ud83e\uddf7\ud81a\uddb9\u00b0\u2027",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "hello! \ud81a\uddb9\ud83c\udf40\u0b6d\u02da. sharing you the apps i use for review! \u1d4e\u1d4e\uff61\ud83e\uddf7\ud81a\uddb9\u00b0\u2027",
+          "url": "https://x.com/ponyotheCPA/status/2093924233059639330",
+          "why_relevant": "Sharing and recommending multiple apps"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recommendations"
+      ],
+      "title": "hello! \ud81a\uddb9\ud83c\udf40\u0b6d\u02da. sharing you the apps i use for review! \u1d4e\u1d4e\uff61\ud83e\uddf7\ud81a\uddb9\u00b0\u2027",
+      "url": "https://x.com/ponyotheCPA/status/2093924233059639330"
+    }
+  ],
+  "topic": "\"is there an app that\"",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}

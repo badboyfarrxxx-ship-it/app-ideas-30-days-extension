@@ -1,0 +1,2391 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"sick of\" app subscription",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://x.com/totally_paused/status/2102843371740082632"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://x.com/totally_paused/status/2102843371740082632"
+      ],
+      "score": 71.31781801922648,
+      "sources": [
+        "x"
+      ],
+      "title": "I\u2019m so sick and tired of everything needing a subscription \ud83d\ude20",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/topsykretpoet/status/2103146781697872093"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://x.com/topsykretpoet/status/2103146781697872093"
+      ],
+      "score": 69.75446779034866,
+      "sources": [
+        "x"
+      ],
+      "title": "If there\u2019s one thing I\u2019m SICK of, its the need for a subscription or an APP for every fuckin thing.",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/gojonoodle/status/2103528449000472723"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://x.com/gojonoodle/status/2103528449000472723"
+      ],
+      "score": 63.93584734211721,
+      "sources": [
+        "x"
+      ],
+      "title": "every good app always gets changed completely or made into a subscription i am TIRED",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/1luthien_/status/2097227351549517890"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://x.com/1luthien_/status/2097227351549517890"
+      ],
+      "score": 63.50035211267605,
+      "sources": [
+        "x"
+      ],
+      "title": "I'm sick of apps having subscriptions and most of them don't even have lifetime subscription, let me buy the app then stop this please who e",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/arkosparakletos/status/2099890856660775353"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://x.com/arkosparakletos/status/2099890856660775353"
+      ],
+      "score": 62.12061645233721,
+      "sources": [
+        "x"
+      ],
+      "title": "Cable TV used to charge us one flat fee for 400+ channels... Now 6 streaming apps charge us monthly... Getting looted by subscription feudal",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/prinnylee/status/2098020947307495765"
+      ],
+      "cluster_id": "cluster-6",
+      "representative_ids": [
+        "https://x.com/prinnylee/status/2098020947307495765"
+      ],
+      "score": 61.65108261509354,
+      "sources": [
+        "x"
+      ],
+      "title": "i\u2019m getting so sick of every app wanting a subscription fee, how did we get here? \ud83e\udd26\ud83c\udffe\u200d\u2640\ufe0f",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/fromn5_/status/2094083209860370700"
+      ],
+      "cluster_id": "cluster-7",
+      "representative_ids": [
+        "https://x.com/fromn5_/status/2094083209860370700"
+      ],
+      "score": 57.60603621730382,
+      "sources": [
+        "x"
+      ],
+      "title": "i miss when you could just buy something and fucking own it. now everything is a subscription and apparently i\u2019m supposed to pay forever jus",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/omgemeraldddd/status/2095226828524818653"
+      ],
+      "cluster_id": "cluster-8",
+      "representative_ids": [
+        "https://x.com/omgemeraldddd/status/2095226828524818653"
+      ],
+      "score": 56.68342361863489,
+      "sources": [
+        "x"
+      ],
+      "title": "You know what really bugs me these days? We can't own anything anymore. Everything is a subscription. Adobe, Notion, Spotify. You don't just",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/softcreateee/status/2095116126770413573"
+      ],
+      "cluster_id": "cluster-9",
+      "representative_ids": [
+        "https://x.com/softcreateee/status/2095116126770413573"
+      ],
+      "score": 53.63562551781276,
+      "sources": [
+        "x"
+      ],
+      "title": "Everything now is just bout subscriptions omg we are fed up fr",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/n104ap/status/2103516125535318371"
+      ],
+      "cluster_id": "cluster-10",
+      "representative_ids": [
+        "https://x.com/n104ap/status/2103516125535318371"
+      ],
+      "score": 38.79031690140845,
+      "sources": [
+        "x"
+      ],
+      "title": "idk if im thinking into this too much but its very ironic, almost gaslighting, how the rich will tell you as a working person to just cancel",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/ariawestcott/status/2094429997788258636"
+      ],
+      "cluster_id": "cluster-11",
+      "representative_ids": [
+        "https://x.com/ariawestcott/status/2094429997788258636"
+      ],
+      "score": 35.060307298335466,
+      "sources": [
+        "x"
+      ],
+      "title": "Stop wasting money on subscriptions you barely use: \u2022 Netflix \u2022 Duolingo \u2022 Tinder Gold \u2022 ChatGPT Pro \u2022 LinkedIn Premium Cancel them",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/el_moregreen/status/2103467190347325683"
+      ],
+      "cluster_id": "cluster-12",
+      "representative_ids": [
+        "https://x.com/el_moregreen/status/2103467190347325683"
+      ],
+      "score": 32.83902101131378,
+      "sources": [
+        "x"
+      ],
+      "title": "If you subscribe to an app be sure to un-subscribe it before you delete that app. Or you may have reoccurring debit from your account even i",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/heysukhwinder/status/2097683503550714289"
+      ],
+      "cluster_id": "cluster-13",
+      "representative_ids": [
+        "https://x.com/heysukhwinder/status/2097683503550714289"
+      ],
+      "score": 31.50543259557344,
+      "sources": [
+        "x"
+      ],
+      "title": "They clicked \"cancel subscription.\" Your email's only idea was 15% off to stay. Most of them didn't want a deal. They wanted a break.",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/davidjohnbutler/status/2095882430372540561"
+      ],
+      "cluster_id": "cluster-14",
+      "representative_ids": [
+        "https://x.com/davidjohnbutler/status/2095882430372540561"
+      ],
+      "score": 30.26700810926163,
+      "sources": [
+        "x"
+      ],
+      "title": "I actually don\u2019t want to fill out a customer service survey after every burger or taxi ride. I don\u2019t want to have an app on my phone for eve",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/dummyhereuwu/status/2103463417574985928"
+      ],
+      "cluster_id": "cluster-15",
+      "representative_ids": [
+        "https://x.com/dummyhereuwu/status/2103463417574985928"
+      ],
+      "score": 29.80603621730382,
+      "sources": [
+        "x"
+      ],
+      "title": "\"Im sorry but the cancel subscription button in the app is not how you cancel your subscription\" like what the fuck you mean",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/eptwts/status/2095844102570975679"
+      ],
+      "cluster_id": "cluster-16",
+      "representative_ids": [
+        "https://x.com/eptwts/status/2095844102570975679"
+      ],
+      "score": 27.132062966031484,
+      "sources": [
+        "x"
+      ],
+      "title": "i no longer subscribe to any recurring service on my business card... i use a virtual card & nuke it every 3 months or so every service that",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/mrmzing/status/2096890110058934420"
+      ],
+      "cluster_id": "cluster-17",
+      "representative_ids": [
+        "https://x.com/mrmzing/status/2096890110058934420"
+      ],
+      "score": 24.8926800238048,
+      "sources": [
+        "x"
+      ],
+      "title": "@Adobe has not allowed me cancel my subscription since yesterday and now they\u2019ve attempted to debit me for something I don\u2019t want to pay for",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/singleclap1/status/2097100303346864472"
+      ],
+      "cluster_id": "cluster-18",
+      "representative_ids": [
+        "https://x.com/singleclap1/status/2097100303346864472"
+      ],
+      "score": 21.080281690140843,
+      "sources": [
+        "x"
+      ],
+      "title": "Genuinely cannot believe Higgsfield cancel subscription flow is allowed",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/kancharla_surya/status/2103701613487800604"
+      ],
+      "cluster_id": "cluster-19",
+      "representative_ids": [
+        "https://x.com/kancharla_surya/status/2103701613487800604"
+      ],
+      "score": 8.106678782371649,
+      "sources": [
+        "x"
+      ],
+      "title": "You can cancel it through app also.. Settings>subscription>cancel subscription",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/idsurvivalprep/status/2093464774638194725"
+      ],
+      "cluster_id": "cluster-20",
+      "representative_ids": [
+        "https://x.com/idsurvivalprep/status/2093464774638194725"
+      ],
+      "score": 5.803792306075256,
+      "sources": [
+        "x"
+      ],
+      "title": "If you ever get the word you are on the way out the door. Sit down with a relative and give them permissions on your stuff. ... my mom had 1",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/vinayaravind/status/2097211863968907530"
+      ],
+      "cluster_id": "cluster-21",
+      "representative_ids": [
+        "https://x.com/vinayaravind/status/2097211863968907530"
+      ],
+      "score": 5.75252437703142,
+      "sources": [
+        "x"
+      ],
+      "title": "Hi @ZEE5India how do I cancel the auto-renewal on a subscription? I can't see any option to do it on a desktop browser and on the app the 'c",
+      "uncertainty": "single-source"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/carlweische/status/2097008500316438931"
+      ],
+      "cluster_id": "cluster-22",
+      "representative_ids": [
+        "https://x.com/carlweische/status/2097008500316438931"
+      ],
+      "score": 5.675566442131047,
+      "sources": [
+        "x"
+      ],
+      "title": "if you run subs or sell products where repeat purchases are common don\u2019t do big discounts. The more you discount, the higher % of buyers wil",
+      "uncertainty": "single-source"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-27T04:20:10.656838+00:00",
+  "items_by_source": {
+    "x": [
+      {
+        "author": "El_Moregreen",
+        "body": "If you subscribe to an app be sure to un-subscribe it before you delete that app. Or you may have reoccurring debit from your account even if you don't have the app on your phone again.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 28,
+          "quotes": 0,
+          "replies": 9,
+          "reposts": 22
+        },
+        "engagement_score": 56,
+        "freshness": 84,
+        "item_id": "X10",
+        "local_rank_score": 0.318,
+        "local_relevance": 0.08,
+        "metadata": {},
+        "published_at": "2026-09-25",
+        "relevance_hint": 0.95,
+        "snippet": "If you subscribe to an app be sure to un-subscribe it before you delete that app. Or you may have reoccurring debit from your account even if you don't have the app on your phone again.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "If you subscribe to an app be sure to un-subscribe it before you delete that app. Or you may have reoccurring debit from your account even i",
+        "url": "https://x.com/El_Moregreen/status/2103467190347325683",
+        "why_relevant": "Practical advice on unsubscribing from apps before deletion"
+      },
+      {
+        "author": "kancharla_surya",
+        "body": "You can cancel it through app also.. Settings>subscription>cancel subscription",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 21,
+          "quotes": 0,
+          "replies": 2,
+          "reposts": 3
+        },
+        "engagement_score": 34,
+        "freshness": 86,
+        "item_id": "X13",
+        "local_rank_score": 0.31400000000000006,
+        "local_relevance": 0.1,
+        "metadata": {},
+        "published_at": "2026-09-26",
+        "relevance_hint": 0.8,
+        "snippet": "You can cancel it through app also.. Settings>subscription>cancel subscription",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "You can cancel it through app also.. Settings>subscription>cancel subscription",
+        "url": "https://x.com/kancharla_surya/status/2103701613487800604",
+        "why_relevant": "Direct instructions on how to cancel subscriptions in settings"
+      },
+      {
+        "author": "DummyHereUwU",
+        "body": "\"Im sorry but the cancel subscription button in the app is not how you cancel your subscription\" like what the fuck you mean",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 28,
+          "quotes": 0,
+          "replies": 2,
+          "reposts": 1
+        },
+        "engagement_score": 33,
+        "freshness": 84,
+        "item_id": "X9",
+        "local_rank_score": 0.3015,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-25",
+        "relevance_hint": 0.9,
+        "snippet": "\"Im sorry but the cancel subscription button in the app is not how you cancel your subscription\" like what the fuck you mean",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "\"Im sorry but the cancel subscription button in the app is not how you cancel your subscription\" like what the fuck you mean",
+        "url": "https://x.com/DummyHereUwU/status/2103463417574985928",
+        "why_relevant": "Issue with HelloFresh app subscription cancellation process"
+      },
+      {
+        "author": "TopsykretPoet",
+        "body": "If there\u2019s one thing I\u2019m SICK of, its the need for a subscription or an APP for every fuckin thing.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 82,
+        "item_id": "X1",
+        "local_rank_score": 0.27,
+        "local_relevance": 0.1,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.95,
+        "snippet": "If there\u2019s one thing I\u2019m SICK of, its the need for a subscription or an APP for every fuckin thing.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "If there\u2019s one thing I\u2019m SICK of, its the need for a subscription or an APP for every fuckin thing.",
+        "url": "https://x.com/TopsykretPoet/status/2103146781697872093",
+        "why_relevant": "Directly expresses being sick of subscriptions and apps for everything"
+      },
+      {
+        "author": "gojonoodle",
+        "body": "every good app always gets changed completely or made into a subscription i am TIRED",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 84,
+        "item_id": "X10",
+        "local_rank_score": 0.26849999999999996,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-25",
+        "relevance_hint": 0.81,
+        "snippet": "every good app always gets changed completely or made into a subscription i am TIRED",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "every good app always gets changed completely or made into a subscription i am TIRED",
+        "url": "https://x.com/gojonoodle/status/2103528449000472723",
+        "why_relevant": "Tired of apps turning into subscriptions"
+      },
+      {
+        "author": "totally_paused",
+        "body": "I\u2019m so sick and tired of everything needing a subscription \ud83d\ude20",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 621,
+          "quotes": 4,
+          "replies": 12,
+          "reposts": 52
+        },
+        "engagement_score": 72,
+        "freshness": 78,
+        "item_id": "X5",
+        "local_rank_score": 0.267,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.87,
+        "snippet": "I\u2019m so sick and tired of everything needing a subscription \ud83d\ude20",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "I\u2019m so sick and tired of everything needing a subscription \ud83d\ude20",
+        "url": "https://x.com/totally_paused/status/2102843371740082632",
+        "why_relevant": "Directly sick of everything needing subscriptions"
+      },
+      {
+        "author": "N104AP",
+        "body": "idk if im thinking into this too much but its very ironic, almost gaslighting, how the rich will tell you as a working person to just cancel subscription services to help your finances",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 20,
+          "quotes": 0,
+          "replies": 3,
+          "reposts": 1
+        },
+        "engagement_score": 30,
+        "freshness": 84,
+        "item_id": "X8",
+        "local_rank_score": 0.24,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-25",
+        "relevance_hint": 0.75,
+        "snippet": "idk if im thinking into this too much but its very ironic, almost gaslighting, how the rich will tell you as a working person to just cancel subscription services to help your finances",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "idk if im thinking into this too much but its very ironic, almost gaslighting, how the rich will tell you as a working person to just cancel",
+        "url": "https://x.com/N104AP/status/2103516125535318371",
+        "why_relevant": "Social commentary on advice to cancel subscriptions"
+      },
+      {
+        "author": "1Luthien_",
+        "body": "I'm sick of apps having subscriptions and most of them don't even have lifetime subscription, let me buy the app then stop this please who even came up with this stupid idea",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 0,
+        "freshness": 38,
+        "item_id": "X3",
+        "local_rank_score": 0.2315,
+        "local_relevance": 0.21,
+        "metadata": {},
+        "published_at": "2026-09-08",
+        "relevance_hint": 0.9,
+        "snippet": "I'm sick of apps having subscriptions and most of them don't even have lifetime subscription, let me buy the app then stop this please who even came up with this stupid idea",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "I'm sick of apps having subscriptions and most of them don't even have lifetime subscription, let me buy the app then stop this please who e",
+        "url": "https://x.com/1Luthien_/status/2097227351549517890",
+        "why_relevant": "Complains about app subscriptions lacking lifetime options"
+      },
+      {
+        "author": "vinayaravind",
+        "body": "Hi @ZEE5India how do I cancel the auto-renewal on a subscription? I can't see any option to do it on a desktop browser and on the app the 'cancel subscription' button doesn't seem to work.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 98,
+          "quotes": 1,
+          "replies": 18,
+          "reposts": 4
+        },
+        "engagement_score": 67,
+        "freshness": 38,
+        "item_id": "X2",
+        "local_rank_score": 0.21400000000000002,
+        "local_relevance": 0.08,
+        "metadata": {},
+        "published_at": "2026-09-08",
+        "relevance_hint": 0.9,
+        "snippet": "Hi @ZEE5India how do I cancel the auto-renewal on a subscription? I can't see any option to do it on a desktop browser and on the app the 'cancel subscription' button doesn't seem to work.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Hi @ZEE5India how do I cancel the auto-renewal on a subscription? I can't see any option to do it on a desktop browser and on the app the 'c",
+        "url": "https://x.com/vinayaravind/status/2097211863968907530",
+        "why_relevant": "User struggling to cancel a streaming app subscription"
+      },
+      {
+        "author": "Omgemeraldddd",
+        "body": "You know what really bugs me these days? We can't own anything anymore. Everything is a subscription. Adobe, Notion, Spotify. You don't just buy things once, you keep paying every month.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 2218,
+          "quotes": 23,
+          "replies": 142,
+          "reposts": 551
+        },
+        "engagement_score": 100,
+        "freshness": 22,
+        "item_id": "X4",
+        "local_rank_score": 0.2135,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-02",
+        "relevance_hint": 0.88,
+        "snippet": "You know what really bugs me these days? We can't own anything anymore. Everything is a subscription. Adobe, Notion, Spotify. You don't just buy things once, you keep paying every month.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "You know what really bugs me these days? We can't own anything anymore. Everything is a subscription. Adobe, Notion, Spotify. You don't just",
+        "url": "https://x.com/Omgemeraldddd/status/2095226828524818653",
+        "why_relevant": "Highlights frustration with subscription model for apps/services"
+      },
+      {
+        "author": "DavidJohnButler",
+        "body": "I actually don\u2019t want to fill out a customer service survey after every burger or taxi ride. I don\u2019t want to have an app on my phone for every single company I interact with. And I don\u2019t want to purchase everything by subscription.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 391,
+          "quotes": 12,
+          "replies": 50,
+          "reposts": 36
+        },
+        "engagement_score": 71,
+        "freshness": 28,
+        "item_id": "X9",
+        "local_rank_score": 0.1995,
+        "local_relevance": 0.09,
+        "metadata": {},
+        "published_at": "2026-09-04",
+        "relevance_hint": 0.82,
+        "snippet": "I actually don\u2019t want to fill out a customer service survey after every burger or taxi ride. I don\u2019t want to have an app on my phone for every single company I interact with. And I don\u2019t want to purchase everything by subscription.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "I actually don\u2019t want to fill out a customer service survey after every burger or taxi ride. I don\u2019t want to have an app on my phone for eve",
+        "url": "https://x.com/DavidJohnButler/status/2095882430372540561",
+        "why_relevant": "Hates app subscriptions and constant apps for everything"
+      },
+      {
+        "author": "AriaWestcott",
+        "body": "Stop wasting money on subscriptions you barely use: \u2022 Netflix \u2022 Duolingo \u2022 Tinder Gold \u2022 ChatGPT Pro \u2022 LinkedIn Premium Cancel them",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 316,
+          "quotes": 2,
+          "replies": 7,
+          "reposts": 57
+        },
+        "engagement_score": 100,
+        "freshness": 17,
+        "item_id": "X11",
+        "local_rank_score": 0.1945,
+        "local_relevance": 0.08,
+        "metadata": {},
+        "published_at": "2026-08-31",
+        "relevance_hint": 0.85,
+        "snippet": "Stop wasting money on subscriptions you barely use: \u2022 Netflix \u2022 Duolingo \u2022 Tinder Gold \u2022 ChatGPT Pro \u2022 LinkedIn Premium Cancel them",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Stop wasting money on subscriptions you barely use: \u2022 Netflix \u2022 Duolingo \u2022 Tinder Gold \u2022 ChatGPT Pro \u2022 LinkedIn Premium Cancel them",
+        "url": "https://x.com/AriaWestcott/status/2094429997788258636",
+        "why_relevant": "List of apps to cancel subscriptions for"
+      },
+      {
+        "author": "prinnylee",
+        "body": "i\u2019m getting so sick of every app wanting a subscription fee, how did we get here? \ud83e\udd26\ud83c\udffe\u200d\u2640\ufe0f",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 0,
+        "freshness": 44,
+        "item_id": "X2",
+        "local_rank_score": 0.175,
+        "local_relevance": 0.1,
+        "metadata": {},
+        "published_at": "2026-09-10",
+        "relevance_hint": 0.92,
+        "snippet": "i\u2019m getting so sick of every app wanting a subscription fee, how did we get here? \ud83e\udd26\ud83c\udffe\u200d\u2640\ufe0f",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "i\u2019m getting so sick of every app wanting a subscription fee, how did we get here? \ud83e\udd26\ud83c\udffe\u200d\u2640\ufe0f",
+        "url": "https://x.com/prinnylee/status/2098020947307495765",
+        "why_relevant": "Explicitly sick of apps requiring subscription fees"
+      },
+      {
+        "author": "softcreateee",
+        "body": "Everything now is just bout subscriptions omg we are fed up fr",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 417,
+          "quotes": 0,
+          "replies": 2,
+          "reposts": 4
+        },
+        "engagement_score": 55,
+        "freshness": 22,
+        "item_id": "X7",
+        "local_rank_score": 0.175,
+        "local_relevance": 0.1,
+        "metadata": {},
+        "published_at": "2026-09-02",
+        "relevance_hint": 0.84,
+        "snippet": "Everything now is just bout subscriptions omg we are fed up fr",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Everything now is just bout subscriptions omg we are fed up fr",
+        "url": "https://x.com/softcreateee/status/2095116126770413573",
+        "why_relevant": "Fed up with subscriptions for apps/services"
+      },
+      {
+        "author": "IDSurvivalPrep",
+        "body": "If you ever get the word you are on the way out the door. Sit down with a relative and give them permissions on your stuff. ... my mom had 121 subscriptions on Amazon. I just spend 2 hours on the phone getting them canceled 1 by 1.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 278,
+          "quotes": 1,
+          "replies": 42,
+          "reposts": 11
+        },
+        "engagement_score": 93,
+        "freshness": 10,
+        "item_id": "X14",
+        "local_rank_score": 0.17000000000000004,
+        "local_relevance": 0.08,
+        "metadata": {},
+        "published_at": "2026-08-28",
+        "relevance_hint": 0.85,
+        "snippet": "If you ever get the word you are on the way out the door. Sit down with a relative and give them permissions on your stuff. ... my mom had 121 subscriptions on Amazon. I just spend 2 hours on the phone getting them canceled 1 by 1.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "If you ever get the word you are on the way out the door. Sit down with a relative and give them permissions on your stuff. ... my mom had 1",
+        "url": "https://x.com/IDSurvivalPrep/status/2093464774638194725",
+        "why_relevant": "Real example of canceling multiple Amazon subscriptions"
+      },
+      {
+        "author": "ArkosParakletos",
+        "body": "Cable TV used to charge us one flat fee for 400+ channels... Now 6 streaming apps charge us monthly... Getting looted by subscription feudalism. Fuckin sick of it.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 5,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 9,
+        "freshness": 58,
+        "item_id": "X8",
+        "local_rank_score": 0.154,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-15",
+        "relevance_hint": 0.83,
+        "snippet": "Cable TV used to charge us one flat fee for 400+ channels... Now 6 streaming apps charge us monthly... Getting looted by subscription feudalism. Fuckin sick of it.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Cable TV used to charge us one flat fee for 400+ channels... Now 6 streaming apps charge us monthly... Getting looted by subscription feudal",
+        "url": "https://x.com/ArkosParakletos/status/2099890856660775353",
+        "why_relevant": "Sick of subscription feudalism for apps/services"
+      },
+      {
+        "author": "eptwts",
+        "body": "i no longer subscribe to any recurring service on my business card... i use a virtual card & nuke it every 3 months or so every service that you actually use will prompt you to renew",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 305,
+          "quotes": 1,
+          "replies": 6,
+          "reposts": 4
+        },
+        "engagement_score": 81,
+        "freshness": 28,
+        "item_id": "X12",
+        "local_rank_score": 0.15100000000000002,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-04",
+        "relevance_hint": 0.9,
+        "snippet": "i no longer subscribe to any recurring service on my business card... i use a virtual card & nuke it every 3 months or so every service that you actually use will prompt you to renew",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "i no longer subscribe to any recurring service on my business card... i use a virtual card & nuke it every 3 months or so every service that",
+        "url": "https://x.com/eptwts/status/2095844102570975679",
+        "why_relevant": "Strategy to manage and cancel unwanted app subscriptions"
+      },
+      {
+        "author": "CarlWeische",
+        "body": "if you run subs or sell products where repeat purchases are common don\u2019t do big discounts. The more you discount, the higher % of buyers will be deal-seekers who\u2019ll cancel subscription",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 56,
+          "quotes": 1,
+          "replies": 6,
+          "reposts": 1
+        },
+        "engagement_score": 48,
+        "freshness": 36,
+        "item_id": "X4",
+        "local_rank_score": 0.138,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-07",
+        "relevance_hint": 0.9,
+        "snippet": "if you run subs or sell products where repeat purchases are common don\u2019t do big discounts. The more you discount, the higher % of buyers will be deal-seekers who\u2019ll cancel subscription",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "if you run subs or sell products where repeat purchases are common don\u2019t do big discounts. The more you discount, the higher % of buyers wil",
+        "url": "https://x.com/CarlWeische/status/2097008500316438931",
+        "why_relevant": "Advice on subscription retention and avoiding cancellations"
+      },
+      {
+        "author": "HeySukhwinder",
+        "body": "They clicked \"cancel subscription.\" Your email's only idea was 15% off to stay. Most of them didn't want a deal. They wanted a break.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 7,
+          "quotes": 0,
+          "replies": 7,
+          "reposts": 1
+        },
+        "engagement_score": 18,
+        "freshness": 42,
+        "item_id": "X1",
+        "local_rank_score": 0.123,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-09",
+        "relevance_hint": 0.95,
+        "snippet": "They clicked \"cancel subscription.\" Your email's only idea was 15% off to stay. Most of them didn't want a deal. They wanted a break.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "They clicked \"cancel subscription.\" Your email's only idea was 15% off to stay. Most of them didn't want a deal. They wanted a break.",
+        "url": "https://x.com/HeySukhwinder/status/2097683503550714289",
+        "why_relevant": "Discusses strategies for handling subscription cancellations in email marketing"
+      },
+      {
+        "author": "MRMZING",
+        "body": "@Adobe has not allowed me cancel my subscription since yesterday and now they\u2019ve attempted to debit me for something I don\u2019t want to pay for",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 9,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 4
+        },
+        "engagement_score": 22,
+        "freshness": 36,
+        "item_id": "X5",
+        "local_rank_score": 0.112,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-07",
+        "relevance_hint": 0.85,
+        "snippet": "@Adobe has not allowed me cancel my subscription since yesterday and now they\u2019ve attempted to debit me for something I don\u2019t want to pay for",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "@Adobe has not allowed me cancel my subscription since yesterday and now they\u2019ve attempted to debit me for something I don\u2019t want to pay for",
+        "url": "https://x.com/MRMZING/status/2096890110058934420",
+        "why_relevant": "Frustration with inability to cancel Adobe app subscription"
+      },
+      {
+        "author": "FromN5_",
+        "body": "i miss when you could just buy something and fucking own it. now everything is a subscription and apparently i\u2019m supposed to pay forever just to keep using the shit i already paid for",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 216,
+          "quotes": 1,
+          "replies": 4,
+          "reposts": 49
+        },
+        "engagement_score": 60,
+        "freshness": 14,
+        "item_id": "X6",
+        "local_rank_score": 0.095,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-08-30",
+        "relevance_hint": 0.85,
+        "snippet": "i miss when you could just buy something and fucking own it. now everything is a subscription and apparently i\u2019m supposed to pay forever just to keep using the shit i already paid for",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "i miss when you could just buy something and fucking own it. now everything is a subscription and apparently i\u2019m supposed to pay forever jus",
+        "url": "https://x.com/FromN5_/status/2094083209860370700",
+        "why_relevant": "Sick of subscription model replacing ownership for apps"
+      },
+      {
+        "author": "singleclap1",
+        "body": "Genuinely cannot believe Higgsfield cancel subscription flow is allowed",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 5,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 0,
+        "freshness": 36,
+        "item_id": "X3",
+        "local_rank_score": 0.09,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-07",
+        "relevance_hint": 0.85,
+        "snippet": "Genuinely cannot believe Higgsfield cancel subscription flow is allowed",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Genuinely cannot believe Higgsfield cancel subscription flow is allowed",
+        "url": "https://x.com/singleclap1/status/2097100303346864472",
+        "why_relevant": "Complaint about poor UX in canceling an app subscription"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "debate",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [
+      "Focus on sentiment around recurring app billing fatigue"
+    ],
+    "raw_topic": "\"sick of\" app subscription",
+    "source_weights": {
+      "x": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "subscription fatigue",
+        "ranking_query": "People expressing frustration or exhaustion with paying for app subscriptions",
+        "search_query": "\"sick of\" (subscription OR subscriptions) app",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.28169014084507044
+      },
+      {
+        "label": "canceling subs",
+        "ranking_query": "Users discussing reasons for canceling multiple app subscriptions recently",
+        "search_query": "canceling app subscriptions OR unsubscribing apps",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.2535211267605634
+      },
+      {
+        "label": "free alternatives",
+        "ranking_query": "People looking for or recommending free or one-time purchase alternatives to subscription apps",
+        "search_query": "free alternative to paid app subscription",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.23943661971830987
+      },
+      {
+        "label": "pricing complaints",
+        "ranking_query": "Complaints about rising prices or value of app subscription services",
+        "search_query": "app subscription price increase OR too expensive",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.22535211267605637
+      }
+    ]
+  },
+  "range_from": "2026-08-28",
+  "range_to": "2026-09-27",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://x.com/totally_paused/status/2102843371740082632",
+      "cluster_id": "cluster-1",
+      "engagement": 72,
+      "explanation": "Explicit 'sick and tired' of subscriptions",
+      "final_score": 71.31781801922648,
+      "freshness": 78,
+      "fun_explanation": "plain complaint, zero wit",
+      "fun_score": 22.0,
+      "item_id": "X5",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X5",
+            "native_rank": 3,
+            "source": "x",
+            "subquery_label": "subscription fatigue"
+          }
+        ]
+      },
+      "native_ranks": {
+        "subscription fatigue:x": 3
+      },
+      "rerank_score": 90.0,
+      "rrf_score": 0.00447127207690588,
+      "snippet": "I\u2019m so sick and tired of everything needing a subscription \ud83d\ude20",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "totally_paused",
+          "body": "I\u2019m so sick and tired of everything needing a subscription \ud83d\ude20",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 621,
+            "quotes": 4,
+            "replies": 12,
+            "reposts": 52
+          },
+          "engagement_score": 72,
+          "freshness": 78,
+          "item_id": "X5",
+          "local_rank_score": 0.267,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.87,
+          "snippet": "I\u2019m so sick and tired of everything needing a subscription \ud83d\ude20",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "I\u2019m so sick and tired of everything needing a subscription \ud83d\ude20",
+          "url": "https://x.com/totally_paused/status/2102843371740082632",
+          "why_relevant": "Directly sick of everything needing subscriptions"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "subscription fatigue"
+      ],
+      "title": "I\u2019m so sick and tired of everything needing a subscription \ud83d\ude20",
+      "url": "https://x.com/totally_paused/status/2102843371740082632"
+    },
+    {
+      "candidate_id": "https://x.com/topsykretpoet/status/2103146781697872093",
+      "cluster_id": "cluster-2",
+      "explanation": "Direct 'SICK of' app subscriptions phrasing, strong opinion match",
+      "final_score": 69.75446779034866,
+      "freshness": 82,
+      "fun_explanation": "uses 'fuckin', slight edge",
+      "fun_score": 35.0,
+      "item_id": "X1",
+      "local_relevance": 0.1,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X1",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "subscription fatigue"
+          }
+        ]
+      },
+      "native_ranks": {
+        "subscription fatigue:x": 1
+      },
+      "rerank_score": 95.0,
+      "rrf_score": 0.004617871161394597,
+      "snippet": "If there\u2019s one thing I\u2019m SICK of, its the need for a subscription or an APP for every fuckin thing.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "TopsykretPoet",
+          "body": "If there\u2019s one thing I\u2019m SICK of, its the need for a subscription or an APP for every fuckin thing.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 82,
+          "item_id": "X1",
+          "local_rank_score": 0.27,
+          "local_relevance": 0.1,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.95,
+          "snippet": "If there\u2019s one thing I\u2019m SICK of, its the need for a subscription or an APP for every fuckin thing.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "If there\u2019s one thing I\u2019m SICK of, its the need for a subscription or an APP for every fuckin thing.",
+          "url": "https://x.com/TopsykretPoet/status/2103146781697872093",
+          "why_relevant": "Directly expresses being sick of subscriptions and apps for everything"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "subscription fatigue"
+      ],
+      "title": "If there\u2019s one thing I\u2019m SICK of, its the need for a subscription or an APP for every fuckin thing.",
+      "url": "https://x.com/TopsykretPoet/status/2103146781697872093"
+    },
+    {
+      "candidate_id": "https://x.com/gojonoodle/status/2103528449000472723",
+      "cluster_id": "cluster-3",
+      "explanation": "Clear 'TIRED' of app subs, solid opinion",
+      "final_score": 63.93584734211721,
+      "freshness": 84,
+      "fun_explanation": "short but generic",
+      "fun_score": 28.0,
+      "item_id": "X10",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X10",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "subscription fatigue"
+          }
+        ]
+      },
+      "native_ranks": {
+        "subscription fatigue:x": 2
+      },
+      "rerank_score": 85.0,
+      "rrf_score": 0.004543389368468878,
+      "snippet": "every good app always gets changed completely or made into a subscription i am TIRED",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "gojonoodle",
+          "body": "every good app always gets changed completely or made into a subscription i am TIRED",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 84,
+          "item_id": "X10",
+          "local_rank_score": 0.26849999999999996,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-25",
+          "relevance_hint": 0.81,
+          "snippet": "every good app always gets changed completely or made into a subscription i am TIRED",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "every good app always gets changed completely or made into a subscription i am TIRED",
+          "url": "https://x.com/gojonoodle/status/2103528449000472723",
+          "why_relevant": "Tired of apps turning into subscriptions"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "subscription fatigue"
+      ],
+      "title": "every good app always gets changed completely or made into a subscription i am TIRED",
+      "url": "https://x.com/gojonoodle/status/2103528449000472723"
+    },
+    {
+      "candidate_id": "https://x.com/1luthien_/status/2097227351549517890",
+      "cluster_id": "cluster-4",
+      "engagement": 0,
+      "explanation": "Direct 'sick of apps having subscriptions' with reasoning",
+      "final_score": 63.50035211267605,
+      "freshness": 38,
+      "fun_explanation": "whiny rant, no punch",
+      "fun_score": 25.0,
+      "item_id": "X3",
+      "local_relevance": 0.21,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X3",
+            "native_rank": 4,
+            "source": "x",
+            "subquery_label": "subscription fatigue"
+          }
+        ]
+      },
+      "native_ranks": {
+        "subscription fatigue:x": 4
+      },
+      "rerank_score": 92.0,
+      "rrf_score": 0.0044014084507042256,
+      "snippet": "I'm sick of apps having subscriptions and most of them don't even have lifetime subscription, let me buy the app then stop this please who even came up with this stupid idea",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "1Luthien_",
+          "body": "I'm sick of apps having subscriptions and most of them don't even have lifetime subscription, let me buy the app then stop this please who even came up with this stupid idea",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 0,
+          "freshness": 38,
+          "item_id": "X3",
+          "local_rank_score": 0.2315,
+          "local_relevance": 0.21,
+          "metadata": {},
+          "published_at": "2026-09-08",
+          "relevance_hint": 0.9,
+          "snippet": "I'm sick of apps having subscriptions and most of them don't even have lifetime subscription, let me buy the app then stop this please who even came up with this stupid idea",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "I'm sick of apps having subscriptions and most of them don't even have lifetime subscription, let me buy the app then stop this please who e",
+          "url": "https://x.com/1Luthien_/status/2097227351549517890",
+          "why_relevant": "Complains about app subscriptions lacking lifetime options"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "subscription fatigue"
+      ],
+      "title": "I'm sick of apps having subscriptions and most of them don't even have lifetime subscription, let me buy the app then stop this please who e",
+      "url": "https://x.com/1Luthien_/status/2097227351549517890"
+    },
+    {
+      "candidate_id": "https://x.com/arkosparakletos/status/2099890856660775353",
+      "cluster_id": "cluster-5",
+      "engagement": 9,
+      "explanation": "'Fuckin sick of it' on streaming subs",
+      "final_score": 62.12061645233721,
+      "freshness": 58,
+      "fun_explanation": "feudalism line gives some bite",
+      "fun_score": 52.0,
+      "item_id": "X8",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X8",
+            "native_rank": 9,
+            "source": "x",
+            "subquery_label": "subscription fatigue"
+          }
+        ]
+      },
+      "native_ranks": {
+        "subscription fatigue:x": 9
+      },
+      "rerank_score": 82.0,
+      "rrf_score": 0.004082465809348847,
+      "snippet": "Cable TV used to charge us one flat fee for 400+ channels... Now 6 streaming apps charge us monthly... Getting looted by subscription feudalism. Fuckin sick of it.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "ArkosParakletos",
+          "body": "Cable TV used to charge us one flat fee for 400+ channels... Now 6 streaming apps charge us monthly... Getting looted by subscription feudalism. Fuckin sick of it.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 5,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 9,
+          "freshness": 58,
+          "item_id": "X8",
+          "local_rank_score": 0.154,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-15",
+          "relevance_hint": 0.83,
+          "snippet": "Cable TV used to charge us one flat fee for 400+ channels... Now 6 streaming apps charge us monthly... Getting looted by subscription feudalism. Fuckin sick of it.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Cable TV used to charge us one flat fee for 400+ channels... Now 6 streaming apps charge us monthly... Getting looted by subscription feudal",
+          "url": "https://x.com/ArkosParakletos/status/2099890856660775353",
+          "why_relevant": "Sick of subscription feudalism for apps/services"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "subscription fatigue"
+      ],
+      "title": "Cable TV used to charge us one flat fee for 400+ channels... Now 6 streaming apps charge us monthly... Getting looted by subscription feudal",
+      "url": "https://x.com/ArkosParakletos/status/2099890856660775353"
+    },
+    {
+      "candidate_id": "https://x.com/prinnylee/status/2098020947307495765",
+      "cluster_id": "cluster-6",
+      "engagement": 0,
+      "explanation": "Direct 'sick of every app wanting a subscription'",
+      "final_score": 61.65108261509354,
+      "freshness": 44,
+      "fun_explanation": "standard moan + emoji",
+      "fun_score": 30.0,
+      "item_id": "X2",
+      "local_relevance": 0.1,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X2",
+            "native_rank": 7,
+            "source": "x",
+            "subquery_label": "subscription fatigue"
+          }
+        ]
+      },
+      "native_ranks": {
+        "subscription fatigue:x": 7
+      },
+      "rerank_score": 88.0,
+      "rrf_score": 0.004204330460374186,
+      "snippet": "i\u2019m getting so sick of every app wanting a subscription fee, how did we get here? \ud83e\udd26\ud83c\udffe\u200d\u2640\ufe0f",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "prinnylee",
+          "body": "i\u2019m getting so sick of every app wanting a subscription fee, how did we get here? \ud83e\udd26\ud83c\udffe\u200d\u2640\ufe0f",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 0,
+          "freshness": 44,
+          "item_id": "X2",
+          "local_rank_score": 0.175,
+          "local_relevance": 0.1,
+          "metadata": {},
+          "published_at": "2026-09-10",
+          "relevance_hint": 0.92,
+          "snippet": "i\u2019m getting so sick of every app wanting a subscription fee, how did we get here? \ud83e\udd26\ud83c\udffe\u200d\u2640\ufe0f",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "i\u2019m getting so sick of every app wanting a subscription fee, how did we get here? \ud83e\udd26\ud83c\udffe\u200d\u2640\ufe0f",
+          "url": "https://x.com/prinnylee/status/2098020947307495765",
+          "why_relevant": "Explicitly sick of apps requiring subscription fees"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "subscription fatigue"
+      ],
+      "title": "i\u2019m getting so sick of every app wanting a subscription fee, how did we get here? \ud83e\udd26\ud83c\udffe\u200d\u2640\ufe0f",
+      "url": "https://x.com/prinnylee/status/2098020947307495765"
+    },
+    {
+      "candidate_id": "https://x.com/fromn5_/status/2094083209860370700",
+      "cluster_id": "cluster-7",
+      "engagement": 60,
+      "explanation": "Strong opinion on owning vs subscribing",
+      "final_score": 57.60603621730382,
+      "freshness": 14,
+      "fun_explanation": "punchy 'own it' nostalgia",
+      "fun_score": 48.0,
+      "item_id": "X6",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X6",
+            "native_rank": 10,
+            "source": "x",
+            "subquery_label": "subscription fatigue"
+          }
+        ]
+      },
+      "native_ranks": {
+        "subscription fatigue:x": 10
+      },
+      "rerank_score": 78.0,
+      "rrf_score": 0.004024144869215292,
+      "snippet": "i miss when you could just buy something and fucking own it. now everything is a subscription and apparently i\u2019m supposed to pay forever just to keep using the shit i already paid for",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "FromN5_",
+          "body": "i miss when you could just buy something and fucking own it. now everything is a subscription and apparently i\u2019m supposed to pay forever just to keep using the shit i already paid for",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 216,
+            "quotes": 1,
+            "replies": 4,
+            "reposts": 49
+          },
+          "engagement_score": 60,
+          "freshness": 14,
+          "item_id": "X6",
+          "local_rank_score": 0.095,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-08-30",
+          "relevance_hint": 0.85,
+          "snippet": "i miss when you could just buy something and fucking own it. now everything is a subscription and apparently i\u2019m supposed to pay forever just to keep using the shit i already paid for",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "i miss when you could just buy something and fucking own it. now everything is a subscription and apparently i\u2019m supposed to pay forever jus",
+          "url": "https://x.com/FromN5_/status/2094083209860370700",
+          "why_relevant": "Sick of subscription model replacing ownership for apps"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "subscription fatigue"
+      ],
+      "title": "i miss when you could just buy something and fucking own it. now everything is a subscription and apparently i\u2019m supposed to pay forever jus",
+      "url": "https://x.com/FromN5_/status/2094083209860370700"
+    },
+    {
+      "candidate_id": "https://x.com/omgemeraldddd/status/2095226828524818653",
+      "cluster_id": "cluster-8",
+      "engagement": 100,
+      "explanation": "Frustration over subscriptions, synonym match but less 'sick of' phrasing",
+      "final_score": 56.68342361863489,
+      "freshness": 22,
+      "fun_explanation": "lists brands, flat delivery",
+      "fun_score": 33.0,
+      "item_id": "X4",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X4",
+            "native_rank": 5,
+            "source": "x",
+            "subquery_label": "subscription fatigue"
+          }
+        ]
+      },
+      "native_ranks": {
+        "subscription fatigue:x": 5
+      },
+      "rerank_score": 75.0,
+      "rrf_score": 0.004333694474539546,
+      "snippet": "You know what really bugs me these days? We can't own anything anymore. Everything is a subscription. Adobe, Notion, Spotify. You don't just buy things once, you keep paying every month.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "Omgemeraldddd",
+          "body": "You know what really bugs me these days? We can't own anything anymore. Everything is a subscription. Adobe, Notion, Spotify. You don't just buy things once, you keep paying every month.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 2218,
+            "quotes": 23,
+            "replies": 142,
+            "reposts": 551
+          },
+          "engagement_score": 100,
+          "freshness": 22,
+          "item_id": "X4",
+          "local_rank_score": 0.2135,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-02",
+          "relevance_hint": 0.88,
+          "snippet": "You know what really bugs me these days? We can't own anything anymore. Everything is a subscription. Adobe, Notion, Spotify. You don't just buy things once, you keep paying every month.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "You know what really bugs me these days? We can't own anything anymore. Everything is a subscription. Adobe, Notion, Spotify. You don't just",
+          "url": "https://x.com/Omgemeraldddd/status/2095226828524818653",
+          "why_relevant": "Highlights frustration with subscription model for apps/services"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "subscription fatigue"
+      ],
+      "title": "You know what really bugs me these days? We can't own anything anymore. Everything is a subscription. Adobe, Notion, Spotify. You don't just",
+      "url": "https://x.com/Omgemeraldddd/status/2095226828524818653"
+    },
+    {
+      "candidate_id": "https://x.com/softcreateee/status/2095116126770413573",
+      "cluster_id": "cluster-9",
+      "engagement": 55,
+      "explanation": "'fed up' synonym, brief opinion",
+      "final_score": 53.63562551781276,
+      "freshness": 22,
+      "fun_explanation": "very basic slang",
+      "fun_score": 24.0,
+      "item_id": "X7",
+      "local_relevance": 0.1,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X7",
+            "native_rank": 8,
+            "source": "x",
+            "subquery_label": "subscription fatigue"
+          }
+        ]
+      },
+      "native_ranks": {
+        "subscription fatigue:x": 8
+      },
+      "rerank_score": 70.0,
+      "rrf_score": 0.004142502071251036,
+      "snippet": "Everything now is just bout subscriptions omg we are fed up fr",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "softcreateee",
+          "body": "Everything now is just bout subscriptions omg we are fed up fr",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 417,
+            "quotes": 0,
+            "replies": 2,
+            "reposts": 4
+          },
+          "engagement_score": 55,
+          "freshness": 22,
+          "item_id": "X7",
+          "local_rank_score": 0.175,
+          "local_relevance": 0.1,
+          "metadata": {},
+          "published_at": "2026-09-02",
+          "relevance_hint": 0.84,
+          "snippet": "Everything now is just bout subscriptions omg we are fed up fr",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Everything now is just bout subscriptions omg we are fed up fr",
+          "url": "https://x.com/softcreateee/status/2095116126770413573",
+          "why_relevant": "Fed up with subscriptions for apps/services"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "subscription fatigue"
+      ],
+      "title": "Everything now is just bout subscriptions omg we are fed up fr",
+      "url": "https://x.com/softcreateee/status/2095116126770413573"
+    },
+    {
+      "candidate_id": "https://x.com/n104ap/status/2103516125535318371",
+      "cluster_id": "cluster-10",
+      "engagement": 30,
+      "explanation": "Mentions canceling but tangential opinion",
+      "final_score": 38.79031690140845,
+      "freshness": 84,
+      "fun_explanation": "gaslighting angle is decent",
+      "fun_score": 49.0,
+      "item_id": "X8",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X8",
+            "native_rank": 4,
+            "source": "x",
+            "subquery_label": "canceling subs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "canceling subs:x": 4
+      },
+      "rerank_score": 35.0,
+      "rrf_score": 0.003961267605633803,
+      "snippet": "idk if im thinking into this too much but its very ironic, almost gaslighting, how the rich will tell you as a working person to just cancel subscription services to help your finances",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "N104AP",
+          "body": "idk if im thinking into this too much but its very ironic, almost gaslighting, how the rich will tell you as a working person to just cancel subscription services to help your finances",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 20,
+            "quotes": 0,
+            "replies": 3,
+            "reposts": 1
+          },
+          "engagement_score": 30,
+          "freshness": 84,
+          "item_id": "X8",
+          "local_rank_score": 0.24,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-25",
+          "relevance_hint": 0.75,
+          "snippet": "idk if im thinking into this too much but its very ironic, almost gaslighting, how the rich will tell you as a working person to just cancel subscription services to help your finances",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "idk if im thinking into this too much but its very ironic, almost gaslighting, how the rich will tell you as a working person to just cancel",
+          "url": "https://x.com/N104AP/status/2103516125535318371",
+          "why_relevant": "Social commentary on advice to cancel subscriptions"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "canceling subs"
+      ],
+      "title": "idk if im thinking into this too much but its very ironic, almost gaslighting, how the rich will tell you as a working person to just cancel",
+      "url": "https://x.com/N104AP/status/2103516125535318371"
+    },
+    {
+      "candidate_id": "https://x.com/ariawestcott/status/2094429997788258636",
+      "cluster_id": "cluster-11",
+      "engagement": 100,
+      "explanation": "Advice to cancel, limited opinion value",
+      "final_score": 35.060307298335466,
+      "freshness": 17,
+      "fun_explanation": "not even a complaint",
+      "fun_score": 18.0,
+      "item_id": "X11",
+      "local_relevance": 0.08,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X11",
+            "native_rank": 6,
+            "source": "x",
+            "subquery_label": "canceling subs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "canceling subs:x": 6
+      },
+      "rerank_score": 40.0,
+      "rrf_score": 0.0038412291933418692,
+      "snippet": "Stop wasting money on subscriptions you barely use: \u2022 Netflix \u2022 Duolingo \u2022 Tinder Gold \u2022 ChatGPT Pro \u2022 LinkedIn Premium Cancel them",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "AriaWestcott",
+          "body": "Stop wasting money on subscriptions you barely use: \u2022 Netflix \u2022 Duolingo \u2022 Tinder Gold \u2022 ChatGPT Pro \u2022 LinkedIn Premium Cancel them",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 316,
+            "quotes": 2,
+            "replies": 7,
+            "reposts": 57
+          },
+          "engagement_score": 100,
+          "freshness": 17,
+          "item_id": "X11",
+          "local_rank_score": 0.1945,
+          "local_relevance": 0.08,
+          "metadata": {},
+          "published_at": "2026-08-31",
+          "relevance_hint": 0.85,
+          "snippet": "Stop wasting money on subscriptions you barely use: \u2022 Netflix \u2022 Duolingo \u2022 Tinder Gold \u2022 ChatGPT Pro \u2022 LinkedIn Premium Cancel them",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Stop wasting money on subscriptions you barely use: \u2022 Netflix \u2022 Duolingo \u2022 Tinder Gold \u2022 ChatGPT Pro \u2022 LinkedIn Premium Cancel them",
+          "url": "https://x.com/AriaWestcott/status/2094429997788258636",
+          "why_relevant": "List of apps to cancel subscriptions for"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "canceling subs"
+      ],
+      "title": "Stop wasting money on subscriptions you barely use: \u2022 Netflix \u2022 Duolingo \u2022 Tinder Gold \u2022 ChatGPT Pro \u2022 LinkedIn Premium Cancel them",
+      "url": "https://x.com/AriaWestcott/status/2094429997788258636"
+    },
+    {
+      "candidate_id": "https://x.com/el_moregreen/status/2103467190347325683",
+      "cluster_id": "cluster-12",
+      "engagement": 56,
+      "explanation": "Practical tip, no opinion on being sick of subs",
+      "final_score": 32.83902101131378,
+      "freshness": 84,
+      "fun_explanation": "practical tip, zero humor",
+      "fun_score": 12.0,
+      "item_id": "X10",
+      "local_relevance": 0.08,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X10",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "canceling subs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "canceling subs:x": 1
+      },
+      "rerank_score": 25.0,
+      "rrf_score": 0.004156084045255137,
+      "snippet": "If you subscribe to an app be sure to un-subscribe it before you delete that app. Or you may have reoccurring debit from your account even if you don't have the app on your phone again.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "El_Moregreen",
+          "body": "If you subscribe to an app be sure to un-subscribe it before you delete that app. Or you may have reoccurring debit from your account even if you don't have the app on your phone again.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 28,
+            "quotes": 0,
+            "replies": 9,
+            "reposts": 22
+          },
+          "engagement_score": 56,
+          "freshness": 84,
+          "item_id": "X10",
+          "local_rank_score": 0.318,
+          "local_relevance": 0.08,
+          "metadata": {},
+          "published_at": "2026-09-25",
+          "relevance_hint": 0.95,
+          "snippet": "If you subscribe to an app be sure to un-subscribe it before you delete that app. Or you may have reoccurring debit from your account even if you don't have the app on your phone again.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "If you subscribe to an app be sure to un-subscribe it before you delete that app. Or you may have reoccurring debit from your account even i",
+          "url": "https://x.com/El_Moregreen/status/2103467190347325683",
+          "why_relevant": "Practical advice on unsubscribing from apps before deletion"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "canceling subs"
+      ],
+      "title": "If you subscribe to an app be sure to un-subscribe it before you delete that app. Or you may have reoccurring debit from your account even i",
+      "url": "https://x.com/El_Moregreen/status/2103467190347325683"
+    },
+    {
+      "candidate_id": "https://x.com/heysukhwinder/status/2097683503550714289",
+      "cluster_id": "cluster-13",
+      "engagement": 18,
+      "explanation": "Observation on cancels, weak opinion",
+      "final_score": 31.50543259557344,
+      "freshness": 42,
+      "fun_explanation": "sharp take on discount emails",
+      "fun_score": 58.0,
+      "item_id": "X1",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X1",
+            "native_rank": 10,
+            "source": "x",
+            "subquery_label": "canceling subs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "canceling subs:x": 10
+      },
+      "rerank_score": 30.0,
+      "rrf_score": 0.0036217303822937627,
+      "snippet": "They clicked \"cancel subscription.\" Your email's only idea was 15% off to stay. Most of them didn't want a deal. They wanted a break.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "HeySukhwinder",
+          "body": "They clicked \"cancel subscription.\" Your email's only idea was 15% off to stay. Most of them didn't want a deal. They wanted a break.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 7,
+            "quotes": 0,
+            "replies": 7,
+            "reposts": 1
+          },
+          "engagement_score": 18,
+          "freshness": 42,
+          "item_id": "X1",
+          "local_rank_score": 0.123,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-09",
+          "relevance_hint": 0.95,
+          "snippet": "They clicked \"cancel subscription.\" Your email's only idea was 15% off to stay. Most of them didn't want a deal. They wanted a break.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "They clicked \"cancel subscription.\" Your email's only idea was 15% off to stay. Most of them didn't want a deal. They wanted a break.",
+          "url": "https://x.com/HeySukhwinder/status/2097683503550714289",
+          "why_relevant": "Discusses strategies for handling subscription cancellations in email marketing"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "canceling subs"
+      ],
+      "title": "They clicked \"cancel subscription.\" Your email's only idea was 15% off to stay. Most of them didn't want a deal. They wanted a break.",
+      "url": "https://x.com/HeySukhwinder/status/2097683503550714289"
+    },
+    {
+      "candidate_id": "https://x.com/davidjohnbutler/status/2095882430372540561",
+      "cluster_id": "cluster-14",
+      "engagement": 71,
+      "explanation": "Mentions subs but no entity/synonym frustration phrasing",
+      "final_score": 30.26700810926163,
+      "freshness": 28,
+      "fun_explanation": "relatable but wordy",
+      "fun_score": 38.0,
+      "item_id": "X9",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X9",
+            "native_rank": 6,
+            "source": "x",
+            "subquery_label": "subscription fatigue"
+          }
+        ]
+      },
+      "native_ranks": {
+        "subscription fatigue:x": 6
+      },
+      "rerank_score": 30.0,
+      "rrf_score": 0.004268032437046522,
+      "snippet": "I actually don\u2019t want to fill out a customer service survey after every burger or taxi ride. I don\u2019t want to have an app on my phone for every single company I interact with. And I don\u2019t want to purchase everything by subscription.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "DavidJohnButler",
+          "body": "I actually don\u2019t want to fill out a customer service survey after every burger or taxi ride. I don\u2019t want to have an app on my phone for every single company I interact with. And I don\u2019t want to purchase everything by subscription.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 391,
+            "quotes": 12,
+            "replies": 50,
+            "reposts": 36
+          },
+          "engagement_score": 71,
+          "freshness": 28,
+          "item_id": "X9",
+          "local_rank_score": 0.1995,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-04",
+          "relevance_hint": 0.82,
+          "snippet": "I actually don\u2019t want to fill out a customer service survey after every burger or taxi ride. I don\u2019t want to have an app on my phone for every single company I interact with. And I don\u2019t want to purchase everything by subscription.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "I actually don\u2019t want to fill out a customer service survey after every burger or taxi ride. I don\u2019t want to have an app on my phone for eve",
+          "url": "https://x.com/DavidJohnButler/status/2095882430372540561",
+          "why_relevant": "Hates app subscriptions and constant apps for everything"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "subscription fatigue"
+      ],
+      "title": "I actually don\u2019t want to fill out a customer service survey after every burger or taxi ride. I don\u2019t want to have an app on my phone for eve",
+      "url": "https://x.com/DavidJohnButler/status/2095882430372540561"
+    },
+    {
+      "candidate_id": "https://x.com/dummyhereuwu/status/2103463417574985928",
+      "cluster_id": "cluster-15",
+      "engagement": 33,
+      "explanation": "Complaint about cancel flow, weak opinion match",
+      "final_score": 29.80603621730382,
+      "freshness": 84,
+      "fun_explanation": "sarcastic cancel-button line lands",
+      "fun_score": 68.0,
+      "item_id": "X9",
+      "local_relevance": 0.09,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X9",
+            "native_rank": 3,
+            "source": "x",
+            "subquery_label": "canceling subs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "canceling subs:x": 3
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.004024144869215292,
+      "snippet": "\"Im sorry but the cancel subscription button in the app is not how you cancel your subscription\" like what the fuck you mean",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "DummyHereUwU",
+          "body": "\"Im sorry but the cancel subscription button in the app is not how you cancel your subscription\" like what the fuck you mean",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 28,
+            "quotes": 0,
+            "replies": 2,
+            "reposts": 1
+          },
+          "engagement_score": 33,
+          "freshness": 84,
+          "item_id": "X9",
+          "local_rank_score": 0.3015,
+          "local_relevance": 0.09,
+          "metadata": {},
+          "published_at": "2026-09-25",
+          "relevance_hint": 0.9,
+          "snippet": "\"Im sorry but the cancel subscription button in the app is not how you cancel your subscription\" like what the fuck you mean",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "\"Im sorry but the cancel subscription button in the app is not how you cancel your subscription\" like what the fuck you mean",
+          "url": "https://x.com/DummyHereUwU/status/2103463417574985928",
+          "why_relevant": "Issue with HelloFresh app subscription cancellation process"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "canceling subs"
+      ],
+      "title": "\"Im sorry but the cancel subscription button in the app is not how you cancel your subscription\" like what the fuck you mean",
+      "url": "https://x.com/DummyHereUwU/status/2103463417574985928"
+    },
+    {
+      "candidate_id": "https://x.com/eptwts/status/2095844102570975679",
+      "cluster_id": "cluster-16",
+      "engagement": 81,
+      "explanation": "Strategy tip, no sick-of opinion",
+      "final_score": 27.132062966031484,
+      "freshness": 28,
+      "fun_explanation": "virtual card hack is clever",
+      "fun_score": 53.0,
+      "item_id": "X12",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X12",
+            "native_rank": 8,
+            "source": "x",
+            "subquery_label": "canceling subs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "canceling subs:x": 8
+      },
+      "rerank_score": 25.0,
+      "rrf_score": 0.003728251864125932,
+      "snippet": "i no longer subscribe to any recurring service on my business card... i use a virtual card & nuke it every 3 months or so every service that you actually use will prompt you to renew",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "eptwts",
+          "body": "i no longer subscribe to any recurring service on my business card... i use a virtual card & nuke it every 3 months or so every service that you actually use will prompt you to renew",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 305,
+            "quotes": 1,
+            "replies": 6,
+            "reposts": 4
+          },
+          "engagement_score": 81,
+          "freshness": 28,
+          "item_id": "X12",
+          "local_rank_score": 0.15100000000000002,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-04",
+          "relevance_hint": 0.9,
+          "snippet": "i no longer subscribe to any recurring service on my business card... i use a virtual card & nuke it every 3 months or so every service that you actually use will prompt you to renew",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "i no longer subscribe to any recurring service on my business card... i use a virtual card & nuke it every 3 months or so every service that",
+          "url": "https://x.com/eptwts/status/2095844102570975679",
+          "why_relevant": "Strategy to manage and cancel unwanted app subscriptions"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "canceling subs"
+      ],
+      "title": "i no longer subscribe to any recurring service on my business card... i use a virtual card & nuke it every 3 months or so every service that",
+      "url": "https://x.com/eptwts/status/2095844102570975679"
+    },
+    {
+      "candidate_id": "https://x.com/mrmzing/status/2096890110058934420",
+      "cluster_id": "cluster-17",
+      "engagement": 22,
+      "explanation": "Complaint about cancel process",
+      "final_score": 24.8926800238048,
+      "freshness": 36,
+      "fun_explanation": "Adobe vent, no twist",
+      "fun_score": 27.0,
+      "item_id": "X5",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X5",
+            "native_rank": 11,
+            "source": "x",
+            "subquery_label": "canceling subs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "canceling subs:x": 11
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.0035707200952192026,
+      "snippet": "@Adobe has not allowed me cancel my subscription since yesterday and now they\u2019ve attempted to debit me for something I don\u2019t want to pay for",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "MRMZING",
+          "body": "@Adobe has not allowed me cancel my subscription since yesterday and now they\u2019ve attempted to debit me for something I don\u2019t want to pay for",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 9,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 4
+          },
+          "engagement_score": 22,
+          "freshness": 36,
+          "item_id": "X5",
+          "local_rank_score": 0.112,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-07",
+          "relevance_hint": 0.85,
+          "snippet": "@Adobe has not allowed me cancel my subscription since yesterday and now they\u2019ve attempted to debit me for something I don\u2019t want to pay for",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "@Adobe has not allowed me cancel my subscription since yesterday and now they\u2019ve attempted to debit me for something I don\u2019t want to pay for",
+          "url": "https://x.com/MRMZING/status/2096890110058934420",
+          "why_relevant": "Frustration with inability to cancel Adobe app subscription"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "canceling subs"
+      ],
+      "title": "@Adobe has not allowed me cancel my subscription since yesterday and now they\u2019ve attempted to debit me for something I don\u2019t want to pay for",
+      "url": "https://x.com/MRMZING/status/2096890110058934420"
+    },
+    {
+      "candidate_id": "https://x.com/singleclap1/status/2097100303346864472",
+      "cluster_id": "cluster-18",
+      "engagement": 0,
+      "explanation": "Frustration with one cancel flow, narrow",
+      "final_score": 21.080281690140843,
+      "freshness": 36,
+      "fun_explanation": "mild disbelief, flat",
+      "fun_score": 29.0,
+      "item_id": "X3",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X3",
+            "native_rank": 12,
+            "source": "x",
+            "subquery_label": "canceling subs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "canceling subs:x": 12
+      },
+      "rerank_score": 22.0,
+      "rrf_score": 0.0035211267605633804,
+      "snippet": "Genuinely cannot believe Higgsfield cancel subscription flow is allowed",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "singleclap1",
+          "body": "Genuinely cannot believe Higgsfield cancel subscription flow is allowed",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 5,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 0,
+          "freshness": 36,
+          "item_id": "X3",
+          "local_rank_score": 0.09,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-07",
+          "relevance_hint": 0.85,
+          "snippet": "Genuinely cannot believe Higgsfield cancel subscription flow is allowed",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Genuinely cannot believe Higgsfield cancel subscription flow is allowed",
+          "url": "https://x.com/singleclap1/status/2097100303346864472",
+          "why_relevant": "Complaint about poor UX in canceling an app subscription"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "canceling subs"
+      ],
+      "title": "Genuinely cannot believe Higgsfield cancel subscription flow is allowed",
+      "url": "https://x.com/singleclap1/status/2097100303346864472"
+    },
+    {
+      "candidate_id": "https://x.com/kancharla_surya/status/2103701613487800604",
+      "cluster_id": "cluster-19",
+      "engagement": 34,
+      "explanation": "How-to cancel, off-target for opinion",
+      "final_score": 8.106678782371649,
+      "freshness": 86,
+      "fun_explanation": "how-to reply, irrelevant",
+      "fun_score": 8.0,
+      "item_id": "X13",
+      "local_relevance": 0.1,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X13",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "canceling subs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "canceling subs:x": 2
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.00408905043162199,
+      "snippet": "You can cancel it through app also.. Settings>subscription>cancel subscription",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "kancharla_surya",
+          "body": "You can cancel it through app also.. Settings>subscription>cancel subscription",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 21,
+            "quotes": 0,
+            "replies": 2,
+            "reposts": 3
+          },
+          "engagement_score": 34,
+          "freshness": 86,
+          "item_id": "X13",
+          "local_rank_score": 0.31400000000000006,
+          "local_relevance": 0.1,
+          "metadata": {},
+          "published_at": "2026-09-26",
+          "relevance_hint": 0.8,
+          "snippet": "You can cancel it through app also.. Settings>subscription>cancel subscription",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "You can cancel it through app also.. Settings>subscription>cancel subscription",
+          "url": "https://x.com/kancharla_surya/status/2103701613487800604",
+          "why_relevant": "Direct instructions on how to cancel subscriptions in settings"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "canceling subs"
+      ],
+      "title": "You can cancel it through app also.. Settings>subscription>cancel subscription",
+      "url": "https://x.com/kancharla_surya/status/2103701613487800604"
+    },
+    {
+      "candidate_id": "https://x.com/idsurvivalprep/status/2093464774638194725",
+      "cluster_id": "cluster-20",
+      "engagement": 93,
+      "explanation": "Anecdote on canceling, off-target",
+      "final_score": 5.803792306075256,
+      "freshness": 10,
+      "fun_explanation": "121 subs anecdote, dry",
+      "fun_score": 34.0,
+      "item_id": "X14",
+      "local_relevance": 0.08,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X14",
+            "native_rank": 7,
+            "source": "x",
+            "subquery_label": "canceling subs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "canceling subs:x": 7
+      },
+      "rerank_score": 15.0,
+      "rrf_score": 0.0037838974143367668,
+      "snippet": "If you ever get the word you are on the way out the door. Sit down with a relative and give them permissions on your stuff. ... my mom had 121 subscriptions on Amazon. I just spend 2 hours on the phone getting them canceled 1 by 1.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "IDSurvivalPrep",
+          "body": "If you ever get the word you are on the way out the door. Sit down with a relative and give them permissions on your stuff. ... my mom had 121 subscriptions on Amazon. I just spend 2 hours on the phone getting them canceled 1 by 1.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 278,
+            "quotes": 1,
+            "replies": 42,
+            "reposts": 11
+          },
+          "engagement_score": 93,
+          "freshness": 10,
+          "item_id": "X14",
+          "local_rank_score": 0.17000000000000004,
+          "local_relevance": 0.08,
+          "metadata": {},
+          "published_at": "2026-08-28",
+          "relevance_hint": 0.85,
+          "snippet": "If you ever get the word you are on the way out the door. Sit down with a relative and give them permissions on your stuff. ... my mom had 121 subscriptions on Amazon. I just spend 2 hours on the phone getting them canceled 1 by 1.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "If you ever get the word you are on the way out the door. Sit down with a relative and give them permissions on your stuff. ... my mom had 1",
+          "url": "https://x.com/IDSurvivalPrep/status/2093464774638194725",
+          "why_relevant": "Real example of canceling multiple Amazon subscriptions"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "canceling subs"
+      ],
+      "title": "If you ever get the word you are on the way out the door. Sit down with a relative and give them permissions on your stuff. ... my mom had 1",
+      "url": "https://x.com/IDSurvivalPrep/status/2093464774638194725"
+    },
+    {
+      "candidate_id": "https://x.com/vinayaravind/status/2097211863968907530",
+      "cluster_id": "cluster-21",
+      "engagement": 67,
+      "explanation": "Support query, no opinion",
+      "final_score": 5.75252437703142,
+      "freshness": 38,
+      "fun_explanation": "customer service gripe",
+      "fun_score": 19.0,
+      "item_id": "X2",
+      "local_relevance": 0.08,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X2",
+            "native_rank": 5,
+            "source": "x",
+            "subquery_label": "canceling subs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "canceling subs:x": 5
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.0039003250270855903,
+      "snippet": "Hi @ZEE5India how do I cancel the auto-renewal on a subscription? I can't see any option to do it on a desktop browser and on the app the 'cancel subscription' button doesn't seem to work.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "vinayaravind",
+          "body": "Hi @ZEE5India how do I cancel the auto-renewal on a subscription? I can't see any option to do it on a desktop browser and on the app the 'cancel subscription' button doesn't seem to work.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 98,
+            "quotes": 1,
+            "replies": 18,
+            "reposts": 4
+          },
+          "engagement_score": 67,
+          "freshness": 38,
+          "item_id": "X2",
+          "local_rank_score": 0.21400000000000002,
+          "local_relevance": 0.08,
+          "metadata": {},
+          "published_at": "2026-09-08",
+          "relevance_hint": 0.9,
+          "snippet": "Hi @ZEE5India how do I cancel the auto-renewal on a subscription? I can't see any option to do it on a desktop browser and on the app the 'cancel subscription' button doesn't seem to work.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Hi @ZEE5India how do I cancel the auto-renewal on a subscription? I can't see any option to do it on a desktop browser and on the app the 'c",
+          "url": "https://x.com/vinayaravind/status/2097211863968907530",
+          "why_relevant": "User struggling to cancel a streaming app subscription"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "canceling subs"
+      ],
+      "title": "Hi @ZEE5India how do I cancel the auto-renewal on a subscription? I can't see any option to do it on a desktop browser and on the app the 'c",
+      "url": "https://x.com/vinayaravind/status/2097211863968907530"
+    },
+    {
+      "candidate_id": "https://x.com/carlweische/status/2097008500316438931",
+      "cluster_id": "cluster-22",
+      "engagement": 48,
+      "explanation": "Business advice, irrelevant",
+      "final_score": 5.675566442131047,
+      "freshness": 36,
+      "fun_explanation": "business advice, off-topic",
+      "fun_score": 17.0,
+      "item_id": "X4",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X4",
+            "native_rank": 9,
+            "source": "x",
+            "subquery_label": "canceling subs"
+          }
+        ]
+      },
+      "native_ranks": {
+        "canceling subs:x": 9
+      },
+      "rerank_score": 10.0,
+      "rrf_score": 0.003674219228413962,
+      "snippet": "if you run subs or sell products where repeat purchases are common don\u2019t do big discounts. The more you discount, the higher % of buyers will be deal-seekers who\u2019ll cancel subscription",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "CarlWeische",
+          "body": "if you run subs or sell products where repeat purchases are common don\u2019t do big discounts. The more you discount, the higher % of buyers will be deal-seekers who\u2019ll cancel subscription",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 56,
+            "quotes": 1,
+            "replies": 6,
+            "reposts": 1
+          },
+          "engagement_score": 48,
+          "freshness": 36,
+          "item_id": "X4",
+          "local_rank_score": 0.138,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-07",
+          "relevance_hint": 0.9,
+          "snippet": "if you run subs or sell products where repeat purchases are common don\u2019t do big discounts. The more you discount, the higher % of buyers will be deal-seekers who\u2019ll cancel subscription",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "if you run subs or sell products where repeat purchases are common don\u2019t do big discounts. The more you discount, the higher % of buyers wil",
+          "url": "https://x.com/CarlWeische/status/2097008500316438931",
+          "why_relevant": "Advice on subscription retention and avoiding cancellations"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "canceling subs"
+      ],
+      "title": "if you run subs or sell products where repeat purchases are common don\u2019t do big discounts. The more you discount, the higher % of buyers wil",
+      "url": "https://x.com/CarlWeische/status/2097008500316438931"
+    }
+  ],
+  "topic": "\"sick of\" app subscription",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}
