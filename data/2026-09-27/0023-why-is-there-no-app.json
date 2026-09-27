@@ -1,0 +1,91 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"why is there no app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-27T00:23:15.273101+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "debate",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [
+      "Topic is generic; subqueries focus on common discussion patterns around missing apps"
+    ],
+    "raw_topic": "\"why is there no app\"",
+    "source_weights": {
+      "hackernews": 0.35,
+      "reddit": 0.65
+    },
+    "subqueries": [
+      {
+        "label": "no app reasons",
+        "ranking_query": "Why is there no dedicated app for this service or platform?",
+        "search_query": "\"why no app\" OR \"no official app\" OR \"missing app\"",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.28169014084507044
+      },
+      {
+        "label": "app absence discussion",
+        "ranking_query": "Community explanations for the lack of a mobile or desktop app",
+        "search_query": "why isn't there an app OR \"needs an app\" OR \"no mobile app\"",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.2535211267605634
+      },
+      {
+        "label": "missing application",
+        "ranking_query": "Why does this product or feature only exist on the web and not as an app?",
+        "search_query": "\"no app\" OR \"no native app\" OR \"web only\"",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.23943661971830987
+      },
+      {
+        "label": "app gap opinions",
+        "ranking_query": "User opinions and debates about the absence of a specific app",
+        "search_query": "why no app exists OR \"should have an app\" complaint",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.22535211267605637
+      }
+    ]
+  },
+  "range_from": "2026-08-28",
+  "range_to": "2026-09-27",
+  "ranked_candidates": [],
+  "topic": "\"why is there no app\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}
