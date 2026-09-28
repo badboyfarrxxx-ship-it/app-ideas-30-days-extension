@@ -1,0 +1,203 @@
+Batch C sources=youtube
+Started at 2026-09-28T08:19:46Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/36396687420
+----
+
+===== Seed: site:reddit.com/r/androidapps =====
+/last30days · researching: site:reddit.com/r/androidapps
+⏳ [95mProcessing[0m Finding patterns...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs androidapps
+[Competitors] Comparing: site:reddit.com vs r vs androidapps
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="site:reddit.com" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for 'site:reddit.com' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=site%3Areddit.com
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for 'site:reddit.com' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=site%3Areddit.com
+[YouTube] SC YouTube search returned 0 results
+[Resolve] Resolved 2 subreddits, x_handle='', github_user='andreknieriem', github_repos=['andreknieriem/open-headunit', 'codm2000/Dual-Screen-Games', 'lyssadev/Spotilol'], context_len=300, category=None
+[Competitors] androidapps: x=@- subs=2 gh=andreknieriem (auto)
+[Resolve] Resolved 3 subreddits, x_handle='socialchamp', github_user='abhisheknaiidu', github_repos=['abhisheknaiidu/awesome-github-profile-readme', 'JacobStephens2/JacobStephens2', 'ThatGuyMcd/DKR-R', 'jnmartin84/sonic-r'], context_len=300, category=None
+[Competitors] r: x=@socialchamp subs=3 gh=abhisheknaiidu (auto)
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="r" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for 'r' (depth=default)
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="androidapps" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for 'androidapps' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=r
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for 'r' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=androidapps
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for 'androidapps' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=r
+[YouTube] SC YouTube search returned 0 results
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=androidapps
+[YouTube] SC YouTube search returned 0 results
+✓ Research complete (1.7s) - YouTube: 0 videos
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-28/0819-site-reddit-com.json
+[OK] seed succeeded
+
+===== Seed: site:reddit.com/r/Android =====
+/last30days · researching: site:reddit.com/r/Android
+⏳ [95mProcessing[0m Crunching the data...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs Android
+[Competitors] Comparing: site:reddit.com vs r vs Android
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="site:reddit.com" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for 'site:reddit.com' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=site%3Areddit.com
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for 'site:reddit.com' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=site%3Areddit.com
+[YouTube] SC YouTube search returned 0 results
+[Resolve] Resolved 3 subreddits, x_handle='socialchamp', github_user='abhisheknaiidu', github_repos=['abhisheknaiidu/awesome-github-profile-readme', 'JacobStephens2/JacobStephens2', 'ThatGuyMcd/DKR-R', 'jnmartin84/sonic-r'], context_len=300, category=None
+[Competitors] r: x=@socialchamp subs=3 gh=abhisheknaiidu (auto)
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="r" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for 'r' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=r
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for 'r' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=r
+[YouTube] SC YouTube search returned 0 results
+[Resolve] Resolved 5 subreddits, x_handle='', github_user='android', github_repos=['android/skills', 'Shrey113/Android-Dex', 'abhisheknaiidu/awesome-github-profile-readme'], context_len=300, category=None
+[Competitors] Android: x=@- subs=5 gh=android (auto)
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="android" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for 'android' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=android
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for 'android' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=android
+[YouTube] SC YouTube search returned 0 results
+✓ Research complete (1.6s) - YouTube: 0 videos
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-28/0819-site-reddit-com.json
+[OK] seed succeeded
+
+===== Seed: site:reddit.com/r/iOSApps =====
+/last30days · researching: site:reddit.com/r/iOSApps
+⏳ [95mProcessing[0m Finding patterns...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs iOSApps
+[Competitors] Comparing: site:reddit.com vs r vs iOSApps
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="site:reddit.com" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for 'site:reddit.com' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=site%3Areddit.com
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for 'site:reddit.com' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=site%3Areddit.com
+[YouTube] SC YouTube search returned 0 results
+[Resolve] Resolved 3 subreddits, x_handle='socialchamp', github_user='abhisheknaiidu', github_repos=['abhisheknaiidu/awesome-github-profile-readme', 'JacobStephens2/JacobStephens2', 'ThatGuyMcd/DKR-R', 'jnmartin84/sonic-r'], context_len=300, category=None
+[Competitors] r: x=@socialchamp subs=3 gh=abhisheknaiidu (auto)
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="r" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for 'r' (depth=default)
+[Resolve] Resolved 4 subreddits, x_handle='', github_user='mirzaaghazadeh', github_repos=['mirzaaghazadeh/iphone-duo-skills', 'awizemann/scarf', 'dickwu/apple-design-skill', 'FrizzleM/SideInstaller'], context_len=300, category=None
+[Competitors] iOSApps: x=@- subs=4 gh=mirzaaghazadeh (auto)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=r
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for 'r' (depth=default)
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="iosapps" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for 'iosapps' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=r
+[YouTube] SC YouTube search returned 0 results
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=iosapps
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for 'iosapps' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=iosapps
+[YouTube] SC YouTube search returned 0 results
+✓ Research complete (1.5s) - YouTube: 0 videos
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-28/0819-site-reddit-com.json
+[OK] seed succeeded
+
+===== Seed: site:reddit.com/r/iphone =====
+/last30days · researching: site:reddit.com/r/iphone
+⏳ [95mProcessing[0m Scoring and ranking...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs iphone
+[Competitors] Comparing: site:reddit.com vs r vs iphone
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="site:reddit.com" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for 'site:reddit.com' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=site%3Areddit.com
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for 'site:reddit.com' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=site%3Areddit.com
+[YouTube] SC YouTube search returned 0 results
+[Resolve] Resolved 3 subreddits, x_handle='socialchamp', github_user='abhisheknaiidu', github_repos=['abhisheknaiidu/awesome-github-profile-readme', 'JacobStephens2/JacobStephens2', 'ThatGuyMcd/DKR-R', 'jnmartin84/sonic-r'], context_len=300, category=None
+[Competitors] r: x=@socialchamp subs=3 gh=abhisheknaiidu (auto)
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="r" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for 'r' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=r
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for 'r' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=r
+[YouTube] SC YouTube search returned 0 results
+[Resolve] Resolved 3 subreddits, x_handle='', github_user='dickwu', github_repos=['dickwu/apple-design-skill', 'peetzweg/opendisplay', 'tr4m0ryp/tr4mpass', 'mirzaaghazadeh/iphone-duo-skills'], context_len=300, category=None
+[Competitors] iphone: x=@- subs=3 gh=dickwu (auto)
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="iphone" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for 'iphone' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=iphone
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for 'iphone' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=iphone
+[YouTube] SC YouTube search returned 0 results
+✓ Research complete (1.6s) - YouTube: 0 videos
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-28/0819-site-reddit-com.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed
