@@ -1,0 +1,99 @@
+Batch E sources=github
+Started at 2026-09-28T16:18:55Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/36450102822
+----
+
+===== Seed: site:news.ycombinator.com "Show HN" android =====
+/last30days · researching: site:news.ycombinator.com "Show HN" android
+⏳ [95mProcessing[0m Scoring and ranking...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=breaking_news, freshness=strict_recent, cluster_mode=story, subqueries=2, source=deterministic
+[Planner]   sq1 label=primary search="site:news.ycombinator.com "show hn" android" sources=[github]
+[Planner]   sq2 label=reaction search="site:news.ycombinator.com "show hn" android reaction update" sources=[github]
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+✓ Research complete (0.5s) - Github: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-28/1618-site-news-ycombinator-com-show-hn-android.json
+[OK] seed succeeded
+
+===== Seed: site:news.ycombinator.com "Show HN" iOS =====
+/last30days · researching: site:news.ycombinator.com "Show HN" iOS
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=breaking_news, freshness=strict_recent, cluster_mode=story, subqueries=2, source=deterministic
+[Planner]   sq1 label=primary search="site:news.ycombinator.com "show hn" ios" sources=[github]
+[Planner]   sq2 label=reaction search="site:news.ycombinator.com "show hn" ios reaction update" sources=[github]
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+✓ Research complete (0.3s) - Github: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-28/1618-site-news-ycombinator-com-show-hn-ios.json
+[OK] seed succeeded
+
+===== Seed: site:news.ycombinator.com "Show HN" "mobile app" =====
+/last30days · researching: site:news.ycombinator.com "Show HN" "mobile app"
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=breaking_news, freshness=strict_recent, cluster_mode=story, subqueries=2, source=deterministic
+[Planner]   sq1 label=primary search="site:news.ycombinator.com "show hn" "mobile app"" sources=[github]
+[Planner]   sq2 label=reaction search="site:news.ycombinator.com "show hn" "mobile app" reaction update" sources=[github]
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+✓ Research complete (0.3s) - Github: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-28/1618-site-news-ycombinator-com-show-hn-mobile-app.json
+[OK] seed succeeded
+
+===== Seed: site:news.ycombinator.com "Ask HN" "is there an app" =====
+/last30days · researching: site:news.ycombinator.com "Ask HN" "is there an app"
+⏳ [95mProcessing[0m Crunching the data...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=breaking_news, freshness=strict_recent, cluster_mode=story, subqueries=2, source=deterministic
+[Planner]   sq1 label=primary search="site:news.ycombinator.com "ask hn" "is there app"" sources=[github]
+[Planner]   sq2 label=reaction search="site:news.ycombinator.com "ask hn" "is there app" reaction update" sources=[github]
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+✓ Research complete (0.3s) - Github: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-28/1618-site-news-ycombinator-com-ask-hn-is-there-an-app.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed
