@@ -1,0 +1,131 @@
+Batch D sources=tiktok,instagram
+Started at 2026-09-28T12:21:40Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/36421305533
+----
+
+===== Seed: site:reddit.com/r/apple =====
+/last30days · researching: site:reddit.com/r/apple
+⏳ [95mProcessing[0m Removing duplicates...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs apple
+[Competitors] Comparing: site:reddit.com vs r vs apple
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="site:reddit.com" sources=[tiktok,instagram]
+[Resolve] Resolved 7 subreddits, x_handle='johnternus', github_user='dickwu', github_repos=['dickwu/apple-design-skill', 'Mak5er/AirCard', 'emilkowalski/skills', 'vorssaint/vorssaint-utils'], context_len=300, category=None
+[Competitors] apple: x=@johnternus subs=7 gh=dickwu (auto)
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="apple" sources=[tiktok,instagram]
+[Resolve] Resolved 3 subreddits, x_handle='socialchamp', github_user='abhisheknaiidu', github_repos=['abhisheknaiidu/awesome-github-profile-readme', 'ThatGuyMcd/DKR-R', 'JacobStephens2/JacobStephens2'], context_len=300, category=None
+[Competitors] r: x=@socialchamp subs=3 gh=abhisheknaiidu (auto)
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="r" sources=[tiktok,instagram]
+✓ Research complete (1.6s) - TikTok: 0 videos, Instagram: 0 reels
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-28/1221-site-reddit-com.json
+[OK] seed succeeded
+
+===== Seed: site:reddit.com/r/GooglePixel =====
+/last30days · researching: site:reddit.com/r/GooglePixel
+⏳ [95mProcessing[0m Crunching the data...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs GooglePixel
+[Competitors] Comparing: site:reddit.com vs r vs GooglePixel
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="site:reddit.com" sources=[tiktok,instagram]
+[Resolve] Resolved 3 subreddits, x_handle='socialchamp', github_user='abhisheknaiidu', github_repos=['abhisheknaiidu/awesome-github-profile-readme', 'ThatGuyMcd/DKR-R', 'JacobStephens2/JacobStephens2'], context_len=300, category=None
+[Competitors] r: x=@socialchamp subs=3 gh=abhisheknaiidu (auto)
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="r" sources=[tiktok,instagram]
+[Resolve] Resolved 4 subreddits, x_handle='brightonprteam', github_user='alex193a', github_repos=['alex193a/Root-My-Pixel', 'barrylk/Pixel-IMS-5G', 'DhananjayBhosale/hilight-studio', 'PixelPlayerHQ/PixelPlayerOSS', 'android/skills'], context_len=300, category=None
+[Competitors] GooglePixel: x=@brightonprteam subs=4 gh=alex193a (auto)
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="googlepixel" sources=[tiktok,instagram]
+✓ Research complete (1.7s) - TikTok: 0 videos, Instagram: 0 reels
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-28/1221-site-reddit-com.json
+[OK] seed succeeded
+
+===== Seed: site:reddit.com/r/AppHookup =====
+/last30days · researching: site:reddit.com/r/AppHookup
+⏳ [95mProcessing[0m Removing duplicates...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs AppHookup
+[Competitors] Comparing: site:reddit.com vs r vs AppHookup
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="site:reddit.com" sources=[tiktok,instagram]
+[Resolve] Resolved 3 subreddits, x_handle='socialchamp', github_user='abhisheknaiidu', github_repos=['abhisheknaiidu/awesome-github-profile-readme', 'ThatGuyMcd/DKR-R', 'JacobStephens2/JacobStephens2'], context_len=300, category=None
+[Competitors] r: x=@socialchamp subs=3 gh=abhisheknaiidu (auto)
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="r" sources=[tiktok,instagram]
+[Resolve] Resolved 5 subreddits, x_handle='', github_user='badboyfarrxxx-ship-it', github_repos=['abhisheknaiidu/awesome-github-profile-readme', 'fmhy/FMHY', 'badboyfarrxxx-ship-it/app-ideas-30-days-extension'], context_len=300, category=None
+[Competitors] AppHookup: x=@- subs=5 gh=badboyfarrxxx-ship-it (auto)
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="apphookup" sources=[tiktok,instagram]
+✓ Research complete (1.6s) - TikTok: 0 videos, Instagram: 0 reels
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-28/1221-site-reddit-com.json
+[OK] seed succeeded
+
+===== Seed: site:reddit.com/r/SideProject "mobile app" =====
+/last30days · researching: site:reddit.com/r/SideProject "mobile app"
+⏳ [95mProcessing[0m Organizing findings...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs SideProject "mobile app
+[Competitors] Comparing: site:reddit.com vs r vs SideProject "mobile app
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="site:reddit.com" sources=[tiktok,instagram]
+[Resolve] Resolved 3 subreddits, x_handle='socialchamp', github_user='abhisheknaiidu', github_repos=['abhisheknaiidu/awesome-github-profile-readme', 'ThatGuyMcd/DKR-R', 'JacobStephens2/JacobStephens2'], context_len=300, category=None
+[Competitors] r: x=@socialchamp subs=3 gh=abhisheknaiidu (auto)
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="r" sources=[tiktok,instagram]
+[Resolve] Resolved 1 subreddits, x_handle='', github_user='badboyfarrxxx-ship-it', github_repos=['badboyfarrxxx-ship-it/app-ideas-30-days-extension'], context_len=300, category=None
+[Competitors] SideProject "mobile app: x=@- subs=1 gh=badboyfarrxxx-ship-it (auto)
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="sideproject "mobile app" sources=[tiktok,instagram]
+✓ Research complete (1.4s) - TikTok: 0 videos, Instagram: 0 reels
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-28/1221-site-reddit-com.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed
