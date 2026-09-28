@@ -1,0 +1,78 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "farmers \"is there an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {
+    "x": "HTTP 403: Forbidden"
+  },
+  "generated_at": "2026-09-28T04:19:31.029370+00:00",
+  "items_by_source": {},
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [
+      "Focus on real user mentions of farming-related mobile apps on social platforms"
+    ],
+    "raw_topic": "farmers \"is there an app\"",
+    "source_weights": {
+      "x": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "farmer apps existence",
+        "ranking_query": "Is there a useful mobile app for farmers?",
+        "search_query": "farmers app OR farming app",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.37037037037037035
+      },
+      {
+        "label": "agriculture tools discussion",
+        "ranking_query": "What apps do farmers actually use or recommend?",
+        "search_query": "farmers (app OR mobile OR software)",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.3333333333333333
+      },
+      {
+        "label": "specific farming platforms",
+        "ranking_query": "Are there dedicated apps for crop management or livestock for farmers?",
+        "search_query": "farmers (FarmLogs OR FarmOS OR \"John Deere\" app)",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.2962962962962963
+      }
+    ]
+  },
+  "range_from": "2026-08-29",
+  "range_to": "2026-09-28",
+  "ranked_candidates": [],
+  "topic": "farmers \"is there an app\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic.",
+    "Some sources failed: x",
+    "No source returned usable items."
+  ]
+}

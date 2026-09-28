@@ -1,0 +1,710 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "caregivers app for elderly parent",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://x.com/thrivingapp/status/2103122504311070826"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://x.com/thrivingapp/status/2103122504311070826"
+      ],
+      "score": 66.80603621730383,
+      "sources": [
+        "x"
+      ],
+      "title": "Missed updates. Phone tag. Zero visibility into how Mom is really doing. https://Thriving.ai replaces the chaos with one Circle of Care. Try"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/theamcqueen/status/2104328368468697198"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://x.com/theamcqueen/status/2104328368468697198"
+      ],
+      "score": 64.27673039825414,
+      "sources": [
+        "x"
+      ],
+      "title": "Hey everyone,there is a new homecare app called PrimeCareSystems that is looking for a few people to beta test and give feedback. It has all"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/geriatricarea/status/2102703017040474587"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://x.com/geriatricarea/status/2102703017040474587"
+      ],
+      "score": 62.99031690140845,
+      "sources": [
+        "x"
+      ],
+      "title": "Utility Lab Studio ha desarrollado #CarePilot, una #app para Android y iPhone, gratuita y sin publicidad, que re\u00fane en un solo lugar todo el"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/newonpolsia/status/2102264179885478099"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://x.com/newonpolsia/status/2102264179885478099"
+      ],
+      "score": 58.57508125677139,
+      "sources": [
+        "x"
+      ],
+      "title": "Caregiving has enough plot twists without family members receiving different versions of reality. CareBranch keeps updates, questions, and n"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/juancereigido/status/2095647985527071219"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://x.com/juancereigido/status/2095647985527071219"
+      ],
+      "score": 24.76030729833547,
+      "sources": [
+        "x"
+      ],
+      "title": "before launching yesterday, i was living in a senior living community in North Carolina. I literally moved there with our Beta device and sp"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/dahboss_vibez/status/2100861295322919409"
+      ],
+      "cluster_id": "cluster-6",
+      "representative_ids": [
+        "https://x.com/dahboss_vibez/status/2100861295322919409"
+      ],
+      "score": 7.931706303394135,
+      "sources": [
+        "x"
+      ],
+      "title": "Una too dey hide update for Naija \ud83d\ude2d I never knew there was an app where you could simply request someone to come help you wash your car, bab"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-28T04:18:24.985474+00:00",
+  "items_by_source": {
+    "x": [
+      {
+        "author": "theamcqueen",
+        "body": "Hey everyone,there is a new homecare app called PrimeCareSystems that is looking for a few people to beta test and give feedback. It has all in one caregiver communication, care notes, scheduling, EVV, payroll, https://primecaresystems.com/",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 1,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "engagement_score": 3,
+        "freshness": 86,
+        "item_id": "X1",
+        "local_rank_score": 0.33499999999999996,
+        "local_relevance": 0.18,
+        "metadata": {},
+        "published_at": "2026-09-27",
+        "relevance_hint": 0.95,
+        "snippet": "Hey everyone,there is a new homecare app called PrimeCareSystems that is looking for a few people to beta test and give feedback. It has all in one caregiver communication, care notes, scheduling, EVV, payroll, https://primecaresystems.com/",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Hey everyone,there is a new homecare app called PrimeCareSystems that is looking for a few people to beta test and give feedback. It has all",
+        "url": "https://x.com/theamcqueen/status/2104328368468697198",
+        "why_relevant": "Directly promotes a new homecare/caregiver app for elderly care with features for communication and scheduling"
+      },
+      {
+        "author": "dahboss_vibez",
+        "body": "Una too dey hide update for Naija \ud83d\ude2d I never knew there was an app where you could simply request someone to come help you wash your car, babysit, give you a massage, walk your pet, provide caregiving, do your laundry, and more. \ud83d\ude02 Not until I came across this app on the App Store called \u201cQuestUnit.\u201d",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 477,
+          "quotes": 0,
+          "replies": 54,
+          "reposts": 183
+        },
+        "engagement_score": 100,
+        "freshness": 62,
+        "item_id": "X2",
+        "local_rank_score": 0.30700000000000005,
+        "local_relevance": 0.08,
+        "metadata": {},
+        "published_at": "2026-09-18",
+        "relevance_hint": 0.85,
+        "snippet": "Una too dey hide update for Naija \ud83d\ude2d I never knew there was an app where you could simply request someone to come help you wash your car, babysit, give you a massage, walk your pet, provide caregiving, do your laundry, and more. \ud83d\ude02 Not until I came across this app on the App Store called \u201cQuestUnit.\u201d",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Una too dey hide update for Naija \ud83d\ude2d I never knew there was an app where you could simply request someone to come help you wash your car, bab",
+        "url": "https://x.com/dahboss_vibez/status/2100861295322919409",
+        "why_relevant": "User sharing experience discovering a caregiving app that includes elderly care services"
+      },
+      {
+        "author": "thrivingapp",
+        "body": "Missed updates. Phone tag. Zero visibility into how Mom is really doing. https://Thriving.ai replaces the chaos with one Circle of Care. Try it free for 30 days: https://thriving.ai #ElderCare #Caregiving #DigitalHealth",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 78,
+        "item_id": "X3",
+        "local_rank_score": 0.247,
+        "local_relevance": 0.08,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.9,
+        "snippet": "Missed updates. Phone tag. Zero visibility into how Mom is really doing. https://Thriving.ai replaces the chaos with one Circle of Care. Try it free for 30 days: https://thriving.ai #ElderCare #Caregiving #DigitalHealth",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Missed updates. Phone tag. Zero visibility into how Mom is really doing. https://Thriving.ai replaces the chaos with one Circle of Care. Try",
+        "url": "https://x.com/thrivingapp/status/2103122504311070826",
+        "why_relevant": "Promotion and implied review of Thriving app for senior caregiving and monitoring"
+      },
+      {
+        "author": "GeriatricArea",
+        "body": "Utility Lab Studio ha desarrollado #CarePilot, una #app para Android y iPhone, gratuita y sin publicidad, que re\u00fane en un solo lugar todo el #cuidado de una persona mayor o dependiente",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 76,
+        "item_id": "X6",
+        "local_rank_score": 0.19,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.9,
+        "snippet": "Utility Lab Studio ha desarrollado #CarePilot, una #app para Android y iPhone, gratuita y sin publicidad, que re\u00fane en un solo lugar todo el #cuidado de una persona mayor o dependiente",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Utility Lab Studio ha desarrollado #CarePilot, una #app para Android y iPhone, gratuita y sin publicidad, que re\u00fane en un solo lugar todo el",
+        "url": "https://x.com/GeriatricArea/status/2102703017040474587",
+        "why_relevant": "Announcement of CarePilot app specifically for elderly/dependent care coordination"
+      },
+      {
+        "author": "newonpolsia",
+        "body": "Caregiving has enough plot twists without family members receiving different versions of reality. CareBranch keeps updates, questions, and next steps in one private place. https://carebranch.polsia.app",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 74,
+        "item_id": "X5",
+        "local_rank_score": 0.185,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-22",
+        "relevance_hint": 0.9,
+        "snippet": "Caregiving has enough plot twists without family members receiving different versions of reality. CareBranch keeps updates, questions, and next steps in one private place. https://carebranch.polsia.app",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Caregiving has enough plot twists without family members receiving different versions of reality. CareBranch keeps updates, questions, and n",
+        "url": "https://x.com/newonpolsia/status/2102264179885478099",
+        "why_relevant": "Description of CareBranch app for coordinated elderly caregiving experiences"
+      },
+      {
+        "author": "JuanCereigido",
+        "body": "before launching yesterday, i was living in a senior living community in North Carolina. I literally moved there with our Beta device and spent every day with different residents. i've never been more convinced of how fucking helpful tech can be for seniors living alone... Our goal at Ato is to make this happen more, and better.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 258,
+          "quotes": 0,
+          "replies": 18,
+          "reposts": 2
+        },
+        "engagement_score": 68,
+        "freshness": 22,
+        "item_id": "X4",
+        "local_rank_score": 0.123,
+        "local_relevance": 0.0,
+        "metadata": {},
+        "published_at": "2026-09-03",
+        "relevance_hint": 0.95,
+        "snippet": "before launching yesterday, i was living in a senior living community in North Carolina. I literally moved there with our Beta device and spent every day with different residents. i've never been more convinced of how fucking helpful tech can be for seniors living alone... Our goal at Ato is to make this happen more, and better.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "before launching yesterday, i was living in a senior living community in North Carolina. I literally moved there with our Beta device and sp",
+        "url": "https://x.com/JuanCereigido/status/2095647985527071219",
+        "why_relevant": "Founder sharing beta testing experience with Ato AI caregiving companion app for elderly"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [
+      "Focus on social discussions about existing apps and needs"
+    ],
+    "raw_topic": "caregivers app for elderly parent",
+    "source_weights": {
+      "x": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "app recommendations",
+        "ranking_query": "What apps do people recommend for caregivers managing care for elderly parents?",
+        "search_query": "caregiver app elderly parent OR senior",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.28169014084507044
+      },
+      {
+        "label": "user experiences",
+        "ranking_query": "Real user experiences with apps that help care for aging parents?",
+        "search_query": "caregiving app review OR experience elderly",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.2535211267605634
+      },
+      {
+        "label": "key features",
+        "ranking_query": "Which features matter most in apps designed for family caregivers of elderly parents?",
+        "search_query": "caregiver app features medication reminder tracking",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.23943661971830987
+      },
+      {
+        "label": "common pain points",
+        "ranking_query": "What problems do caregivers mention when using or looking for apps to support elderly parents?",
+        "search_query": "struggles caregiver app elderly parent coordination",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.22535211267605637
+      }
+    ]
+  },
+  "range_from": "2026-08-29",
+  "range_to": "2026-09-28",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://x.com/thrivingapp/status/2103122504311070826",
+      "cluster_id": "cluster-1",
+      "explanation": "Explicit eldercare app (Mom visibility, Circle of Care) matching primary entity and user-experience signals",
+      "final_score": 66.80603621730383,
+      "freshness": 78,
+      "fun_explanation": "Solid pain-point setup but reads like straight marketing copy",
+      "fun_score": 25.0,
+      "item_id": "X3",
+      "local_relevance": 0.08,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X3",
+            "native_rank": 3,
+            "source": "x",
+            "subquery_label": "user experiences"
+          }
+        ]
+      },
+      "native_ranks": {
+        "user experiences:x": 3
+      },
+      "rerank_score": 91.0,
+      "rrf_score": 0.004024144869215292,
+      "snippet": "Missed updates. Phone tag. Zero visibility into how Mom is really doing. https://Thriving.ai replaces the chaos with one Circle of Care. Try it free for 30 days: https://thriving.ai #ElderCare #Caregiving #DigitalHealth",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "thrivingapp",
+          "body": "Missed updates. Phone tag. Zero visibility into how Mom is really doing. https://Thriving.ai replaces the chaos with one Circle of Care. Try it free for 30 days: https://thriving.ai #ElderCare #Caregiving #DigitalHealth",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 78,
+          "item_id": "X3",
+          "local_rank_score": 0.247,
+          "local_relevance": 0.08,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.9,
+          "snippet": "Missed updates. Phone tag. Zero visibility into how Mom is really doing. https://Thriving.ai replaces the chaos with one Circle of Care. Try it free for 30 days: https://thriving.ai #ElderCare #Caregiving #DigitalHealth",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Missed updates. Phone tag. Zero visibility into how Mom is really doing. https://Thriving.ai replaces the chaos with one Circle of Care. Try",
+          "url": "https://x.com/thrivingapp/status/2103122504311070826",
+          "why_relevant": "Promotion and implied review of Thriving app for senior caregiving and monitoring"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "user experiences"
+      ],
+      "title": "Missed updates. Phone tag. Zero visibility into how Mom is really doing. https://Thriving.ai replaces the chaos with one Circle of Care. Try",
+      "url": "https://x.com/thrivingapp/status/2103122504311070826"
+    },
+    {
+      "candidate_id": "https://x.com/theamcqueen/status/2104328368468697198",
+      "cluster_id": "cluster-2",
+      "engagement": 3,
+      "explanation": "Direct homecare app for caregiver coordination and elderly care; beta testing mention fits product intent",
+      "final_score": 64.27673039825414,
+      "freshness": 86,
+      "fun_explanation": "Plain beta-test announcement, zero personality",
+      "fun_score": 12.0,
+      "item_id": "X1",
+      "local_relevance": 0.18,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X1",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "user experiences"
+          },
+          {
+            "item_id": "X1",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "app recommendations"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recommendations:x": 1,
+        "user experiences:x": 2
+      },
+      "rerank_score": 82.0,
+      "rrf_score": 0.008706921593016587,
+      "snippet": "Hey everyone,there is a new homecare app called PrimeCareSystems that is looking for a few people to beta test and give feedback. It has all in one caregiver communication, care notes, scheduling, EVV, payroll, https://primecaresystems.com/",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "theamcqueen",
+          "body": "Hey everyone,there is a new homecare app called PrimeCareSystems that is looking for a few people to beta test and give feedback. It has all in one caregiver communication, care notes, scheduling, EVV, payroll, https://primecaresystems.com/",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 1,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "engagement_score": 0,
+          "freshness": 86,
+          "item_id": "X1",
+          "local_rank_score": 0.267,
+          "local_relevance": 0.08,
+          "metadata": {},
+          "published_at": "2026-09-27",
+          "relevance_hint": 0.95,
+          "snippet": "Hey everyone,there is a new homecare app called PrimeCareSystems that is looking for a few people to beta test and give feedback. It has all in one caregiver communication, care notes, scheduling, EVV, payroll, https://primecaresystems.com/",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Hey everyone,there is a new homecare app called PrimeCareSystems that is looking for a few people to beta test and give feedback. It has all",
+          "url": "https://x.com/theamcqueen/status/2104328368468697198",
+          "why_relevant": "Direct review/experience seeking for a new caregiving app for elderly homecare"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "user experiences",
+        "app recommendations"
+      ],
+      "title": "Hey everyone,there is a new homecare app called PrimeCareSystems that is looking for a few people to beta test and give feedback. It has all",
+      "url": "https://x.com/theamcqueen/status/2104328368468697198"
+    },
+    {
+      "candidate_id": "https://x.com/geriatricarea/status/2102703017040474587",
+      "cluster_id": "cluster-3",
+      "explanation": "CarePilot app built specifically for care of elderly/dependent persons; clear entity match",
+      "final_score": 62.99031690140845,
+      "freshness": 76,
+      "fun_explanation": "Functional app description, no spark",
+      "fun_score": 18.0,
+      "item_id": "X6",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X6",
+            "native_rank": 4,
+            "source": "x",
+            "subquery_label": "user experiences"
+          }
+        ]
+      },
+      "native_ranks": {
+        "user experiences:x": 4
+      },
+      "rerank_score": 85.0,
+      "rrf_score": 0.003961267605633803,
+      "snippet": "Utility Lab Studio ha desarrollado #CarePilot, una #app para Android y iPhone, gratuita y sin publicidad, que re\u00fane en un solo lugar todo el #cuidado de una persona mayor o dependiente",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "GeriatricArea",
+          "body": "Utility Lab Studio ha desarrollado #CarePilot, una #app para Android y iPhone, gratuita y sin publicidad, que re\u00fane en un solo lugar todo el #cuidado de una persona mayor o dependiente",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 76,
+          "item_id": "X6",
+          "local_rank_score": 0.19,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.9,
+          "snippet": "Utility Lab Studio ha desarrollado #CarePilot, una #app para Android y iPhone, gratuita y sin publicidad, que re\u00fane en un solo lugar todo el #cuidado de una persona mayor o dependiente",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Utility Lab Studio ha desarrollado #CarePilot, una #app para Android y iPhone, gratuita y sin publicidad, que re\u00fane en un solo lugar todo el",
+          "url": "https://x.com/GeriatricArea/status/2102703017040474587",
+          "why_relevant": "Announcement of CarePilot app specifically for elderly/dependent care coordination"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "user experiences"
+      ],
+      "title": "Utility Lab Studio ha desarrollado #CarePilot, una #app para Android y iPhone, gratuita y sin publicidad, que re\u00fane en un solo lugar todo el",
+      "url": "https://x.com/GeriatricArea/status/2102703017040474587"
+    },
+    {
+      "candidate_id": "https://x.com/newonpolsia/status/2102264179885478099",
+      "cluster_id": "cluster-4",
+      "explanation": "CareBranch app for family caregiver coordination and updates; relevant to entity",
+      "final_score": 58.57508125677139,
+      "freshness": 74,
+      "fun_explanation": "Nice 'plot twists' line gives it some wit",
+      "fun_score": 68.0,
+      "item_id": "X5",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X5",
+            "native_rank": 5,
+            "source": "x",
+            "subquery_label": "user experiences"
+          }
+        ]
+      },
+      "native_ranks": {
+        "user experiences:x": 5
+      },
+      "rerank_score": 78.0,
+      "rrf_score": 0.0039003250270855903,
+      "snippet": "Caregiving has enough plot twists without family members receiving different versions of reality. CareBranch keeps updates, questions, and next steps in one private place. https://carebranch.polsia.app",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "newonpolsia",
+          "body": "Caregiving has enough plot twists without family members receiving different versions of reality. CareBranch keeps updates, questions, and next steps in one private place. https://carebranch.polsia.app",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 74,
+          "item_id": "X5",
+          "local_rank_score": 0.185,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-22",
+          "relevance_hint": 0.9,
+          "snippet": "Caregiving has enough plot twists without family members receiving different versions of reality. CareBranch keeps updates, questions, and next steps in one private place. https://carebranch.polsia.app",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Caregiving has enough plot twists without family members receiving different versions of reality. CareBranch keeps updates, questions, and n",
+          "url": "https://x.com/newonpolsia/status/2102264179885478099",
+          "why_relevant": "Description of CareBranch app for coordinated elderly caregiving experiences"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "user experiences"
+      ],
+      "title": "Caregiving has enough plot twists without family members receiving different versions of reality. CareBranch keeps updates, questions, and n",
+      "url": "https://x.com/newonpolsia/status/2102264179885478099"
+    },
+    {
+      "candidate_id": "https://x.com/juancereigido/status/2095647985527071219",
+      "cluster_id": "cluster-5",
+      "engagement": 68,
+      "explanation": "Device for seniors living alone; not a caregivers app and no entity match in title/snippet",
+      "final_score": 24.76030729833547,
+      "freshness": 22,
+      "fun_explanation": "Personal story with raw language adds relatable energy",
+      "fun_score": 55.0,
+      "item_id": "X4",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X4",
+            "native_rank": 6,
+            "source": "x",
+            "subquery_label": "user experiences"
+          }
+        ]
+      },
+      "native_ranks": {
+        "user experiences:x": 6
+      },
+      "rerank_score": 22.0,
+      "rrf_score": 0.0038412291933418692,
+      "snippet": "before launching yesterday, i was living in a senior living community in North Carolina. I literally moved there with our Beta device and spent every day with different residents. i've never been more convinced of how fucking helpful tech can be for seniors living alone... Our goal at Ato is to make this happen more, and better.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "JuanCereigido",
+          "body": "before launching yesterday, i was living in a senior living community in North Carolina. I literally moved there with our Beta device and spent every day with different residents. i've never been more convinced of how fucking helpful tech can be for seniors living alone... Our goal at Ato is to make this happen more, and better.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 258,
+            "quotes": 0,
+            "replies": 18,
+            "reposts": 2
+          },
+          "engagement_score": 68,
+          "freshness": 22,
+          "item_id": "X4",
+          "local_rank_score": 0.123,
+          "local_relevance": 0.0,
+          "metadata": {},
+          "published_at": "2026-09-03",
+          "relevance_hint": 0.95,
+          "snippet": "before launching yesterday, i was living in a senior living community in North Carolina. I literally moved there with our Beta device and spent every day with different residents. i've never been more convinced of how fucking helpful tech can be for seniors living alone... Our goal at Ato is to make this happen more, and better.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "before launching yesterday, i was living in a senior living community in North Carolina. I literally moved there with our Beta device and sp",
+          "url": "https://x.com/JuanCereigido/status/2095647985527071219",
+          "why_relevant": "Founder sharing beta testing experience with Ato AI caregiving companion app for elderly"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "user experiences"
+      ],
+      "title": "before launching yesterday, i was living in a senior living community in North Carolina. I literally moved there with our Beta device and sp",
+      "url": "https://x.com/JuanCereigido/status/2095647985527071219"
+    },
+    {
+      "candidate_id": "https://x.com/dahboss_vibez/status/2100861295322919409",
+      "cluster_id": "cluster-6",
+      "engagement": 100,
+      "explanation": "General on-demand services app; no mention of elderly parents or dedicated caregiver tools",
+      "final_score": 7.931706303394135,
+      "freshness": 62,
+      "fun_explanation": "Casual slang + \ud83d\ude02 + laundry list of random tasks = punchy and shareable",
+      "fun_score": 78.0,
+      "item_id": "X2",
+      "local_relevance": 0.08,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X2",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "user experiences"
+          }
+        ]
+      },
+      "native_ranks": {
+        "user experiences:x": 1
+      },
+      "rerank_score": 18.0,
+      "rrf_score": 0.004156084045255137,
+      "snippet": "Una too dey hide update for Naija \ud83d\ude2d I never knew there was an app where you could simply request someone to come help you wash your car, babysit, give you a massage, walk your pet, provide caregiving, do your laundry, and more. \ud83d\ude02 Not until I came across this app on the App Store called \u201cQuestUnit.\u201d",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "dahboss_vibez",
+          "body": "Una too dey hide update for Naija \ud83d\ude2d I never knew there was an app where you could simply request someone to come help you wash your car, babysit, give you a massage, walk your pet, provide caregiving, do your laundry, and more. \ud83d\ude02 Not until I came across this app on the App Store called \u201cQuestUnit.\u201d",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 477,
+            "quotes": 0,
+            "replies": 54,
+            "reposts": 183
+          },
+          "engagement_score": 100,
+          "freshness": 62,
+          "item_id": "X2",
+          "local_rank_score": 0.30700000000000005,
+          "local_relevance": 0.08,
+          "metadata": {},
+          "published_at": "2026-09-18",
+          "relevance_hint": 0.85,
+          "snippet": "Una too dey hide update for Naija \ud83d\ude2d I never knew there was an app where you could simply request someone to come help you wash your car, babysit, give you a massage, walk your pet, provide caregiving, do your laundry, and more. \ud83d\ude02 Not until I came across this app on the App Store called \u201cQuestUnit.\u201d",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Una too dey hide update for Naija \ud83d\ude2d I never knew there was an app where you could simply request someone to come help you wash your car, bab",
+          "url": "https://x.com/dahboss_vibez/status/2100861295322919409",
+          "why_relevant": "User sharing experience discovering a caregiving app that includes elderly care services"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "user experiences"
+      ],
+      "title": "Una too dey hide update for Naija \ud83d\ude2d I never knew there was an app where you could simply request someone to come help you wash your car, bab",
+      "url": "https://x.com/dahboss_vibez/status/2100861295322919409"
+    }
+  ],
+  "topic": "caregivers app for elderly parent",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}

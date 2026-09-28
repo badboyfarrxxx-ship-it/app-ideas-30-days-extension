@@ -1,0 +1,1317 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "small business owners \"is there an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://x.com/yaybooksapp/status/2104194638953304557"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://x.com/yaybooksapp/status/2104194638953304557"
+      ],
+      "score": 66.9920634920635,
+      "sources": [
+        "x"
+      ],
+      "title": "so no one was gonna tell me theres an app for small business owners where you upload your bank statement pdf and it just sorts everything an"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/socialchartered/status/2103450327886512252"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://x.com/socialchartered/status/2103450327886512252"
+      ],
+      "score": 65.59206349206349,
+      "sources": [
+        "x"
+      ],
+      "title": "Bro tip : if you are a small business/professional who need a gst compliant invoicing solution at no cost... try Zoho Invoice."
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/degen4lyfe_/status/2104323773650571709"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://x.com/degen4lyfe_/status/2104323773650571709"
+      ],
+      "score": 64.02459016393443,
+      "sources": [
+        "x"
+      ],
+      "title": "I made a copy of my CPA bot anyone can use A bookkeeping assistant for small business owners. It reads your linked bank accounts and credit"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/muthliekarim/status/2104120382680887495"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://x.com/muthliekarim/status/2104120382680887495"
+      ],
+      "score": 58.00806451612903,
+      "sources": [
+        "x"
+      ],
+      "title": "I'm building an app for solopreneurs and small business owners to better share and connect."
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/lazy_comrade_/status/2103858260876861519"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://x.com/lazy_comrade_/status/2103858260876861519"
+      ],
+      "score": 57.76153846153846,
+      "sources": [
+        "x"
+      ],
+      "title": "Small business owners can separate business money from personal money while still managing both from the same app. That's the idea behind Ab"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/tallyouk/status/2103982928329851028"
+      ],
+      "cluster_id": "cluster-6",
+      "representative_ids": [
+        "https://x.com/tallyouk/status/2103982928329851028"
+      ],
+      "score": 54.7765625,
+      "sources": [
+        "x"
+      ],
+      "title": "Tallyo didn\u2019t start as a big software idea. It started because a real small business needed a simpler way to handle invoicing."
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/colele_007/status/2100277286477938745"
+      ],
+      "cluster_id": "cluster-7",
+      "representative_ids": [
+        "https://x.com/colele_007/status/2100277286477938745"
+      ],
+      "score": 54.132835820895515,
+      "sources": [
+        "x"
+      ],
+      "title": "Today we're launching James, an AI employee for business owners. He learns your business, works in the tools you already use, and finds the"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/openai/status/2097523484629090408"
+      ],
+      "cluster_id": "cluster-8",
+      "representative_ids": [
+        "https://x.com/openai/status/2097523484629090408"
+      ],
+      "score": 49.14696969696969,
+      "sources": [
+        "x"
+      ],
+      "title": "Small business owners deserve every advantage. Meet the 16 plugins that help take work off your plate so you can focus on what matters most\u2014"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/berniedavey/status/2103923001708458419"
+      ],
+      "cluster_id": "cluster-9",
+      "representative_ids": [
+        "https://x.com/berniedavey/status/2103923001708458419"
+      ],
+      "score": 39.7765625,
+      "sources": [
+        "x"
+      ],
+      "title": "Discover whether OpenClaw Cracked is the ultimate tool for digital marketers and small business owners. We dive into its features, pros, and"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/waqarhasan97696/status/2104221441495531941"
+      ],
+      "cluster_id": "cluster-10",
+      "representative_ids": [
+        "https://x.com/waqarhasan97696/status/2104221441495531941"
+      ],
+      "score": 34.00806451612903,
+      "sources": [
+        "x"
+      ],
+      "title": "Get at Discount Small Business Bookkeeping Google Sheets | Profit & Loss Track by curatedbyhassan"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/1080politics/status/2103119840252711260"
+      ],
+      "cluster_id": "cluster-11",
+      "representative_ids": [
+        "https://x.com/1080politics/status/2103119840252711260"
+      ],
+      "score": 29.861538461538462,
+      "sources": [
+        "x"
+      ],
+      "title": "Financial surprises can derail a small business, but disciplined bookkeeping turns financial data into an early-warning system"
+    },
+    {
+      "candidate_ids": [
+        "https://x.com/submit_site/status/2104136504582737951"
+      ],
+      "cluster_id": "cluster-12",
+      "representative_ids": [
+        "https://x.com/submit_site/status/2104136504582737951"
+      ],
+      "score": 25.024590163934427,
+      "sources": [
+        "x"
+      ],
+      "title": "Most small business owners treat AI like a magic wand for marketing. The real win? Using it to actually understand your audience first, then"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-28T04:19:22.809582+00:00",
+  "items_by_source": {
+    "x": [
+      {
+        "author": "submit_site",
+        "body": "Most small business owners treat AI like a magic wand for marketing. The real win? Using it to actually understand your audience first, then let the tool do the heavy lifting on content.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 86,
+        "item_id": "X2",
+        "local_rank_score": 0.54,
+        "local_relevance": 0.5,
+        "metadata": {},
+        "published_at": "2026-09-27",
+        "relevance_hint": 0.85,
+        "snippet": "Most small business owners treat AI like a magic wand for marketing. The real win? Using it to actually understand your audience first, then let the tool do the heavy lifting on content.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Most small business owners treat AI like a magic wand for marketing. The real win? Using it to actually understand your audience first, then",
+        "url": "https://x.com/submit_site/status/2104136504582737951",
+        "why_relevant": "Discusses using AI tools effectively for small business marketing and audience understanding."
+      },
+      {
+        "author": "muthliekarim",
+        "body": "I'm building an app for solopreneurs and small business owners to better share and connect.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 86,
+        "item_id": "X3",
+        "local_rank_score": 0.4555,
+        "local_relevance": 0.37,
+        "metadata": {},
+        "published_at": "2026-09-27",
+        "relevance_hint": 0.9,
+        "snippet": "I'm building an app for solopreneurs and small business owners to better share and connect.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "I'm building an app for solopreneurs and small business owners to better share and connect.",
+        "url": "https://x.com/muthliekarim/status/2104120382680887495",
+        "why_relevant": "User is developing a new app specifically targeted at small business owners and solopreneurs."
+      },
+      {
+        "author": "degen4lyfe_",
+        "body": "I made a copy of my CPA bot anyone can use A bookkeeping assistant for small business owners. It reads your linked bank accounts and credit card statements and turns them into clear financial reports on revenue, expenses, cash flow, and daily spending.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 5,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 0,
+        "freshness": 86,
+        "item_id": "X1",
+        "local_rank_score": 0.44899999999999995,
+        "local_relevance": 0.36,
+        "metadata": {},
+        "published_at": "2026-09-27",
+        "relevance_hint": 0.95,
+        "snippet": "I made a copy of my CPA bot anyone can use A bookkeeping assistant for small business owners. It reads your linked bank accounts and credit card statements and turns them into clear financial reports on revenue, expenses, cash flow, and daily spending.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "I made a copy of my CPA bot anyone can use A bookkeeping assistant for small business owners. It reads your linked bank accounts and credit",
+        "url": "https://x.com/degen4lyfe_/status/2104323773650571709",
+        "why_relevant": "Directly promotes a bookkeeping AI app tailored for small business owners"
+      },
+      {
+        "author": "yaybooksapp",
+        "body": "so no one was gonna tell me theres an app for small business owners where you upload your bank statement pdf and it just sorts everything and only asks you the 2 things it's not sure about, like was this $340 amazon charge supplies or personal?? (app is called yay books)",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 86,
+        "item_id": "X1",
+        "local_rank_score": 0.4425,
+        "local_relevance": 0.35,
+        "metadata": {},
+        "published_at": "2026-09-27",
+        "relevance_hint": 0.95,
+        "snippet": "so no one was gonna tell me theres an app for small business owners where you upload your bank statement pdf and it just sorts everything and only asks you the 2 things it's not sure about, like was this $340 amazon charge supplies or personal?? (app is called yay books)",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "so no one was gonna tell me theres an app for small business owners where you upload your bank statement pdf and it just sorts everything an",
+        "url": "https://x.com/yaybooksapp/status/2104194638953304557",
+        "why_relevant": "Directly promotes a specific app designed for small business owners to manage finances from bank statements."
+      },
+      {
+        "author": "berniedavey",
+        "body": "Discover whether OpenClaw Cracked is the ultimate tool for digital marketers and small business owners. We dive into its features, pros, and cons.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 84,
+        "item_id": "X4",
+        "local_rank_score": 0.4375,
+        "local_relevance": 0.35,
+        "metadata": {},
+        "published_at": "2026-09-26",
+        "relevance_hint": 0.8,
+        "snippet": "Discover whether OpenClaw Cracked is the ultimate tool for digital marketers and small business owners. We dive into its features, pros, and cons.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Discover whether OpenClaw Cracked is the ultimate tool for digital marketers and small business owners. We dive into its features, pros, and",
+        "url": "https://x.com/berniedavey/status/2103923001708458419",
+        "why_relevant": "Reviews a tool (OpenClaw) aimed at digital marketers and small business owners."
+      },
+      {
+        "author": "lazy_comrade_",
+        "body": "Small business owners can separate business money from personal money while still managing both from the same app. That's the idea behind Absa Next.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 0,
+        "freshness": 84,
+        "item_id": "X5",
+        "local_rank_score": 0.4375,
+        "local_relevance": 0.35,
+        "metadata": {},
+        "published_at": "2026-09-26",
+        "relevance_hint": 0.9,
+        "snippet": "Small business owners can separate business money from personal money while still managing both from the same app. That's the idea behind Absa Next.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Small business owners can separate business money from personal money while still managing both from the same app. That's the idea behind Ab",
+        "url": "https://x.com/lazy_comrade_/status/2103858260876861519",
+        "why_relevant": "Highlights a banking app (Absa Next) designed for small business owners to manage finances."
+      },
+      {
+        "author": "OpenAI",
+        "body": "Small business owners deserve every advantage. Meet the 16 plugins that help take work off your plate so you can focus on what matters most\u2014running your business.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 5080,
+          "quotes": 78,
+          "replies": 292,
+          "reposts": 384
+        },
+        "engagement_score": 100,
+        "freshness": 38,
+        "item_id": "X6",
+        "local_rank_score": 0.4225,
+        "local_relevance": 0.35,
+        "metadata": {},
+        "published_at": "2026-09-09",
+        "relevance_hint": 0.95,
+        "snippet": "Small business owners deserve every advantage. Meet the 16 plugins that help take work off your plate so you can focus on what matters most\u2014running your business.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Small business owners deserve every advantage. Meet the 16 plugins that help take work off your plate so you can focus on what matters most\u2014",
+        "url": "https://x.com/OpenAI/status/2097523484629090408",
+        "why_relevant": "Promotes ChatGPT plugins specifically for small business owners to automate tasks."
+      },
+      {
+        "author": "colele_007",
+        "body": "Today we're launching James, an AI employee for business owners. He learns your business, works in the tools you already use, and finds the next job before you ask.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 88,
+          "quotes": 1,
+          "replies": 16,
+          "reposts": 5
+        },
+        "engagement_score": 45,
+        "freshness": 58,
+        "item_id": "X10",
+        "local_rank_score": 0.3915,
+        "local_relevance": 0.31,
+        "metadata": {},
+        "published_at": "2026-09-16",
+        "relevance_hint": 0.95,
+        "snippet": "Today we're launching James, an AI employee for business owners. He learns your business, works in the tools you already use, and finds the next job before you ask.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Today we're launching James, an AI employee for business owners. He learns your business, works in the tools you already use, and finds the",
+        "url": "https://x.com/colele_007/status/2100277286477938745",
+        "why_relevant": "Launches an AI tool/app (James) tailored for business owners to automate work."
+      },
+      {
+        "author": "WaqarHasan97696",
+        "body": "Get at Discount Small Business Bookkeeping Google Sheets | Profit & Loss Track by curatedbyhassan",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 86,
+        "item_id": "X2",
+        "local_rank_score": 0.3905,
+        "local_relevance": 0.27,
+        "metadata": {},
+        "published_at": "2026-09-27",
+        "relevance_hint": 0.9,
+        "snippet": "Get at Discount Small Business Bookkeeping Google Sheets | Profit & Loss Track by curatedbyhassan",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Get at Discount Small Business Bookkeeping Google Sheets | Profit & Loss Track by curatedbyhassan",
+        "url": "https://x.com/WaqarHasan97696/status/2104221441495531941",
+        "why_relevant": "Offers bookkeeping tool specifically for small businesses"
+      },
+      {
+        "author": "SocialChartered",
+        "body": "Bro tip : if you are a small business/professional who need a gst compliant invoicing solution at no cost... try Zoho Invoice.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 18,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 4
+        },
+        "engagement_score": 18,
+        "freshness": 82,
+        "item_id": "X6",
+        "local_rank_score": 0.3855,
+        "local_relevance": 0.25,
+        "metadata": {},
+        "published_at": "2026-09-25",
+        "relevance_hint": 0.94,
+        "snippet": "Bro tip : if you are a small business/professional who need a gst compliant invoicing solution at no cost... try Zoho Invoice.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Bro tip : if you are a small business/professional who need a gst compliant invoicing solution at no cost... try Zoho Invoice.",
+        "url": "https://x.com/SocialChartered/status/2103450327886512252",
+        "why_relevant": "Recommends free invoicing app for small businesses"
+      },
+      {
+        "author": "TallyoUK",
+        "body": "Tallyo didn\u2019t start as a big software idea. It started because a real small business needed a simpler way to handle invoicing.",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 0,
+          "quotes": 0,
+          "replies": 0,
+          "reposts": 0
+        },
+        "freshness": 84,
+        "item_id": "X3",
+        "local_rank_score": 0.3725,
+        "local_relevance": 0.25,
+        "metadata": {},
+        "published_at": "2026-09-26",
+        "relevance_hint": 0.92,
+        "snippet": "Tallyo didn\u2019t start as a big software idea. It started because a real small business needed a simpler way to handle invoicing.",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Tallyo didn\u2019t start as a big software idea. It started because a real small business needed a simpler way to handle invoicing.",
+        "url": "https://x.com/TallyoUK/status/2103982928329851028",
+        "why_relevant": "Story of building an invoicing app for small businesses"
+      },
+      {
+        "author": "1080pOlitics",
+        "body": "Financial surprises can derail a small business, but disciplined bookkeeping turns financial data into an early-warning system",
+        "date_confidence": "high",
+        "engagement": {
+          "likes": 15,
+          "quotes": 0,
+          "replies": 1,
+          "reposts": 0
+        },
+        "engagement_score": 9,
+        "freshness": 78,
+        "item_id": "X7",
+        "local_rank_score": 0.36650000000000005,
+        "local_relevance": 0.25,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.88,
+        "snippet": "Financial surprises can derail a small business, but disciplined bookkeeping turns financial data into an early-warning system",
+        "source": "x",
+        "source_quality": 0.68,
+        "title": "Financial surprises can derail a small business, but disciplined bookkeeping turns financial data into an early-warning system",
+        "url": "https://x.com/1080pOlitics/status/2103119840252711260",
+        "why_relevant": "Discusses importance of bookkeeping for small businesses"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [
+      "Focus on real user mentions of apps on X and Bluesky"
+    ],
+    "raw_topic": "small business owners \"is there an app\"",
+    "source_weights": {
+      "x": 1.0
+    },
+    "subqueries": [
+      {
+        "label": "app recommendations",
+        "ranking_query": "What apps do small business owners actually use and recommend?",
+        "search_query": "small business owners app OR tool",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "specific use cases",
+        "ranking_query": "Is there a good app for invoicing or bookkeeping that small business owners like?",
+        "search_query": "small business owners invoicing OR bookkeeping app",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "community discussion",
+        "ranking_query": "Small business owners asking if there's an app for their needs",
+        "search_query": "\"small business\" app recommendation OR suggestion",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "pain points",
+        "ranking_query": "What everyday problems do small business owners want an app to solve?",
+        "search_query": "small business owners need app for OR struggling with",
+        "sources": [
+          "x"
+        ],
+        "weight": 0.25
+      }
+    ]
+  },
+  "range_from": "2026-08-29",
+  "range_to": "2026-09-28",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://x.com/yaybooksapp/status/2104194638953304557",
+      "cluster_id": "cluster-1",
+      "explanation": "user discovering and describing a bank-statement app for small business owners",
+      "final_score": 66.9920634920635,
+      "freshness": 86,
+      "fun_explanation": "Relatable 'no one told me' punch, casual discovery vibe",
+      "fun_score": 72.0,
+      "item_id": "X1",
+      "local_relevance": 0.35,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X1",
+            "native_rank": 3,
+            "source": "x",
+            "subquery_label": "app recommendations"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recommendations:x": 3
+      },
+      "rerank_score": 90.0,
+      "rrf_score": 0.003968253968253968,
+      "snippet": "so no one was gonna tell me theres an app for small business owners where you upload your bank statement pdf and it just sorts everything and only asks you the 2 things it's not sure about, like was this $340 amazon charge supplies or personal?? (app is called yay books)",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "yaybooksapp",
+          "body": "so no one was gonna tell me theres an app for small business owners where you upload your bank statement pdf and it just sorts everything and only asks you the 2 things it's not sure about, like was this $340 amazon charge supplies or personal?? (app is called yay books)",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 86,
+          "item_id": "X1",
+          "local_rank_score": 0.4425,
+          "local_relevance": 0.35,
+          "metadata": {},
+          "published_at": "2026-09-27",
+          "relevance_hint": 0.95,
+          "snippet": "so no one was gonna tell me theres an app for small business owners where you upload your bank statement pdf and it just sorts everything and only asks you the 2 things it's not sure about, like was this $340 amazon charge supplies or personal?? (app is called yay books)",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "so no one was gonna tell me theres an app for small business owners where you upload your bank statement pdf and it just sorts everything an",
+          "url": "https://x.com/yaybooksapp/status/2104194638953304557",
+          "why_relevant": "Directly promotes a specific app designed for small business owners to manage finances from bank statements."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recommendations"
+      ],
+      "title": "so no one was gonna tell me theres an app for small business owners where you upload your bank statement pdf and it just sorts everything an",
+      "url": "https://x.com/yaybooksapp/status/2104194638953304557"
+    },
+    {
+      "candidate_id": "https://x.com/socialchartered/status/2103450327886512252",
+      "cluster_id": "cluster-2",
+      "engagement": 18,
+      "explanation": "specific invoicing app recommendation for small business",
+      "final_score": 65.59206349206349,
+      "freshness": 82,
+      "fun_explanation": "Plain bro-tip, zero wit",
+      "fun_score": 28.0,
+      "item_id": "X6",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X6",
+            "native_rank": 3,
+            "source": "x",
+            "subquery_label": "specific use cases"
+          }
+        ]
+      },
+      "native_ranks": {
+        "specific use cases:x": 3
+      },
+      "rerank_score": 80.0,
+      "rrf_score": 0.003968253968253968,
+      "snippet": "Bro tip : if you are a small business/professional who need a gst compliant invoicing solution at no cost... try Zoho Invoice.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "SocialChartered",
+          "body": "Bro tip : if you are a small business/professional who need a gst compliant invoicing solution at no cost... try Zoho Invoice.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 18,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 4
+          },
+          "engagement_score": 18,
+          "freshness": 82,
+          "item_id": "X6",
+          "local_rank_score": 0.3855,
+          "local_relevance": 0.25,
+          "metadata": {},
+          "published_at": "2026-09-25",
+          "relevance_hint": 0.94,
+          "snippet": "Bro tip : if you are a small business/professional who need a gst compliant invoicing solution at no cost... try Zoho Invoice.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Bro tip : if you are a small business/professional who need a gst compliant invoicing solution at no cost... try Zoho Invoice.",
+          "url": "https://x.com/SocialChartered/status/2103450327886512252",
+          "why_relevant": "Recommends free invoicing app for small businesses"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "specific use cases"
+      ],
+      "title": "Bro tip : if you are a small business/professional who need a gst compliant invoicing solution at no cost... try Zoho Invoice.",
+      "url": "https://x.com/SocialChartered/status/2103450327886512252"
+    },
+    {
+      "candidate_id": "https://x.com/degen4lyfe_/status/2104323773650571709",
+      "cluster_id": "cluster-3",
+      "engagement": 0,
+      "explanation": "direct bookkeeping app/tool for small business owners",
+      "final_score": 64.02459016393443,
+      "freshness": 86,
+      "fun_explanation": "Personal bot story adds mild personality",
+      "fun_score": 45.0,
+      "item_id": "X1",
+      "local_relevance": 0.36,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X1",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "specific use cases"
+          }
+        ]
+      },
+      "native_ranks": {
+        "specific use cases:x": 1
+      },
+      "rerank_score": 85.0,
+      "rrf_score": 0.004098360655737705,
+      "snippet": "I made a copy of my CPA bot anyone can use A bookkeeping assistant for small business owners. It reads your linked bank accounts and credit card statements and turns them into clear financial reports on revenue, expenses, cash flow, and daily spending.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "degen4lyfe_",
+          "body": "I made a copy of my CPA bot anyone can use A bookkeeping assistant for small business owners. It reads your linked bank accounts and credit card statements and turns them into clear financial reports on revenue, expenses, cash flow, and daily spending.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 5,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 0,
+          "freshness": 86,
+          "item_id": "X1",
+          "local_rank_score": 0.44899999999999995,
+          "local_relevance": 0.36,
+          "metadata": {},
+          "published_at": "2026-09-27",
+          "relevance_hint": 0.95,
+          "snippet": "I made a copy of my CPA bot anyone can use A bookkeeping assistant for small business owners. It reads your linked bank accounts and credit card statements and turns them into clear financial reports on revenue, expenses, cash flow, and daily spending.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "I made a copy of my CPA bot anyone can use A bookkeeping assistant for small business owners. It reads your linked bank accounts and credit",
+          "url": "https://x.com/degen4lyfe_/status/2104323773650571709",
+          "why_relevant": "Directly promotes a bookkeeping AI app tailored for small business owners"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "specific use cases"
+      ],
+      "title": "I made a copy of my CPA bot anyone can use A bookkeeping assistant for small business owners. It reads your linked bank accounts and credit",
+      "url": "https://x.com/degen4lyfe_/status/2104323773650571709"
+    },
+    {
+      "candidate_id": "https://x.com/muthliekarim/status/2104120382680887495",
+      "cluster_id": "cluster-4",
+      "explanation": "explicitly building an app for small business owners",
+      "final_score": 58.00806451612903,
+      "freshness": 86,
+      "fun_explanation": "Flat announcement",
+      "fun_score": 18.0,
+      "item_id": "X3",
+      "local_relevance": 0.37,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X3",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "app recommendations"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recommendations:x": 2
+      },
+      "rerank_score": 75.0,
+      "rrf_score": 0.004032258064516129,
+      "snippet": "I'm building an app for solopreneurs and small business owners to better share and connect.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "muthliekarim",
+          "body": "I'm building an app for solopreneurs and small business owners to better share and connect.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 86,
+          "item_id": "X3",
+          "local_rank_score": 0.4555,
+          "local_relevance": 0.37,
+          "metadata": {},
+          "published_at": "2026-09-27",
+          "relevance_hint": 0.9,
+          "snippet": "I'm building an app for solopreneurs and small business owners to better share and connect.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "I'm building an app for solopreneurs and small business owners to better share and connect.",
+          "url": "https://x.com/muthliekarim/status/2104120382680887495",
+          "why_relevant": "User is developing a new app specifically targeted at small business owners and solopreneurs."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recommendations"
+      ],
+      "title": "I'm building an app for solopreneurs and small business owners to better share and connect.",
+      "url": "https://x.com/muthliekarim/status/2104120382680887495"
+    },
+    {
+      "candidate_id": "https://x.com/lazy_comrade_/status/2103858260876861519",
+      "cluster_id": "cluster-5",
+      "engagement": 0,
+      "explanation": "banking app specifically for small business money separation",
+      "final_score": 57.76153846153846,
+      "freshness": 84,
+      "fun_explanation": "Straight product explanation",
+      "fun_score": 22.0,
+      "item_id": "X5",
+      "local_relevance": 0.35,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X5",
+            "native_rank": 5,
+            "source": "x",
+            "subquery_label": "app recommendations"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recommendations:x": 5
+      },
+      "rerank_score": 75.0,
+      "rrf_score": 0.0038461538461538464,
+      "snippet": "Small business owners can separate business money from personal money while still managing both from the same app. That's the idea behind Absa Next.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "lazy_comrade_",
+          "body": "Small business owners can separate business money from personal money while still managing both from the same app. That's the idea behind Absa Next.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 0,
+          "freshness": 84,
+          "item_id": "X5",
+          "local_rank_score": 0.4375,
+          "local_relevance": 0.35,
+          "metadata": {},
+          "published_at": "2026-09-26",
+          "relevance_hint": 0.9,
+          "snippet": "Small business owners can separate business money from personal money while still managing both from the same app. That's the idea behind Absa Next.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Small business owners can separate business money from personal money while still managing both from the same app. That's the idea behind Ab",
+          "url": "https://x.com/lazy_comrade_/status/2103858260876861519",
+          "why_relevant": "Highlights a banking app (Absa Next) designed for small business owners to manage finances."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recommendations"
+      ],
+      "title": "Small business owners can separate business money from personal money while still managing both from the same app. That's the idea behind Ab",
+      "url": "https://x.com/lazy_comrade_/status/2103858260876861519"
+    },
+    {
+      "candidate_id": "https://x.com/tallyouk/status/2103982928329851028",
+      "cluster_id": "cluster-6",
+      "explanation": "invoicing app built from small business need",
+      "final_score": 54.7765625,
+      "freshness": 84,
+      "fun_explanation": "Origin story gives slight charm",
+      "fun_score": 32.0,
+      "item_id": "X3",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X3",
+            "native_rank": 4,
+            "source": "x",
+            "subquery_label": "specific use cases"
+          }
+        ]
+      },
+      "native_ranks": {
+        "specific use cases:x": 4
+      },
+      "rerank_score": 70.0,
+      "rrf_score": 0.00390625,
+      "snippet": "Tallyo didn\u2019t start as a big software idea. It started because a real small business needed a simpler way to handle invoicing.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "TallyoUK",
+          "body": "Tallyo didn\u2019t start as a big software idea. It started because a real small business needed a simpler way to handle invoicing.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 84,
+          "item_id": "X3",
+          "local_rank_score": 0.3725,
+          "local_relevance": 0.25,
+          "metadata": {},
+          "published_at": "2026-09-26",
+          "relevance_hint": 0.92,
+          "snippet": "Tallyo didn\u2019t start as a big software idea. It started because a real small business needed a simpler way to handle invoicing.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Tallyo didn\u2019t start as a big software idea. It started because a real small business needed a simpler way to handle invoicing.",
+          "url": "https://x.com/TallyoUK/status/2103982928329851028",
+          "why_relevant": "Story of building an invoicing app for small businesses"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "specific use cases"
+      ],
+      "title": "Tallyo didn\u2019t start as a big software idea. It started because a real small business needed a simpler way to handle invoicing.",
+      "url": "https://x.com/TallyoUK/status/2103982928329851028"
+    },
+    {
+      "candidate_id": "https://x.com/colele_007/status/2100277286477938745",
+      "cluster_id": "cluster-7",
+      "engagement": 45,
+      "explanation": "AI employee tool launch for business owners",
+      "final_score": 54.132835820895515,
+      "freshness": 58,
+      "fun_explanation": "AI employee concept has novelty",
+      "fun_score": 38.0,
+      "item_id": "X10",
+      "local_relevance": 0.31,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X10",
+            "native_rank": 7,
+            "source": "x",
+            "subquery_label": "app recommendations"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recommendations:x": 7
+      },
+      "rerank_score": 65.0,
+      "rrf_score": 0.0037313432835820895,
+      "snippet": "Today we're launching James, an AI employee for business owners. He learns your business, works in the tools you already use, and finds the next job before you ask.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "colele_007",
+          "body": "Today we're launching James, an AI employee for business owners. He learns your business, works in the tools you already use, and finds the next job before you ask.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 88,
+            "quotes": 1,
+            "replies": 16,
+            "reposts": 5
+          },
+          "engagement_score": 45,
+          "freshness": 58,
+          "item_id": "X10",
+          "local_rank_score": 0.3915,
+          "local_relevance": 0.31,
+          "metadata": {},
+          "published_at": "2026-09-16",
+          "relevance_hint": 0.95,
+          "snippet": "Today we're launching James, an AI employee for business owners. He learns your business, works in the tools you already use, and finds the next job before you ask.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Today we're launching James, an AI employee for business owners. He learns your business, works in the tools you already use, and finds the",
+          "url": "https://x.com/colele_007/status/2100277286477938745",
+          "why_relevant": "Launches an AI tool/app (James) tailored for business owners to automate work."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recommendations"
+      ],
+      "title": "Today we're launching James, an AI employee for business owners. He learns your business, works in the tools you already use, and finds the",
+      "url": "https://x.com/colele_007/status/2100277286477938745"
+    },
+    {
+      "candidate_id": "https://x.com/openai/status/2097523484629090408",
+      "cluster_id": "cluster-8",
+      "engagement": 100,
+      "explanation": "plugins for small business owners but generic marketing",
+      "final_score": 49.14696969696969,
+      "freshness": 38,
+      "fun_explanation": "Corporate listicle",
+      "fun_score": 12.0,
+      "item_id": "X6",
+      "local_relevance": 0.35,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X6",
+            "native_rank": 6,
+            "source": "x",
+            "subquery_label": "app recommendations"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recommendations:x": 6
+      },
+      "rerank_score": 60.0,
+      "rrf_score": 0.003787878787878788,
+      "snippet": "Small business owners deserve every advantage. Meet the 16 plugins that help take work off your plate so you can focus on what matters most\u2014running your business.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "OpenAI",
+          "body": "Small business owners deserve every advantage. Meet the 16 plugins that help take work off your plate so you can focus on what matters most\u2014running your business.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 5080,
+            "quotes": 78,
+            "replies": 292,
+            "reposts": 384
+          },
+          "engagement_score": 100,
+          "freshness": 38,
+          "item_id": "X6",
+          "local_rank_score": 0.4225,
+          "local_relevance": 0.35,
+          "metadata": {},
+          "published_at": "2026-09-09",
+          "relevance_hint": 0.95,
+          "snippet": "Small business owners deserve every advantage. Meet the 16 plugins that help take work off your plate so you can focus on what matters most\u2014running your business.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Small business owners deserve every advantage. Meet the 16 plugins that help take work off your plate so you can focus on what matters most\u2014",
+          "url": "https://x.com/OpenAI/status/2097523484629090408",
+          "why_relevant": "Promotes ChatGPT plugins specifically for small business owners to automate tasks."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recommendations"
+      ],
+      "title": "Small business owners deserve every advantage. Meet the 16 plugins that help take work off your plate so you can focus on what matters most\u2014",
+      "url": "https://x.com/OpenAI/status/2097523484629090408"
+    },
+    {
+      "candidate_id": "https://x.com/berniedavey/status/2103923001708458419",
+      "cluster_id": "cluster-9",
+      "explanation": "tool review but vague and off-target",
+      "final_score": 39.7765625,
+      "freshness": 84,
+      "fun_explanation": "Dry review tone",
+      "fun_score": 8.0,
+      "item_id": "X4",
+      "local_relevance": 0.35,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X4",
+            "native_rank": 4,
+            "source": "x",
+            "subquery_label": "app recommendations"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recommendations:x": 4
+      },
+      "rerank_score": 45.0,
+      "rrf_score": 0.00390625,
+      "snippet": "Discover whether OpenClaw Cracked is the ultimate tool for digital marketers and small business owners. We dive into its features, pros, and cons.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "berniedavey",
+          "body": "Discover whether OpenClaw Cracked is the ultimate tool for digital marketers and small business owners. We dive into its features, pros, and cons.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 84,
+          "item_id": "X4",
+          "local_rank_score": 0.4375,
+          "local_relevance": 0.35,
+          "metadata": {},
+          "published_at": "2026-09-26",
+          "relevance_hint": 0.8,
+          "snippet": "Discover whether OpenClaw Cracked is the ultimate tool for digital marketers and small business owners. We dive into its features, pros, and cons.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Discover whether OpenClaw Cracked is the ultimate tool for digital marketers and small business owners. We dive into its features, pros, and",
+          "url": "https://x.com/berniedavey/status/2103923001708458419",
+          "why_relevant": "Reviews a tool (OpenClaw) aimed at digital marketers and small business owners."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recommendations"
+      ],
+      "title": "Discover whether OpenClaw Cracked is the ultimate tool for digital marketers and small business owners. We dive into its features, pros, and",
+      "url": "https://x.com/berniedavey/status/2103923001708458419"
+    },
+    {
+      "candidate_id": "https://x.com/waqarhasan97696/status/2104221441495531941",
+      "cluster_id": "cluster-10",
+      "explanation": "Google Sheets template, not a real app",
+      "final_score": 34.00806451612903,
+      "freshness": 86,
+      "fun_explanation": "Discount promo, zero humor",
+      "fun_score": 10.0,
+      "item_id": "X2",
+      "local_relevance": 0.27,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X2",
+            "native_rank": 2,
+            "source": "x",
+            "subquery_label": "specific use cases"
+          }
+        ]
+      },
+      "native_ranks": {
+        "specific use cases:x": 2
+      },
+      "rerank_score": 35.0,
+      "rrf_score": 0.004032258064516129,
+      "snippet": "Get at Discount Small Business Bookkeeping Google Sheets | Profit & Loss Track by curatedbyhassan",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "WaqarHasan97696",
+          "body": "Get at Discount Small Business Bookkeeping Google Sheets | Profit & Loss Track by curatedbyhassan",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 86,
+          "item_id": "X2",
+          "local_rank_score": 0.3905,
+          "local_relevance": 0.27,
+          "metadata": {},
+          "published_at": "2026-09-27",
+          "relevance_hint": 0.9,
+          "snippet": "Get at Discount Small Business Bookkeeping Google Sheets | Profit & Loss Track by curatedbyhassan",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Get at Discount Small Business Bookkeeping Google Sheets | Profit & Loss Track by curatedbyhassan",
+          "url": "https://x.com/WaqarHasan97696/status/2104221441495531941",
+          "why_relevant": "Offers bookkeeping tool specifically for small businesses"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "specific use cases"
+      ],
+      "title": "Get at Discount Small Business Bookkeeping Google Sheets | Profit & Loss Track by curatedbyhassan",
+      "url": "https://x.com/WaqarHasan97696/status/2104221441495531941"
+    },
+    {
+      "candidate_id": "https://x.com/1080politics/status/2103119840252711260",
+      "cluster_id": "cluster-11",
+      "engagement": 9,
+      "explanation": "bookkeeping advice only, no app",
+      "final_score": 29.861538461538462,
+      "freshness": 78,
+      "fun_explanation": "Straight advice",
+      "fun_score": 15.0,
+      "item_id": "X7",
+      "local_relevance": 0.25,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X7",
+            "native_rank": 5,
+            "source": "x",
+            "subquery_label": "specific use cases"
+          }
+        ]
+      },
+      "native_ranks": {
+        "specific use cases:x": 5
+      },
+      "rerank_score": 25.0,
+      "rrf_score": 0.0038461538461538464,
+      "snippet": "Financial surprises can derail a small business, but disciplined bookkeeping turns financial data into an early-warning system",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "1080pOlitics",
+          "body": "Financial surprises can derail a small business, but disciplined bookkeeping turns financial data into an early-warning system",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 15,
+            "quotes": 0,
+            "replies": 1,
+            "reposts": 0
+          },
+          "engagement_score": 9,
+          "freshness": 78,
+          "item_id": "X7",
+          "local_rank_score": 0.36650000000000005,
+          "local_relevance": 0.25,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.88,
+          "snippet": "Financial surprises can derail a small business, but disciplined bookkeeping turns financial data into an early-warning system",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Financial surprises can derail a small business, but disciplined bookkeeping turns financial data into an early-warning system",
+          "url": "https://x.com/1080pOlitics/status/2103119840252711260",
+          "why_relevant": "Discusses importance of bookkeeping for small businesses"
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "specific use cases"
+      ],
+      "title": "Financial surprises can derail a small business, but disciplined bookkeeping turns financial data into an early-warning system",
+      "url": "https://x.com/1080pOlitics/status/2103119840252711260"
+    },
+    {
+      "candidate_id": "https://x.com/submit_site/status/2104136504582737951",
+      "cluster_id": "cluster-12",
+      "explanation": "off-topic AI marketing advice, no app focus",
+      "final_score": 25.024590163934427,
+      "freshness": 86,
+      "fun_explanation": "Sensible tip, no wit",
+      "fun_score": 25.0,
+      "item_id": "X2",
+      "local_relevance": 0.5,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "X2",
+            "native_rank": 1,
+            "source": "x",
+            "subquery_label": "app recommendations"
+          }
+        ]
+      },
+      "native_ranks": {
+        "app recommendations:x": 1
+      },
+      "rerank_score": 20.0,
+      "rrf_score": 0.004098360655737705,
+      "snippet": "Most small business owners treat AI like a magic wand for marketing. The real win? Using it to actually understand your audience first, then let the tool do the heavy lifting on content.",
+      "source": "x",
+      "source_items": [
+        {
+          "author": "submit_site",
+          "body": "Most small business owners treat AI like a magic wand for marketing. The real win? Using it to actually understand your audience first, then let the tool do the heavy lifting on content.",
+          "date_confidence": "high",
+          "engagement": {
+            "likes": 0,
+            "quotes": 0,
+            "replies": 0,
+            "reposts": 0
+          },
+          "freshness": 86,
+          "item_id": "X2",
+          "local_rank_score": 0.54,
+          "local_relevance": 0.5,
+          "metadata": {},
+          "published_at": "2026-09-27",
+          "relevance_hint": 0.85,
+          "snippet": "Most small business owners treat AI like a magic wand for marketing. The real win? Using it to actually understand your audience first, then let the tool do the heavy lifting on content.",
+          "source": "x",
+          "source_quality": 0.68,
+          "title": "Most small business owners treat AI like a magic wand for marketing. The real win? Using it to actually understand your audience first, then",
+          "url": "https://x.com/submit_site/status/2104136504582737951",
+          "why_relevant": "Discusses using AI tools effectively for small business marketing and audience understanding."
+        }
+      ],
+      "source_quality": 0.68,
+      "sources": [
+        "x"
+      ],
+      "subquery_labels": [
+        "app recommendations"
+      ],
+      "title": "Most small business owners treat AI like a magic wand for marketing. The real win? Using it to actually understand your audience first, then",
+      "url": "https://x.com/submit_site/status/2104136504582737951"
+    }
+  ],
+  "topic": "small business owners \"is there an app\"",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}
