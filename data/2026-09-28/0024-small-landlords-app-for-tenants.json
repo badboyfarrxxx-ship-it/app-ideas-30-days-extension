@@ -1,0 +1,89 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "small landlords app for tenants",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-28T00:24:13.117385+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "market",
+    "freshness_mode": "balanced_recent",
+    "intent": "product",
+    "notes": [],
+    "raw_topic": "small landlords app for tenants",
+    "source_weights": {
+      "hackernews": 0.4444444444444445,
+      "reddit": 0.5555555555555556
+    },
+    "subqueries": [
+      {
+        "label": "existing apps",
+        "ranking_query": "What apps or tools do small landlords actually use for tenant management?",
+        "search_query": "landlord tenant management app OR software small",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.27027027027027023
+      },
+      {
+        "label": "pain points",
+        "ranking_query": "What common frustrations do small landlords have with tenants and paperwork?",
+        "search_query": "small landlord tenant issues OR problems management",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.27027027027027023
+      },
+      {
+        "label": "feature requests",
+        "ranking_query": "What features would small landlords want in a tenant management app?",
+        "search_query": "landlord app features OR wishlist tenant",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.24324324324324323
+      },
+      {
+        "label": "hacker news discussion",
+        "ranking_query": "Have people on Hacker News discussed building or using apps for small landlords?",
+        "search_query": "landlord software OR rental app startup",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.21621621621621623
+      }
+    ]
+  },
+  "range_from": "2026-08-29",
+  "range_to": "2026-09-28",
+  "ranked_candidates": [],
+  "topic": "small landlords app for tenants",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

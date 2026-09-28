@@ -1,0 +1,89 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "parents \"I would pay for an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-28T00:24:31.271154+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "market",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [],
+    "raw_topic": "parents \"I would pay for an app\"",
+    "source_weights": {
+      "hackernews": 0.25,
+      "reddit": 0.75
+    },
+    "subqueries": [
+      {
+        "label": "willingness to pay",
+        "ranking_query": "Parents explicitly saying they would pay money for an app that solves a parenting problem",
+        "search_query": "parents \"would pay\" app OR apps",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "paid parenting tools",
+        "ranking_query": "Parents discussing which parenting or family apps they actually pay for",
+        "search_query": "parents app subscription OR \"pay for\" OR premium",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "parent app ideas",
+        "ranking_query": "Parents describing missing apps or features they would happily purchase",
+        "search_query": "parents \"need an app\" OR \"wish there was an app\"",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.25
+      },
+      {
+        "label": "mom dad paid apps",
+        "ranking_query": "Moms and dads sharing experiences with paid parenting or family apps",
+        "search_query": "mom OR dad \"I paid for\" app OR \"worth paying\"",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.25
+      }
+    ]
+  },
+  "range_from": "2026-08-29",
+  "range_to": "2026-09-28",
+  "ranked_candidates": [],
+  "topic": "parents \"I would pay for an app\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

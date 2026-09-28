@@ -1,0 +1,91 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "teachers \"I wish there was an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-28T00:24:04.832724+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "debate",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [
+      "focus on unmet needs expressed by teachers"
+    ],
+    "raw_topic": "teachers \"I wish there was an app\"",
+    "source_weights": {
+      "hackernews": 0.15,
+      "reddit": 0.85
+    },
+    "subqueries": [
+      {
+        "label": "teacher app wishes",
+        "ranking_query": "teachers posting about apps they wish existed for teaching or classroom use",
+        "search_query": "teachers (\"I wish there was an app\" OR \"wish there was an app\" OR \"need an app\")",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.2898550724637681
+      },
+      {
+        "label": "education pain points apps",
+        "ranking_query": "teachers describing daily frustrations that an app could solve",
+        "search_query": "teachers (grading OR classroom OR lesson OR parent) (app OR tool) (wish OR need OR missing)",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.2608695652173913
+      },
+      {
+        "label": "teacher tool requests reddit",
+        "ranking_query": "teachers asking for or wishing someone would build specific education tools",
+        "search_query": "r/teachers (app OR software) (recommend OR wish OR build OR create)",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.27536231884057966
+      },
+      {
+        "label": "hacker news teacher apps",
+        "ranking_query": "Hacker News threads where teachers discuss missing apps or software ideas",
+        "search_query": "teachers (app OR tool) (wish OR idea OR build) education",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.17391304347826086
+      }
+    ]
+  },
+  "range_from": "2026-08-29",
+  "range_to": "2026-09-28",
+  "ranked_candidates": [],
+  "topic": "teachers \"I wish there was an app\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}

@@ -1,0 +1,186 @@
+Batch A sources=reddit,hackernews
+Started at 2026-09-28T00:23:57Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/36362068965
+----
+
+===== Seed: teachers "I wish there was an app" =====
+/last30days · researching: teachers "I wish there was an app"
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] Plan: intent=opinion, freshness=balanced_recent, cluster_mode=debate, subqueries=4, source=llm
+[Planner]   sq1 label=teacher app wishes search="teachers ("I wish there was an app" OR "wish there was an app" OR "need an app")" sources=[reddit,hackernews]
+[Planner]   sq2 label=education pain points apps search="teachers (grading OR classroom OR lesson OR parent) (app OR tool) (wish OR need OR missing)" sources=[reddit,hackernews]
+[Planner]   sq3 label=teacher tool requests reddit search="r/teachers (app OR software) (recommend OR wish OR build OR create)" sources=[reddit,hackernews]
+[Planner]   sq4 label=hacker news teacher apps search="teachers (app OR tool) (wish OR idea OR build) education" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=teachers+%22I+wish+there+was+an+app%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'teachers "I wish there was an app"' into 2 queries: ['teachers "i wish there was app"', 'teachers "I wish there was an app"']
+[Reddit] Global search 1/2: 'teachers "i wish there was app"' (sort=relevance)
+[Reddit] Global search 2/2: 'teachers "I wish there was an app"' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'teachers "i wish there was app"'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'teachers "I wish there was an app"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=teachers+%22I+wish+there+was+an+app%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'teachers "I wish there was an app"' into 2 queries: ['teachers "i wish there was app"', 'teachers "I wish there was an app"']
+[Reddit] Global search 1/2: 'teachers "i wish there was app"' (sort=relevance)
+[Reddit] Global search 2/2: 'teachers "I wish there was an app"' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'teachers "I wish there was an app"'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'teachers "i wish there was app"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+✓ Research complete (6.7s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-28/0024-teachers-i-wish-there-was-an-app.json
+[OK] seed succeeded
+
+===== Seed: small landlords app for tenants =====
+/last30days · researching: small landlords app for tenants
+⏳ [95mProcessing[0m Finding patterns...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=market, subqueries=4, source=llm
+[Planner]   sq1 label=existing apps search="landlord tenant management app OR software small" sources=[reddit,hackernews]
+[Planner]   sq2 label=pain points search="small landlord tenant issues OR problems management" sources=[reddit,hackernews]
+[Planner]   sq3 label=feature requests search="landlord app features OR wishlist tenant" sources=[reddit,hackernews]
+[Planner]   sq4 label=hacker news discussion search="landlord software OR rental app startup" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=small+landlords+app+for+tenants&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'small landlords app for tenants' into 2 queries: ['small landlords app tenants', 'small landlords app for tenants']
+[Reddit] Global search 1/2: 'small landlords app tenants' (sort=relevance)
+[Reddit] Global search 2/2: 'small landlords app for tenants' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'small landlords app tenants'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'small landlords app for tenants'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=small+landlords+app+for+tenants&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'small landlords app for tenants' into 2 queries: ['small landlords app tenants', 'small landlords app for tenants']
+[Reddit] Global search 1/2: 'small landlords app tenants' (sort=relevance)
+[Reddit] Global search 2/2: 'small landlords app for tenants' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'small landlords app tenants'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'small landlords app for tenants'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+✓ Research complete (8.1s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-28/0024-small-landlords-app-for-tenants.json
+[OK] seed succeeded
+
+===== Seed: freelancers "I wish there was an app" =====
+/last30days · researching: freelancers "I wish there was an app"
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] Plan: intent=opinion, freshness=balanced_recent, cluster_mode=debate, subqueries=3, source=llm
+[Planner]   sq1 label=freelancer app wishes search="freelancers "wish there was an app" OR "need an app" OR "missing app"" sources=[reddit,hackernews]
+[Planner]   sq2 label=freelance pain points tools search="freelance OR freelancer problems OR frustrations tools OR software OR app" sources=[reddit,hackernews]
+[Planner]   sq3 label=indie hacker freelancer ideas search="freelancers "built an app" OR "app idea" OR "would pay for app"" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=freelancers+%22I+wish+there+was+an+app%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'freelancers "I wish there was an app"' into 2 queries: ['freelancers "i wish there was app"', 'freelancers "I wish there was an app"']
+[Reddit] Global search 1/2: 'freelancers "i wish there was app"' (sort=relevance)
+[Reddit] Global search 2/2: 'freelancers "I wish there was an app"' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'freelancers "i wish there was app"'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'freelancers "I wish there was an app"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=freelancers+%22I+wish+there+was+an+app%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'freelancers "I wish there was an app"' into 2 queries: ['freelancers "i wish there was app"', 'freelancers "I wish there was an app"']
+[Reddit] Global search 1/2: 'freelancers "i wish there was app"' (sort=relevance)
+[Reddit] Global search 2/2: 'freelancers "I wish there was an app"' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'freelancers "I wish there was an app"'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'freelancers "i wish there was app"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+✓ Research complete (6.8s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-28/0024-freelancers-i-wish-there-was-an-app.json
+[OK] seed succeeded
+
+===== Seed: parents "I would pay for an app" =====
+/last30days · researching: parents "I would pay for an app"
+⏳ [95mProcessing[0m Removing duplicates...
+[Planner] Plan: intent=opinion, freshness=balanced_recent, cluster_mode=market, subqueries=4, source=llm
+[Planner]   sq1 label=willingness to pay search="parents "would pay" app OR apps" sources=[reddit,hackernews]
+[Planner]   sq2 label=paid parenting tools search="parents app subscription OR "pay for" OR premium" sources=[reddit,hackernews]
+[Planner]   sq3 label=parent app ideas search="parents "need an app" OR "wish there was an app"" sources=[reddit,hackernews]
+[Planner]   sq4 label=mom dad paid apps search="mom OR dad "I paid for" app OR "worth paying"" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=parents+%22I+would+pay+for+an+app%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'parents "I would pay for an app"' into 2 queries: ['parents "i would pay app"', 'parents "I would pay for an app"']
+[Reddit] Global search 1/2: 'parents "i would pay app"' (sort=relevance)
+[Reddit] Global search 2/2: 'parents "I would pay for an app"' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'parents "i would pay app"'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'parents "I would pay for an app"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=parents+%22I+would+pay+for+an+app%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'parents "I would pay for an app"' into 2 queries: ['parents "i would pay app"', 'parents "I would pay for an app"']
+[Reddit] Global search 1/2: 'parents "i would pay app"' (sort=relevance)
+[Reddit] Global search 2/2: 'parents "I would pay for an app"' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'parents "I would pay for an app"'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'parents "i would pay app"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+✓ Research complete (11.0s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-28/0024-parents-i-would-pay-for-an-app.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed

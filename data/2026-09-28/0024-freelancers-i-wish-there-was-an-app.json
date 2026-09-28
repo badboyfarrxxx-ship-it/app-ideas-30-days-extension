@@ -1,0 +1,81 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "llm",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "freelancers \"I wish there was an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-09-28T00:24:20.070321+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "debate",
+    "freshness_mode": "balanced_recent",
+    "intent": "opinion",
+    "notes": [
+      "Focus on unmet needs and explicit wishes expressed by freelancers"
+    ],
+    "raw_topic": "freelancers \"I wish there was an app\"",
+    "source_weights": {
+      "hackernews": 0.25,
+      "reddit": 0.75
+    },
+    "subqueries": [
+      {
+        "label": "freelancer app wishes",
+        "ranking_query": "What apps do freelancers say they wish existed?",
+        "search_query": "freelancers \"wish there was an app\" OR \"need an app\" OR \"missing app\"",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.37037037037037035
+      },
+      {
+        "label": "freelance pain points tools",
+        "ranking_query": "Common complaints from freelancers about tools or apps they wish were better?",
+        "search_query": "freelance OR freelancer problems OR frustrations tools OR software OR app",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.3333333333333333
+      },
+      {
+        "label": "indie hacker freelancer ideas",
+        "ranking_query": "Discussions where freelancers share app ideas they would actually use or pay for",
+        "search_query": "freelancers \"built an app\" OR \"app idea\" OR \"would pay for app\"",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.2962962962962963
+      }
+    ]
+  },
+  "range_from": "2026-08-29",
+  "range_to": "2026-09-28",
+  "ranked_candidates": [],
+  "topic": "freelancers \"I wish there was an app\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}
