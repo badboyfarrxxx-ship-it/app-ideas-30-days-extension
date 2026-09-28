@@ -1,0 +1,616 @@
+{
+  "artifacts": {
+    "grounding": [
+      {
+        "label": "brave",
+        "resultCount": 2,
+        "webSearchQueries": [
+          "hobby app \"i wish there was\""
+        ]
+      }
+    ],
+    "plan_source": "deterministic",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "hobby app \"I wish there was\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/issues/7"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/issues/7"
+      ],
+      "score": 13.869180327868847,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Seed audit \u2014 2026-09 \u00b7 Issue #7 \u00b7 badboyfarrxxx-ship-it/app-ideas-30-days-extension"
+    },
+    {
+      "candidate_ids": [
+        "https://play.google.com/store/apps/details?id=com.hobbystudio.app&hl=pl"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://play.google.com/store/apps/details?id=com.hobbystudio.app&hl=pl"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Hobby Studio: Track & Level Up \u2013 Aplikacje w Google Play"
+    },
+    {
+      "candidate_ids": [
+        "https://vercel.com/docs/plans/hobby"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://vercel.com/docs/plans/hobby"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Vercel Hobby Plan"
+    },
+    {
+      "candidate_ids": [
+        "https://hobbylobby.com"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://hobbylobby.com"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Hobby Lobby Arts & Crafts Store"
+    },
+    {
+      "candidate_ids": [
+        "https://clickthecity.com/tech/article/101931/new-hobby-ios-android-apps"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://clickthecity.com/tech/article/101931/new-hobby-ios-android-apps"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Pick Up a New Hobby with These 10 iOS & Android Apps"
+    },
+    {
+      "candidate_ids": [
+        "https://nerdculture.com/hobby-apps"
+      ],
+      "cluster_id": "cluster-6",
+      "representative_ids": [
+        "https://nerdculture.com/hobby-apps"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Best Hobby Apps in 2026: 5 Community Apps Compared"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-28T20:15:05.992765+00:00",
+  "items_by_source": {
+    "grounding": [
+      {
+        "body": "Seed audit \u2014 2026-09 \u00b7 Issue #7 \u00b7 badboyfarrxxx-ship-it/app-ideas-30-days-extension\nfreelancers &quot;I wish there was an app&quot; \u2014 0 clusters across 1 batches \u00b7 hairstylists &quot;any good app for&quot; \u2014 0 clusters across 1 batches \u00b7 hobby app &quot;I wish there was&quot; \u2014 0 clusters across 3 batches",
+        "container": "github.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 95,
+        "item_id": "WB1",
+        "local_rank_score": 0.5365,
+        "local_relevance": 0.46,
+        "metadata": {},
+        "published_at": "2026-09-26",
+        "relevance_hint": 0.8,
+        "snippet": "freelancers &quot;I wish there was an app&quot; \u2014 0 clusters across 1 batches \u00b7 hairstylists &quot;any good app for&quot; \u2014 0 clusters across 1 batches \u00b7 hobby app &quot;I wish there was&quot; \u2014 0 clusters across 3 batches",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Seed audit \u2014 2026-09 \u00b7 Issue #7 \u00b7 badboyfarrxxx-ship-it/app-ideas-30-days-extension",
+        "url": "https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/issues/7",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Hobby Studio: Track & Level Up \u2013 Aplikacje w Google Play\nZmie\u0144 swoje hobby w satysfakcjonuj\u0105c\u0105 podr\u00f3\u017c. <strong>Hobby Studio</strong> to kompleksowy rejestrator hobby, kt\u00f3ry pomo\u017ce Ci wyrobi\u0107 nawyki systematycznej praktyki, wizualizowa\u0107 post\u0119py i \u015bwi\u0119towa\u0107 ka\u017cdy kamie\u0144 milowy. NIEZALE\u017bNIE OD TEGO, CZY GRASZ NA GITARCE, MALUJESZ, BIEGASZ, PROGRAMUJESZ, ...",
+        "container": "play.google.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 76,
+        "item_id": "WB1",
+        "local_rank_score": 0.242,
+        "local_relevance": 0.08,
+        "metadata": {},
+        "published_at": "2026-09-16",
+        "relevance_hint": 0.8,
+        "snippet": "Zmie\u0144 swoje hobby w satysfakcjonuj\u0105c\u0105 podr\u00f3\u017c. <strong>Hobby Studio</strong> to kompleksowy rejestrator hobby, kt\u00f3ry pomo\u017ce Ci wyrobi\u0107 nawyki systematycznej praktyki, wizualizowa\u0107 post\u0119py i \u015bwi\u0119towa\u0107 ka\u017cdy kamie\u0144 milowy. NIEZALE\u017bNIE OD TEGO, CZY GRASZ NA GITARCE, MALUJESZ, BIEGASZ, PROGRAMUJESZ, ...",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Hobby Studio: Track & Level Up \u2013 Aplikacje w Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.hobbystudio.app&hl=pl",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Vercel Hobby Plan\nThe Hobby plan is free and aimed at developers with personal projects, and small-scale applications.",
+        "container": "vercel.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 71,
+        "item_id": "WB5",
+        "local_rank_score": 0.22949999999999998,
+        "local_relevance": 0.08,
+        "metadata": {},
+        "published_at": "2026-09-14",
+        "relevance_hint": 0.8,
+        "snippet": "The Hobby plan is free and aimed at developers with personal projects, and small-scale applications.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Vercel Hobby Plan",
+        "url": "https://vercel.com/docs/plans/hobby",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Hobby Lobby Arts & Crafts Store\nHobby Lobby arts and crafts stores offer the best in project, party and home supplies. Visit us in person or online for a wide selection of products!",
+        "container": "www.hobbylobby.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 61,
+        "item_id": "WB4",
+        "local_rank_score": 0.20450000000000002,
+        "local_relevance": 0.08,
+        "metadata": {},
+        "published_at": "2026-09-09",
+        "relevance_hint": 0.8,
+        "snippet": "Hobby Lobby arts and crafts stores offer the best in project, party and home supplies. Visit us in person or online for a wide selection of products!",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Hobby Lobby Arts & Crafts Store",
+        "url": "https://www.hobbylobby.com/",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Pick Up a New Hobby with These 10 iOS & Android Apps\nRead the latest news, reviews, and insights on ClickTheCity - Your Urban Discovery Platform.",
+        "container": "www.clickthecity.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 53,
+        "item_id": "WB3",
+        "local_rank_score": 0.1845,
+        "local_relevance": 0.08,
+        "metadata": {},
+        "published_at": "2026-09-05",
+        "relevance_hint": 0.8,
+        "snippet": "Read the latest news, reviews, and insights on ClickTheCity - Your Urban Discovery Platform.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Pick Up a New Hobby with These 10 iOS & Android Apps",
+        "url": "https://www.clickthecity.com/tech/article/101931/new-hobby-ios-android-apps",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Best Hobby Apps in 2026: 5 Community Apps Compared\nThese hobby apps are not ranked from best to worst but rather by how well they are designed to fit your needs. Quick takeaways: HobbyTwin offers a solid combination of hobby communities and friend finding. Hobbee offers hobby discovery, community, and some partner-finding capabilities. HobbyMate leans hard toward real-world communities, events, and workshops. Hobbyverse is strongest as a gamified multi-hobby tracker.",
+        "container": "nerdculture.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 45,
+        "item_id": "WB2",
+        "local_rank_score": 0.1645,
+        "local_relevance": 0.08,
+        "metadata": {},
+        "published_at": "2026-09-01",
+        "relevance_hint": 0.8,
+        "snippet": "These hobby apps are not ranked from best to worst but rather by how well they are designed to fit your needs. Quick takeaways: HobbyTwin offers a solid combination of hobby communities and friend finding. Hobbee offers hobby discovery, community, and some partner-finding capabilities. HobbyMate leans hard toward real-world communities, events, and workshops. Hobbyverse is strongest as a gamified multi-hobby tracker.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Best Hobby Apps in 2026: 5 Community Apps Compared",
+        "url": "https://nerdculture.com/hobby-apps/",
+        "why_relevant": "Brave web search"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "evergreen_ok",
+    "intent": "concept",
+    "notes": [
+      "fallback-plan (LLM error: HTTPError)"
+    ],
+    "raw_topic": "hobby app \"I wish there was\"",
+    "source_weights": {
+      "grounding": 0.5,
+      "perplexity": 0.5
+    },
+    "subqueries": [
+      {
+        "label": "primary",
+        "ranking_query": "What recent evidence from the last 30 days is most relevant to hobby app \"I wish there was\"?",
+        "search_query": "hobby app \"i wish there was\"",
+        "sources": [
+          "grounding",
+          "perplexity"
+        ],
+        "weight": 1.0
+      }
+    ]
+  },
+  "range_from": "2026-08-29",
+  "range_to": "2026-09-28",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/issues/7",
+      "cluster_id": "cluster-1",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 13.869180327868847,
+      "freshness": 95,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "WB1",
+      "local_relevance": 0.46,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB1",
+            "native_rank": 1,
+            "source": "grounding",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:grounding": 1
+      },
+      "rerank_score": 32.199999999999996,
+      "rrf_score": 0.00819672131147541,
+      "snippet": "freelancers &quot;I wish there was an app&quot; \u2014 0 clusters across 1 batches \u00b7 hairstylists &quot;any good app for&quot; \u2014 0 clusters across 1 batches \u00b7 hobby app &quot;I wish there was&quot; \u2014 0 clusters across 3 batches",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Seed audit \u2014 2026-09 \u00b7 Issue #7 \u00b7 badboyfarrxxx-ship-it/app-ideas-30-days-extension\nfreelancers &quot;I wish there was an app&quot; \u2014 0 clusters across 1 batches \u00b7 hairstylists &quot;any good app for&quot; \u2014 0 clusters across 1 batches \u00b7 hobby app &quot;I wish there was&quot; \u2014 0 clusters across 3 batches",
+          "container": "github.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 95,
+          "item_id": "WB1",
+          "local_rank_score": 0.5365,
+          "local_relevance": 0.46,
+          "metadata": {},
+          "published_at": "2026-09-26",
+          "relevance_hint": 0.8,
+          "snippet": "freelancers &quot;I wish there was an app&quot; \u2014 0 clusters across 1 batches \u00b7 hairstylists &quot;any good app for&quot; \u2014 0 clusters across 1 batches \u00b7 hobby app &quot;I wish there was&quot; \u2014 0 clusters across 3 batches",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Seed audit \u2014 2026-09 \u00b7 Issue #7 \u00b7 badboyfarrxxx-ship-it/app-ideas-30-days-extension",
+          "url": "https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/issues/7",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Seed audit \u2014 2026-09 \u00b7 Issue #7 \u00b7 badboyfarrxxx-ship-it/app-ideas-30-days-extension",
+      "url": "https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/issues/7"
+    },
+    {
+      "candidate_id": "https://play.google.com/store/apps/details?id=com.hobbystudio.app&hl=pl",
+      "cluster_id": "cluster-2",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 76,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "WB1",
+      "local_relevance": 0.08,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB1",
+            "native_rank": 2,
+            "source": "grounding",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:grounding": 2
+      },
+      "rerank_score": 1.8000000000000007,
+      "rrf_score": 0.008064516129032258,
+      "snippet": "Zmie\u0144 swoje hobby w satysfakcjonuj\u0105c\u0105 podr\u00f3\u017c. <strong>Hobby Studio</strong> to kompleksowy rejestrator hobby, kt\u00f3ry pomo\u017ce Ci wyrobi\u0107 nawyki systematycznej praktyki, wizualizowa\u0107 post\u0119py i \u015bwi\u0119towa\u0107 ka\u017cdy kamie\u0144 milowy. NIEZALE\u017bNIE OD TEGO, CZY GRASZ NA GITARCE, MALUJESZ, BIEGASZ, PROGRAMUJESZ, ...",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Hobby Studio: Track & Level Up \u2013 Aplikacje w Google Play\nZmie\u0144 swoje hobby w satysfakcjonuj\u0105c\u0105 podr\u00f3\u017c. <strong>Hobby Studio</strong> to kompleksowy rejestrator hobby, kt\u00f3ry pomo\u017ce Ci wyrobi\u0107 nawyki systematycznej praktyki, wizualizowa\u0107 post\u0119py i \u015bwi\u0119towa\u0107 ka\u017cdy kamie\u0144 milowy. NIEZALE\u017bNIE OD TEGO, CZY GRASZ NA GITARCE, MALUJESZ, BIEGASZ, PROGRAMUJESZ, ...",
+          "container": "play.google.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 76,
+          "item_id": "WB1",
+          "local_rank_score": 0.242,
+          "local_relevance": 0.08,
+          "metadata": {},
+          "published_at": "2026-09-16",
+          "relevance_hint": 0.8,
+          "snippet": "Zmie\u0144 swoje hobby w satysfakcjonuj\u0105c\u0105 podr\u00f3\u017c. <strong>Hobby Studio</strong> to kompleksowy rejestrator hobby, kt\u00f3ry pomo\u017ce Ci wyrobi\u0107 nawyki systematycznej praktyki, wizualizowa\u0107 post\u0119py i \u015bwi\u0119towa\u0107 ka\u017cdy kamie\u0144 milowy. NIEZALE\u017bNIE OD TEGO, CZY GRASZ NA GITARCE, MALUJESZ, BIEGASZ, PROGRAMUJESZ, ...",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Hobby Studio: Track & Level Up \u2013 Aplikacje w Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.hobbystudio.app&hl=pl",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Hobby Studio: Track & Level Up \u2013 Aplikacje w Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.hobbystudio.app&hl=pl"
+    },
+    {
+      "candidate_id": "https://vercel.com/docs/plans/hobby",
+      "cluster_id": "cluster-3",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 71,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 12.299999999999999,
+      "item_id": "WB5",
+      "local_relevance": 0.08,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB5",
+            "native_rank": 3,
+            "source": "grounding",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:grounding": 3
+      },
+      "rerank_score": 0.8000000000000007,
+      "rrf_score": 0.007936507936507936,
+      "snippet": "The Hobby plan is free and aimed at developers with personal projects, and small-scale applications.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Vercel Hobby Plan\nThe Hobby plan is free and aimed at developers with personal projects, and small-scale applications.",
+          "container": "vercel.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 71,
+          "item_id": "WB5",
+          "local_rank_score": 0.22949999999999998,
+          "local_relevance": 0.08,
+          "metadata": {},
+          "published_at": "2026-09-14",
+          "relevance_hint": 0.8,
+          "snippet": "The Hobby plan is free and aimed at developers with personal projects, and small-scale applications.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Vercel Hobby Plan",
+          "url": "https://vercel.com/docs/plans/hobby",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Vercel Hobby Plan",
+      "url": "https://vercel.com/docs/plans/hobby"
+    },
+    {
+      "candidate_id": "https://hobbylobby.com",
+      "cluster_id": "cluster-4",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 61,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 2.85,
+      "item_id": "WB4",
+      "local_relevance": 0.08,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB4",
+            "native_rank": 4,
+            "source": "grounding",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:grounding": 4
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.0078125,
+      "snippet": "Hobby Lobby arts and crafts stores offer the best in project, party and home supplies. Visit us in person or online for a wide selection of products!",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Hobby Lobby Arts & Crafts Store\nHobby Lobby arts and crafts stores offer the best in project, party and home supplies. Visit us in person or online for a wide selection of products!",
+          "container": "www.hobbylobby.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 61,
+          "item_id": "WB4",
+          "local_rank_score": 0.20450000000000002,
+          "local_relevance": 0.08,
+          "metadata": {},
+          "published_at": "2026-09-09",
+          "relevance_hint": 0.8,
+          "snippet": "Hobby Lobby arts and crafts stores offer the best in project, party and home supplies. Visit us in person or online for a wide selection of products!",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Hobby Lobby Arts & Crafts Store",
+          "url": "https://www.hobbylobby.com/",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Hobby Lobby Arts & Crafts Store",
+      "url": "https://www.hobbylobby.com/"
+    },
+    {
+      "candidate_id": "https://clickthecity.com/tech/article/101931/new-hobby-ios-android-apps",
+      "cluster_id": "cluster-5",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 53,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 8.25,
+      "item_id": "WB3",
+      "local_relevance": 0.08,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB3",
+            "native_rank": 5,
+            "source": "grounding",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:grounding": 5
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.007692307692307693,
+      "snippet": "Read the latest news, reviews, and insights on ClickTheCity - Your Urban Discovery Platform.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Pick Up a New Hobby with These 10 iOS & Android Apps\nRead the latest news, reviews, and insights on ClickTheCity - Your Urban Discovery Platform.",
+          "container": "www.clickthecity.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 53,
+          "item_id": "WB3",
+          "local_rank_score": 0.1845,
+          "local_relevance": 0.08,
+          "metadata": {},
+          "published_at": "2026-09-05",
+          "relevance_hint": 0.8,
+          "snippet": "Read the latest news, reviews, and insights on ClickTheCity - Your Urban Discovery Platform.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Pick Up a New Hobby with These 10 iOS & Android Apps",
+          "url": "https://www.clickthecity.com/tech/article/101931/new-hobby-ios-android-apps",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Pick Up a New Hobby with These 10 iOS & Android Apps",
+      "url": "https://www.clickthecity.com/tech/article/101931/new-hobby-ios-android-apps"
+    },
+    {
+      "candidate_id": "https://nerdculture.com/hobby-apps",
+      "cluster_id": "cluster-6",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 45,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "WB2",
+      "local_relevance": 0.08,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB2",
+            "native_rank": 6,
+            "source": "grounding",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:grounding": 6
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.007575757575757576,
+      "snippet": "These hobby apps are not ranked from best to worst but rather by how well they are designed to fit your needs. Quick takeaways: HobbyTwin offers a solid combination of hobby communities and friend finding. Hobbee offers hobby discovery, community, and some partner-finding capabilities. HobbyMate leans hard toward real-world communities, events, and workshops. Hobbyverse is strongest as a gamified multi-hobby tracker.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Best Hobby Apps in 2026: 5 Community Apps Compared\nThese hobby apps are not ranked from best to worst but rather by how well they are designed to fit your needs. Quick takeaways: HobbyTwin offers a solid combination of hobby communities and friend finding. Hobbee offers hobby discovery, community, and some partner-finding capabilities. HobbyMate leans hard toward real-world communities, events, and workshops. Hobbyverse is strongest as a gamified multi-hobby tracker.",
+          "container": "nerdculture.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 45,
+          "item_id": "WB2",
+          "local_rank_score": 0.1645,
+          "local_relevance": 0.08,
+          "metadata": {},
+          "published_at": "2026-09-01",
+          "relevance_hint": 0.8,
+          "snippet": "These hobby apps are not ranked from best to worst but rather by how well they are designed to fit your needs. Quick takeaways: HobbyTwin offers a solid combination of hobby communities and friend finding. Hobbee offers hobby discovery, community, and some partner-finding capabilities. HobbyMate leans hard toward real-world communities, events, and workshops. Hobbyverse is strongest as a gamified multi-hobby tracker.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Best Hobby Apps in 2026: 5 Community Apps Compared",
+          "url": "https://nerdculture.com/hobby-apps/",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Best Hobby Apps in 2026: 5 Community Apps Compared",
+      "url": "https://nerdculture.com/hobby-apps/"
+    }
+  ],
+  "topic": "hobby app \"I wish there was\"",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}

@@ -1,0 +1,525 @@
+{
+  "artifacts": {
+    "grounding": [
+      {
+        "label": "brave",
+        "resultCount": 0,
+        "webSearchQueries": [
+          "side hustle \"is there app\""
+        ]
+      }
+    ],
+    "plan_source": "deterministic",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "side hustle \"is there an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://lilachbullock.com/what-does-a-side-hustle-mean-how-to-start-one"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://lilachbullock.com/what-does-a-side-hustle-mean-how-to-start-one"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "What Does a Side Hustle Mean and How Do You Start One?"
+    },
+    {
+      "candidate_ids": [
+        "https://merriam-webster.com/dictionary/side%20hustle"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://merriam-webster.com/dictionary/side%20hustle"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "SIDE HUSTLE Definition & Meaning - Merriam-Webster"
+    },
+    {
+      "candidate_ids": [
+        "https://en.wikipedia.org/wiki/side_job"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://en.wikipedia.org/wiki/side_job"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Side job - Wikipedia"
+    },
+    {
+      "candidate_ids": [
+        "https://acorns.com/learn/earning/side-hustles"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://acorns.com/learn/earning/side-hustles"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "25 Best Side Hustle Ideas to Make Extra Money in 2026 | Acorns"
+    },
+    {
+      "candidate_ids": [
+        "https://lilachbullock.com/what-is-the-meaning-of-a-side-hustle"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://lilachbullock.com/what-is-the-meaning-of-a-side-hustle"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "What Is the Meaning of a Side Hustle, Really? - Lilach Bullock | AI Implementation Consultant"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-28T20:15:04.257893+00:00",
+  "items_by_source": {
+    "grounding": [
+      {
+        "body": "What Does a Side Hustle Mean and How Do You Start One?\nThe short version: a side hustle is <strong>any activity that brings in money outside your main job or income</strong>, run in the hours you\u2019d otherwise spend watching telly or scrolling your phone.",
+        "container": "www.lilachbullock.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 67,
+        "item_id": "WB4",
+        "local_rank_score": 0.2845,
+        "local_relevance": 0.18,
+        "metadata": {},
+        "published_at": "2026-09-12",
+        "relevance_hint": 0.8,
+        "snippet": "The short version: a side hustle is <strong>any activity that brings in money outside your main job or income</strong>, run in the hours you\u2019d otherwise spend watching telly or scrolling your phone.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "What Does a Side Hustle Mean and How Do You Start One?",
+        "url": "https://www.lilachbullock.com/what-does-a-side-hustle-mean-how-to-start-one/",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "SIDE HUSTLE Definition & Meaning - Merriam-Webster\nThe meaning of SIDE HUSTLE is <strong>work performed for income supplementary to one&#x27;s primary job</strong>. How to use side hustle in a sentence.",
+        "container": "www.merriam-webster.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 65,
+        "item_id": "WB1",
+        "local_rank_score": 0.27949999999999997,
+        "local_relevance": 0.18,
+        "metadata": {},
+        "published_at": "2026-09-11",
+        "relevance_hint": 0.8,
+        "snippet": "The meaning of SIDE HUSTLE is <strong>work performed for income supplementary to one&#x27;s primary job</strong>. How to use side hustle in a sentence.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "SIDE HUSTLE Definition & Meaning - Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/side%20hustle",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Side job - Wikipedia\nA <strong>side</strong> job, also informally called a <strong>side</strong> <strong>hustle</strong> (<strong>or</strong> <strong>side</strong> gig or <strong>side</strong> project), is an extra job that a person takes in addition to their primary job in order to supplement their income or simply to turn their hobby into a micro-business. <strong>Side</strong> jobs may be done out of necessity when a person&#x27;s ...",
+        "container": "en.wikipedia.org",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 61,
+        "item_id": "WB2",
+        "local_rank_score": 0.26949999999999996,
+        "local_relevance": 0.18,
+        "metadata": {},
+        "published_at": "2026-09-09",
+        "relevance_hint": 0.8,
+        "snippet": "A <strong>side</strong> job, also informally called a <strong>side</strong> <strong>hustle</strong> (<strong>or</strong> <strong>side</strong> gig or <strong>side</strong> project), is an extra job that a person takes in addition to their primary job in order to supplement their income or simply to turn their hobby into a micro-business. <strong>Side</strong> jobs may be done out of necessity when a person&#x27;s ...",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Side job - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Side_job",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "25 Best Side Hustle Ideas to Make Extra Money in 2026 | Acorns\nA side hustle is <strong>a way to earn extra income outside of your full-time job</strong> \u2014 gig work, freelancing, selling products, content creation, or contract work. In 2026, about 27% of U.S. adults have one, with Gen Z leading at 34% (Bankrate, 2025).",
+        "container": "www.acorns.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 61,
+        "item_id": "WB3",
+        "local_rank_score": 0.26949999999999996,
+        "local_relevance": 0.18,
+        "metadata": {},
+        "published_at": "2026-09-09",
+        "relevance_hint": 0.8,
+        "snippet": "A side hustle is <strong>a way to earn extra income outside of your full-time job</strong> \u2014 gig work, freelancing, selling products, content creation, or contract work. In 2026, about 27% of U.S. adults have one, with Gen Z leading at 34% (Bankrate, 2025).",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "25 Best Side Hustle Ideas to Make Extra Money in 2026 | Acorns",
+        "url": "https://www.acorns.com/learn/earning/side-hustles/",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "What Is the Meaning of a Side Hustle, Really? - Lilach Bullock | AI Implementation Consultant\nIn plain terms: a side hustle is <strong>paid work you do outside your main job or business, on your own terms, to earn extra money, test an idea, or build something that might one day replace your income</strong>.",
+        "container": "www.lilachbullock.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 47,
+        "item_id": "WB5",
+        "local_rank_score": 0.2345,
+        "local_relevance": 0.18,
+        "metadata": {},
+        "published_at": "2026-09-02",
+        "relevance_hint": 0.8,
+        "snippet": "In plain terms: a side hustle is <strong>paid work you do outside your main job or business, on your own terms, to earn extra money, test an idea, or build something that might one day replace your income</strong>.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "What Is the Meaning of a Side Hustle, Really? - Lilach Bullock | AI Implementation Consultant",
+        "url": "https://www.lilachbullock.com/what-is-the-meaning-of-a-side-hustle/",
+        "why_relevant": "Brave web search"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "evergreen_ok",
+    "intent": "concept",
+    "notes": [
+      "fallback-plan (LLM error: HTTPError)"
+    ],
+    "raw_topic": "side hustle \"is there an app\"",
+    "source_weights": {
+      "grounding": 0.5,
+      "perplexity": 0.5
+    },
+    "subqueries": [
+      {
+        "label": "primary",
+        "ranking_query": "What recent evidence from the last 30 days is most relevant to side hustle \"is there an app\", especially about side hustle \"is there app\"?",
+        "search_query": "side hustle \"is there app\"",
+        "sources": [
+          "grounding",
+          "perplexity"
+        ],
+        "weight": 1.0
+      }
+    ]
+  },
+  "range_from": "2026-08-29",
+  "range_to": "2026-09-28",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://lilachbullock.com/what-does-a-side-hustle-mean-how-to-start-one",
+      "cluster_id": "cluster-1",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 67,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "WB4",
+      "local_relevance": 0.18,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB4",
+            "native_rank": 1,
+            "source": "grounding",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:grounding": 1
+      },
+      "rerank_score": 7.0,
+      "rrf_score": 0.00819672131147541,
+      "snippet": "The short version: a side hustle is <strong>any activity that brings in money outside your main job or income</strong>, run in the hours you\u2019d otherwise spend watching telly or scrolling your phone.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "What Does a Side Hustle Mean and How Do You Start One?\nThe short version: a side hustle is <strong>any activity that brings in money outside your main job or income</strong>, run in the hours you\u2019d otherwise spend watching telly or scrolling your phone.",
+          "container": "www.lilachbullock.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 67,
+          "item_id": "WB4",
+          "local_rank_score": 0.2845,
+          "local_relevance": 0.18,
+          "metadata": {},
+          "published_at": "2026-09-12",
+          "relevance_hint": 0.8,
+          "snippet": "The short version: a side hustle is <strong>any activity that brings in money outside your main job or income</strong>, run in the hours you\u2019d otherwise spend watching telly or scrolling your phone.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "What Does a Side Hustle Mean and How Do You Start One?",
+          "url": "https://www.lilachbullock.com/what-does-a-side-hustle-mean-how-to-start-one/",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "What Does a Side Hustle Mean and How Do You Start One?",
+      "url": "https://www.lilachbullock.com/what-does-a-side-hustle-mean-how-to-start-one/"
+    },
+    {
+      "candidate_id": "https://merriam-webster.com/dictionary/side%20hustle",
+      "cluster_id": "cluster-2",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 65,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "WB1",
+      "local_relevance": 0.18,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB1",
+            "native_rank": 2,
+            "source": "grounding",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:grounding": 2
+      },
+      "rerank_score": 6.600000000000001,
+      "rrf_score": 0.008064516129032258,
+      "snippet": "The meaning of SIDE HUSTLE is <strong>work performed for income supplementary to one&#x27;s primary job</strong>. How to use side hustle in a sentence.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "SIDE HUSTLE Definition & Meaning - Merriam-Webster\nThe meaning of SIDE HUSTLE is <strong>work performed for income supplementary to one&#x27;s primary job</strong>. How to use side hustle in a sentence.",
+          "container": "www.merriam-webster.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 65,
+          "item_id": "WB1",
+          "local_rank_score": 0.27949999999999997,
+          "local_relevance": 0.18,
+          "metadata": {},
+          "published_at": "2026-09-11",
+          "relevance_hint": 0.8,
+          "snippet": "The meaning of SIDE HUSTLE is <strong>work performed for income supplementary to one&#x27;s primary job</strong>. How to use side hustle in a sentence.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "SIDE HUSTLE Definition & Meaning - Merriam-Webster",
+          "url": "https://www.merriam-webster.com/dictionary/side%20hustle",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "SIDE HUSTLE Definition & Meaning - Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/side%20hustle"
+    },
+    {
+      "candidate_id": "https://en.wikipedia.org/wiki/side_job",
+      "cluster_id": "cluster-3",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 61,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "WB2",
+      "local_relevance": 0.18,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB2",
+            "native_rank": 3,
+            "source": "grounding",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:grounding": 3
+      },
+      "rerank_score": 5.800000000000001,
+      "rrf_score": 0.007936507936507936,
+      "snippet": "A <strong>side</strong> job, also informally called a <strong>side</strong> <strong>hustle</strong> (<strong>or</strong> <strong>side</strong> gig or <strong>side</strong> project), is an extra job that a person takes in addition to their primary job in order to supplement their income or simply to turn their hobby into a micro-business. <strong>Side</strong> jobs may be done out of necessity when a person&#x27;s ...",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Side job - Wikipedia\nA <strong>side</strong> job, also informally called a <strong>side</strong> <strong>hustle</strong> (<strong>or</strong> <strong>side</strong> gig or <strong>side</strong> project), is an extra job that a person takes in addition to their primary job in order to supplement their income or simply to turn their hobby into a micro-business. <strong>Side</strong> jobs may be done out of necessity when a person&#x27;s ...",
+          "container": "en.wikipedia.org",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 61,
+          "item_id": "WB2",
+          "local_rank_score": 0.26949999999999996,
+          "local_relevance": 0.18,
+          "metadata": {},
+          "published_at": "2026-09-09",
+          "relevance_hint": 0.8,
+          "snippet": "A <strong>side</strong> job, also informally called a <strong>side</strong> <strong>hustle</strong> (<strong>or</strong> <strong>side</strong> gig or <strong>side</strong> project), is an extra job that a person takes in addition to their primary job in order to supplement their income or simply to turn their hobby into a micro-business. <strong>Side</strong> jobs may be done out of necessity when a person&#x27;s ...",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Side job - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Side_job",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Side job - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Side_job"
+    },
+    {
+      "candidate_id": "https://acorns.com/learn/earning/side-hustles",
+      "cluster_id": "cluster-4",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 61,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "WB3",
+      "local_relevance": 0.18,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB3",
+            "native_rank": 4,
+            "source": "grounding",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:grounding": 4
+      },
+      "rerank_score": 5.800000000000001,
+      "rrf_score": 0.0078125,
+      "snippet": "A side hustle is <strong>a way to earn extra income outside of your full-time job</strong> \u2014 gig work, freelancing, selling products, content creation, or contract work. In 2026, about 27% of U.S. adults have one, with Gen Z leading at 34% (Bankrate, 2025).",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "25 Best Side Hustle Ideas to Make Extra Money in 2026 | Acorns\nA side hustle is <strong>a way to earn extra income outside of your full-time job</strong> \u2014 gig work, freelancing, selling products, content creation, or contract work. In 2026, about 27% of U.S. adults have one, with Gen Z leading at 34% (Bankrate, 2025).",
+          "container": "www.acorns.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 61,
+          "item_id": "WB3",
+          "local_rank_score": 0.26949999999999996,
+          "local_relevance": 0.18,
+          "metadata": {},
+          "published_at": "2026-09-09",
+          "relevance_hint": 0.8,
+          "snippet": "A side hustle is <strong>a way to earn extra income outside of your full-time job</strong> \u2014 gig work, freelancing, selling products, content creation, or contract work. In 2026, about 27% of U.S. adults have one, with Gen Z leading at 34% (Bankrate, 2025).",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "25 Best Side Hustle Ideas to Make Extra Money in 2026 | Acorns",
+          "url": "https://www.acorns.com/learn/earning/side-hustles/",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "25 Best Side Hustle Ideas to Make Extra Money in 2026 | Acorns",
+      "url": "https://www.acorns.com/learn/earning/side-hustles/"
+    },
+    {
+      "candidate_id": "https://lilachbullock.com/what-is-the-meaning-of-a-side-hustle",
+      "cluster_id": "cluster-5",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 47,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "WB5",
+      "local_relevance": 0.18,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB5",
+            "native_rank": 5,
+            "source": "grounding",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:grounding": 5
+      },
+      "rerank_score": 3.0,
+      "rrf_score": 0.007692307692307693,
+      "snippet": "In plain terms: a side hustle is <strong>paid work you do outside your main job or business, on your own terms, to earn extra money, test an idea, or build something that might one day replace your income</strong>.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "What Is the Meaning of a Side Hustle, Really? - Lilach Bullock | AI Implementation Consultant\nIn plain terms: a side hustle is <strong>paid work you do outside your main job or business, on your own terms, to earn extra money, test an idea, or build something that might one day replace your income</strong>.",
+          "container": "www.lilachbullock.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 47,
+          "item_id": "WB5",
+          "local_rank_score": 0.2345,
+          "local_relevance": 0.18,
+          "metadata": {},
+          "published_at": "2026-09-02",
+          "relevance_hint": 0.8,
+          "snippet": "In plain terms: a side hustle is <strong>paid work you do outside your main job or business, on your own terms, to earn extra money, test an idea, or build something that might one day replace your income</strong>.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "What Is the Meaning of a Side Hustle, Really? - Lilach Bullock | AI Implementation Consultant",
+          "url": "https://www.lilachbullock.com/what-is-the-meaning-of-a-side-hustle/",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "What Is the Meaning of a Side Hustle, Really? - Lilach Bullock | AI Implementation Consultant",
+      "url": "https://www.lilachbullock.com/what-is-the-meaning-of-a-side-hustle/"
+    }
+  ],
+  "topic": "side hustle \"is there an app\"",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}

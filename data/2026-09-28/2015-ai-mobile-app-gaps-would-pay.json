@@ -1,0 +1,344 @@
+{
+  "artifacts": {
+    "grounding": [
+      {
+        "label": "brave",
+        "resultCount": 5,
+        "webSearchQueries": [
+          "ai mobile app gaps \"would pay\""
+        ]
+      }
+    ],
+    "plan_source": "deterministic",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "AI mobile app gaps \"would pay\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/issues/8"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/issues/8"
+      ],
+      "score": 19.329180327868855,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Seed audit \u2014 2026-09 \u00b7 Issue #8 \u00b7 badboyfarrxxx-ship-it/app-ideas-30-days-extension"
+    },
+    {
+      "candidate_ids": [
+        "https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/issues/3"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/issues/3"
+      ],
+      "score": 18.416129032258063,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Seed audit \u2014 2026-09 \u00b7 Issue #3 \u00b7 badboyfarrxxx-ship-it/app-ideas-30-days-extension"
+    },
+    {
+      "candidate_ids": [
+        "https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/issues/1"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/issues/1"
+      ],
+      "score": 17.94412698412698,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Seed audit \u2014 2026-09 \u00b7 Issue #1 \u00b7 badboyfarrxxx-ship-it/app-ideas-30-days-extension"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-28T20:15:02.432945+00:00",
+  "items_by_source": {
+    "grounding": [
+      {
+        "body": "Seed audit \u2014 2026-09 \u00b7 Issue #8 \u00b7 badboyfarrxxx-ship-it/app-ideas-30-days-extension\ntherapists &quot;I would pay for an app&quot; \u2014 0 clusters across 1 batches \u00b7 truckers &quot;is there an app that&quot; \u2014 0 clusters across 1 batches \u00b7 AI mobile app gaps &quot;would pay&quot; \u2014 <strong>13 clusters</strong>, top score 0.00 \u00b7 site:producthunt.com mobile app comments \u2014 1 clusters, top score 0.00 \u00b7",
+        "container": "github.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 95,
+        "item_id": "WB2",
+        "local_rank_score": 0.621,
+        "local_relevance": 0.59,
+        "metadata": {},
+        "published_at": "2026-09-26",
+        "relevance_hint": 0.8,
+        "snippet": "therapists &quot;I would pay for an app&quot; \u2014 0 clusters across 1 batches \u00b7 truckers &quot;is there an app that&quot; \u2014 0 clusters across 1 batches \u00b7 AI mobile app gaps &quot;would pay&quot; \u2014 <strong>13 clusters</strong>, top score 0.00 \u00b7 site:producthunt.com mobile app comments \u2014 1 clusters, top score 0.00 \u00b7",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Seed audit \u2014 2026-09 \u00b7 Issue #8 \u00b7 badboyfarrxxx-ship-it/app-ideas-30-days-extension",
+        "url": "https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/issues/8",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Seed audit \u2014 2026-09 \u00b7 Issue #3 \u00b7 badboyfarrxxx-ship-it/app-ideas-30-days-extension\ntherapists &quot;I would pay for an ... batches \u00b7 (none) &quot;I wish there was an app for&quot; \u2014 15/32 clusters (47%) AI mobile app gaps &quot;would pay&quot; \u2014 <strong>13/32 clusters (41%)</strong> productivity mobile app &quot;worth paying&quot; \u2014 3 clusters, top score 0.00 \u00b7...",
+        "container": "github.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 91,
+        "item_id": "WB1",
+        "local_rank_score": 0.611,
+        "local_relevance": 0.59,
+        "metadata": {},
+        "published_at": "2026-09-24",
+        "relevance_hint": 0.8,
+        "snippet": "therapists &quot;I would pay for an ... batches \u00b7 (none) &quot;I wish there was an app for&quot; \u2014 15/32 clusters (47%) AI mobile app gaps &quot;would pay&quot; \u2014 <strong>13/32 clusters (41%)</strong> productivity mobile app &quot;worth paying&quot; \u2014 3 clusters, top score 0.00 \u00b7...",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Seed audit \u2014 2026-09 \u00b7 Issue #3 \u00b7 badboyfarrxxx-ship-it/app-ideas-30-days-extension",
+        "url": "https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/issues/3",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Seed audit \u2014 2026-09 \u00b7 Issue #1 \u00b7 badboyfarrxxx-ship-it/app-ideas-30-days-extension\n&quot;worth paying for&quot; app \u2014 <strong>0 clusters across 0 batches</strong> \u00b7 AI mobile app gaps &quot;would pay&quot; \u2014 <strong>0 clusters across 0 batches</strong> \u00b7 creators &quot;I would pay for&quot; \u2014 <strong>0 clusters across 0 batches</strong> \u00b7 fitness &quot;frustrated with&quot; app \u2014 <strong>0 clusters across 0 batches</strong> \u00b7 freelancers &quot;I wish there was an app&quot; \u2014 ...",
+        "container": "github.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 89,
+        "item_id": "WB3",
+        "local_rank_score": 0.606,
+        "local_relevance": 0.59,
+        "metadata": {},
+        "published_at": "2026-09-23",
+        "relevance_hint": 0.8,
+        "snippet": "&quot;worth paying for&quot; app \u2014 <strong>0 clusters across 0 batches</strong> \u00b7 AI mobile app gaps &quot;would pay&quot; \u2014 <strong>0 clusters across 0 batches</strong> \u00b7 creators &quot;I would pay for&quot; \u2014 <strong>0 clusters across 0 batches</strong> \u00b7 fitness &quot;frustrated with&quot; app \u2014 <strong>0 clusters across 0 batches</strong> \u00b7 freelancers &quot;I wish there was an app&quot; \u2014 ...",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Seed audit \u2014 2026-09 \u00b7 Issue #1 \u00b7 badboyfarrxxx-ship-it/app-ideas-30-days-extension",
+        "url": "https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/issues/1",
+        "why_relevant": "Brave web search"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "evergreen_ok",
+    "intent": "concept",
+    "notes": [
+      "fallback-plan (LLM error: HTTPError)"
+    ],
+    "raw_topic": "AI mobile app gaps \"would pay\"",
+    "source_weights": {
+      "grounding": 0.5,
+      "perplexity": 0.5
+    },
+    "subqueries": [
+      {
+        "label": "primary",
+        "ranking_query": "What recent evidence from the last 30 days is most relevant to AI mobile app gaps \"would pay\"?",
+        "search_query": "ai mobile app gaps \"would pay\"",
+        "sources": [
+          "grounding",
+          "perplexity"
+        ],
+        "weight": 1.0
+      }
+    ]
+  },
+  "range_from": "2026-08-29",
+  "range_to": "2026-09-28",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/issues/8",
+      "cluster_id": "cluster-1",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 19.329180327868855,
+      "freshness": 95,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "WB2",
+      "local_relevance": 0.59,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB2",
+            "native_rank": 1,
+            "source": "grounding",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:grounding": 1
+      },
+      "rerank_score": 41.3,
+      "rrf_score": 0.00819672131147541,
+      "snippet": "therapists &quot;I would pay for an app&quot; \u2014 0 clusters across 1 batches \u00b7 truckers &quot;is there an app that&quot; \u2014 0 clusters across 1 batches \u00b7 AI mobile app gaps &quot;would pay&quot; \u2014 <strong>13 clusters</strong>, top score 0.00 \u00b7 site:producthunt.com mobile app comments \u2014 1 clusters, top score 0.00 \u00b7",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Seed audit \u2014 2026-09 \u00b7 Issue #8 \u00b7 badboyfarrxxx-ship-it/app-ideas-30-days-extension\ntherapists &quot;I would pay for an app&quot; \u2014 0 clusters across 1 batches \u00b7 truckers &quot;is there an app that&quot; \u2014 0 clusters across 1 batches \u00b7 AI mobile app gaps &quot;would pay&quot; \u2014 <strong>13 clusters</strong>, top score 0.00 \u00b7 site:producthunt.com mobile app comments \u2014 1 clusters, top score 0.00 \u00b7",
+          "container": "github.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 95,
+          "item_id": "WB2",
+          "local_rank_score": 0.621,
+          "local_relevance": 0.59,
+          "metadata": {},
+          "published_at": "2026-09-26",
+          "relevance_hint": 0.8,
+          "snippet": "therapists &quot;I would pay for an app&quot; \u2014 0 clusters across 1 batches \u00b7 truckers &quot;is there an app that&quot; \u2014 0 clusters across 1 batches \u00b7 AI mobile app gaps &quot;would pay&quot; \u2014 <strong>13 clusters</strong>, top score 0.00 \u00b7 site:producthunt.com mobile app comments \u2014 1 clusters, top score 0.00 \u00b7",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Seed audit \u2014 2026-09 \u00b7 Issue #8 \u00b7 badboyfarrxxx-ship-it/app-ideas-30-days-extension",
+          "url": "https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/issues/8",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Seed audit \u2014 2026-09 \u00b7 Issue #8 \u00b7 badboyfarrxxx-ship-it/app-ideas-30-days-extension",
+      "url": "https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/issues/8"
+    },
+    {
+      "candidate_id": "https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/issues/3",
+      "cluster_id": "cluster-2",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 18.416129032258063,
+      "freshness": 91,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "WB1",
+      "local_relevance": 0.59,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB1",
+            "native_rank": 2,
+            "source": "grounding",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:grounding": 2
+      },
+      "rerank_score": 40.5,
+      "rrf_score": 0.008064516129032258,
+      "snippet": "therapists &quot;I would pay for an ... batches \u00b7 (none) &quot;I wish there was an app for&quot; \u2014 15/32 clusters (47%) AI mobile app gaps &quot;would pay&quot; \u2014 <strong>13/32 clusters (41%)</strong> productivity mobile app &quot;worth paying&quot; \u2014 3 clusters, top score 0.00 \u00b7...",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Seed audit \u2014 2026-09 \u00b7 Issue #3 \u00b7 badboyfarrxxx-ship-it/app-ideas-30-days-extension\ntherapists &quot;I would pay for an ... batches \u00b7 (none) &quot;I wish there was an app for&quot; \u2014 15/32 clusters (47%) AI mobile app gaps &quot;would pay&quot; \u2014 <strong>13/32 clusters (41%)</strong> productivity mobile app &quot;worth paying&quot; \u2014 3 clusters, top score 0.00 \u00b7...",
+          "container": "github.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 91,
+          "item_id": "WB1",
+          "local_rank_score": 0.611,
+          "local_relevance": 0.59,
+          "metadata": {},
+          "published_at": "2026-09-24",
+          "relevance_hint": 0.8,
+          "snippet": "therapists &quot;I would pay for an ... batches \u00b7 (none) &quot;I wish there was an app for&quot; \u2014 15/32 clusters (47%) AI mobile app gaps &quot;would pay&quot; \u2014 <strong>13/32 clusters (41%)</strong> productivity mobile app &quot;worth paying&quot; \u2014 3 clusters, top score 0.00 \u00b7...",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Seed audit \u2014 2026-09 \u00b7 Issue #3 \u00b7 badboyfarrxxx-ship-it/app-ideas-30-days-extension",
+          "url": "https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/issues/3",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Seed audit \u2014 2026-09 \u00b7 Issue #3 \u00b7 badboyfarrxxx-ship-it/app-ideas-30-days-extension",
+      "url": "https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/issues/3"
+    },
+    {
+      "candidate_id": "https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/issues/1",
+      "cluster_id": "cluster-3",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 17.94412698412698,
+      "freshness": 89,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "WB3",
+      "local_relevance": 0.59,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB3",
+            "native_rank": 3,
+            "source": "grounding",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:grounding": 3
+      },
+      "rerank_score": 40.099999999999994,
+      "rrf_score": 0.007936507936507936,
+      "snippet": "&quot;worth paying for&quot; app \u2014 <strong>0 clusters across 0 batches</strong> \u00b7 AI mobile app gaps &quot;would pay&quot; \u2014 <strong>0 clusters across 0 batches</strong> \u00b7 creators &quot;I would pay for&quot; \u2014 <strong>0 clusters across 0 batches</strong> \u00b7 fitness &quot;frustrated with&quot; app \u2014 <strong>0 clusters across 0 batches</strong> \u00b7 freelancers &quot;I wish there was an app&quot; \u2014 ...",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Seed audit \u2014 2026-09 \u00b7 Issue #1 \u00b7 badboyfarrxxx-ship-it/app-ideas-30-days-extension\n&quot;worth paying for&quot; app \u2014 <strong>0 clusters across 0 batches</strong> \u00b7 AI mobile app gaps &quot;would pay&quot; \u2014 <strong>0 clusters across 0 batches</strong> \u00b7 creators &quot;I would pay for&quot; \u2014 <strong>0 clusters across 0 batches</strong> \u00b7 fitness &quot;frustrated with&quot; app \u2014 <strong>0 clusters across 0 batches</strong> \u00b7 freelancers &quot;I wish there was an app&quot; \u2014 ...",
+          "container": "github.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 89,
+          "item_id": "WB3",
+          "local_rank_score": 0.606,
+          "local_relevance": 0.59,
+          "metadata": {},
+          "published_at": "2026-09-23",
+          "relevance_hint": 0.8,
+          "snippet": "&quot;worth paying for&quot; app \u2014 <strong>0 clusters across 0 batches</strong> \u00b7 AI mobile app gaps &quot;would pay&quot; \u2014 <strong>0 clusters across 0 batches</strong> \u00b7 creators &quot;I would pay for&quot; \u2014 <strong>0 clusters across 0 batches</strong> \u00b7 fitness &quot;frustrated with&quot; app \u2014 <strong>0 clusters across 0 batches</strong> \u00b7 freelancers &quot;I wish there was an app&quot; \u2014 ...",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Seed audit \u2014 2026-09 \u00b7 Issue #1 \u00b7 badboyfarrxxx-ship-it/app-ideas-30-days-extension",
+          "url": "https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/issues/1",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Seed audit \u2014 2026-09 \u00b7 Issue #1 \u00b7 badboyfarrxxx-ship-it/app-ideas-30-days-extension",
+      "url": "https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/issues/1"
+    }
+  ],
+  "topic": "AI mobile app gaps \"would pay\"",
+  "warnings": [
+    "Evidence is thin for this topic.",
+    "Top evidence is highly concentrated in one source."
+  ]
+}

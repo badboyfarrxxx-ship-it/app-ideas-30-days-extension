@@ -1,0 +1,616 @@
+{
+  "artifacts": {
+    "grounding": [
+      {
+        "label": "brave",
+        "resultCount": 5,
+        "webSearchQueries": [
+          "site:producthunt.com mobile app comments"
+        ]
+      }
+    ],
+    "plan_source": "deterministic",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "site:producthunt.com mobile app comments",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://producthunt.com/categories/platforms"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://producthunt.com/categories/platforms"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Platforms (2026): Compare the Best | Product Hunt"
+    },
+    {
+      "candidate_ids": [
+        "https://producthunt.com/products/capcut/reviews"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://producthunt.com/products/capcut/reviews"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "CapCut Reviews (2026) | Product Hunt"
+    },
+    {
+      "candidate_ids": [
+        "https://producthunt.com/products/chatwoot/reviews"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://producthunt.com/products/chatwoot/reviews"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Chatwoot Reviews (2026) | Product Hunt"
+    },
+    {
+      "candidate_ids": [
+        "https://producthunt.com/categories/travel-apps"
+      ],
+      "cluster_id": "cluster-4",
+      "representative_ids": [
+        "https://producthunt.com/categories/travel-apps"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "The best travel apps in 2026 | Product Hunt"
+    },
+    {
+      "candidate_ids": [
+        "https://producthunt.com/products/wand-5/alternatives"
+      ],
+      "cluster_id": "cluster-5",
+      "representative_ids": [
+        "https://producthunt.com/products/wand-5/alternatives"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Wand Competitors & Alternatives (2026) | Product Hunt"
+    },
+    {
+      "candidate_ids": [
+        "https://producthunt.com/categories/space-design"
+      ],
+      "cluster_id": "cluster-6",
+      "representative_ids": [
+        "https://producthunt.com/categories/space-design"
+      ],
+      "score": 0.0,
+      "sources": [
+        "grounding"
+      ],
+      "title": "Space design apps (2026): Compare the Best | Product Hunt"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-09-28T20:15:01.536990+00:00",
+  "items_by_source": {
+    "grounding": [
+      {
+        "body": "CapCut Reviews (2026) | Product Hunt\nMobile editing apps \u00b7 CapCut is a free all-in-one video editing app that helps you create incredible videos, from ByteDance. \ud83d\udce3Easy to use \ud83d\udce3 High quality \ud83d\udce3 Top Music Hits/Sounding incredible \ud83d\udce3 Stickers and text \ud83d\udce3 Effects \u00b7 Overview \u00b7 Reviews43 \u00b7",
+        "container": "www.producthunt.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 100,
+        "item_id": "WB5",
+        "local_rank_score": 0.3345,
+        "local_relevance": 0.13,
+        "metadata": {},
+        "published_at": "2026-09-28",
+        "relevance_hint": 0.8,
+        "snippet": "Mobile editing apps \u00b7 CapCut is a free all-in-one video editing app that helps you create incredible videos, from ByteDance. \ud83d\udce3Easy to use \ud83d\udce3 High quality \ud83d\udce3 Top Music Hits/Sounding incredible \ud83d\udce3 Stickers and text \ud83d\udce3 Effects \u00b7 Overview \u00b7 Reviews43 \u00b7",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "CapCut Reviews (2026) | Product Hunt",
+        "url": "https://www.producthunt.com/products/capcut/reviews",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Platforms (2026): Compare the Best | Product Hunt\nContext - We&#x27;ve just launched on App Store and are looking to launch on platforms to get initial traction. Edit 1 ( I&#x27;m adding all the suggestions shared in the comments ) 1 - Beta list - https://betalist.com/ 2 - App Sumo - https://appsumo.com/ 3 - Life Timo - https://lifetimo.com/ 4 - Stack Social - https://stacksocial.com/ 5 - Rugless - https://rugless.com/ 6 - Betafy 7 - Betpage.co 8 - Show HN 9 - Submit Juice 10 - IndieHackers 11 - https://getmakerlog.com/ 12 - Kickstarter 13 - startuptabs.com 14 - startupbuffer.com 15 - crunchbase.com 16 - f6s.com 17 - startupproject.org 18 - startupstash.com 19 - startupranking.com 20 - https://www.g2.com/ 21 - https://stackshare.io/ 22 - Slack groups - Growth Marketing Pros, Indie Worldwide, and Growth Hackers Slack 23 - www.startups-list.com 24 - 10words.io 25 - startupresources.io",
+        "container": "www.producthunt.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 85,
+        "item_id": "WB1",
+        "local_rank_score": 0.323,
+        "local_relevance": 0.17,
+        "metadata": {},
+        "published_at": "2026-09-21",
+        "relevance_hint": 0.8,
+        "snippet": "Context - We&#x27;ve just launched on App Store and are looking to launch on platforms to get initial traction. Edit 1 ( I&#x27;m adding all the suggestions shared in the comments ) 1 - Beta list - https://betalist.com/ 2 - App Sumo - https://appsumo.com/ 3 - Life Timo - https://lifetimo.com/ 4 - Stack Social - https://stacksocial.com/ 5 - Rugless - https://rugless.com/ 6 - Betafy 7 - Betpage.co 8 - Show HN 9 - Submit Juice 10 - IndieHackers 11 - https://getmakerlog.com/ 12 - Kickstarter 13 - startuptabs.com 14 - startupbuffer.com 15 - crunchbase.com 16 - f6s.com 17 - startupproject.org 18 - startupstash.com 19 - startupranking.com 20 - https://www.g2.com/ 21 - https://stackshare.io/ 22 - Slack groups - Growth Marketing Pros, Indie...",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Platforms (2026): Compare the Best | Product Hunt",
+        "url": "https://www.producthunt.com/categories/platforms",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Chatwoot Reviews (2026) | Product Hunt\nChatwoot is praised for its open-source nature and effective customer relationship management. Users appreciate its Slack integration, email continuation, and customization options. It&#x27;s seen as a cost-effective alternative to Zendesk and Intercom, with a user-friendly interface and <strong>mobile app</strong>.",
+        "container": "www.producthunt.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 95,
+        "item_id": "WB3",
+        "local_rank_score": 0.322,
+        "local_relevance": 0.13,
+        "metadata": {},
+        "published_at": "2026-09-26",
+        "relevance_hint": 0.8,
+        "snippet": "Chatwoot is praised for its open-source nature and effective customer relationship management. Users appreciate its Slack integration, email continuation, and customization options. It&#x27;s seen as a cost-effective alternative to Zendesk and Intercom, with a user-friendly interface and <strong>mobile app</strong>.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Chatwoot Reviews (2026) | Product Hunt",
+        "url": "https://www.producthunt.com/products/chatwoot/reviews",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "The best travel apps in 2026 | Product Hunt\nFlight booking appsTravel Planning \u00b7 geospatial mappingintegrated bookingai-generated itinerariestravelartificial intelligence \u00b7 Travel PlannerYour Travel Partner \u00b7 4.9 (7 reviews) Travel PlanningNotion Templates \u00b7 <strong>mobile app</strong>interactive mapsglobal nomadtraveltravel planning \u00b7",
+        "container": "www.producthunt.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 79,
+        "item_id": "WB2",
+        "local_rank_score": 0.28200000000000003,
+        "local_relevance": 0.13,
+        "metadata": {},
+        "published_at": "2026-09-18",
+        "relevance_hint": 0.8,
+        "snippet": "Flight booking appsTravel Planning \u00b7 geospatial mappingintegrated bookingai-generated itinerariestravelartificial intelligence \u00b7 Travel PlannerYour Travel Partner \u00b7 4.9 (7 reviews) Travel PlanningNotion Templates \u00b7 <strong>mobile app</strong>interactive mapsglobal nomadtraveltravel planning \u00b7",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "The best travel apps in 2026 | Product Hunt",
+        "url": "https://www.producthunt.com/categories/travel-apps",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Wand Competitors & Alternatives (2026) | Product Hunt\nPhotoleap takes a broader, mobile creator approach than Wand by packaging lots of editing and AI tools into one phone-first app.",
+        "container": "www.producthunt.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 73,
+        "item_id": "WB1",
+        "local_rank_score": 0.267,
+        "local_relevance": 0.13,
+        "metadata": {},
+        "published_at": "2026-09-15",
+        "relevance_hint": 0.8,
+        "snippet": "Photoleap takes a broader, mobile creator approach than Wand by packaging lots of editing and AI tools into one phone-first app.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Wand Competitors & Alternatives (2026) | Product Hunt",
+        "url": "https://www.producthunt.com/products/wand-5/alternatives",
+        "why_relevant": "Brave web search"
+      },
+      {
+        "body": "Space design apps (2026): Compare the Best | Product Hunt\nLiveHome3DPowerful yet intuitive home and interior design app.",
+        "container": "www.producthunt.com",
+        "date_confidence": "high",
+        "engagement": {},
+        "freshness": 58,
+        "item_id": "WB4",
+        "local_rank_score": 0.184,
+        "local_relevance": 0.06,
+        "metadata": {},
+        "published_at": "2026-09-07",
+        "relevance_hint": 0.8,
+        "snippet": "LiveHome3DPowerful yet intuitive home and interior design app.",
+        "source": "grounding",
+        "source_quality": 0.6,
+        "title": "Space design apps (2026): Compare the Best | Product Hunt",
+        "url": "https://www.producthunt.com/categories/space-design",
+        "why_relevant": "Brave web search"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "evergreen_ok",
+    "intent": "concept",
+    "notes": [
+      "fallback-plan (LLM error: HTTPError)"
+    ],
+    "raw_topic": "site:producthunt.com mobile app comments",
+    "source_weights": {
+      "grounding": 0.5,
+      "perplexity": 0.5
+    },
+    "subqueries": [
+      {
+        "label": "primary",
+        "ranking_query": "What recent evidence from the last 30 days is most relevant to site:producthunt.com mobile app comments?",
+        "search_query": "site:producthunt.com mobile app comments",
+        "sources": [
+          "grounding",
+          "perplexity"
+        ],
+        "weight": 1.0
+      }
+    ]
+  },
+  "range_from": "2026-08-29",
+  "range_to": "2026-09-28",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://producthunt.com/categories/platforms",
+      "cluster_id": "cluster-1",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 85,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "WB1",
+      "local_relevance": 0.17,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB1",
+            "native_rank": 1,
+            "source": "grounding",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:grounding": 1
+      },
+      "rerank_score": 9.899999999999999,
+      "rrf_score": 0.00819672131147541,
+      "snippet": "Context - We&#x27;ve just launched on App Store and are looking to launch on platforms to get initial traction. Edit 1 ( I&#x27;m adding all the suggestions shared in the comments ) 1 - Beta list - https://betalist.com/ 2 - App Sumo - https://appsumo.com/ 3 - Life Timo - https://lifetimo.com/ 4 - Stack Social - https://stacksocial.com/ 5 - Rugless - https://rugless.com/ 6 - Betafy 7 - Betpage.co 8 - Show HN 9 - Submit Juice 10 - IndieHackers 11 - https://getmakerlog.com/ 12 - Kickstarter 13 - startuptabs.com 14 - startupbuffer.com 15 - crunchbase.com 16 - f6s.com 17 - startupproject.org 18 - startupstash.com 19 - startupranking.com 20 - https://www.g2.com/ 21 - https://stackshare.io/ 22 - Slack groups - Growth Marketing Pros, Indie...",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Platforms (2026): Compare the Best | Product Hunt\nContext - We&#x27;ve just launched on App Store and are looking to launch on platforms to get initial traction. Edit 1 ( I&#x27;m adding all the suggestions shared in the comments ) 1 - Beta list - https://betalist.com/ 2 - App Sumo - https://appsumo.com/ 3 - Life Timo - https://lifetimo.com/ 4 - Stack Social - https://stacksocial.com/ 5 - Rugless - https://rugless.com/ 6 - Betafy 7 - Betpage.co 8 - Show HN 9 - Submit Juice 10 - IndieHackers 11 - https://getmakerlog.com/ 12 - Kickstarter 13 - startuptabs.com 14 - startupbuffer.com 15 - crunchbase.com 16 - f6s.com 17 - startupproject.org 18 - startupstash.com 19 - startupranking.com 20 - https://www.g2.com/ 21 - https://stackshare.io/ 22 - Slack groups - Growth Marketing Pros, Indie Worldwide, and Growth Hackers Slack 23 - www.startups-list.com 24 - 10words.io 25 - startupresources.io",
+          "container": "www.producthunt.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 85,
+          "item_id": "WB1",
+          "local_rank_score": 0.323,
+          "local_relevance": 0.17,
+          "metadata": {},
+          "published_at": "2026-09-21",
+          "relevance_hint": 0.8,
+          "snippet": "Context - We&#x27;ve just launched on App Store and are looking to launch on platforms to get initial traction. Edit 1 ( I&#x27;m adding all the suggestions shared in the comments ) 1 - Beta list - https://betalist.com/ 2 - App Sumo - https://appsumo.com/ 3 - Life Timo - https://lifetimo.com/ 4 - Stack Social - https://stacksocial.com/ 5 - Rugless - https://rugless.com/ 6 - Betafy 7 - Betpage.co 8 - Show HN 9 - Submit Juice 10 - IndieHackers 11 - https://getmakerlog.com/ 12 - Kickstarter 13 - startuptabs.com 14 - startupbuffer.com 15 - crunchbase.com 16 - f6s.com 17 - startupproject.org 18 - startupstash.com 19 - startupranking.com 20 - https://www.g2.com/ 21 - https://stackshare.io/ 22 - Slack groups - Growth Marketing Pros, Indie...",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Platforms (2026): Compare the Best | Product Hunt",
+          "url": "https://www.producthunt.com/categories/platforms",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Platforms (2026): Compare the Best | Product Hunt",
+      "url": "https://www.producthunt.com/categories/platforms"
+    },
+    {
+      "candidate_id": "https://producthunt.com/products/capcut/reviews",
+      "cluster_id": "cluster-2",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 100,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "WB5",
+      "local_relevance": 0.13,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB5",
+            "native_rank": 2,
+            "source": "grounding",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:grounding": 2
+      },
+      "rerank_score": 10.100000000000001,
+      "rrf_score": 0.008064516129032258,
+      "snippet": "Mobile editing apps \u00b7 CapCut is a free all-in-one video editing app that helps you create incredible videos, from ByteDance. \ud83d\udce3Easy to use \ud83d\udce3 High quality \ud83d\udce3 Top Music Hits/Sounding incredible \ud83d\udce3 Stickers and text \ud83d\udce3 Effects \u00b7 Overview \u00b7 Reviews43 \u00b7",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "CapCut Reviews (2026) | Product Hunt\nMobile editing apps \u00b7 CapCut is a free all-in-one video editing app that helps you create incredible videos, from ByteDance. \ud83d\udce3Easy to use \ud83d\udce3 High quality \ud83d\udce3 Top Music Hits/Sounding incredible \ud83d\udce3 Stickers and text \ud83d\udce3 Effects \u00b7 Overview \u00b7 Reviews43 \u00b7",
+          "container": "www.producthunt.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 100,
+          "item_id": "WB5",
+          "local_rank_score": 0.3345,
+          "local_relevance": 0.13,
+          "metadata": {},
+          "published_at": "2026-09-28",
+          "relevance_hint": 0.8,
+          "snippet": "Mobile editing apps \u00b7 CapCut is a free all-in-one video editing app that helps you create incredible videos, from ByteDance. \ud83d\udce3Easy to use \ud83d\udce3 High quality \ud83d\udce3 Top Music Hits/Sounding incredible \ud83d\udce3 Stickers and text \ud83d\udce3 Effects \u00b7 Overview \u00b7 Reviews43 \u00b7",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "CapCut Reviews (2026) | Product Hunt",
+          "url": "https://www.producthunt.com/products/capcut/reviews",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "CapCut Reviews (2026) | Product Hunt",
+      "url": "https://www.producthunt.com/products/capcut/reviews"
+    },
+    {
+      "candidate_id": "https://producthunt.com/products/chatwoot/reviews",
+      "cluster_id": "cluster-3",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 95,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 10.0,
+      "item_id": "WB3",
+      "local_relevance": 0.13,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB3",
+            "native_rank": 3,
+            "source": "grounding",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:grounding": 3
+      },
+      "rerank_score": 9.100000000000001,
+      "rrf_score": 0.007936507936507936,
+      "snippet": "Chatwoot is praised for its open-source nature and effective customer relationship management. Users appreciate its Slack integration, email continuation, and customization options. It&#x27;s seen as a cost-effective alternative to Zendesk and Intercom, with a user-friendly interface and <strong>mobile app</strong>.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Chatwoot Reviews (2026) | Product Hunt\nChatwoot is praised for its open-source nature and effective customer relationship management. Users appreciate its Slack integration, email continuation, and customization options. It&#x27;s seen as a cost-effective alternative to Zendesk and Intercom, with a user-friendly interface and <strong>mobile app</strong>.",
+          "container": "www.producthunt.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 95,
+          "item_id": "WB3",
+          "local_rank_score": 0.322,
+          "local_relevance": 0.13,
+          "metadata": {},
+          "published_at": "2026-09-26",
+          "relevance_hint": 0.8,
+          "snippet": "Chatwoot is praised for its open-source nature and effective customer relationship management. Users appreciate its Slack integration, email continuation, and customization options. It&#x27;s seen as a cost-effective alternative to Zendesk and Intercom, with a user-friendly interface and <strong>mobile app</strong>.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Chatwoot Reviews (2026) | Product Hunt",
+          "url": "https://www.producthunt.com/products/chatwoot/reviews",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Chatwoot Reviews (2026) | Product Hunt",
+      "url": "https://www.producthunt.com/products/chatwoot/reviews"
+    },
+    {
+      "candidate_id": "https://producthunt.com/categories/travel-apps",
+      "cluster_id": "cluster-4",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 79,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "WB2",
+      "local_relevance": 0.13,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB2",
+            "native_rank": 4,
+            "source": "grounding",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:grounding": 4
+      },
+      "rerank_score": 5.899999999999999,
+      "rrf_score": 0.0078125,
+      "snippet": "Flight booking appsTravel Planning \u00b7 geospatial mappingintegrated bookingai-generated itinerariestravelartificial intelligence \u00b7 Travel PlannerYour Travel Partner \u00b7 4.9 (7 reviews) Travel PlanningNotion Templates \u00b7 <strong>mobile app</strong>interactive mapsglobal nomadtraveltravel planning \u00b7",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "The best travel apps in 2026 | Product Hunt\nFlight booking appsTravel Planning \u00b7 geospatial mappingintegrated bookingai-generated itinerariestravelartificial intelligence \u00b7 Travel PlannerYour Travel Partner \u00b7 4.9 (7 reviews) Travel PlanningNotion Templates \u00b7 <strong>mobile app</strong>interactive mapsglobal nomadtraveltravel planning \u00b7",
+          "container": "www.producthunt.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 79,
+          "item_id": "WB2",
+          "local_rank_score": 0.28200000000000003,
+          "local_relevance": 0.13,
+          "metadata": {},
+          "published_at": "2026-09-18",
+          "relevance_hint": 0.8,
+          "snippet": "Flight booking appsTravel Planning \u00b7 geospatial mappingintegrated bookingai-generated itinerariestravelartificial intelligence \u00b7 Travel PlannerYour Travel Partner \u00b7 4.9 (7 reviews) Travel PlanningNotion Templates \u00b7 <strong>mobile app</strong>interactive mapsglobal nomadtraveltravel planning \u00b7",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "The best travel apps in 2026 | Product Hunt",
+          "url": "https://www.producthunt.com/categories/travel-apps",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "The best travel apps in 2026 | Product Hunt",
+      "url": "https://www.producthunt.com/categories/travel-apps"
+    },
+    {
+      "candidate_id": "https://producthunt.com/products/wand-5/alternatives",
+      "cluster_id": "cluster-5",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 73,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 12.7,
+      "item_id": "WB1",
+      "local_relevance": 0.13,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB1",
+            "native_rank": 5,
+            "source": "grounding",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:grounding": 5
+      },
+      "rerank_score": 4.700000000000003,
+      "rrf_score": 0.007692307692307693,
+      "snippet": "Photoleap takes a broader, mobile creator approach than Wand by packaging lots of editing and AI tools into one phone-first app.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Wand Competitors & Alternatives (2026) | Product Hunt\nPhotoleap takes a broader, mobile creator approach than Wand by packaging lots of editing and AI tools into one phone-first app.",
+          "container": "www.producthunt.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 73,
+          "item_id": "WB1",
+          "local_rank_score": 0.267,
+          "local_relevance": 0.13,
+          "metadata": {},
+          "published_at": "2026-09-15",
+          "relevance_hint": 0.8,
+          "snippet": "Photoleap takes a broader, mobile creator approach than Wand by packaging lots of editing and AI tools into one phone-first app.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Wand Competitors & Alternatives (2026) | Product Hunt",
+          "url": "https://www.producthunt.com/products/wand-5/alternatives",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Wand Competitors & Alternatives (2026) | Product Hunt",
+      "url": "https://www.producthunt.com/products/wand-5/alternatives"
+    },
+    {
+      "candidate_id": "https://producthunt.com/categories/space-design",
+      "cluster_id": "cluster-6",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 58,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 12.0,
+      "item_id": "WB4",
+      "local_relevance": 0.06,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "WB4",
+            "native_rank": 6,
+            "source": "grounding",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:grounding": 6
+      },
+      "rerank_score": 0.0,
+      "rrf_score": 0.007575757575757576,
+      "snippet": "LiveHome3DPowerful yet intuitive home and interior design app.",
+      "source": "grounding",
+      "source_items": [
+        {
+          "body": "Space design apps (2026): Compare the Best | Product Hunt\nLiveHome3DPowerful yet intuitive home and interior design app.",
+          "container": "www.producthunt.com",
+          "date_confidence": "high",
+          "engagement": {},
+          "freshness": 58,
+          "item_id": "WB4",
+          "local_rank_score": 0.184,
+          "local_relevance": 0.06,
+          "metadata": {},
+          "published_at": "2026-09-07",
+          "relevance_hint": 0.8,
+          "snippet": "LiveHome3DPowerful yet intuitive home and interior design app.",
+          "source": "grounding",
+          "source_quality": 0.6,
+          "title": "Space design apps (2026): Compare the Best | Product Hunt",
+          "url": "https://www.producthunt.com/categories/space-design",
+          "why_relevant": "Brave web search"
+        }
+      ],
+      "source_quality": 0.6,
+      "sources": [
+        "grounding"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Space design apps (2026): Compare the Best | Product Hunt",
+      "url": "https://www.producthunt.com/categories/space-design"
+    }
+  ],
+  "topic": "site:producthunt.com mobile app comments",
+  "warnings": [
+    "Top evidence is highly concentrated in one source."
+  ]
+}
