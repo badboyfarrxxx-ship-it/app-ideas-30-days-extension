@@ -1,0 +1,107 @@
+Batch C sources=youtube
+Started at 2026-09-29T08:18:46Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/36541913885
+----
+
+===== Seed: "worth paying for" app =====
+/last30days · researching: "worth paying for" app
+⏳ [95mProcessing[0m Finding patterns...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search=""worth paying for" app" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for '"worth paying for" app' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=%22worth+paying+for%22+app
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for '"worth paying for" app' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=%22worth+paying+for%22+app
+[YouTube] SC YouTube search returned 0 results
+✓ Research complete (0.8s) - YouTube: 0 videos
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-29/0818-worth-paying-for-app.json
+[OK] seed succeeded
+
+===== Seed: "I still use a spreadsheet for" =====
+/last30days · researching: "I still use a spreadsheet for"
+⏳ [95mProcessing[0m Scoring and ranking...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search=""i still spreadsheet for"" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for '"i still use a spreadsheet for"' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=%22i+still+use+a+spreadsheet+for%22
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for '"i still use a spreadsheet for"' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=%22i+still+use+a+spreadsheet+for%22
+[YouTube] SC YouTube search returned 0 results
+✓ Research complete (0.8s) - YouTube: 0 videos
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-29/0818-i-still-use-a-spreadsheet-for.json
+[OK] seed succeeded
+
+===== Seed: "I track it in my notes app" =====
+/last30days · researching: "I track it in my notes app"
+⏳ [95mProcessing[0m Scoring and ranking...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search=""i track it my notes app"" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for '"i track it in my notes app"' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=%22i+track+it+in+my+notes+app%22
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for '"i track it in my notes app"' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=%22i+track+it+in+my+notes+app%22
+[YouTube] SC YouTube search returned 0 results
+✓ Research complete (0.6s) - YouTube: 0 videos
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-29/0818-i-track-it-in-my-notes-app.json
+[OK] seed succeeded
+
+===== Seed: "there has to be a better way to" =====
+/last30days · researching: "there has to be a better way to"
+⏳ [95mProcessing[0m Crunching the data...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search=""there has be better way to"" sources=[youtube]
+[YouTube] Searching YouTube via ScrapeCreators for '"there has to be a better way to"' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=%22there+has+to+be+a+better+way+to%22
+[YouTube] SC YouTube search returned 0 results
+[YouTube] Searching YouTube via ScrapeCreators for '"there has to be a better way to"' (depth=default)
+[YouTube] SC YouTube search error: 402 Client Error: Payment Required for url: https://api.scrapecreators.com/v1/youtube/search?keyword=%22there+has+to+be+a+better+way+to%22
+[YouTube] SC YouTube search returned 0 results
+✓ Research complete (0.6s) - YouTube: 0 videos
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-29/0818-there-has-to-be-a-better-way-to.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed
