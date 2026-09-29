@@ -1,0 +1,62 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "deterministic",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "truckers \"is there an app that\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {
+    "grounding": "HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid."
+  },
+  "generated_at": "2026-09-29T20:17:28.248351+00:00",
+  "items_by_source": {},
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "evergreen_ok",
+    "intent": "concept",
+    "notes": [
+      "fallback-plan (LLM error: HTTPError)"
+    ],
+    "raw_topic": "truckers \"is there an app that\"",
+    "source_weights": {
+      "grounding": 0.5,
+      "perplexity": 0.5
+    },
+    "subqueries": [
+      {
+        "label": "primary",
+        "ranking_query": "What recent evidence from the last 30 days is most relevant to truckers \"is there an app that\", especially about truckers \"is there app that\"?",
+        "search_query": "truckers \"is there app that\"",
+        "sources": [
+          "grounding",
+          "perplexity"
+        ],
+        "weight": 1.0
+      }
+    ]
+  },
+  "range_from": "2026-08-30",
+  "range_to": "2026-09-29",
+  "ranked_candidates": [],
+  "topic": "truckers \"is there an app that\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic.",
+    "Some sources failed: grounding",
+    "No source returned usable items."
+  ]
+}
