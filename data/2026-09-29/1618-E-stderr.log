@@ -1,0 +1,91 @@
+Batch E sources=github
+Started at 2026-09-29T16:18:42Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/36596737742
+----
+
+===== Seed: landscapers app for scheduling clients =====
+/last30days · researching: landscapers app for scheduling clients
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="landscapers app scheduling clients" sources=[github]
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+✓ Research complete (0.9s) - Github: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-29/1618-landscapers-app-for-scheduling-clients.json
+[OK] seed succeeded
+
+===== Seed: dog groomers booking app =====
+/last30days · researching: dog groomers booking app
+⏳ [95mProcessing[0m Crunching the data...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="dog groomers booking app" sources=[github]
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+✓ Research complete (0.3s) - Github: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-29/1618-dog-groomers-booking-app.json
+[OK] seed succeeded
+
+===== Seed: personal trainers app for clients =====
+/last30days · researching: personal trainers app for clients
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="personal trainers app clients" sources=[github]
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+✓ Research complete (0.2s) - Github: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-29/1618-personal-trainers-app-for-clients.json
+[OK] seed succeeded
+
+===== Seed: hairstylists "any good app for" =====
+/last30days · researching: hairstylists "any good app for"
+⏳ [95mProcessing[0m Scoring and ranking...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="hairstylists "any app for"" sources=[github]
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+[GitHub] No GitHub token available (set GITHUB_TOKEN or install gh CLI)
+✓ Research complete (0.3s) - Github: 0 results
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-09-29/1618-hairstylists-any-good-app-for.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed
