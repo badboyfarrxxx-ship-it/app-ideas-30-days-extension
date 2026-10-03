@@ -1,0 +1,173 @@
+Batch A sources=reddit,hackernews
+Started at 2026-10-03T19:07:22Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/37146741003
+----
+
+===== Seed: hairstylists "any good app for" =====
+/last30days · researching: hairstylists "any good app for"
+⏳ [95mProcessing[0m Removing duplicates...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="hairstylists "any app for"" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=hairstylists+%22any+good+app+for%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'hairstylists "any good app for"' into 2 queries: ['hairstylists "any app for"', 'hairstylists "any good app for"']
+[Reddit] Global search 1/2: 'hairstylists "any app for"' (sort=relevance)
+[Reddit] Global search 2/2: 'hairstylists "any good app for"' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'hairstylists "any good app for"'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'hairstylists "any app for"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=hairstylists+%22any+good+app+for%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'hairstylists "any good app for"' into 2 queries: ['hairstylists "any app for"', 'hairstylists "any good app for"']
+[Reddit] Global search 1/2: 'hairstylists "any app for"' (sort=relevance)
+[Reddit] Global search 2/2: 'hairstylists "any good app for"' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'hairstylists "any app for"'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'hairstylists "any good app for"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+✓ Research complete (1.0s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-10-03/1907-hairstylists-any-good-app-for.json
+[OK] seed succeeded
+
+===== Seed: realtors "any good app for" =====
+/last30days · researching: realtors "any good app for"
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="realtors "any app for"" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=realtors+%22any+good+app+for%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'realtors "any good app for"' into 2 queries: ['realtors "any app for"', 'realtors "any good app for"']
+[Reddit] Global search 1/2: 'realtors "any app for"' (sort=relevance)
+[Reddit] Global search 2/2: 'realtors "any good app for"' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'realtors "any good app for"'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'realtors "any app for"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=realtors+%22any+good+app+for%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'realtors "any good app for"' into 2 queries: ['realtors "any app for"', 'realtors "any good app for"']
+[Reddit] Global search 1/2: 'realtors "any app for"' (sort=relevance)
+[Reddit] Global search 2/2: 'realtors "any good app for"' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'realtors "any good app for"'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'realtors "any app for"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+✓ Research complete (0.7s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-10-03/1907-realtors-any-good-app-for.json
+[OK] seed succeeded
+
+===== Seed: truckers "is there an app that" =====
+/last30days · researching: truckers "is there an app that"
+⏳ [95mProcessing[0m Removing duplicates...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="truckers "is there app that"" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=truckers+%22is+there+an+app+that%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'truckers "is there an app that"' into 2 queries: ['truckers "is there app that"', 'truckers "is there an app that"']
+[Reddit] Global search 1/2: 'truckers "is there app that"' (sort=relevance)
+[Reddit] Global search 2/2: 'truckers "is there an app that"' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'truckers "is there app that"'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'truckers "is there an app that"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=truckers+%22is+there+an+app+that%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'truckers "is there an app that"' into 2 queries: ['truckers "is there app that"', 'truckers "is there an app that"']
+[Reddit] Global search 1/2: 'truckers "is there app that"' (sort=relevance)
+[Reddit] Global search 2/2: 'truckers "is there an app that"' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'truckers "is there an app that"'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'truckers "is there app that"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+✓ Research complete (0.6s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-10-03/1907-truckers-is-there-an-app-that.json
+[OK] seed succeeded
+
+===== Seed: nurses shift app =====
+/last30days · researching: nurses shift app
+⏳ [95mProcessing[0m Finding patterns...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="nurses shift app" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=nurses+shift+app&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'nurses shift app' into 1 queries: ['nurses shift app']
+[Reddit] Global search 1/2: 'nurses shift app' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'nurses shift app'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=nurses+shift+app&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'nurses shift app' into 1 queries: ['nurses shift app']
+[Reddit] Global search 1/2: 'nurses shift app' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'nurses shift app'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+✓ Research complete (0.5s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-10-03/1907-nurses-shift-app.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed
