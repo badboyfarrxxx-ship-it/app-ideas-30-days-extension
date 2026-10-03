@@ -1,0 +1,173 @@
+Batch A sources=reddit,hackernews
+Started at 2026-10-03T22:47:01Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/37159590970
+----
+
+===== Seed: nurses shift app =====
+/last30days · researching: nurses shift app
+⏳ [95mProcessing[0m Crunching the data...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="nurses shift app" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=nurses+shift+app&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'nurses shift app' into 1 queries: ['nurses shift app']
+[Reddit] Global search 1/2: 'nurses shift app' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'nurses shift app'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=nurses+shift+app&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'nurses shift app' into 1 queries: ['nurses shift app']
+[Reddit] Global search 1/2: 'nurses shift app' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'nurses shift app'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+✓ Research complete (3.3s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-10-03/2247-nurses-shift-app.json
+[OK] seed succeeded
+
+===== Seed: therapists "I would pay for an app" =====
+/last30days · researching: therapists "I would pay for an app"
+⏳ [95mProcessing[0m Removing duplicates...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="therapists "i pay app"" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=therapists+%22I+would+pay+for+an+app%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'therapists "I would pay for an app"' into 2 queries: ['therapists "i would pay app"', 'therapists "I would pay for an app"']
+[Reddit] Global search 1/2: 'therapists "i would pay app"' (sort=relevance)
+[Reddit] Global search 2/2: 'therapists "I would pay for an app"' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'therapists "I would pay for an app"'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'therapists "i would pay app"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=therapists+%22I+would+pay+for+an+app%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'therapists "I would pay for an app"' into 2 queries: ['therapists "i would pay app"', 'therapists "I would pay for an app"']
+[Reddit] Global search 1/2: 'therapists "i would pay app"' (sort=relevance)
+[Reddit] Global search 2/2: 'therapists "I would pay for an app"' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'therapists "I would pay for an app"'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'therapists "i would pay app"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+✓ Research complete (3.0s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-10-03/2247-therapists-i-would-pay-for-an-app.json
+[OK] seed succeeded
+
+===== Seed: teachers "I wish there was an app" =====
+/last30days · researching: teachers "I wish there was an app"
+⏳ [95mProcessing[0m Crunching the data...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="teachers "i wish there app"" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=teachers+%22I+wish+there+was+an+app%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'teachers "I wish there was an app"' into 2 queries: ['teachers "i wish there was app"', 'teachers "I wish there was an app"']
+[Reddit] Global search 1/2: 'teachers "i wish there was app"' (sort=relevance)
+[Reddit] Global search 2/2: 'teachers "I wish there was an app"' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'teachers "I wish there was an app"'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'teachers "i wish there was app"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=teachers+%22I+wish+there+was+an+app%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'teachers "I wish there was an app"' into 2 queries: ['teachers "i wish there was app"', 'teachers "I wish there was an app"']
+[Reddit] Global search 1/2: 'teachers "i wish there was app"' (sort=relevance)
+[Reddit] Global search 2/2: 'teachers "I wish there was an app"' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'teachers "i wish there was app"'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'teachers "I wish there was an app"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+✓ Research complete (5.3s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-10-03/2247-teachers-i-wish-there-was-an-app.json
+[OK] seed succeeded
+
+===== Seed: small landlords app for tenants =====
+/last30days · researching: small landlords app for tenants
+⏳ [95mProcessing[0m Crunching the data...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="small landlords app tenants" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=small+landlords+app+for+tenants&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'small landlords app for tenants' into 2 queries: ['small landlords app tenants', 'small landlords app for tenants']
+[Reddit] Global search 1/2: 'small landlords app tenants' (sort=relevance)
+[Reddit] Global search 2/2: 'small landlords app for tenants' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'small landlords app tenants'
+[Reddit]   -> 0 results for 'small landlords app for tenants'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=small+landlords+app+for+tenants&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'small landlords app for tenants' into 2 queries: ['small landlords app tenants', 'small landlords app for tenants']
+[Reddit] Global search 1/2: 'small landlords app tenants' (sort=relevance)
+[Reddit] Global search 2/2: 'small landlords app for tenants' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'small landlords app for tenants'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'small landlords app tenants'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+✓ Research complete (1.4s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-10-03/2247-small-landlords-app-for-tenants.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed
