@@ -1,0 +1,391 @@
+Batch A sources=reddit,hackernews
+Started at 2026-10-06T11:08:53Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/37454454090
+----
+
+===== Seed: site:reddit.com/r/iphone =====
+/last30days · researching: site:reddit.com/r/iphone
+⏳ [95mProcessing[0m Finding patterns...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs iphone
+[Competitors] Comparing: site:reddit.com vs r vs iphone
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="site:reddit.com" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=site%3Areddit.com&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'site:reddit.com' into 1 queries: ['site:reddit.com']
+[Reddit] Global search 1/2: 'site:reddit.com' (sort=relevance)
+[Resolve] Search failed for subreddit: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for x_handle: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for subreddit: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for news: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for news: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for x_handle: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for github: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] iphone: x=@- subs=0 gh=- (auto)
+[Resolve] Search failed for github: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] r: x=@- subs=0 gh=- (auto)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'site:reddit.com'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=site%3Areddit.com&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'site:reddit.com' into 1 queries: ['site:reddit.com']
+[Reddit] Global search 1/2: 'site:reddit.com' (sort=relevance)
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="iphone" sources=[reddit,hackernews]
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="r" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=iphone&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'iphone' into 1 queries: ['iphone']
+[Reddit] Global search 1/2: 'iphone' (sort=relevance)
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=r&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'r' into 1 queries: ['r']
+[Reddit] Global search 1/2: 'r' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'site:reddit.com'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'iphone'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'r'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=iphone&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'iphone' into 1 queries: ['iphone']
+[Reddit] Global search 1/2: 'iphone' (sort=relevance)
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=r&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'r' into 1 queries: ['r']
+[Reddit] Global search 1/2: 'r' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'iphone'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'r'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[Rerank] LLM reranking failed, using local fallback: HTTPError: HTTP 403: Forbidden
+[Rerank] LLM reranking failed, using local fallback: HTTPError: HTTP 403: Forbidden
+[FunJudge] LLM scoring failed: HTTPError: HTTP 403: Forbidden
+[FunJudge] LLM scoring failed: HTTPError: HTTP 403: Forbidden
+✓ Research complete (1.4s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-10-06/1108-site-reddit-com.json
+[OK] seed succeeded
+
+===== Seed: site:reddit.com/r/apple =====
+/last30days · researching: site:reddit.com/r/apple
+⏳ [95mProcessing[0m Finding patterns...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs apple
+[Competitors] Comparing: site:reddit.com vs r vs apple
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="site:reddit.com" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=site%3Areddit.com&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'site:reddit.com' into 1 queries: ['site:reddit.com']
+[Reddit] Global search 1/2: 'site:reddit.com' (sort=relevance)
+[Resolve] Search failed for x_handle: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for subreddit: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for news: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for subreddit: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for x_handle: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for news: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'site:reddit.com'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=site%3Areddit.com&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'site:reddit.com' into 1 queries: ['site:reddit.com']
+[Reddit] Global search 1/2: 'site:reddit.com' (sort=relevance)
+[Resolve] Search failed for github: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] r: x=@- subs=0 gh=- (auto)
+[Resolve] Search failed for github: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] apple: x=@- subs=0 gh=- (auto)
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="apple" sources=[reddit,hackernews]
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="r" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=apple&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'apple' into 1 queries: ['apple']
+[Reddit] Global search 1/2: 'apple' (sort=relevance)
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=r&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'r' into 1 queries: ['r']
+[Reddit] Global search 1/2: 'r' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'site:reddit.com'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'apple'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'r'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=r&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'r' into 1 queries: ['r']
+[Reddit] Global search 1/2: 'r' (sort=relevance)
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=apple&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'apple' into 1 queries: ['apple']
+[Reddit] Global search 1/2: 'apple' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'r'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'apple'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[Rerank] LLM reranking failed, using local fallback: HTTPError: HTTP 403: Forbidden
+[FunJudge] LLM scoring failed: HTTPError: HTTP 403: Forbidden
+[Rerank] LLM reranking failed, using local fallback: HTTPError: HTTP 403: Forbidden
+[FunJudge] LLM scoring failed: HTTPError: HTTP 403: Forbidden
+✓ Research complete (1.4s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-10-06/1108-site-reddit-com.json
+[OK] seed succeeded
+
+===== Seed: site:reddit.com/r/GooglePixel =====
+/last30days · researching: site:reddit.com/r/GooglePixel
+⏳ [95mProcessing[0m Crunching the data...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs GooglePixel
+[Competitors] Comparing: site:reddit.com vs r vs GooglePixel
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="site:reddit.com" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=site%3Areddit.com&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'site:reddit.com' into 1 queries: ['site:reddit.com']
+[Reddit] Global search 1/2: 'site:reddit.com' (sort=relevance)
+[Resolve] Search failed for news: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for subreddit: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for subreddit: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for x_handle: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for news: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for x_handle: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for github: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] r: x=@- subs=0 gh=- (auto)
+[Resolve] Search failed for github: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] GooglePixel: x=@- subs=0 gh=- (auto)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'site:reddit.com'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=site%3Areddit.com&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'site:reddit.com' into 1 queries: ['site:reddit.com']
+[Reddit] Global search 1/2: 'site:reddit.com' (sort=relevance)
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="r" sources=[reddit,hackernews]
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="googlepixel" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=r&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'r' into 1 queries: ['r']
+[Reddit] Global search 1/2: 'r' (sort=relevance)
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=GooglePixel&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'GooglePixel' into 1 queries: ['googlepixel']
+[Reddit] Global search 1/2: 'googlepixel' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'site:reddit.com'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'r'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'googlepixel'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=r&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'r' into 1 queries: ['r']
+[Reddit] Global search 1/2: 'r' (sort=relevance)
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=GooglePixel&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'GooglePixel' into 1 queries: ['googlepixel']
+[Reddit] Global search 1/2: 'googlepixel' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'r'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'googlepixel'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[Rerank] LLM reranking failed, using local fallback: HTTPError: HTTP 403: Forbidden
+[FunJudge] LLM scoring failed: HTTPError: HTTP 403: Forbidden
+✓ Research complete (1.2s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-10-06/1108-site-reddit-com.json
+[OK] seed succeeded
+
+===== Seed: site:reddit.com/r/AppHookup =====
+/last30days · researching: site:reddit.com/r/AppHookup
+⏳ [95mProcessing[0m Crunching the data...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs AppHookup
+[Competitors] Comparing: site:reddit.com vs r vs AppHookup
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="site:reddit.com" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=site%3Areddit.com&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'site:reddit.com' into 1 queries: ['site:reddit.com']
+[Reddit] Global search 1/2: 'site:reddit.com' (sort=relevance)
+[Resolve] Search failed for x_handle: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for news: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for subreddit: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for x_handle: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for subreddit: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for news: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for github: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] AppHookup: x=@- subs=0 gh=- (auto)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'site:reddit.com'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[Resolve] Search failed for github: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] r: x=@- subs=0 gh=- (auto)
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=site%3Areddit.com&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'site:reddit.com' into 1 queries: ['site:reddit.com']
+[Reddit] Global search 1/2: 'site:reddit.com' (sort=relevance)
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="r" sources=[reddit,hackernews]
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="apphookup" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=AppHookup&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'AppHookup' into 1 queries: ['apphookup']
+[Reddit] Global search 1/2: 'apphookup' (sort=relevance)
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=r&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'r' into 1 queries: ['r']
+[Reddit] Global search 1/2: 'r' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'site:reddit.com'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'apphookup'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'r'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=AppHookup&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'AppHookup' into 1 queries: ['apphookup']
+[Reddit] Global search 1/2: 'apphookup' (sort=relevance)
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=r&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'r' into 1 queries: ['r']
+[Reddit] Global search 1/2: 'r' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'apphookup'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'r'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[Rerank] LLM reranking failed, using local fallback: HTTPError: HTTP 403: Forbidden
+[FunJudge] LLM scoring failed: HTTPError: HTTP 403: Forbidden
+✓ Research complete (1.1s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-10-06/1108-site-reddit-com.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed
