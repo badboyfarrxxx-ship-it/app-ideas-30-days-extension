@@ -1,0 +1,216 @@
+Batch A sources=reddit,hackernews
+Started at 2026-10-08T15:26:56Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/37800823939
+----
+
+===== Seed: site:reddit.com/r/SideProject "mobile app" =====
+/last30days · researching: site:reddit.com/r/SideProject "mobile app"
+⏳ [95mProcessing[0m Organizing findings...
+[Competitors] vs-mode: routing to N-pass fanout: site:reddit.com vs r vs SideProject "mobile app
+[Competitors] Comparing: site:reddit.com vs r vs SideProject "mobile app
+[Resolve] Search failed for x_handle: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for subreddit: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for x_handle: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for subreddit: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for news: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Search failed for news: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="site:reddit.com" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=site%3Areddit.com&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'site:reddit.com' into 1 queries: ['site:reddit.com']
+[Reddit] Global search 1/2: 'site:reddit.com' (sort=relevance)
+[Resolve] Search failed for github: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] SideProject "mobile app: x=@- subs=0 gh=- (auto)
+[Resolve] Search failed for github: HTTP 422: SUBSCRIPTION_TOKEN_INVALID The provided subscription token is invalid.
+[Resolve] Resolved 0 subreddits, x_handle='', github_user='', github_repos=[], context_len=0, category=None
+[Competitors] r: x=@- subs=0 gh=- (auto)
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="sideproject "mobile app" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=SideProject+%22mobile+app&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'SideProject "mobile app' into 1 queries: ['sideproject "mobile app']
+[Reddit] Global search 1/2: 'sideproject "mobile app' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'site:reddit.com'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="r" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=r&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'r' into 1 queries: ['r']
+[Reddit] Global search 1/2: 'r' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'sideproject "mobile app'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=site%3Areddit.com&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'site:reddit.com' into 1 queries: ['site:reddit.com']
+[Reddit] Global search 1/2: 'site:reddit.com' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'site:reddit.com'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=SideProject+%22mobile+app&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'SideProject "mobile app' into 1 queries: ['sideproject "mobile app']
+[Reddit] Global search 1/2: 'sideproject "mobile app' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'sideproject "mobile app'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'r'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=r&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'r' into 1 queries: ['r']
+[Reddit] Global search 1/2: 'r' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'r'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[Rerank] LLM reranking failed, using local fallback: HTTPError: HTTP 403: Forbidden
+[FunJudge] LLM scoring failed: HTTPError: HTTP 403: Forbidden
+✓ Research complete (0.9s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-10-08/1526-site-reddit-com.json
+[OK] seed succeeded
+
+===== Seed: site:news.ycombinator.com "Show HN" android =====
+/last30days · researching: site:news.ycombinator.com "Show HN" android
+⏳ [95mProcessing[0m Finding patterns...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=breaking_news, freshness=strict_recent, cluster_mode=story, subqueries=2, source=deterministic
+[Planner]   sq1 label=primary search="site:news.ycombinator.com "show hn" android" sources=[reddit,hackernews]
+[Planner]   sq2 label=reaction search="site:news.ycombinator.com "show hn" android reaction update" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=site%3Anews.ycombinator.com+%22Show+HN%22+android&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'site:news.ycombinator.com "Show HN" android' into 1 queries: ['site:news.ycombinator.com "show hn" android']
+[Reddit] Global search 1/2: 'site:news.ycombinator.com "show hn" android' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'site:news.ycombinator.com "show hn" android'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=site%3Anews.ycombinator.com+%22Show+HN%22+android&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'site:news.ycombinator.com "Show HN" android' into 1 queries: ['site:news.ycombinator.com "show hn" android']
+[Reddit] Global search 1/2: 'site:news.ycombinator.com "show hn" android' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'site:news.ycombinator.com "show hn" android'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+✓ Research complete (0.7s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-10-08/1526-site-news-ycombinator-com-show-hn-android.json
+[OK] seed succeeded
+
+===== Seed: site:news.ycombinator.com "Show HN" iOS =====
+/last30days · researching: site:news.ycombinator.com "Show HN" iOS
+⏳ [95mProcessing[0m Crunching the data...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=breaking_news, freshness=strict_recent, cluster_mode=story, subqueries=2, source=deterministic
+[Planner]   sq1 label=primary search="site:news.ycombinator.com "show hn" ios" sources=[reddit,hackernews]
+[Planner]   sq2 label=reaction search="site:news.ycombinator.com "show hn" ios reaction update" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=site%3Anews.ycombinator.com+%22Show+HN%22+iOS&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'site:news.ycombinator.com "Show HN" iOS' into 1 queries: ['site:news.ycombinator.com "show hn" ios']
+[Reddit] Global search 1/2: 'site:news.ycombinator.com "show hn" ios' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'site:news.ycombinator.com "show hn" ios'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=site%3Anews.ycombinator.com+%22Show+HN%22+iOS&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'site:news.ycombinator.com "Show HN" iOS' into 1 queries: ['site:news.ycombinator.com "show hn" ios']
+[Reddit] Global search 1/2: 'site:news.ycombinator.com "show hn" ios' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'site:news.ycombinator.com "show hn" ios'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+✓ Research complete (0.6s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-10-08/1526-site-news-ycombinator-com-show-hn-ios.json
+[OK] seed succeeded
+
+===== Seed: site:news.ycombinator.com "Show HN" "mobile app" =====
+/last30days · researching: site:news.ycombinator.com "Show HN" "mobile app"
+⏳ [95mProcessing[0m Crunching the data...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=breaking_news, freshness=strict_recent, cluster_mode=story, subqueries=2, source=deterministic
+[Planner]   sq1 label=primary search="site:news.ycombinator.com "show hn" "mobile app"" sources=[reddit,hackernews]
+[Planner]   sq2 label=reaction search="site:news.ycombinator.com "show hn" "mobile app" reaction update" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=site%3Anews.ycombinator.com+%22Show+HN%22+%22mobile+app%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'site:news.ycombinator.com "Show HN" "mobile app"' into 1 queries: ['site:news.ycombinator.com "show hn" "mobile app"']
+[Reddit] Global search 1/2: 'site:news.ycombinator.com "show hn" "mobile app"' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'site:news.ycombinator.com "show hn" "mobile app"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=site%3Anews.ycombinator.com+%22Show+HN%22+%22mobile+app%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'site:news.ycombinator.com "Show HN" "mobile app"' into 1 queries: ['site:news.ycombinator.com "show hn" "mobile app"']
+[Reddit] Global search 1/2: 'site:news.ycombinator.com "show hn" "mobile app"' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'site:news.ycombinator.com "show hn" "mobile app"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+✓ Research complete (0.7s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-10-08/1527-site-news-ycombinator-com-show-hn-mobile-app.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed
