@@ -1,0 +1,173 @@
+Batch A sources=reddit,hackernews
+Started at 2026-10-09T15:09:34Z
+Run URL: https://github.com/badboyfarrxxx-ship-it/app-ideas-30-days-extension/actions/runs/37949592234
+----
+
+===== Seed: plumbers "is there an app" =====
+/last30days · researching: plumbers "is there an app"
+⏳ [95mProcessing[0m Scoring and ranking...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="plumbers "is there app"" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=plumbers+%22is+there+an+app%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'plumbers "is there an app"' into 2 queries: ['plumbers "is there app"', 'plumbers "is there an app"']
+[Reddit] Global search 1/2: 'plumbers "is there app"' (sort=relevance)
+[Reddit] Global search 2/2: 'plumbers "is there an app"' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'plumbers "is there app"'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'plumbers "is there an app"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=plumbers+%22is+there+an+app%22&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'plumbers "is there an app"' into 2 queries: ['plumbers "is there app"', 'plumbers "is there an app"']
+[Reddit] Global search 1/2: 'plumbers "is there app"' (sort=relevance)
+[Reddit] Global search 2/2: 'plumbers "is there an app"' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'plumbers "is there an app"'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'plumbers "is there app"'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+✓ Research complete (0.8s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-10-09/1509-plumbers-is-there-an-app.json
+[OK] seed succeeded
+
+===== Seed: landscapers app for scheduling clients =====
+/last30days · researching: landscapers app for scheduling clients
+⏳ [95mProcessing[0m Removing duplicates...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="landscapers app scheduling clients" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=landscapers+app+for+scheduling+clients&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'landscapers app for scheduling clients' into 2 queries: ['landscapers app scheduling clients', 'landscapers app for scheduling clients']
+[Reddit] Global search 1/2: 'landscapers app scheduling clients' (sort=relevance)
+[Reddit] Global search 2/2: 'landscapers app for scheduling clients' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'landscapers app scheduling clients'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'landscapers app for scheduling clients'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=landscapers+app+for+scheduling+clients&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'landscapers app for scheduling clients' into 2 queries: ['landscapers app scheduling clients', 'landscapers app for scheduling clients']
+[Reddit] Global search 1/2: 'landscapers app scheduling clients' (sort=relevance)
+[Reddit] Global search 2/2: 'landscapers app for scheduling clients' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'landscapers app for scheduling clients'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'landscapers app scheduling clients'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+✓ Research complete (0.6s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-10-09/1509-landscapers-app-for-scheduling-clients.json
+[OK] seed succeeded
+
+===== Seed: dog groomers booking app =====
+/last30days · researching: dog groomers booking app
+⏳ [95mProcessing[0m Scoring and ranking...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="dog groomers booking app" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=dog+groomers+booking+app&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'dog groomers booking app' into 1 queries: ['dog groomers booking app']
+[Reddit] Global search 1/2: 'dog groomers booking app' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'dog groomers booking app'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=dog+groomers+booking+app&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'dog groomers booking app' into 1 queries: ['dog groomers booking app']
+[Reddit] Global search 1/2: 'dog groomers booking app' (sort=relevance)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'dog groomers booking app'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+✓ Research complete (0.5s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-10-09/1509-dog-groomers-booking-app.json
+[OK] seed succeeded
+
+===== Seed: personal trainers app for clients =====
+/last30days · researching: personal trainers app for clients
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] LLM planning failed, using deterministic fallback: HTTPError: HTTP 403: Forbidden
+[Planner] Plan: intent=concept, freshness=evergreen_ok, cluster_mode=none, subqueries=1, source=deterministic
+[Planner]   sq1 label=primary search="personal trainers app clients" sources=[reddit,hackernews]
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=personal+trainers+app+for+clients&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'personal trainers app for clients' into 2 queries: ['personal trainers app clients', 'personal trainers app for clients']
+[Reddit] Global search 1/2: 'personal trainers app clients' (sort=relevance)
+[Reddit] Global search 2/2: 'personal trainers app for clients' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'personal trainers app for clients'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'personal trainers app clients'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+[RedditPublic] 403 forbidden: https://www.reddit.com/search.json?q=personal+trainers+app+for+clients&sort=relevance&t=month&limit=25&raw_json=1
+[Reddit] Expanded 'personal trainers app for clients' into 2 queries: ['personal trainers app clients', 'personal trainers app for clients']
+[Reddit] Global search 1/2: 'personal trainers app clients' (sort=relevance)
+[Reddit] Global search 2/2: 'personal trainers app for clients' (sort=top)
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'personal trainers app for clients'
+[Reddit] Global search error: HTTP 402: Payment Required
+[Reddit]   -> 0 results for 'personal trainers app clients'
+[Reddit] Discovered subreddits: []
+[Reddit] After dedup: 0 unique posts
+[Reddit] No posts within date range, keeping all 0
+[Reddit] Final: 0 Reddit posts
+✓ Research complete (0.6s) - Reddit: 0 threads, HN: 0 stories
+
+Research quality: 4/5 core sources.
+Missing: YouTube.
+
+Free fixes:
+  - YouTube: video transcripts with key moments - often the deepest explanations on any topic. Install yt-dlp: brew install yt-dlp (free)
+  - Your SC key also powers Threads, Pinterest and YouTube comments. Add them to INCLUDE_SOURCES in your .env to enable.
+
+last30days has no affiliation with any API provider.
+[last30days] Saved batch JSON to data/2026-10-09/1509-personal-trainers-app-for-clients.json
+[OK] seed succeeded
+
+----
+Batch summary: 4 succeeded, 0 failed
