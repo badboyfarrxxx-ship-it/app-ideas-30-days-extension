@@ -1,0 +1,71 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "deterministic",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "site:news.ycombinator.com \"Ask HN\" \"is there an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [],
+  "errors_by_source": {},
+  "generated_at": "2026-10-10T19:55:44.696292+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "story",
+    "freshness_mode": "strict_recent",
+    "intent": "breaking_news",
+    "notes": [
+      "fallback-plan (LLM error: HTTPError)"
+    ],
+    "raw_topic": "site:news.ycombinator.com \"Ask HN\" \"is there an app\"",
+    "source_weights": {
+      "hackernews": 0.4390243902439025,
+      "reddit": 0.5609756097560976
+    },
+    "subqueries": [
+      {
+        "label": "primary",
+        "ranking_query": "What recent evidence from the last 30 days is most relevant to site:news.ycombinator.com \"Ask HN\" \"is there an app\", especially about site:news.ycombinator.com \"ask hn\" \"is there app\"?",
+        "search_query": "site:news.ycombinator.com \"ask hn\" \"is there app\"",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.5882352941176471
+      },
+      {
+        "label": "reaction",
+        "ranking_query": "What new reactions or follow-up reporting from the last 30 days matter for site:news.ycombinator.com \"Ask HN\" \"is there an app\"?",
+        "search_query": "site:news.ycombinator.com \"ask hn\" \"is there app\" reaction update",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 0.4117647058823529
+      }
+    ]
+  },
+  "range_from": "2026-09-10",
+  "range_to": "2026-10-10",
+  "ranked_candidates": [],
+  "topic": "site:news.ycombinator.com \"Ask HN\" \"is there an app\"",
+  "warnings": [
+    "No candidates survived retrieval and ranking.",
+    "Evidence is thin for this topic."
+  ]
+}
