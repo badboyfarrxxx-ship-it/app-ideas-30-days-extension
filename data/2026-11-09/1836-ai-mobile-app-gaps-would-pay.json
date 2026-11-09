@@ -1,0 +1,173 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "deterministic",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "AI mobile app gaps \"would pay\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://mobileagent.dev"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://mobileagent.dev"
+      ],
+      "score": 15.689180327868854,
+      "sources": [
+        "hackernews"
+      ],
+      "title": "mobile-agent: faster mobile app iteration for AI coding agents"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-11-09T18:36:05.305051+00:00",
+  "items_by_source": {
+    "hackernews": [
+      {
+        "author": "tilt",
+        "body": "mobile-agent: faster mobile app iteration for AI coding agents",
+        "container": "Hacker News",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 0,
+          "points": 4
+        },
+        "engagement_score": 50,
+        "freshness": 82,
+        "item_id": "50316984",
+        "local_rank_score": 0.515,
+        "local_relevance": 0.4,
+        "metadata": {
+          "comment_insights": [],
+          "hn_url": "https://news.ycombinator.com/item?id=50316984",
+          "top_comments": []
+        },
+        "published_at": "2026-10-31",
+        "relevance_hint": 1.0,
+        "snippet": "mobile-agent: faster mobile app iteration for AI coding agents",
+        "source": "hackernews",
+        "source_quality": 0.8,
+        "title": "mobile-agent: faster mobile app iteration for AI coding agents",
+        "url": "https://mobileagent.dev",
+        "why_relevant": "HN story about mobile-agent: faster mobile app iteration for AI coding agen"
+      }
+    ],
+    "reddit": []
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "evergreen_ok",
+    "intent": "concept",
+    "notes": [
+      "fallback-plan (LLM error: HTTPError)"
+    ],
+    "raw_topic": "AI mobile app gaps \"would pay\"",
+    "source_weights": {
+      "hackernews": 0.5,
+      "reddit": 0.5
+    },
+    "subqueries": [
+      {
+        "label": "primary",
+        "ranking_query": "What recent evidence from the last 30 days is most relevant to AI mobile app gaps \"would pay\"?",
+        "search_query": "ai mobile app gaps \"would pay\"",
+        "sources": [
+          "reddit",
+          "hackernews"
+        ],
+        "weight": 1.0
+      }
+    ]
+  },
+  "range_from": "2026-10-10",
+  "range_to": "2026-11-09",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://mobileagent.dev",
+      "cluster_id": "cluster-1",
+      "engagement": 50,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 15.689180327868854,
+      "freshness": 82,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 61.25,
+      "item_id": "50316984",
+      "local_relevance": 0.4,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "50316984",
+            "native_rank": 1,
+            "source": "hackernews",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:hackernews": 1
+      },
+      "rerank_score": 27.400000000000006,
+      "rrf_score": 0.00819672131147541,
+      "snippet": "mobile-agent: faster mobile app iteration for AI coding agents",
+      "source": "hackernews",
+      "source_items": [
+        {
+          "author": "tilt",
+          "body": "mobile-agent: faster mobile app iteration for AI coding agents",
+          "container": "Hacker News",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 0,
+            "points": 4
+          },
+          "engagement_score": 50,
+          "freshness": 82,
+          "item_id": "50316984",
+          "local_rank_score": 0.515,
+          "local_relevance": 0.4,
+          "metadata": {
+            "comment_insights": [],
+            "hn_url": "https://news.ycombinator.com/item?id=50316984",
+            "top_comments": []
+          },
+          "published_at": "2026-10-31",
+          "relevance_hint": 1.0,
+          "snippet": "mobile-agent: faster mobile app iteration for AI coding agents",
+          "source": "hackernews",
+          "source_quality": 0.8,
+          "title": "mobile-agent: faster mobile app iteration for AI coding agents",
+          "url": "https://mobileagent.dev",
+          "why_relevant": "HN story about mobile-agent: faster mobile app iteration for AI coding agen"
+        }
+      ],
+      "source_quality": 0.8,
+      "sources": [
+        "hackernews"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "mobile-agent: faster mobile app iteration for AI coding agents",
+      "url": "https://mobileagent.dev"
+    }
+  ],
+  "topic": "AI mobile app gaps \"would pay\"",
+  "warnings": [
+    "Evidence is thin for this topic."
+  ]
+}
