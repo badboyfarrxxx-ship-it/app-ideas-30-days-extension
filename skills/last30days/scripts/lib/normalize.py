@@ -53,6 +53,8 @@ def normalize_source_items(
         "xiaohongshu": _normalize_grounding,
         "github": _normalize_github,
         "perplexity": _normalize_grounding,
+        "producthunt": _normalize_producthunt,
+        "xda": _normalize_xda,
     }
     normalizer = normalizers.get(source)
     if normalizer is None:
@@ -368,6 +370,68 @@ def _normalize_hackernews(
             "hn_url": item.get("hn_url"),
             "top_comments": top_comments,
             "comment_insights": item.get("comment_insights") or [],
+        },
+    )
+
+
+def _normalize_producthunt(
+    source: str,
+    item: dict[str, Any],
+    index: int,
+    from_date: str,
+    to_date: str,
+) -> schema.SourceItem:
+    top_comments = item.get("top_comments") or []
+    comment_text = _join_comment_excerpts(top_comments, "text")
+    title = str(item.get("title") or "").strip()
+    body = "\n".join(part for part in [title, str(item.get("text") or "").strip(), comment_text] if part)
+    return _source_item(
+        item_id=str(item.get("id") or f"PH{index + 1}"),
+        source=source,
+        title=title or f"Product Hunt launch {index + 1}",
+        body=body,
+        url=str(item.get("url") or ""),
+        author=str(item.get("author") or ""),
+        container="Product Hunt",
+        published_at=item.get("date"),
+        date_confidence=_date_confidence(item, from_date, to_date, default="high"),
+        engagement=item.get("engagement") or {},
+        relevance_hint=item.get("relevance", 0.5),
+        why_relevant=str(item.get("why_relevant") or ""),
+        snippet=comment_text,
+        metadata={
+            "tagline": item.get("tagline"),
+            "topics": item.get("topics") or [],
+            "top_comments": top_comments,
+        },
+    )
+
+
+def _normalize_xda(
+    source: str,
+    item: dict[str, Any],
+    index: int,
+    from_date: str,
+    to_date: str,
+) -> schema.SourceItem:
+    title = str(item.get("title") or "").strip()
+    body = "\n".join(part for part in [title, str(item.get("text") or "").strip()] if part)
+    return _source_item(
+        item_id=str(item.get("id") or f"XDA{index + 1}"),
+        source=source,
+        title=title or f"XDA thread {index + 1}",
+        body=body,
+        url=str(item.get("url") or ""),
+        author=str(item.get("author") or ""),
+        container="XDA Developers",
+        published_at=item.get("date"),
+        date_confidence=_date_confidence(item, from_date, to_date, default="high"),
+        engagement=item.get("engagement") or {},
+        relevance_hint=item.get("relevance", 0.5),
+        why_relevant=str(item.get("why_relevant") or ""),
+        snippet=str(item.get("text") or "")[:400],
+        metadata={
+            "forum": item.get("forum"),
         },
     )
 
