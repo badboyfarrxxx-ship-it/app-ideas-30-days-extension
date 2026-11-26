@@ -98,33 +98,46 @@ def _parse_feed_xml(text: str, feed_label: str) -> List[Dict[str, Any]]:
         return []
     entries: List[Dict[str, Any]] = []
     for item in root.iter("item"):
-        title = (item.findtext("title") or "").strip()
-        link = (item.findtext("link") or "").strip()
-        if not title or not link:
-            continue
-        content_el = item.find("content:encoded", NS)
-        raw_content = content_el.text if content_el is not None else ""
-        excerpt = _strip_html(raw_content)
-        if not excerpt:
-            excerpt = _strip_html(item.findtext("description") or "")
-        author_el = item.find("dc:creator", NS)
-        author = (author_el.text or "").strip() if author_el is not None else ""
-        comments_el = item.find("slash:comments", NS)
         try:
-            comments = int((comments_el.text or "0").strip())
+            entry = _parse_feed_item(item, feed_label)
+        except Exception as e:
+            _log(f"Skipping malformed {feed_label} entry: {e}")
+            continue
+        if entry is not None:
+            entries.append(entry)
+    return entries
+
+
+def _parse_feed_item(item: ET.Element, feed_label: str) -> Optional[Dict[str, Any]]:
+    """Parse one RSS <item> into a raw entry dict, or None to skip it."""
+    title = (item.findtext("title") or "").strip()
+    link = (item.findtext("link") or "").strip()
+    if not title or not link:
+        return None
+    content_el = item.find("content:encoded", NS)
+    raw_content = content_el.text if content_el is not None else ""
+    excerpt = _strip_html(raw_content)
+    if not excerpt:
+        excerpt = _strip_html(item.findtext("description") or "")
+    author_el = item.find("dc:creator", NS)
+    author = (author_el.text or "").strip() if author_el is not None else ""
+    comments_el = item.find("slash:comments", NS)
+    comments = 0
+    if comments_el is not None and comments_el.text:
+        try:
+            comments = int(comments_el.text.strip())
         except ValueError:
             comments = 0
-        entries.append({
-            "id": _thread_id(link, (item.findtext("guid") or "").strip()),
-            "title": title,
-            "url": link,
-            "author": author,
-            "date": _parse_pub_date((item.findtext("pubDate") or "").strip()),
-            "excerpt": excerpt[:EXCERPT_CHARS],
-            "comments": comments,
-            "forum": feed_label,
-        })
-    return entries
+    return {
+        "id": _thread_id(link, (item.findtext("guid") or "").strip()),
+        "title": title,
+        "url": link,
+        "author": author,
+        "date": _parse_pub_date((item.findtext("pubDate") or "").strip()),
+        "excerpt": excerpt[:EXCERPT_CHARS],
+        "comments": comments,
+        "forum": feed_label,
+    }
 
 
 def search_xda(
