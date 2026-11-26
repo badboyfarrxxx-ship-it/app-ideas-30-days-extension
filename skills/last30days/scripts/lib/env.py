@@ -262,6 +262,7 @@ def get_config() -> dict[str, Any]:
         ('OPENROUTER_API_KEY', None),
         ('PARALLEL_API_KEY', None),
         ('XQUIK_API_KEY', None),
+        ('PRODUCTHUNT_API_TOKEN', None),
         ('FROM_BROWSER', None),
         ('SETUP_COMPLETE', None),
         ('INCLUDE_SOURCES', ''),
@@ -648,3 +649,28 @@ def is_xquik_available(config: dict[str, Any]) -> bool:
 def get_xquik_token(config: dict[str, Any]) -> str:
     """Get Xquik API key."""
     return config.get('XQUIK_API_KEY') or ''
+
+
+# Product Hunt
+def is_producthunt_available(config: dict[str, Any]) -> bool:
+    """Check if Product Hunt source is available.
+
+    Requires PRODUCTHUNT_API_TOKEN (free, non-expiring developer token
+    from https://api.producthunt.com/v2/oauth/applications).
+    """
+    return bool(config.get('PRODUCTHUNT_API_TOKEN'))
+
+
+def get_producthunt_token(config: dict[str, Any]) -> str:
+    """Get Product Hunt developer token."""
+    return config.get('PRODUCTHUNT_API_TOKEN') or ''
+
+
+# XDA Developers
+def is_xda_available() -> bool:
+    """Check if XDA Developers source is available.
+
+    Always returns True - XDA uses public RSS feeds, no key needed.
+    """
+    return True
+
