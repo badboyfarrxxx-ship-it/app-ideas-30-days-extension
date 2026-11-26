@@ -71,6 +71,8 @@ SOURCE_CAPABILITIES = {
     "github": {"discussion", "link"},
     "grounding": {"web", "reference", "link"},
     "perplexity": {"web", "reference", "analysis"},
+    "producthunt": {"link", "discussion"},
+    "xda": {"discussion", "social"},
 }
 DEFAULT_INTENT_CAPABILITIES = {
     "comparison": {"discussion", "video", "web", "reference", "social", "link", "market"},
