@@ -370,9 +370,9 @@ jobs:
             echo "::error::ideas.md does not start with the expected '# Mobile app ideas' heading — refusing to open a PR."
             exit 1
           fi
-        if ! grep -q '^## ' ideas.md; then
-          echo "::error::ideas.md has no idea sections ('## ') — refusing to open a PR."
-          exit 1
+          if ! grep -q '^## ' ideas.md; then
+            echo "::error::ideas.md has no idea sections ('## ') — refusing to open a PR."
+            exit 1
           fi
           DAY=$(date -u +%Y-%m-%d)
           echo "have_ideas=true" >> "$GITHUB_OUTPUT"
