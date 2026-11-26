@@ -303,7 +303,9 @@ jobs:
 
           payload = None
           last_err = ""
-          for attempt in (1, 2, 3):
+          retryable = (429, 500, 502, 503, 504)
+          backoff = (65, 120, 180)
+          for attempt in (1, 2, 3, 4):
               req = urllib.request.Request(url, data=body, headers={
                   "Content-Type": "application/json",
                   "x-goog-api-key": key,
@@ -315,8 +317,8 @@ jobs:
               except urllib.error.HTTPError as e:
                   last_err = e.read().decode("utf-8", "replace")[:2000]
                   print(f"::warning::Gemini API attempt {attempt} failed ({e.code}): {last_err}")
-                  if e.code == 429 and attempt < 3:
-                      time.sleep(65)
+                  if e.code in retryable and attempt < 4:
+                      time.sleep(backoff[attempt - 1])
                       continue
                   print(f"::error::Gemini API request failed ({e.code}): {last_err}")
                   sys.exit(1)
