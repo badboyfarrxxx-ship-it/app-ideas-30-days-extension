@@ -124,6 +124,8 @@ SOURCE_COMPLETION_ORDER = [
     "polymarket",
     "grounding",
     "xiaohongshu",
+    "producthunt",
+    "xda",
 ]
 
 SOURCE_COMPLETION_META = {
@@ -138,6 +140,8 @@ SOURCE_COMPLETION_META = {
     "polymarket": ("Polymarket", "market", "markets", Colors.GREEN),
     "grounding": ("Web", "result", "results", Colors.GREEN),
     "xiaohongshu": ("Xiaohongshu", "post", "posts", Colors.RED),
+    "producthunt": ("Product Hunt", "launch", "launches", Colors.RED),
+    "xda": ("XDA", "thread", "threads", Colors.YELLOW),
 }
 
 
