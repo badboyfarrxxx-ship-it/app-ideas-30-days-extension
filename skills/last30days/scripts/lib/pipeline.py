@@ -26,6 +26,7 @@ from . import (
     pinterest,
     planner,
     polymarket,
+    producthunt,
     providers,
     query,
     reddit,
@@ -39,6 +40,7 @@ from . import (
     tiktok,
     truthsocial,
     xai_x,
+    xda,
     xiaohongshu_api,
     xquik,
     xurl_x,
@@ -69,7 +71,7 @@ MAX_SOURCE_FETCHES: dict[str, int] = {"x": 2, "perplexity": 1}
 # of how many subqueries the planner emits with the source listed. Dedup
 # below uses this set to avoid re-billing identical SC fetches per subquery.
 RAW_TOPIC_BOUND_SOURCES: frozenset[str] = frozenset(
-    {"reddit", "youtube", "tiktok", "instagram"}
+    {"reddit", "youtube", "tiktok", "instagram", "producthunt", "xda"}
 )
 
 # Paid sources that should NOT be auto-retried by _retry_thin_sources when
@@ -94,6 +96,8 @@ MOCK_AVAILABLE_SOURCES = [
     "github",
     "perplexity",
     "xquik",
+    "producthunt",
+    "xda",
 ]
 
 
@@ -139,6 +143,10 @@ def available_sources(config: dict[str, Any], requested_sources: list[str] | Non
         available.append("pinterest")
     if env.is_xquik_available(config):
         available.append("xquik")
+    if env.is_producthunt_available(config):
+        available.append("producthunt")
+    # XDA uses public RSS feeds - always available
+    available.append("xda")
     return available
 
 
@@ -1072,6 +1080,40 @@ def _retrieve_stream(
             token=env.get_xquik_token(config),
         )
         return xquik.parse_xquik_response(result), {}
+    if source == "producthunt":
+        # No keyword search on Product Hunt: the fetch pulls the top
+        # launches in the window regardless of subquery; relevance is
+        # scored in parse. RAW_TOPIC_BOUND_SOURCES collapses this to one
+        # fetch per run.
+        token = env.get_producthunt_token(config)
+        if not token:
+            return [], {}
+        try:
+            result = producthunt.search_producthunt(
+                subquery.search_query, from_date, to_date,
+                depth=depth, token=token,
+            )
+        except Exception as exc:
+            sys.stderr.write(
+                f"[ProductHunt] Search failed ({type(exc).__name__}: {exc})\n"
+            )
+            return [], {}
+        return producthunt.parse_producthunt_response(
+            result, query=(raw_topic or subquery.search_query)), {}
+    if source == "xda":
+        # RSS feeds have no keyword search: fetch the latest entries and
+        # filter locally by the raw topic in parse. Collapsed to one fetch
+        # per run via RAW_TOPIC_BOUND_SOURCES.
+        xda_query = raw_topic or subquery.search_query
+        try:
+            result = xda.search_xda(
+                xda_query, from_date, to_date, depth=depth)
+        except Exception as exc:
+            sys.stderr.write(
+                f"[XDA] Search failed ({type(exc).__name__}: {exc})\n"
+            )
+            return [], {}
+        return xda.parse_xda_response(result, query=xda_query), {}
     raise RuntimeError(f"Unsupported source: {source}")
 
 
