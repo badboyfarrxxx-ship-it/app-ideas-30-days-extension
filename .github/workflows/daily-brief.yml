@@ -292,10 +292,6 @@ jobs:
               prompt = f.read()
           key = os.environ["GEMINI_API_KEY"]
           model = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
-          url = (
-              "https://generativelanguage.googleapis.com/v1beta/models/"
-              f"{model}:generateContent"
-          )
           body = json.dumps({
               "contents": [{"parts": [{"text": prompt}]}],
               "generationConfig": {"temperature": 0.7, "maxOutputTokens": 8192},
@@ -304,30 +300,47 @@ jobs:
           payload = None
           last_err = ""
           retryable = (429, 500, 502, 503, 504)
-          backoff = (65, 120, 180)
-          for attempt in (1, 2, 3, 4):
-              req = urllib.request.Request(url, data=body, headers={
-                  "Content-Type": "application/json",
-                  "x-goog-api-key": key,
-              }, method="POST")
-              try:
-                  with urllib.request.urlopen(req, timeout=300) as resp:
-                      payload = json.load(resp)
-                  break
-              except urllib.error.HTTPError as e:
-                  last_err = e.read().decode("utf-8", "replace")[:2000]
-                  print(f"::warning::Gemini API attempt {attempt} failed ({e.code}): {last_err}")
-                  if e.code in retryable and attempt < 4:
-                      time.sleep(backoff[attempt - 1])
-                      continue
-                  print(f"::error::Gemini API request failed ({e.code}): {last_err}")
-                  sys.exit(1)
-              except Exception as e:
-                  print(f"::error::Gemini API request failed: {e}")
-                  sys.exit(1)
+
+          def try_model(model, max_attempts, backoff):
+              global last_err
+              model_url = (
+                  "https://generativelanguage.googleapis.com/v1beta/models/"
+                  f"{model}:generateContent"
+              )
+              for attempt in range(1, max_attempts + 1):
+                  req = urllib.request.Request(model_url, data=body, headers={
+                      "Content-Type": "application/json",
+                      "x-goog-api-key": key,
+                  }, method="POST")
+                  try:
+                      with urllib.request.urlopen(req, timeout=300) as resp:
+                          return json.load(resp)
+                  except urllib.error.HTTPError as e:
+                      last_err = e.read().decode("utf-8", "replace")[:2000]
+                      print(f"::warning::Gemini API attempt {attempt} for {model} failed ({e.code}): {last_err}")
+                      if e.code in retryable and attempt < max_attempts:
+                          time.sleep(backoff[attempt - 1])
+                          continue
+                      return None
+                  except Exception as e:
+                      last_err = str(e)
+                      print(f"::error::Gemini API request failed: {e}")
+                      return None
+              return None
+
+          primary = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
+          fallback = "gemini-3.5-flash-lite"
+          payload = try_model(primary, 4, (65, 120, 180))
+          used_model = primary
+          if payload is None:
+              print(f"::warning::Primary model {primary} unavailable after retries; trying fallback {fallback}.")
+              payload = try_model(fallback, 2, (65,))
+              used_model = fallback
           if payload is None:
               print(f"::error::Gemini API request failed after retries: {last_err}")
               sys.exit(1)
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as f:
+              f.write(f"model={used_model}\n")
 
           parts = []
           for cand in payload.get("candidates") or []:
@@ -439,7 +452,7 @@ jobs:
 
             Source: rolling 30-day pool from
             `${{ github.repository }}@data`. Synthesized via Gemini
-            (free tier, gemini-3.8-flash).
+            (free tier, ${{ steps.gemini.outputs.model }}).
 
             This PR includes:
             - `ideas/${{ steps.synth.outputs.day }}/ideas.md` — today's ranked ideas
