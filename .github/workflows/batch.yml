@@ -11,6 +11,10 @@ name: Batch — collect signal every 4h
 #   - BRAVE_API_KEY           (Brave web search)
 #   - X auth (AUTH_TOKEN/CT0 or XAI_API_KEY)
 #   - BSKY_HANDLE / BSKY_APP_PASSWORD
+#   - PRODUCTHUNT_API_TOKEN   (Product Hunt GraphQL API v2 developer token;
+#                              free, non-expiring, from
+#                              https://api.producthunt.com/v2/oauth/applications)
+#   - XDA needs no key (public RSS feeds)
 # Missing keys mean that batch's source group runs empty — workflow still
 # succeeds.
 
@@ -107,11 +111,11 @@ jobs:
             esac
           fi
           case "$GROUP" in
-            A) SOURCES=reddit,hackernews ;;
+            A) SOURCES=reddit,hackernews,xda ;;
             B) SOURCES=x,bluesky ;;
             C) SOURCES=youtube ;;
             D) SOURCES=tiktok,instagram ;;
-            E) SOURCES=github ;;  # polymarket dropped: betting markets are not app ideas
+            E) SOURCES=github,producthunt ;;  # polymarket dropped: betting markets are not app ideas
             F) SOURCES=grounding,perplexity ;;
             *) echo "Unknown group $GROUP"; exit 1 ;;
           esac
@@ -143,6 +147,7 @@ jobs:
           OPENROUTER_API_KEY:     ${{ secrets.OPENROUTER_API_KEY }}
           BRAVE_API_KEY:          ${{ secrets.BRAVE_API_KEY }}
           XAI_API_KEY:            ${{ secrets.XAI_API_KEY }}
+PRODUCTHUNT_API_TOKEN:  ${{ secrets.PRODUCTHUNT_API_TOKEN }}
           AUTH_TOKEN:             ${{ secrets.AUTH_TOKEN }}
           CT0:                    ${{ secrets.CT0 }}
           BSKY_HANDLE:            ${{ secrets.BSKY_HANDLE }}
