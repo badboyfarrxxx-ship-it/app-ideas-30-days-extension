@@ -1,0 +1,512 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "deterministic",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"sick of\" app subscription",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://producthunt.com/products/rankspot"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://producthunt.com/products/rankspot"
+      ],
+      "score": 0.0,
+      "sources": [
+        "producthunt"
+      ],
+      "title": "RankSpot: Pay-as-you-go SEO and AI Search execution layer for agents"
+    },
+    {
+      "candidate_ids": [
+        "https://producthunt.com/products/scalekit/launches/scalekit"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://producthunt.com/products/scalekit/launches/scalekit"
+      ],
+      "score": 0.0,
+      "sources": [
+        "producthunt"
+      ],
+      "title": "Scalekit: MCP gateway for production agents that acts on your behalf"
+    },
+    {
+      "candidate_ids": [
+        "https://producthunt.com/products/templify"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://producthunt.com/products/templify"
+      ],
+      "score": 0.0,
+      "sources": [
+        "producthunt"
+      ],
+      "title": "Templify AI: Powerful content editor for people who aren\u2019t editors"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-11-26T04:06:20.529317+00:00",
+  "items_by_source": {
+    "github": [],
+    "producthunt": [
+      {
+        "author": "danshipit",
+        "body": "RankSpot: Pay-as-you-go SEO and AI Search execution layer for agents\nRankSpot is the SEO and AI Search execution layer for agents. Connect the MCP to Claude or ChatGPT in 2 minutes and your agent does the work: it writes articles from what already ranks on Google in 100+ languages, publishes them, and pitches ranking sites from your mailbox for backlinks. Run every client or business from one chat. No subscription: $3 an article, $0.004 a prompt check, reading your data free. Start with $1 of credit and a free article.\n<p>Hey Product Hunt \ud83d\udc4b <br><br>Dan here, co-founder of RankSpot.<br></p><p>Last time we launched, RankSpot only generated content on autopilot. Since then we've onboarded 1,000+ customers, and their feedback shaped our improved product. So we set out to build something no other SEO tool could do, and focused on these things:<br></p><p>1\ufe0f\u20e3 <strong>Execution \u2192 Most SEO tools stop at the data</strong> <p>Congrats on the launch! Does it support Shopify?</p> <p>Running a small web agency, the \"manage multiple clients from one chat\" part is what caught my eye. Can spend caps and scheduled tasks be set per client, so one client's article budget never bleeds into another's? And on WordPress, do articles land as drafts by default? I'd want a human pass on tone before anything goes live under a client's name.</p>",
+        "container": "Product Hunt",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 126,
+          "votes": 471
+        },
+        "engagement_score": 79,
+        "freshness": 82,
+        "item_id": "1316291",
+        "local_rank_score": 0.43350000000000005,
+        "local_relevance": 0.23,
+        "metadata": {
+          "tagline": "Pay-as-you-go SEO and AI Search execution layer for agents",
+          "top_comments": [
+            {
+              "author": "[REDACTED]",
+              "text": "<p>Hey Product Hunt \ud83d\udc4b <br><br>Dan here, co-founder of RankSpot.<br></p><p>Last time we launched, RankSpot only generated content on autopilot. Since then we've onboarded 1,000+ customers, and their feedback shaped our improved product. So we set out to build something no other SEO tool could do, and focused on these things:<br></p><p>1\ufe0f\u20e3 <strong>Execution \u2192 Most SEO tools stop at the data</strong>",
+              "votes": 21
+            },
+            {
+              "author": "[REDACTED]",
+              "text": "<p>Congrats on the launch! Does it support Shopify?</p>",
+              "votes": 1
+            },
+            {
+              "author": "[REDACTED]",
+              "text": "<p>Running a small web agency, the \"manage multiple clients from one chat\" part is what caught my eye. Can spend caps and scheduled tasks be set per client, so one client's article budget never bleeds into another's? And on WordPress, do articles land as drafts by default? I'd want a human pass on tone before anything goes live under a client's name.</p>",
+              "votes": 1
+            }
+          ],
+          "topics": [
+            "Productivity",
+            "Marketing",
+            "SEO"
+          ]
+        },
+        "published_at": "2026-11-17",
+        "relevance_hint": 0.79,
+        "snippet": "<p>Hey Product Hunt \ud83d\udc4b <br><br>Dan here, co-founder of RankSpot.<br></p><p>Last time we launched, RankSpot only generated content on autopilot. Since then we've onboarded 1,000+ customers, and their feedback shaped our improved product. So we set out to build something no other SEO tool could do, and focused on these things:<br></p><p>1\ufe0f\u20e3 <strong>Execution \u2192 Most SEO tools stop at the data</strong> <p>Congrats on the launch! Does it support Shopify?</p> <p>Running a small web agency, the \"manage multiple clients from one chat\" part is what caught my eye. Can spend caps and scheduled tasks be set per client, so one client's article budget never bleeds into another's? And on WordPress, do articles land as drafts by default? I'd want a human pass on tone...",
+        "source": "producthunt",
+        "source_quality": 0.7,
+        "title": "RankSpot: Pay-as-you-go SEO and AI Search execution layer for agents",
+        "url": "https://www.producthunt.com/products/rankspot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+App+ideas+%28ID%3A+324875%29",
+        "why_relevant": "Product Hunt launch: RankSpot: Pay-as-you-go SEO and AI Search execution layer fo"
+      },
+      {
+        "author": "rohanrecommends",
+        "body": "Templify AI: Powerful content editor for people who aren\u2019t editors\nTemplify is an all-in-one video, photo, and carousel editor for iPhone. With 1,200+ designer templates, it turns clips and photos into Reels, TikToks, YouTube Shorts, and collages in minutes, no timeline needed. Features include AI video editing, beat-synced transitions, auto captions, background removal, filters, and an AI Studio. Free to use, with an optional Pro subscription.\n<p>Hey Product Hunt! I'm Yana, co-founder of Templify.<br></p><p>We first launched here in 2022 as an 8-person team in Ukraine, building through incredibly difficult circumstances with just 30 templates and 5 features. Today, Templify has 1M+ downloads, a 4.8 App Store rating, and 3M+ videos created. We're still bootstrapped.<br></p><p><strong>Our mission hasn't changed: to give everyone the oppor <p><a href=\"https://www.producthunt.com/@yana_abazher\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"yana_abazher\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@yana_abazher</a> this is a dream for a marketing exec (also a fellow Ukrainian) running 8000 workflows and focusing on growth with organic content being SO important. My big question when creating content with AI <p>You guys are best in class \ud83e\udd47 obsessed with templify !! </p>",
+        "container": "Product Hunt",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 100,
+          "votes": 419
+        },
+        "engagement_score": 52,
+        "freshness": 73,
+        "item_id": "1293281",
+        "local_rank_score": 0.384,
+        "local_relevance": 0.23,
+        "metadata": {
+          "tagline": "Powerful content editor for people who aren\u2019t editors",
+          "top_comments": [
+            {
+              "author": "[REDACTED]",
+              "text": "<p>Hey Product Hunt! I'm Yana, co-founder of Templify.<br></p><p>We first launched here in 2022 as an 8-person team in Ukraine, building through incredibly difficult circumstances with just 30 templates and 5 features. Today, Templify has 1M+ downloads, a 4.8 App Store rating, and 3M+ videos created. We're still bootstrapped.<br></p><p><strong>Our mission hasn't changed: to give everyone the oppor",
+              "votes": 22
+            },
+            {
+              "author": "[REDACTED]",
+              "text": "<p><a href=\"https://www.producthunt.com/@yana_abazher\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"yana_abazher\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@yana_abazher</a> this is a dream for a marketing exec (also a fellow Ukrainian) running 8000 workflows and focusing on growth with organic content being SO important. My big question when creating content with AI",
+              "votes": 0
+            },
+            {
+              "author": "[REDACTED]",
+              "text": "<p>You guys are best in class \ud83e\udd47 obsessed with templify !! </p>",
+              "votes": 1
+            }
+          ],
+          "topics": [
+            "Social Media",
+            "Photography",
+            "Photo & Video"
+          ]
+        },
+        "published_at": "2026-11-13",
+        "relevance_hint": 0.7,
+        "snippet": "<p>Hey Product Hunt! I'm Yana, co-founder of Templify.<br></p><p>We first launched here in 2022 as an 8-person team in Ukraine, building through incredibly difficult circumstances with just 30 templates and 5 features. Today, Templify has 1M+ downloads, a 4.8 App Store rating, and 3M+ videos created. We're still bootstrapped.<br></p><p><strong>Our mission hasn't changed: to give everyone the oppor <p><a href=\"https://www.producthunt.com/@yana_abazher\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"yana_abazher\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@yana_abazher</a> this is a dream for a marketing exec (also a fellow Ukrainian) running 8000 workflows and focusing on growth with organic content being SO important. My big question when creating content with AI <p>You guys are best in class \ud83e\udd47 obsessed with templify !! </p>",
+        "source": "producthunt",
+        "source_quality": 0.7,
+        "title": "Templify AI: Powerful content editor for people who aren\u2019t editors",
+        "url": "https://www.producthunt.com/products/templify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+App+ideas+%28ID%3A+324875%29",
+        "why_relevant": "Product Hunt launch: Templify AI: Powerful content editor for people who aren\u2019t e"
+      },
+      {
+        "author": "fmerian",
+        "body": "Scalekit: MCP gateway for production agents that acts on your behalf\nLet your agents use 30,000+ tools across 600+ apps, from Salesforce to GitHub, through one MCP gateway. AgentKit handles auth and integrations, so every action runs as the user who asked, within the scopes they granted. Give each agent only the tools its job needs with Virtual MCP Servers. Add internal APIs as custom connectors. Use Triggers to start an agent the moment an email lands. Built for developers taking agents to production: every call is logged. Free tier: 10,000 tool calls a month.\n<p>Hey Product Hunt,</p><p><br>I'm Ravi, co-founder of Scalekit. Today we're launching AgentKit, an MCP gateway that handles auth and tool-calling for AI agents in production.</p><p><br><strong>Why now?</strong> Over the last year, wiring an agent to a tool got easy. MCP standardized the interface, and any agent can now call Gmail or Salesforce after an afternoon of work.<br><br>But the tool call <p>Great team and great support.</p><p>The product has saved us substantial time and was very easy to integrate </p> <p>Incredibly easy to setup and get started with. Helped out by all of the tooling the provide to work well with agents out of the box. The founders and team are great as well. </p>",
+        "container": "Product Hunt",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 104,
+          "votes": 447
+        },
+        "engagement_score": 61,
+        "freshness": 53,
+        "item_id": "1279115",
+        "local_rank_score": 0.3105,
+        "local_relevance": 0.18,
+        "metadata": {
+          "tagline": "MCP gateway for production agents that acts on your behalf",
+          "top_comments": [
+            {
+              "author": "[REDACTED]",
+              "text": "<p>Hey Product Hunt,</p><p><br>I'm Ravi, co-founder of Scalekit. Today we're launching AgentKit, an MCP gateway that handles auth and tool-calling for AI agents in production.</p><p><br><strong>Why now?</strong> Over the last year, wiring an agent to a tool got easy. MCP standardized the interface, and any agent can now call Gmail or Salesforce after an afternoon of work.<br><br>But the tool call ",
+              "votes": 33
+            },
+            {
+              "author": "[REDACTED]",
+              "text": "<p>Great team and great support.</p><p>The product has saved us substantial time and was very easy to integrate </p>",
+              "votes": 0
+            },
+            {
+              "author": "[REDACTED]",
+              "text": "<p>Incredibly easy to setup and get started with. Helped out by all of the tooling the provide to work well with agents out of the box. The founders and team are great as well. </p>",
+              "votes": 0
+            }
+          ],
+          "topics": [
+            "API",
+            "Developer Tools"
+          ]
+        },
+        "published_at": "2026-11-03",
+        "relevance_hint": 0.67,
+        "snippet": "<p>Hey Product Hunt,</p><p><br>I'm Ravi, co-founder of Scalekit. Today we're launching AgentKit, an MCP gateway that handles auth and tool-calling for AI agents in production.</p><p><br><strong>Why now?</strong> Over the last year, wiring an agent to a tool got easy. MCP standardized the interface, and any agent can now call Gmail or Salesforce after an afternoon of work.<br><br>But the tool call <p>Great team and great support.</p><p>The product has saved us substantial time and was very easy to integrate </p> <p>Incredibly easy to setup and get started with. Helped out by all of the tooling the provide to work well with agents out of the box. The founders and team are great as well. </p>",
+        "source": "producthunt",
+        "source_quality": 0.7,
+        "title": "Scalekit: MCP gateway for production agents that acts on your behalf",
+        "url": "https://www.producthunt.com/products/scalekit/launches/scalekit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+App+ideas+%28ID%3A+324875%29",
+        "why_relevant": "Product Hunt launch: Scalekit: MCP gateway for production agents that acts on you"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "evergreen_ok",
+    "intent": "concept",
+    "notes": [
+      "fallback-plan (LLM error: HTTPError)"
+    ],
+    "raw_topic": "\"sick of\" app subscription",
+    "source_weights": {
+      "github": 0.5,
+      "producthunt": 0.5
+    },
+    "subqueries": [
+      {
+        "label": "primary",
+        "ranking_query": "What recent evidence from the last 30 days is most relevant to \"sick of\" app subscription?",
+        "search_query": "\"sick of\" app subscription",
+        "sources": [
+          "github",
+          "producthunt"
+        ],
+        "weight": 1.0
+      }
+    ]
+  },
+  "range_from": "2026-10-27",
+  "range_to": "2026-11-26",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://producthunt.com/products/rankspot",
+      "cluster_id": "cluster-1",
+      "engagement": 79,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 82,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 40,
+      "item_id": "1316291",
+      "local_relevance": 0.23,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "1316291",
+            "native_rank": 1,
+            "source": "producthunt",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:producthunt": 1
+      },
+      "rerank_score": 14.5,
+      "rrf_score": 0.00819672131147541,
+      "snippet": "<p>Hey Product Hunt \ud83d\udc4b <br><br>Dan here, co-founder of RankSpot.<br></p><p>Last time we launched, RankSpot only generated content on autopilot. Since then we've onboarded 1,000+ customers, and their feedback shaped our improved product. So we set out to build something no other SEO tool could do, and focused on these things:<br></p><p>1\ufe0f\u20e3 <strong>Execution \u2192 Most SEO tools stop at the data</strong> <p>Congrats on the launch! Does it support Shopify?</p> <p>Running a small web agency, the \"manage multiple clients from one chat\" part is what caught my eye. Can spend caps and scheduled tasks be set per client, so one client's article budget never bleeds into another's? And on WordPress, do articles land as drafts by default? I'd want a human pass on tone...",
+      "source": "producthunt",
+      "source_items": [
+        {
+          "author": "danshipit",
+          "body": "RankSpot: Pay-as-you-go SEO and AI Search execution layer for agents\nRankSpot is the SEO and AI Search execution layer for agents. Connect the MCP to Claude or ChatGPT in 2 minutes and your agent does the work: it writes articles from what already ranks on Google in 100+ languages, publishes them, and pitches ranking sites from your mailbox for backlinks. Run every client or business from one chat. No subscription: $3 an article, $0.004 a prompt check, reading your data free. Start with $1 of credit and a free article.\n<p>Hey Product Hunt \ud83d\udc4b <br><br>Dan here, co-founder of RankSpot.<br></p><p>Last time we launched, RankSpot only generated content on autopilot. Since then we've onboarded 1,000+ customers, and their feedback shaped our improved product. So we set out to build something no other SEO tool could do, and focused on these things:<br></p><p>1\ufe0f\u20e3 <strong>Execution \u2192 Most SEO tools stop at the data</strong> <p>Congrats on the launch! Does it support Shopify?</p> <p>Running a small web agency, the \"manage multiple clients from one chat\" part is what caught my eye. Can spend caps and scheduled tasks be set per client, so one client's article budget never bleeds into another's? And on WordPress, do articles land as drafts by default? I'd want a human pass on tone before anything goes live under a client's name.</p>",
+          "container": "Product Hunt",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 126,
+            "votes": 471
+          },
+          "engagement_score": 79,
+          "freshness": 82,
+          "item_id": "1316291",
+          "local_rank_score": 0.43350000000000005,
+          "local_relevance": 0.23,
+          "metadata": {
+            "tagline": "Pay-as-you-go SEO and AI Search execution layer for agents",
+            "top_comments": [
+              {
+                "author": "[REDACTED]",
+                "text": "<p>Hey Product Hunt \ud83d\udc4b <br><br>Dan here, co-founder of RankSpot.<br></p><p>Last time we launched, RankSpot only generated content on autopilot. Since then we've onboarded 1,000+ customers, and their feedback shaped our improved product. So we set out to build something no other SEO tool could do, and focused on these things:<br></p><p>1\ufe0f\u20e3 <strong>Execution \u2192 Most SEO tools stop at the data</strong>",
+                "votes": 21
+              },
+              {
+                "author": "[REDACTED]",
+                "text": "<p>Congrats on the launch! Does it support Shopify?</p>",
+                "votes": 1
+              },
+              {
+                "author": "[REDACTED]",
+                "text": "<p>Running a small web agency, the \"manage multiple clients from one chat\" part is what caught my eye. Can spend caps and scheduled tasks be set per client, so one client's article budget never bleeds into another's? And on WordPress, do articles land as drafts by default? I'd want a human pass on tone before anything goes live under a client's name.</p>",
+                "votes": 1
+              }
+            ],
+            "topics": [
+              "Productivity",
+              "Marketing",
+              "SEO"
+            ]
+          },
+          "published_at": "2026-11-17",
+          "relevance_hint": 0.79,
+          "snippet": "<p>Hey Product Hunt \ud83d\udc4b <br><br>Dan here, co-founder of RankSpot.<br></p><p>Last time we launched, RankSpot only generated content on autopilot. Since then we've onboarded 1,000+ customers, and their feedback shaped our improved product. So we set out to build something no other SEO tool could do, and focused on these things:<br></p><p>1\ufe0f\u20e3 <strong>Execution \u2192 Most SEO tools stop at the data</strong> <p>Congrats on the launch! Does it support Shopify?</p> <p>Running a small web agency, the \"manage multiple clients from one chat\" part is what caught my eye. Can spend caps and scheduled tasks be set per client, so one client's article budget never bleeds into another's? And on WordPress, do articles land as drafts by default? I'd want a human pass on tone...",
+          "source": "producthunt",
+          "source_quality": 0.7,
+          "title": "RankSpot: Pay-as-you-go SEO and AI Search execution layer for agents",
+          "url": "https://www.producthunt.com/products/rankspot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+App+ideas+%28ID%3A+324875%29",
+          "why_relevant": "Product Hunt launch: RankSpot: Pay-as-you-go SEO and AI Search execution layer fo"
+        }
+      ],
+      "source_quality": 0.7,
+      "sources": [
+        "producthunt"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "RankSpot: Pay-as-you-go SEO and AI Search execution layer for agents",
+      "url": "https://www.producthunt.com/products/rankspot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+App+ideas+%28ID%3A+324875%29"
+    },
+    {
+      "candidate_id": "https://producthunt.com/products/scalekit/launches/scalekit",
+      "cluster_id": "cluster-2",
+      "engagement": 61,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 53,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 40,
+      "item_id": "1279115",
+      "local_relevance": 0.18,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "1279115",
+            "native_rank": 3,
+            "source": "producthunt",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:producthunt": 3
+      },
+      "rerank_score": 5.200000000000003,
+      "rrf_score": 0.007936507936507936,
+      "snippet": "<p>Hey Product Hunt,</p><p><br>I'm Ravi, co-founder of Scalekit. Today we're launching AgentKit, an MCP gateway that handles auth and tool-calling for AI agents in production.</p><p><br><strong>Why now?</strong> Over the last year, wiring an agent to a tool got easy. MCP standardized the interface, and any agent can now call Gmail or Salesforce after an afternoon of work.<br><br>But the tool call <p>Great team and great support.</p><p>The product has saved us substantial time and was very easy to integrate </p> <p>Incredibly easy to setup and get started with. Helped out by all of the tooling the provide to work well with agents out of the box. The founders and team are great as well. </p>",
+      "source": "producthunt",
+      "source_items": [
+        {
+          "author": "fmerian",
+          "body": "Scalekit: MCP gateway for production agents that acts on your behalf\nLet your agents use 30,000+ tools across 600+ apps, from Salesforce to GitHub, through one MCP gateway. AgentKit handles auth and integrations, so every action runs as the user who asked, within the scopes they granted. Give each agent only the tools its job needs with Virtual MCP Servers. Add internal APIs as custom connectors. Use Triggers to start an agent the moment an email lands. Built for developers taking agents to production: every call is logged. Free tier: 10,000 tool calls a month.\n<p>Hey Product Hunt,</p><p><br>I'm Ravi, co-founder of Scalekit. Today we're launching AgentKit, an MCP gateway that handles auth and tool-calling for AI agents in production.</p><p><br><strong>Why now?</strong> Over the last year, wiring an agent to a tool got easy. MCP standardized the interface, and any agent can now call Gmail or Salesforce after an afternoon of work.<br><br>But the tool call <p>Great team and great support.</p><p>The product has saved us substantial time and was very easy to integrate </p> <p>Incredibly easy to setup and get started with. Helped out by all of the tooling the provide to work well with agents out of the box. The founders and team are great as well. </p>",
+          "container": "Product Hunt",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 104,
+            "votes": 447
+          },
+          "engagement_score": 61,
+          "freshness": 53,
+          "item_id": "1279115",
+          "local_rank_score": 0.3105,
+          "local_relevance": 0.18,
+          "metadata": {
+            "tagline": "MCP gateway for production agents that acts on your behalf",
+            "top_comments": [
+              {
+                "author": "[REDACTED]",
+                "text": "<p>Hey Product Hunt,</p><p><br>I'm Ravi, co-founder of Scalekit. Today we're launching AgentKit, an MCP gateway that handles auth and tool-calling for AI agents in production.</p><p><br><strong>Why now?</strong> Over the last year, wiring an agent to a tool got easy. MCP standardized the interface, and any agent can now call Gmail or Salesforce after an afternoon of work.<br><br>But the tool call ",
+                "votes": 33
+              },
+              {
+                "author": "[REDACTED]",
+                "text": "<p>Great team and great support.</p><p>The product has saved us substantial time and was very easy to integrate </p>",
+                "votes": 0
+              },
+              {
+                "author": "[REDACTED]",
+                "text": "<p>Incredibly easy to setup and get started with. Helped out by all of the tooling the provide to work well with agents out of the box. The founders and team are great as well. </p>",
+                "votes": 0
+              }
+            ],
+            "topics": [
+              "API",
+              "Developer Tools"
+            ]
+          },
+          "published_at": "2026-11-03",
+          "relevance_hint": 0.67,
+          "snippet": "<p>Hey Product Hunt,</p><p><br>I'm Ravi, co-founder of Scalekit. Today we're launching AgentKit, an MCP gateway that handles auth and tool-calling for AI agents in production.</p><p><br><strong>Why now?</strong> Over the last year, wiring an agent to a tool got easy. MCP standardized the interface, and any agent can now call Gmail or Salesforce after an afternoon of work.<br><br>But the tool call <p>Great team and great support.</p><p>The product has saved us substantial time and was very easy to integrate </p> <p>Incredibly easy to setup and get started with. Helped out by all of the tooling the provide to work well with agents out of the box. The founders and team are great as well. </p>",
+          "source": "producthunt",
+          "source_quality": 0.7,
+          "title": "Scalekit: MCP gateway for production agents that acts on your behalf",
+          "url": "https://www.producthunt.com/products/scalekit/launches/scalekit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+App+ideas+%28ID%3A+324875%29",
+          "why_relevant": "Product Hunt launch: Scalekit: MCP gateway for production agents that acts on you"
+        }
+      ],
+      "source_quality": 0.7,
+      "sources": [
+        "producthunt"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Scalekit: MCP gateway for production agents that acts on your behalf",
+      "url": "https://www.producthunt.com/products/scalekit/launches/scalekit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+App+ideas+%28ID%3A+324875%29"
+    },
+    {
+      "candidate_id": "https://producthunt.com/products/templify",
+      "cluster_id": "cluster-3",
+      "engagement": 52,
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 73,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 40,
+      "item_id": "1293281",
+      "local_relevance": 0.23,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "1293281",
+            "native_rank": 2,
+            "source": "producthunt",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:producthunt": 2
+      },
+      "rerank_score": 12.700000000000003,
+      "rrf_score": 0.008064516129032258,
+      "snippet": "<p>Hey Product Hunt! I'm Yana, co-founder of Templify.<br></p><p>We first launched here in 2022 as an 8-person team in Ukraine, building through incredibly difficult circumstances with just 30 templates and 5 features. Today, Templify has 1M+ downloads, a 4.8 App Store rating, and 3M+ videos created. We're still bootstrapped.<br></p><p><strong>Our mission hasn't changed: to give everyone the oppor <p><a href=\"https://www.producthunt.com/@yana_abazher\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"yana_abazher\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@yana_abazher</a> this is a dream for a marketing exec (also a fellow Ukrainian) running 8000 workflows and focusing on growth with organic content being SO important. My big question when creating content with AI <p>You guys are best in class \ud83e\udd47 obsessed with templify !! </p>",
+      "source": "producthunt",
+      "source_items": [
+        {
+          "author": "rohanrecommends",
+          "body": "Templify AI: Powerful content editor for people who aren\u2019t editors\nTemplify is an all-in-one video, photo, and carousel editor for iPhone. With 1,200+ designer templates, it turns clips and photos into Reels, TikToks, YouTube Shorts, and collages in minutes, no timeline needed. Features include AI video editing, beat-synced transitions, auto captions, background removal, filters, and an AI Studio. Free to use, with an optional Pro subscription.\n<p>Hey Product Hunt! I'm Yana, co-founder of Templify.<br></p><p>We first launched here in 2022 as an 8-person team in Ukraine, building through incredibly difficult circumstances with just 30 templates and 5 features. Today, Templify has 1M+ downloads, a 4.8 App Store rating, and 3M+ videos created. We're still bootstrapped.<br></p><p><strong>Our mission hasn't changed: to give everyone the oppor <p><a href=\"https://www.producthunt.com/@yana_abazher\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"yana_abazher\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@yana_abazher</a> this is a dream for a marketing exec (also a fellow Ukrainian) running 8000 workflows and focusing on growth with organic content being SO important. My big question when creating content with AI <p>You guys are best in class \ud83e\udd47 obsessed with templify !! </p>",
+          "container": "Product Hunt",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 100,
+            "votes": 419
+          },
+          "engagement_score": 52,
+          "freshness": 73,
+          "item_id": "1293281",
+          "local_rank_score": 0.384,
+          "local_relevance": 0.23,
+          "metadata": {
+            "tagline": "Powerful content editor for people who aren\u2019t editors",
+            "top_comments": [
+              {
+                "author": "[REDACTED]",
+                "text": "<p>Hey Product Hunt! I'm Yana, co-founder of Templify.<br></p><p>We first launched here in 2022 as an 8-person team in Ukraine, building through incredibly difficult circumstances with just 30 templates and 5 features. Today, Templify has 1M+ downloads, a 4.8 App Store rating, and 3M+ videos created. We're still bootstrapped.<br></p><p><strong>Our mission hasn't changed: to give everyone the oppor",
+                "votes": 22
+              },
+              {
+                "author": "[REDACTED]",
+                "text": "<p><a href=\"https://www.producthunt.com/@yana_abazher\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"yana_abazher\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@yana_abazher</a> this is a dream for a marketing exec (also a fellow Ukrainian) running 8000 workflows and focusing on growth with organic content being SO important. My big question when creating content with AI",
+                "votes": 0
+              },
+              {
+                "author": "[REDACTED]",
+                "text": "<p>You guys are best in class \ud83e\udd47 obsessed with templify !! </p>",
+                "votes": 1
+              }
+            ],
+            "topics": [
+              "Social Media",
+              "Photography",
+              "Photo & Video"
+            ]
+          },
+          "published_at": "2026-11-13",
+          "relevance_hint": 0.7,
+          "snippet": "<p>Hey Product Hunt! I'm Yana, co-founder of Templify.<br></p><p>We first launched here in 2022 as an 8-person team in Ukraine, building through incredibly difficult circumstances with just 30 templates and 5 features. Today, Templify has 1M+ downloads, a 4.8 App Store rating, and 3M+ videos created. We're still bootstrapped.<br></p><p><strong>Our mission hasn't changed: to give everyone the oppor <p><a href=\"https://www.producthunt.com/@yana_abazher\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"yana_abazher\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@yana_abazher</a> this is a dream for a marketing exec (also a fellow Ukrainian) running 8000 workflows and focusing on growth with organic content being SO important. My big question when creating content with AI <p>You guys are best in class \ud83e\udd47 obsessed with templify !! </p>",
+          "source": "producthunt",
+          "source_quality": 0.7,
+          "title": "Templify AI: Powerful content editor for people who aren\u2019t editors",
+          "url": "https://www.producthunt.com/products/templify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+App+ideas+%28ID%3A+324875%29",
+          "why_relevant": "Product Hunt launch: Templify AI: Powerful content editor for people who aren\u2019t e"
+        }
+      ],
+      "source_quality": 0.7,
+      "sources": [
+        "producthunt"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Templify AI: Powerful content editor for people who aren\u2019t editors",
+      "url": "https://www.producthunt.com/products/templify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+App+ideas+%28ID%3A+324875%29"
+    }
+  ],
+  "topic": "\"sick of\" app subscription",
+  "warnings": [
+    "Evidence is thin for this topic.",
+    "Top evidence is highly concentrated in one source."
+  ]
+}
