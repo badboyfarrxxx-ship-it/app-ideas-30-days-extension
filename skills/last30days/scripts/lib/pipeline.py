@@ -1098,6 +1098,11 @@ def _retrieve_stream(
                 f"[ProductHunt] Search failed ({type(exc).__name__}: {exc})\n"
             )
             return [], {}
+        if result.get("error"):
+            # Surface API/GraphQL failures in the batch stderr log — the
+            # module's own logging is TTY-gated and invisible in CI, so
+            # without this a rejected query or bad token fails silently.
+            sys.stderr.write(f"[ProductHunt] {result['error']}\n")
         return producthunt.parse_producthunt_response(
             result, query=(raw_topic or subquery.search_query)), {}
     if source == "xda":
