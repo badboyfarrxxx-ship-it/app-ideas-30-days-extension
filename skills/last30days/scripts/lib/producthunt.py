@@ -69,7 +69,7 @@ query Posts($first: Int!, $postedAfter: DateTime, $postedBefore: DateTime) {
           name
           username
         }
-        comments(first: 3, order: VOTES) {
+        comments(first: 3) {
           edges {
             node {
               body
