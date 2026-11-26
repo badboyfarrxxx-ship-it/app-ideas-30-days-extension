@@ -152,7 +152,7 @@ jobs:
         if: steps.brief.outputs.have_brief == 'true'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: gemini-3.8-flash
+          GEMINI_MODEL: gemini-3.5-flash-lite
         run: |
           set -euo pipefail
           # Gemini cannot read files, so the evidence brief is inlined
@@ -291,7 +291,7 @@ jobs:
           with open(prompt_path, encoding="utf-8") as f:
               prompt = f.read()
           key = os.environ["GEMINI_API_KEY"]
-          model = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
+          model = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash-lite")
           body = json.dumps({
               "contents": [{"parts": [{"text": prompt}]}],
               "generationConfig": {"temperature": 0.7, "maxOutputTokens": 8192},
@@ -328,8 +328,8 @@ jobs:
                       return None
               return None
 
-          primary = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
-          fallback = "gemini-3.5-flash-lite"
+          primary = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash-lite")
+          fallback = "gemini-3.8-flash"
           payload = try_model(primary, 4, (65, 120, 180))
           used_model = primary
           if payload is None:
