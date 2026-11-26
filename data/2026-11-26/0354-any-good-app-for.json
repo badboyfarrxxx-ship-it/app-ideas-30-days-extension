@@ -1,0 +1,167 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "deterministic",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"any good app for\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://xda-developers.com/switchbot-smart-lock-ultra-with-keypad-is-at-its-all-time-low-of-12599"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://xda-developers.com/switchbot-smart-lock-ultra-with-keypad-is-at-its-all-time-low-of-12599"
+      ],
+      "score": 0.0,
+      "sources": [
+        "xda"
+      ],
+      "title": "The SwitchBot Smart Lock Ultra with Keypad is at its all-time low of $125.99"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-11-26T03:54:55.770454+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": [],
+    "xda": [
+      {
+        "author": "XDA Deals Desk",
+        "body": "The SwitchBot Smart Lock Ultra with Keypad is at its all-time low of $125.99\nSmart locks with fingerprint readers have been a mid-price premium tier for a while, and most of the options in that range either skip the keypad, skip the app, or require a hub that adds another $30 to the bill.",
+        "container": "XDA Developers",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 0
+        },
+        "freshness": 97,
+        "item_id": "https://www.xda-developers.com/switchbot-smart-lock-ultra-with-keypad-is-at-its-all-time-low-of-12599/",
+        "local_rank_score": 0.3725,
+        "local_relevance": 0.2,
+        "metadata": {
+          "forum": "XDA Portal"
+        },
+        "published_at": "2026-11-25",
+        "relevance_hint": 0.24,
+        "snippet": "Smart locks with fingerprint readers have been a mid-price premium tier for a while, and most of the options in that range either skip the keypad, skip the app, or require a hub that adds another $30 to the bill.",
+        "source": "xda",
+        "source_quality": 0.8,
+        "title": "The SwitchBot Smart Lock Ultra with Keypad is at its all-time low of $125.99",
+        "url": "https://www.xda-developers.com/switchbot-smart-lock-ultra-with-keypad-is-at-its-all-time-low-of-12599/",
+        "why_relevant": "XDA thread about The SwitchBot Smart Lock Ultra with Keypad is at its all-tim"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "evergreen_ok",
+    "intent": "concept",
+    "notes": [
+      "fallback-plan (LLM error: HTTPError)"
+    ],
+    "raw_topic": "\"any good app for\"",
+    "source_weights": {
+      "hackernews": 0.3333333333333333,
+      "reddit": 0.3333333333333333,
+      "xda": 0.3333333333333333
+    },
+    "subqueries": [
+      {
+        "label": "primary",
+        "ranking_query": "What recent evidence from the last 30 days is most relevant to \"any good app for\", especially about \"any app for\"?",
+        "search_query": "\"any app for\"",
+        "sources": [
+          "reddit",
+          "hackernews",
+          "xda"
+        ],
+        "weight": 1.0
+      }
+    ]
+  },
+  "range_from": "2026-10-27",
+  "range_to": "2026-11-26",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://xda-developers.com/switchbot-smart-lock-ultra-with-keypad-is-at-its-all-time-low-of-12599",
+      "cluster_id": "cluster-1",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 97,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "https://www.xda-developers.com/switchbot-smart-lock-ultra-with-keypad-is-at-its-all-time-low-of-12599/",
+      "local_relevance": 0.2,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "https://www.xda-developers.com/switchbot-smart-lock-ultra-with-keypad-is-at-its-all-time-low-of-12599/",
+            "native_rank": 1,
+            "source": "xda",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:xda": 1
+      },
+      "rerank_score": 16.400000000000006,
+      "rrf_score": 0.00546448087431694,
+      "snippet": "Smart locks with fingerprint readers have been a mid-price premium tier for a while, and most of the options in that range either skip the keypad, skip the app, or require a hub that adds another $30 to the bill.",
+      "source": "xda",
+      "source_items": [
+        {
+          "author": "XDA Deals Desk",
+          "body": "The SwitchBot Smart Lock Ultra with Keypad is at its all-time low of $125.99\nSmart locks with fingerprint readers have been a mid-price premium tier for a while, and most of the options in that range either skip the keypad, skip the app, or require a hub that adds another $30 to the bill.",
+          "container": "XDA Developers",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 0
+          },
+          "freshness": 97,
+          "item_id": "https://www.xda-developers.com/switchbot-smart-lock-ultra-with-keypad-is-at-its-all-time-low-of-12599/",
+          "local_rank_score": 0.3725,
+          "local_relevance": 0.2,
+          "metadata": {
+            "forum": "XDA Portal"
+          },
+          "published_at": "2026-11-25",
+          "relevance_hint": 0.24,
+          "snippet": "Smart locks with fingerprint readers have been a mid-price premium tier for a while, and most of the options in that range either skip the keypad, skip the app, or require a hub that adds another $30 to the bill.",
+          "source": "xda",
+          "source_quality": 0.8,
+          "title": "The SwitchBot Smart Lock Ultra with Keypad is at its all-time low of $125.99",
+          "url": "https://www.xda-developers.com/switchbot-smart-lock-ultra-with-keypad-is-at-its-all-time-low-of-12599/",
+          "why_relevant": "XDA thread about The SwitchBot Smart Lock Ultra with Keypad is at its all-tim"
+        }
+      ],
+      "source_quality": 0.8,
+      "sources": [
+        "xda"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "The SwitchBot Smart Lock Ultra with Keypad is at its all-time low of $125.99",
+      "url": "https://www.xda-developers.com/switchbot-smart-lock-ultra-with-keypad-is-at-its-all-time-low-of-12599/"
+    }
+  ],
+  "topic": "\"any good app for\"",
+  "warnings": [
+    "Evidence is thin for this topic."
+  ]
+}

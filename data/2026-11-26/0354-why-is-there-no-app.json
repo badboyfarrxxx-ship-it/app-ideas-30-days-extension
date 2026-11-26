@@ -1,0 +1,370 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "deterministic",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"why is there no app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://xda-developers.com/switchbot-smart-lock-ultra-with-keypad-is-at-its-all-time-low-of-12599"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://xda-developers.com/switchbot-smart-lock-ultra-with-keypad-is-at-its-all-time-low-of-12599"
+      ],
+      "score": 0.0,
+      "sources": [
+        "xda"
+      ],
+      "title": "The SwitchBot Smart Lock Ultra with Keypad is at its all-time low of $125.99"
+    },
+    {
+      "candidate_ids": [
+        "https://xda-developers.com/vibe-coded-my-own-productivity-tools-to-replace-software-i-use-daily"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://xda-developers.com/vibe-coded-my-own-productivity-tools-to-replace-software-i-use-daily"
+      ],
+      "score": 0.0,
+      "sources": [
+        "xda"
+      ],
+      "title": "I vibe-coded my own productivity tools to replace the software I used every day"
+    },
+    {
+      "candidate_ids": [
+        "https://xda-developers.com/home-assistant-now-has-a-built-in-store-for-community-integrations"
+      ],
+      "cluster_id": "cluster-3",
+      "representative_ids": [
+        "https://xda-developers.com/home-assistant-now-has-a-built-in-store-for-community-integrations"
+      ],
+      "score": 0.0,
+      "sources": [
+        "xda"
+      ],
+      "title": "Home Assistant now has a built-in store for community integrations, and these are the 4 I'd install first"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-11-26T03:54:52.268338+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": [],
+    "xda": [
+      {
+        "author": "XDA Deals Desk",
+        "body": "The SwitchBot Smart Lock Ultra with Keypad is at its all-time low of $125.99\nSmart locks with fingerprint readers have been a mid-price premium tier for a while, and most of the options in that range either skip the keypad, skip the app, or require a hub that adds another $30 to the bill.",
+        "container": "XDA Developers",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 0
+        },
+        "freshness": 97,
+        "item_id": "https://www.xda-developers.com/switchbot-smart-lock-ultra-with-keypad-is-at-its-all-time-low-of-12599/",
+        "local_rank_score": 0.3725,
+        "local_relevance": 0.2,
+        "metadata": {
+          "forum": "XDA Portal"
+        },
+        "published_at": "2026-11-25",
+        "relevance_hint": 0.24,
+        "snippet": "Smart locks with fingerprint readers have been a mid-price premium tier for a while, and most of the options in that range either skip the keypad, skip the app, or require a hub that adds another $30 to the bill.",
+        "source": "xda",
+        "source_quality": 0.8,
+        "title": "The SwitchBot Smart Lock Ultra with Keypad is at its all-time low of $125.99",
+        "url": "https://www.xda-developers.com/switchbot-smart-lock-ultra-with-keypad-is-at-its-all-time-low-of-12599/",
+        "why_relevant": "XDA thread about The SwitchBot Smart Lock Ultra with Keypad is at its all-tim"
+      },
+      {
+        "author": "Yash Patel",
+        "body": "I vibe-coded my own productivity tools to replace the software I used every day\nI've always found it frustrating when a software tool almost fits my needs but misses a few things that matter to my workflow. Adding another subscription or switching between multiple apps isn't always the answer. With AI coding assistants, there's now another option: building the tools myself. I experimented with this approach and created a handful of small applications and browser extensions to handle everyday tasks using Claude Code (Opus 5.5). Some turned out more useful than I expected.",
+        "container": "XDA Developers",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 0
+        },
+        "freshness": 97,
+        "item_id": "https://www.xda-developers.com/vibe-coded-my-own-productivity-tools-to-replace-software-i-use-daily/",
+        "local_rank_score": 0.2945,
+        "local_relevance": 0.08,
+        "metadata": {
+          "forum": "XDA Portal"
+        },
+        "published_at": "2026-11-25",
+        "relevance_hint": 0.24,
+        "snippet": "I've always found it frustrating when a software tool almost fits my needs but misses a few things that matter to my workflow. Adding another subscription or switching between multiple apps isn't always the answer. With AI coding assistants, there's now another option: building the tools myself. I experimented with this approach and created a handful of small applications and browser extensions to",
+        "source": "xda",
+        "source_quality": 0.8,
+        "title": "I vibe-coded my own productivity tools to replace the software I used every day",
+        "url": "https://www.xda-developers.com/vibe-coded-my-own-productivity-tools-to-replace-software-i-use-daily/",
+        "why_relevant": "XDA thread about I vibe-coded my own productivity tools to replace the softwa"
+      },
+      {
+        "author": "Ayush Pande",
+        "body": "Home Assistant now has a built-in store for community integrations, and these are the 4 I'd install first\nAlthough Home Assistant is already loaded with all sorts of cool features, the Open Home Foundation keeps releasing monthly updates to bolster its functionality even further. The March 2026 update, for example, brought voice satellite support to the HASS Companion app on phones, making it a lot easier to build locally-hosted voice-controlled assistants. Likewise, the August update enhanced Home Assistant\u2019s LLM conversation elements, while the April 2026 release brought native infrared support and IR proxies to the platform.",
+        "container": "XDA Developers",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 0
+        },
+        "freshness": 97,
+        "item_id": "https://www.xda-developers.com/home-assistant-now-has-a-built-in-store-for-community-integrations/",
+        "local_rank_score": 0.2425,
+        "local_relevance": 0.0,
+        "metadata": {
+          "forum": "XDA Portal"
+        },
+        "published_at": "2026-11-25",
+        "relevance_hint": 0.24,
+        "snippet": "Although Home Assistant is already loaded with all sorts of cool features, the Open Home Foundation keeps releasing monthly updates to bolster its functionality even further. The March 2026 update, for example, brought voice satellite support to the HASS Companion app on phones, making it a lot easier to build locally-hosted voice-controlled assistants. Likewise, the August update enhanced Home As",
+        "source": "xda",
+        "source_quality": 0.8,
+        "title": "Home Assistant now has a built-in store for community integrations, and these are the 4 I'd install first",
+        "url": "https://www.xda-developers.com/home-assistant-now-has-a-built-in-store-for-community-integrations/",
+        "why_relevant": "XDA thread about Home Assistant now has a built-in store for community integr"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "evergreen_ok",
+    "intent": "concept",
+    "notes": [
+      "fallback-plan (LLM error: HTTPError)"
+    ],
+    "raw_topic": "\"why is there no app\"",
+    "source_weights": {
+      "hackernews": 0.3333333333333333,
+      "reddit": 0.3333333333333333,
+      "xda": 0.3333333333333333
+    },
+    "subqueries": [
+      {
+        "label": "primary",
+        "ranking_query": "What recent evidence from the last 30 days is most relevant to \"why is there no app\", especially about \"why there no app\"?",
+        "search_query": "\"why there no app\"",
+        "sources": [
+          "reddit",
+          "hackernews",
+          "xda"
+        ],
+        "weight": 1.0
+      }
+    ]
+  },
+  "range_from": "2026-10-27",
+  "range_to": "2026-11-26",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://xda-developers.com/switchbot-smart-lock-ultra-with-keypad-is-at-its-all-time-low-of-12599",
+      "cluster_id": "cluster-1",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 97,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "https://www.xda-developers.com/switchbot-smart-lock-ultra-with-keypad-is-at-its-all-time-low-of-12599/",
+      "local_relevance": 0.2,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "https://www.xda-developers.com/switchbot-smart-lock-ultra-with-keypad-is-at-its-all-time-low-of-12599/",
+            "native_rank": 1,
+            "source": "xda",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:xda": 1
+      },
+      "rerank_score": 16.400000000000006,
+      "rrf_score": 0.00546448087431694,
+      "snippet": "Smart locks with fingerprint readers have been a mid-price premium tier for a while, and most of the options in that range either skip the keypad, skip the app, or require a hub that adds another $30 to the bill.",
+      "source": "xda",
+      "source_items": [
+        {
+          "author": "XDA Deals Desk",
+          "body": "The SwitchBot Smart Lock Ultra with Keypad is at its all-time low of $125.99\nSmart locks with fingerprint readers have been a mid-price premium tier for a while, and most of the options in that range either skip the keypad, skip the app, or require a hub that adds another $30 to the bill.",
+          "container": "XDA Developers",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 0
+          },
+          "freshness": 97,
+          "item_id": "https://www.xda-developers.com/switchbot-smart-lock-ultra-with-keypad-is-at-its-all-time-low-of-12599/",
+          "local_rank_score": 0.3725,
+          "local_relevance": 0.2,
+          "metadata": {
+            "forum": "XDA Portal"
+          },
+          "published_at": "2026-11-25",
+          "relevance_hint": 0.24,
+          "snippet": "Smart locks with fingerprint readers have been a mid-price premium tier for a while, and most of the options in that range either skip the keypad, skip the app, or require a hub that adds another $30 to the bill.",
+          "source": "xda",
+          "source_quality": 0.8,
+          "title": "The SwitchBot Smart Lock Ultra with Keypad is at its all-time low of $125.99",
+          "url": "https://www.xda-developers.com/switchbot-smart-lock-ultra-with-keypad-is-at-its-all-time-low-of-12599/",
+          "why_relevant": "XDA thread about The SwitchBot Smart Lock Ultra with Keypad is at its all-tim"
+        }
+      ],
+      "source_quality": 0.8,
+      "sources": [
+        "xda"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "The SwitchBot Smart Lock Ultra with Keypad is at its all-time low of $125.99",
+      "url": "https://www.xda-developers.com/switchbot-smart-lock-ultra-with-keypad-is-at-its-all-time-low-of-12599/"
+    },
+    {
+      "candidate_id": "https://xda-developers.com/vibe-coded-my-own-productivity-tools-to-replace-software-i-use-daily",
+      "cluster_id": "cluster-2",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 97,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 10.0,
+      "item_id": "https://www.xda-developers.com/vibe-coded-my-own-productivity-tools-to-replace-software-i-use-daily/",
+      "local_relevance": 0.08,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "https://www.xda-developers.com/vibe-coded-my-own-productivity-tools-to-replace-software-i-use-daily/",
+            "native_rank": 2,
+            "source": "xda",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:xda": 2
+      },
+      "rerank_score": 8.0,
+      "rrf_score": 0.005376344086021505,
+      "snippet": "I've always found it frustrating when a software tool almost fits my needs but misses a few things that matter to my workflow. Adding another subscription or switching between multiple apps isn't always the answer. With AI coding assistants, there's now another option: building the tools myself. I experimented with this approach and created a handful of small applications and browser extensions to",
+      "source": "xda",
+      "source_items": [
+        {
+          "author": "Yash Patel",
+          "body": "I vibe-coded my own productivity tools to replace the software I used every day\nI've always found it frustrating when a software tool almost fits my needs but misses a few things that matter to my workflow. Adding another subscription or switching between multiple apps isn't always the answer. With AI coding assistants, there's now another option: building the tools myself. I experimented with this approach and created a handful of small applications and browser extensions to handle everyday tasks using Claude Code (Opus 5.5). Some turned out more useful than I expected.",
+          "container": "XDA Developers",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 0
+          },
+          "freshness": 97,
+          "item_id": "https://www.xda-developers.com/vibe-coded-my-own-productivity-tools-to-replace-software-i-use-daily/",
+          "local_rank_score": 0.2945,
+          "local_relevance": 0.08,
+          "metadata": {
+            "forum": "XDA Portal"
+          },
+          "published_at": "2026-11-25",
+          "relevance_hint": 0.24,
+          "snippet": "I've always found it frustrating when a software tool almost fits my needs but misses a few things that matter to my workflow. Adding another subscription or switching between multiple apps isn't always the answer. With AI coding assistants, there's now another option: building the tools myself. I experimented with this approach and created a handful of small applications and browser extensions to",
+          "source": "xda",
+          "source_quality": 0.8,
+          "title": "I vibe-coded my own productivity tools to replace the software I used every day",
+          "url": "https://www.xda-developers.com/vibe-coded-my-own-productivity-tools-to-replace-software-i-use-daily/",
+          "why_relevant": "XDA thread about I vibe-coded my own productivity tools to replace the softwa"
+        }
+      ],
+      "source_quality": 0.8,
+      "sources": [
+        "xda"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "I vibe-coded my own productivity tools to replace the software I used every day",
+      "url": "https://www.xda-developers.com/vibe-coded-my-own-productivity-tools-to-replace-software-i-use-daily/"
+    },
+    {
+      "candidate_id": "https://xda-developers.com/home-assistant-now-has-a-built-in-store-for-community-integrations",
+      "cluster_id": "cluster-3",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 97,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 10.0,
+      "item_id": "https://www.xda-developers.com/home-assistant-now-has-a-built-in-store-for-community-integrations/",
+      "local_relevance": 0.0,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "https://www.xda-developers.com/home-assistant-now-has-a-built-in-store-for-community-integrations/",
+            "native_rank": 3,
+            "source": "xda",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:xda": 3
+      },
+      "rerank_score": 2.400000000000002,
+      "rrf_score": 0.005291005291005291,
+      "snippet": "Although Home Assistant is already loaded with all sorts of cool features, the Open Home Foundation keeps releasing monthly updates to bolster its functionality even further. The March 2026 update, for example, brought voice satellite support to the HASS Companion app on phones, making it a lot easier to build locally-hosted voice-controlled assistants. Likewise, the August update enhanced Home As",
+      "source": "xda",
+      "source_items": [
+        {
+          "author": "Ayush Pande",
+          "body": "Home Assistant now has a built-in store for community integrations, and these are the 4 I'd install first\nAlthough Home Assistant is already loaded with all sorts of cool features, the Open Home Foundation keeps releasing monthly updates to bolster its functionality even further. The March 2026 update, for example, brought voice satellite support to the HASS Companion app on phones, making it a lot easier to build locally-hosted voice-controlled assistants. Likewise, the August update enhanced Home Assistant\u2019s LLM conversation elements, while the April 2026 release brought native infrared support and IR proxies to the platform.",
+          "container": "XDA Developers",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 0
+          },
+          "freshness": 97,
+          "item_id": "https://www.xda-developers.com/home-assistant-now-has-a-built-in-store-for-community-integrations/",
+          "local_rank_score": 0.2425,
+          "local_relevance": 0.0,
+          "metadata": {
+            "forum": "XDA Portal"
+          },
+          "published_at": "2026-11-25",
+          "relevance_hint": 0.24,
+          "snippet": "Although Home Assistant is already loaded with all sorts of cool features, the Open Home Foundation keeps releasing monthly updates to bolster its functionality even further. The March 2026 update, for example, brought voice satellite support to the HASS Companion app on phones, making it a lot easier to build locally-hosted voice-controlled assistants. Likewise, the August update enhanced Home As",
+          "source": "xda",
+          "source_quality": 0.8,
+          "title": "Home Assistant now has a built-in store for community integrations, and these are the 4 I'd install first",
+          "url": "https://www.xda-developers.com/home-assistant-now-has-a-built-in-store-for-community-integrations/",
+          "why_relevant": "XDA thread about Home Assistant now has a built-in store for community integr"
+        }
+      ],
+      "source_quality": 0.8,
+      "sources": [
+        "xda"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Home Assistant now has a built-in store for community integrations, and these are the 4 I'd install first",
+      "url": "https://www.xda-developers.com/home-assistant-now-has-a-built-in-store-for-community-integrations/"
+    }
+  ],
+  "topic": "\"why is there no app\"",
+  "warnings": [
+    "Evidence is thin for this topic.",
+    "Top evidence is highly concentrated in one source."
+  ]
+}
