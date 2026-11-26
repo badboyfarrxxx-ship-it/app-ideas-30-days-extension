@@ -3,14 +3,13 @@ name: Daily brief — synthesize app ideas + open PR
 # Runs once per day at 23:00 UTC, 3 hours after the last batch (20:00 UTC)
 # of the day so all 6 source-group batches have had time to land. Merges
 # the rolling 30-day pool of batch JSONs into one ideas brief, asks
-# Claude Code (auth via the user's Max-plan OAuth token) to synthesize it
-# into ranked app-idea proposals, and opens a PR on the user's private
-# ideas repo.
+# Google Gemini (free tier) to synthesize it into ranked app-idea
+# proposals, and opens a PR on the user's private ideas repo.
 #
 # Required secrets:
-#   - CLAUDE_CODE_OAUTH_TOKEN  (run `claude setup-token` locally to get it)
-#   - PAT_TOKEN                (fine-grained PAT with write + PR access on
-#                               badboyfarrxxx-ship-it/app-ideas)
+#   - GEMINI_API_KEY  (free key from Google AI Studio: aistudio.google.com)
+#   - PAT_TOKEN       (fine-grained PAT with write + PR access on
+#                      badboyfarrxxx-ship-it/app-ideas)
 #
 # Optional environment:
 #   - IDEAS_REPO  (default badboyfarrxxx-ship-it/app-ideas)
@@ -40,7 +39,6 @@ on:
 permissions:
   contents: write   # to write back to the data branch when --prune is on
   issues: write     # to remove the trigger label + post the run-URL comment
-  id-token: write   # required by anthropics/claude-code-action for OIDC auth
 
 concurrency:
   group: daily-brief-${{ github.workflow }}
@@ -137,220 +135,226 @@ jobs:
             echo "have_brief=false" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Check Claude auth secret is present
+      - name: Check Gemini API key is present
         if: steps.brief.outputs.have_brief == 'true'
         env:
-          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           set -euo pipefail
-          TRIMMED="${CLAUDE_CODE_OAUTH_TOKEN#"${CLAUDE_CODE_OAUTH_TOKEN%%[![:space:]]*}"}"
-          TRIMMED="${TRIMMED%"${TRIMMED##*[![:space:]]}"}"
-          if [ -z "$TRIMMED" ]; then
-            echo "::error::CLAUDE_CODE_OAUTH_TOKEN is not set"
+          if [ -z "${GEMINI_API_KEY:-}" ]; then
+            echo "::error::GEMINI_API_KEY is not set. Add a free key from Google AI Studio under Settings > Secrets and variables > Actions."
             exit 1
           fi
-          # A token pasted with a line break or space in the middle fails later
-          # with "Header '14' has invalid value". Catch it here with a clear
-          # message. Whitespace only at the ends gets a warning, not a failure.
-          case "$TRIMMED" in
-            *[[:space:]]*)
-              echo "::error::CLAUDE_CODE_OAUTH_TOKEN contains spaces or line breaks. Re-save it as one unbroken line."
-              exit 1
-              ;;
-          esac
-          if [ "$TRIMMED" != "$CLAUDE_CODE_OAUTH_TOKEN" ]; then
-            echo "::warning::CLAUDE_CODE_OAUTH_TOKEN has a leading or trailing space or line break. Re-save it as one unbroken line if the Claude step fails."
-          fi
-          # Claude Code reports a token it cannot send as a header as "Not
-          # logged in". Name the first bad character (never the token itself).
-          python3 - <<'PY'
-          import os, sys, unicodedata
-          t = os.environ["CLAUDE_CODE_OAUTH_TOKEN"].strip()
-          safe = set("ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_")
-          bad = [(i, c) for i, c in enumerate(t) if not (0x21 <= ord(c) <= 0x7E)]
-          if bad:
-              i, c = bad[0]
-              name = unicodedata.name(c, "control character")
-              print(f"::error::CLAUDE_CODE_OAUTH_TOKEN contains {len(bad)} character(s) a token cannot have. "
-                    f"The first is U+{ord(c):04X} ({name}) at position {i + 1} of {len(t)}. "
-                    "Copy the token again from the `claude setup-token` output and re-save the secret.")
-              sys.exit(1)
-          if t.startswith("sk-ant-api"):
-              print("::error::CLAUDE_CODE_OAUTH_TOKEN holds an Anthropic API key, not a Claude login token. "
-                    "Run `claude setup-token` and save the token it prints instead.")
-              sys.exit(1)
-          if not t.startswith("sk-ant-oat"):
-              print("::warning::CLAUDE_CODE_OAUTH_TOKEN does not start like a `claude setup-token` token (sk-ant-oat...).")
-          odd = sorted({c for c in t if c not in safe})
-          if odd:
-              print(f"::warning::CLAUDE_CODE_OAUTH_TOKEN contains unexpected characters: {' '.join(odd)} ({len(t)} characters long).")
-          PY
-          echo "Claude OAuth token is present."
+          echo "Gemini API key is present."
 
-      - name: Synthesize ranked ideas with Claude Code
-        id: claude
+      - name: Synthesize ranked ideas with Gemini
+        id: gemini
         if: steps.brief.outputs.have_brief == 'true'
-        uses: anthropics/claude-code-action@v1
-        with:
-          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          # v1 runs in agent mode automatically whenever `prompt` is set, so
-          # schedule / workflow_dispatch / issues.labeled all work without an
-          # `@claude` mention. (v1 removed `mode`, `direct_prompt` and `model`.)
-          # File writes must be allowed explicitly or Claude cannot create
-          # ideas.md. acceptEdits allows writes inside the workspace only;
-          # brief.md is scraped web content, so no Bash and no wider grant.
-          claude_args: >-
-            --model claude-sonnet-4-5
-            --permission-mode acceptEdits
-            --allowedTools "Read,Glob,Grep,LS"
-          prompt: |
-            Read `brief.md` in the workspace root. It contains a
-            deterministic top-N pool of social/web evidence from a rolling
-            30-day window, plus strict synthesis instructions in its
-            `## SYNTHESIS INSTRUCTIONS` section. The Python layer did NOT
-            classify these candidates — that is your job. Follow the
-            instructions in brief.md exactly. Do NOT modify brief.md.
-
-            SCOPE (HARD): this brief surfaces **mobile app ideas
-            only** — Android or iOS. Web-only, desktop-only and
-            browser-extension opportunities are out of scope and must
-            be dropped, regardless of how strong the engagement looks.
-            Willingness-to-pay evidence is a ranking boost, not a
-            requirement.
-
-            Your task, in order:
-
-            1. **Classify** each candidate against PAIN / WILL-PAY /
-               LAUNCH / WORKFLOW. Quote the matching sentence verbatim
-               from the candidate's title or excerpt. Drop any candidate
-               that matches none.
-               - A post praising or recommending an app the author
-                 already uses is not PAIN; nobody is complaining.
-               - A post by a product's own account (or its founder)
-                 promoting that product is LAUNCH only, never PAIN,
-                 however it words the problem.
-               - If an excerpt is cut off (ends in "…"), quote only up
-                 to the cut. Never complete a truncated sentence.
-            2. **Mobile-shippable gate (HARD).** Drop any candidate that
-               cannot reasonably ship as a standalone Android or iOS app.
-               If the unmet need is fundamentally desktop/web (e.g.
-               "better VS Code extension", "self-hosted server tool"),
-               drop it. If unclear, drop it — bias toward false negatives.
-            3. **Willingness-to-pay check (ranking, not a gate).** Look
-               for explicit WTP evidence in each candidate's title or
-               excerpt. Strong WTP signals (quote one verbatim when
-               present):
-                 - "I'd pay $X" / "I would pay" / "happy to pay"
-                 - "currently paying $X for [incumbent]"
-                 - Names a paid incumbent that the author is unhappy with
-                 - "worth $N/mo" / "worth paying for"
-                 - Workflow stitching 2+ paid apps together
-               Ideas WITH a WTP quote rank above ideas without one.
-               PAIN-only candidates ("I wish there was an app") are KEPT;
-               for those, the Monetization signal is exactly "None in the
-               evidence." Do not propose prices or pricing models.
-            4. **Cluster duplicates** — merge candidates that describe
-               the same opportunity into one idea, citing all URLs.
-            5. **Rank** by evidence strength × engagement (the `eng:`
-               field) × recency (the date field). High engagement on
-               organic complaint language outweighs low engagement on a
-               literal trigger phrase.
-            6. **Competitor check** — for each surviving idea, name
-               existing Android/iOS competitors if you know them. If you
-               can name 2+, the idea is CROWDED: rank it below every
-               idea that is not crowded, start its competitors line with
-               "Crowded:", and never call it "less crowded", "less
-               saturated" or "underserved".
-               If the named incumbent is already a popular paid mobile
-               app, downrank harder — the author's complaint may not
-               translate to a switchable market.
-            7. **Pick 3-7 ideas**, ordered by combined score. Cut weak
-               ones; quality over quantity.
-
-            Write the result to a new file `ideas.md` in the workspace
-            root with this structure:
-
-              # Mobile app ideas — ${{ steps.brief.outputs.day }}
-
-              <One-line honest assessment of this batch's signal
-              strength. If brief.md has a SOURCE HEALTH section, mention
-              which sources are unreliable today and how that biases the
-              brief. Also note how many candidates the mobile gate
-              dropped and how many surviving ideas have a WTP quote.>
-
-              ## 1. <Idea title — concrete, not category-level>
-              - **Platform:** Android | iOS | Both
-              - **Unmet need:** <one sentence>
-              - **Proposed app:** <one sentence — must be a mobile app>
-              - **Monetization signal:** <quoted WTP sentence verbatim
-                from brief.md> ([source](URL from brief.md)), or if
-                there is none, exactly: "None in the evidence."
-              - **Evidence:** (every URL must come from brief.md)
-                - [link description](URL from brief.md) — quoted matching
-                  sentence
-                - [link description](URL from brief.md) — quoted matching
-                  sentence
-              - **Existing competitors:** <"Crowded: " + names if you
-                can name 2+ Android/iOS apps; otherwise the ones you know
-                or "None known">
-              - **Score signal:** <PAIN | WILL-PAY | LAUNCH | WORKFLOW combo>
-
-              (repeat for 3-7 ideas, ordered by combined score)
-
-              ## What to research next
-              <one line suggesting mobile topics (ideally with WTP
-              language) to add to topics.yml>
-
-            Hard rules:
-            - Do not invent evidence. Every cited URL must appear in
-              brief.md. Every quoted sentence must come from the
-              candidate's title or excerpt.
-            - Every idea MUST have a Monetization signal line: a
-              verbatim WTP quote if one exists, otherwise exactly "None
-              in the evidence." Never write a price, price range or
-              pricing model that is not quoted from brief.md.
-            - Every surviving idea MUST be shippable as Android or iOS.
-            - LAUNCH-only signals describe an *adjacency* opportunity
-              ("X exists but nobody has done Y for Z"), not "build X".
-            - Before writing ideas.md, check every idea's competitors
-              line. If it names 2 or more apps, it MUST start with
-              "Crowded:". Then order the ideas so every Crowded idea
-              comes after every idea that is not Crowded, however high
-              its engagement.
-            - If fewer than 3 candidates survive the mobile gate,
-              output what you have and say so in the honest assessment.
-              Do NOT invent ideas to hit the 3-7 target.
-
-      - name: Show why Claude failed
-        # The action hides Claude's output on public repos, so a failed call
-        # only says "is_error:true". Print just the error text from the
-        # execution log (e.g. an auth or model error), not the conversation.
-        if: failure() && steps.claude.outcome == 'failure'
         env:
-          EXEC_FILE: ${{ steps.claude.outputs.execution_file }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: gemini-3.8-flash
         run: |
-          FILE="${EXEC_FILE:-$RUNNER_TEMP/claude-execution-output.json}"
-          if [ ! -s "$FILE" ]; then
-            echo "::error::Claude failed before writing an execution log."
-            exit 0
-          fi
-          MSG="$(jq -r '[.[] | select(.type == "result")] | last | .result // empty' "$FILE" | tr '\r\n' '  ' | head -c 1000)"
-          echo "::error::Claude error: ${MSG:-no error text in the execution log}"
+          set -euo pipefail
+          # Gemini cannot read files, so the evidence brief is inlined
+          # into the prompt below. The instruction text is unchanged
+          # from the old prompt apart from referring to the
+          # inlined brief instead of a brief.md file.
+          cat > "$RUNNER_TEMP/synth-prompt.txt" <<'PROMPT_EOF'
+          The evidence brief is appended after these instructions. It
+          contains a deterministic top-N pool of social/web evidence from a
+          rolling 30-day window, plus strict synthesis instructions in its
+          `## SYNTHESIS INSTRUCTIONS` section. The Python layer did NOT
+          classify these candidates — that is your job. Follow the
+          instructions in the brief exactly.
 
-      - name: Sanity-check Claude wrote ideas.md
+          SCOPE (HARD): this brief surfaces **mobile app ideas
+          only** — Android or iOS. Web-only, desktop-only and
+          browser-extension opportunities are out of scope and must
+          be dropped, regardless of how strong the engagement looks.
+          Willingness-to-pay evidence is a ranking boost, not a
+          requirement.
+
+          Your task, in order:
+
+          1. **Classify** each candidate against PAIN / WILL-PAY /
+             LAUNCH / WORKFLOW. Quote the matching sentence verbatim
+             from the candidate's title or excerpt. Drop any candidate
+             that matches none.
+             - A post praising or recommending an app the author
+               already uses is not PAIN; nobody is complaining.
+             - A post by a product's own account (or its founder)
+               promoting that product is LAUNCH only, never PAIN,
+               however it words the problem.
+             - If an excerpt is cut off (ends in "…"), quote only up
+               to the cut. Never complete a truncated sentence.
+          2. **Mobile-shippable gate (HARD).** Drop any candidate that
+             cannot reasonably ship as a standalone Android or iOS app.
+             If the unmet need is fundamentally desktop/web (e.g.
+             "better VS Code extension", "self-hosted server tool"),
+             drop it. If unclear, drop it — bias toward false negatives.
+          3. **Willingness-to-pay check (ranking, not a gate).** Look
+             for explicit WTP evidence in each candidate's title or
+             excerpt. Strong WTP signals (quote one verbatim when
+             present):
+               - "I'd pay $X" / "I would pay" / "happy to pay"
+               - "currently paying $X for [incumbent]"
+               - Names a paid incumbent that the author is unhappy with
+               - "worth $N/mo" / "worth paying for"
+               - Workflow stitching 2+ paid apps together
+             Ideas WITH a WTP quote rank above ideas without one.
+             PAIN-only candidates ("I wish there was an app") are KEPT;
+             for those, the Monetization signal is exactly "None in the
+             evidence." Do not propose prices or pricing models.
+          4. **Cluster duplicates** — merge candidates that describe
+             the same opportunity into one idea, citing all URLs.
+          5. **Rank** by evidence strength × engagement (the `eng:`
+             field) × recency (the date field). High engagement on
+             organic complaint language outweighs low engagement on a
+             literal trigger phrase.
+          6. **Competitor check** — for each surviving idea, name
+             existing Android/iOS competitors if you know them. If you
+             can name 2+, the idea is CROWDED: rank it below every
+             idea that is not crowded, start its competitors line with
+             "Crowded:", and never call it "less crowded", "less
+             saturated" or "underserved".
+             If the named incumbent is already a popular paid mobile
+             app, downrank harder — the author's complaint may not
+             translate to a switchable market.
+          7. **Pick 3-7 ideas**, ordered by combined score. Cut weak
+             ones; quality over quantity.
+
+          Write the result to a new file `ideas.md` in the workspace
+          root with this structure:
+
+            # Mobile app ideas — ${{ steps.brief.outputs.day }}
+
+            <One-line honest assessment of this batch's signal
+            strength. If the brief has a SOURCE HEALTH section, mention
+            which sources are unreliable today and how that biases the
+            brief. Also note how many candidates the mobile gate
+            dropped and how many surviving ideas have a WTP quote.>
+
+            ## 1. <Idea title — concrete, not category-level>
+            - **Platform:** Android | iOS | Both
+            - **Unmet need:** <one sentence>
+            - **Proposed app:** <one sentence — must be a mobile app>
+            - **Monetization signal:** <quoted WTP sentence verbatim
+              from the brief> ([source](URL from the brief)), or if
+              there is none, exactly: "None in the evidence."
+            - **Evidence:** (every URL must come from the brief)
+              - [link description](URL from the brief) — quoted matching
+                sentence
+              - [link description](URL from the brief) — quoted matching
+                sentence
+            - **Existing competitors:** <"Crowded: " + names if you
+              can name 2+ Android/iOS apps; otherwise the ones you know
+              or "None known">
+            - **Score signal:** <PAIN | WILL-PAY | LAUNCH | WORKFLOW combo>
+
+            (repeat for 3-7 ideas, ordered by combined score)
+
+            ## What to research next
+            <one line suggesting mobile topics (ideally with WTP
+            language) to add to topics.yml>
+
+          Hard rules:
+          - Do not invent evidence. Every cited URL must appear in
+            the brief. Every quoted sentence must come from the
+            candidate's title or excerpt.
+          - Every idea MUST have a Monetization signal line: a
+            verbatim WTP quote if one exists, otherwise exactly "None
+            in the evidence." Never write a price, price range or
+            pricing model that is not quoted from the brief.
+          - Every surviving idea MUST be shippable as Android or iOS.
+          - LAUNCH-only signals describe an *adjacency* opportunity
+            ("X exists but nobody has done Y for Z"), not "build X".
+          - Before writing ideas.md, check every idea's competitors
+            line. If it names 2 or more apps, it MUST start with
+            "Crowded:". Then order the ideas so every Crowded idea
+            comes after every idea that is not Crowded, however high
+            its engagement.
+          - If fewer than 3 candidates survive the mobile gate,
+            output what you have and say so in the honest assessment.
+            Do NOT invent ideas to hit the 3-7 target.
+
+          PROMPT_EOF
+          {
+            echo ""
+            echo "## EVIDENCE BRIEF"
+            echo ""
+            cat brief.md
+          } >> "$RUNNER_TEMP/synth-prompt.txt"
+          python3 - <<'PY'
+          import json, os, sys, time, urllib.error, urllib.request
+
+          prompt_path = os.path.join(os.environ["RUNNER_TEMP"], "synth-prompt.txt")
+          with open(prompt_path, encoding="utf-8") as f:
+              prompt = f.read()
+          key = os.environ["GEMINI_API_KEY"]
+          model = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
+          url = (
+              "https://generativelanguage.googleapis.com/v1beta/models/"
+              f"{model}:generateContent"
+          )
+          body = json.dumps({
+              "contents": [{"parts": [{"text": prompt}]}],
+              "generationConfig": {"temperature": 0.7, "maxOutputTokens": 8192},
+          }).encode("utf-8")
+
+          payload = None
+          last_err = ""
+          for attempt in (1, 2, 3):
+              req = urllib.request.Request(url, data=body, headers={
+                  "Content-Type": "application/json",
+                  "x-goog-api-key": key,
+              }, method="POST")
+              try:
+                  with urllib.request.urlopen(req, timeout=300) as resp:
+                      payload = json.load(resp)
+                  break
+              except urllib.error.HTTPError as e:
+                  last_err = e.read().decode("utf-8", "replace")[:2000]
+                  print(f"::warning::Gemini API attempt {attempt} failed ({e.code}): {last_err}")
+                  if e.code == 429 and attempt < 3:
+                      time.sleep(65)
+                      continue
+                  print(f"::error::Gemini API request failed ({e.code}): {last_err}")
+                  sys.exit(1)
+              except Exception as e:
+                  print(f"::error::Gemini API request failed: {e}")
+                  sys.exit(1)
+          if payload is None:
+              print(f"::error::Gemini API request failed after retries: {last_err}")
+              sys.exit(1)
+
+          parts = []
+          for cand in payload.get("candidates") or []:
+              for part in (cand.get("content") or {}).get("parts") or []:
+                  if "text" in part:
+                      parts.append(part["text"])
+          out = "".join(parts).strip()
+          if not out:
+              print(f"::error::Gemini returned no text. Full response: {json.dumps(payload)[:2000]}")
+              sys.exit(1)
+          with open("ideas.md", "w", encoding="utf-8") as f:
+              f.write(out if out.endswith("\n") else out + "\n")
+          print(f"Gemini wrote {len(out.splitlines())} lines to ideas.md")
+          PY
+
+      - name: Sanity-check ideas.md was written
         if: steps.brief.outputs.have_brief == 'true'
         id: synth
         run: |
           set -euo pipefail
           if [ ! -s ideas.md ]; then
-            echo "::warning::Claude Code did not write ideas.md (or it was empty)."
+            echo "::warning::Gemini did not write ideas.md (or it was empty)."
             echo "have_ideas=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           DAY=$(date -u +%Y-%m-%d)
           echo "have_ideas=true" >> "$GITHUB_OUTPUT"
           echo "day=$DAY" >> "$GITHUB_OUTPUT"
-          echo "Claude wrote $(wc -l < ideas.md) lines to ideas.md"
+          echo "Gemini wrote $(wc -l < ideas.md) lines to ideas.md"
 
       - name: Checkout target ideas repo
         if: steps.synth.outputs.have_ideas == 'true'
@@ -432,8 +436,8 @@ jobs:
             Auto-generated app-idea brief for ${{ steps.synth.outputs.day }}.
 
             Source: rolling 30-day pool from
-            `${{ github.repository }}@data`. Synthesized via Claude Code on
-            the user's Max-plan OAuth token.
+            `${{ github.repository }}@data`. Synthesized via Gemini
+            (free tier, gemini-3.8-flash).
 
             This PR includes:
             - `ideas/${{ steps.synth.outputs.day }}/ideas.md` — today's ranked ideas
