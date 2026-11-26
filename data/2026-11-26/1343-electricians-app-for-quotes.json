@@ -1,0 +1,268 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "deterministic",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "electricians app for quotes",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://xda-developers.com/replaced-youtubes-app-with-opentubex-self-hosted-backend-dont-want-go-back"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://xda-developers.com/replaced-youtubes-app-with-opentubex-self-hosted-backend-dont-want-go-back"
+      ],
+      "score": 0.0,
+      "sources": [
+        "xda"
+      ],
+      "title": "I replaced YouTube's app with OpenTubeX and its self-hosted backend, and I don't want to go back"
+    },
+    {
+      "candidate_ids": [
+        "https://xda-developers.com/server-nas-pc-mac-all-share-one-google-drive-folder-none-run-googles-app"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://xda-developers.com/server-nas-pc-mac-all-share-one-google-drive-folder-none-run-googles-app"
+      ],
+      "score": 0.0,
+      "sources": [
+        "xda"
+      ],
+      "title": "My server, NAS, PC, and Mac all share one Google Drive folder, and none of them run Google's app"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-11-26T13:43:01.739620+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": [],
+    "xda": [
+      {
+        "author": "Jo\u00e3o Carrasqueira",
+        "body": "I replaced YouTube's app with OpenTubeX and its self-hosted backend, and I don't want to go back\nAs Google's desire to maximize revenue from YouTube grows, the user experience arguably gets worse. Ads are more intrusive than ever, and the service pushes its most popular channels, which are often riddled with low-effort content and so-called \"AI slop\". So what if you could make YouTube into a more peaceful experience without sacrificing some of the things you love about it?",
+        "container": "XDA Developers",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 0
+        },
+        "freshness": 100,
+        "item_id": "https://www.xda-developers.com/replaced-youtubes-app-with-opentubex-self-hosted-backend-dont-want-go-back/",
+        "local_rank_score": 0.3345,
+        "local_relevance": 0.13,
+        "metadata": {
+          "forum": "XDA Portal"
+        },
+        "published_at": "2026-11-26",
+        "relevance_hint": 0.24,
+        "snippet": "As Google's desire to maximize revenue from YouTube grows, the user experience arguably gets worse. Ads are more intrusive than ever, and the service pushes its most popular channels, which are often riddled with low-effort content and so-called \"AI slop\". So what if you could make YouTube into a more peaceful experience without sacrificing some of the things you love about it?",
+        "source": "xda",
+        "source_quality": 0.8,
+        "title": "I replaced YouTube's app with OpenTubeX and its self-hosted backend, and I don't want to go back",
+        "url": "https://www.xda-developers.com/replaced-youtubes-app-with-opentubex-self-hosted-backend-dont-want-go-back/",
+        "why_relevant": "XDA thread about I replaced YouTube's app with OpenTubeX and its self-hosted"
+      },
+      {
+        "author": "Shekhar Vaidya",
+        "body": "My server, NAS, PC, and Mac all share one Google Drive folder, and none of them run Google's app\nI have been a Google Drive (now Google One) user for more than a decade. Even after building my own homelab with servers and NAS, I still have cloud storage with me. For my Windows PC and MacBook, it was easy to use Google\u2019s Drive app, but on the Debian server and NAS, there\u2019s no official way.",
+        "container": "XDA Developers",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 0
+        },
+        "freshness": 100,
+        "item_id": "https://www.xda-developers.com/server-nas-pc-mac-all-share-one-google-drive-folder-none-run-googles-app/",
+        "local_rank_score": 0.289,
+        "local_relevance": 0.06,
+        "metadata": {
+          "forum": "XDA Portal"
+        },
+        "published_at": "2026-11-26",
+        "relevance_hint": 0.24,
+        "snippet": "I have been a Google Drive (now Google One) user for more than a decade. Even after building my own homelab with servers and NAS, I still have cloud storage with me. For my Windows PC and MacBook, it was easy to use Google\u2019s Drive app, but on the Debian server and NAS, there\u2019s no official way.",
+        "source": "xda",
+        "source_quality": 0.8,
+        "title": "My server, NAS, PC, and Mac all share one Google Drive folder, and none of them run Google's app",
+        "url": "https://www.xda-developers.com/server-nas-pc-mac-all-share-one-google-drive-folder-none-run-googles-app/",
+        "why_relevant": "XDA thread about My server, NAS, PC, and Mac all share one Google Drive folde"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "evergreen_ok",
+    "intent": "concept",
+    "notes": [
+      "fallback-plan (LLM error: HTTPError)"
+    ],
+    "raw_topic": "electricians app for quotes",
+    "source_weights": {
+      "hackernews": 0.3333333333333333,
+      "reddit": 0.3333333333333333,
+      "xda": 0.3333333333333333
+    },
+    "subqueries": [
+      {
+        "label": "primary",
+        "ranking_query": "What recent evidence from the last 30 days is most relevant to electricians app for quotes, especially about electricians app quotes?",
+        "search_query": "electricians app quotes",
+        "sources": [
+          "reddit",
+          "hackernews",
+          "xda"
+        ],
+        "weight": 1.0
+      }
+    ]
+  },
+  "range_from": "2026-10-27",
+  "range_to": "2026-11-26",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://xda-developers.com/replaced-youtubes-app-with-opentubex-self-hosted-backend-dont-want-go-back",
+      "cluster_id": "cluster-1",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 100,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "https://www.xda-developers.com/replaced-youtubes-app-with-opentubex-self-hosted-backend-dont-want-go-back/",
+      "local_relevance": 0.13,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "https://www.xda-developers.com/replaced-youtubes-app-with-opentubex-self-hosted-backend-dont-want-go-back/",
+            "native_rank": 1,
+            "source": "xda",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:xda": 1
+      },
+      "rerank_score": 12.100000000000001,
+      "rrf_score": 0.00546448087431694,
+      "snippet": "As Google's desire to maximize revenue from YouTube grows, the user experience arguably gets worse. Ads are more intrusive than ever, and the service pushes its most popular channels, which are often riddled with low-effort content and so-called \"AI slop\". So what if you could make YouTube into a more peaceful experience without sacrificing some of the things you love about it?",
+      "source": "xda",
+      "source_items": [
+        {
+          "author": "Jo\u00e3o Carrasqueira",
+          "body": "I replaced YouTube's app with OpenTubeX and its self-hosted backend, and I don't want to go back\nAs Google's desire to maximize revenue from YouTube grows, the user experience arguably gets worse. Ads are more intrusive than ever, and the service pushes its most popular channels, which are often riddled with low-effort content and so-called \"AI slop\". So what if you could make YouTube into a more peaceful experience without sacrificing some of the things you love about it?",
+          "container": "XDA Developers",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 0
+          },
+          "freshness": 100,
+          "item_id": "https://www.xda-developers.com/replaced-youtubes-app-with-opentubex-self-hosted-backend-dont-want-go-back/",
+          "local_rank_score": 0.3345,
+          "local_relevance": 0.13,
+          "metadata": {
+            "forum": "XDA Portal"
+          },
+          "published_at": "2026-11-26",
+          "relevance_hint": 0.24,
+          "snippet": "As Google's desire to maximize revenue from YouTube grows, the user experience arguably gets worse. Ads are more intrusive than ever, and the service pushes its most popular channels, which are often riddled with low-effort content and so-called \"AI slop\". So what if you could make YouTube into a more peaceful experience without sacrificing some of the things you love about it?",
+          "source": "xda",
+          "source_quality": 0.8,
+          "title": "I replaced YouTube's app with OpenTubeX and its self-hosted backend, and I don't want to go back",
+          "url": "https://www.xda-developers.com/replaced-youtubes-app-with-opentubex-self-hosted-backend-dont-want-go-back/",
+          "why_relevant": "XDA thread about I replaced YouTube's app with OpenTubeX and its self-hosted"
+        }
+      ],
+      "source_quality": 0.8,
+      "sources": [
+        "xda"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "I replaced YouTube's app with OpenTubeX and its self-hosted backend, and I don't want to go back",
+      "url": "https://www.xda-developers.com/replaced-youtubes-app-with-opentubex-self-hosted-backend-dont-want-go-back/"
+    },
+    {
+      "candidate_id": "https://xda-developers.com/server-nas-pc-mac-all-share-one-google-drive-folder-none-run-googles-app",
+      "cluster_id": "cluster-2",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 100,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "https://www.xda-developers.com/server-nas-pc-mac-all-share-one-google-drive-folder-none-run-googles-app/",
+      "local_relevance": 0.06,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "https://www.xda-developers.com/server-nas-pc-mac-all-share-one-google-drive-folder-none-run-googles-app/",
+            "native_rank": 2,
+            "source": "xda",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:xda": 2
+      },
+      "rerank_score": 7.200000000000003,
+      "rrf_score": 0.005376344086021505,
+      "snippet": "I have been a Google Drive (now Google One) user for more than a decade. Even after building my own homelab with servers and NAS, I still have cloud storage with me. For my Windows PC and MacBook, it was easy to use Google\u2019s Drive app, but on the Debian server and NAS, there\u2019s no official way.",
+      "source": "xda",
+      "source_items": [
+        {
+          "author": "Shekhar Vaidya",
+          "body": "My server, NAS, PC, and Mac all share one Google Drive folder, and none of them run Google's app\nI have been a Google Drive (now Google One) user for more than a decade. Even after building my own homelab with servers and NAS, I still have cloud storage with me. For my Windows PC and MacBook, it was easy to use Google\u2019s Drive app, but on the Debian server and NAS, there\u2019s no official way.",
+          "container": "XDA Developers",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 0
+          },
+          "freshness": 100,
+          "item_id": "https://www.xda-developers.com/server-nas-pc-mac-all-share-one-google-drive-folder-none-run-googles-app/",
+          "local_rank_score": 0.289,
+          "local_relevance": 0.06,
+          "metadata": {
+            "forum": "XDA Portal"
+          },
+          "published_at": "2026-11-26",
+          "relevance_hint": 0.24,
+          "snippet": "I have been a Google Drive (now Google One) user for more than a decade. Even after building my own homelab with servers and NAS, I still have cloud storage with me. For my Windows PC and MacBook, it was easy to use Google\u2019s Drive app, but on the Debian server and NAS, there\u2019s no official way.",
+          "source": "xda",
+          "source_quality": 0.8,
+          "title": "My server, NAS, PC, and Mac all share one Google Drive folder, and none of them run Google's app",
+          "url": "https://www.xda-developers.com/server-nas-pc-mac-all-share-one-google-drive-folder-none-run-googles-app/",
+          "why_relevant": "XDA thread about My server, NAS, PC, and Mac all share one Google Drive folde"
+        }
+      ],
+      "source_quality": 0.8,
+      "sources": [
+        "xda"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "My server, NAS, PC, and Mac all share one Google Drive folder, and none of them run Google's app",
+      "url": "https://www.xda-developers.com/server-nas-pc-mac-all-share-one-google-drive-folder-none-run-googles-app/"
+    }
+  ],
+  "topic": "electricians app for quotes",
+  "warnings": [
+    "Evidence is thin for this topic."
+  ]
+}
