@@ -54,6 +54,8 @@ SOURCE_LABELS = {
     "x": "X",
     "github": "GitHub",
     "perplexity": "Perplexity",
+    "producthunt": "Product Hunt",
+    "xda": "XDA Developers",
 }
 
 
@@ -821,7 +823,8 @@ def render_full(report: schema.Report) -> str:
     lines.append("## All Items by Source")
     lines.append("")
     source_order = ["reddit", "x", "youtube", "tiktok", "instagram", "threads", "pinterest",
-                    "hackernews", "bluesky", "truthsocial", "polymarket", "grounding", "xiaohongshu", "github", "perplexity"]
+                    "hackernews", "bluesky", "truthsocial", "polymarket", "grounding", "xiaohongshu", "github", "perplexity",
+                    "producthunt", "xda"]
     for source in source_order:
         items = report.items_by_source.get(source, [])
         if not items:
@@ -897,7 +900,7 @@ def _format_item_engagement(item: schema.SourceItem) -> str:
     if not eng:
         return ""
     parts = []
-    for key in ["score", "likes", "views", "points", "reposts", "replies", "comments",
+    for key in ["score", "likes", "views", "points", "votes", "reposts", "replies", "comments",
                 "play_count", "digg_count", "share_count", "num_comments"]:
         val = eng.get(key)
         if val is not None and val != 0:
@@ -1218,6 +1221,8 @@ _FOOTER_SOURCES: list[tuple[str, str, str, str, list[tuple[str, str]]]] = [
     ("bluesky",     "🦋", "Bluesky",      "post",     [("likes", "likes"), ("reposts", "reposts")]),
     ("truthsocial", "🇺🇸", "Truth Social", "post",     [("likes", "likes"), ("reposts", "reposts")]),
     ("github",      "🐙", "GitHub",       "item",     [("reactions", "reactions"), ("comments", "comments")]),
+    ("producthunt", "🚀", "Product Hunt", "launch",   [("votes", "votes"), ("comments", "comments")]),
+    ("xda",         "🤖", "XDA",          "thread",   [("comments", "comments")]),
 ]
 
 
@@ -1475,6 +1480,8 @@ ENGAGEMENT_DISPLAY: dict[str, list[tuple[str, str]]] = {
     "polymarket":   [],
     "github":       [("reactions", "react"), ("comments", "cmt")],
     "perplexity":   [("citations", "cite")],
+    "producthunt":  [("votes", "votes"), ("comments", "cmt")],
+    "xda":          [("comments", "cmt")],
 }
 
 
