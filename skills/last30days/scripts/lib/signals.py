@@ -19,6 +19,8 @@ SOURCE_QUALITY = {
     "polymarket": 0.5,
     "instagram": 0.58,
     "tiktok": 0.58,
+    "producthunt": 0.7,
+    "xda": 0.8,
 }
 
 
@@ -95,6 +97,8 @@ ENGAGEMENT_WEIGHTS: dict[str, list[tuple[str, float]]] = {
     "bluesky":      [("likes", 0.40), ("reposts", 0.30), ("replies", 0.20), ("quotes", 0.10)],
     "truthsocial":  [("likes", 0.45), ("reposts", 0.30), ("replies", 0.25)],
     "polymarket":   [("volume", 0.60), ("liquidity", 0.40)],
+    "producthunt":  [("votes", 0.60), ("comments", 0.40)],
+    "xda":          [("comments", 1.0)],
 }
 
 
