@@ -207,10 +207,16 @@ jobs:
              evidence." Do not propose prices or pricing models.
           4. **Cluster duplicates** — merge candidates that describe
              the same opportunity into one idea, citing all URLs.
-          5. **Rank** by evidence strength × engagement (the `eng:`
+                    5. **Rank** by evidence strength × engagement (the `eng:`
              field) × recency (the date field). High engagement on
              organic complaint language outweighs low engagement on a
-             literal trigger phrase.
+             literal trigger phrase. Score a Product Hunt launch's
+             votes and an XDA thread's discussion on the same footing
+             as a Reddit or X post's engagement: a launch is evidence
+             of demand for its category, and an adjacency idea built
+             from a strong launch competes for the top three on the
+             same terms as a pain post. Do not rank every launch or
+             XDA idea below every pain post by default.
           6. **Competitor check** — for each surviving idea, name
              existing Android/iOS competitors if you know them. If you
              can name 2+, the idea is CROWDED: rank it below every
@@ -228,11 +234,13 @@ jobs:
 
             # Mobile app ideas — ${{ steps.brief.outputs.day }}
 
-            <One-line honest assessment of this batch's signal
+                        <One-line honest assessment of this batch's signal
             strength. If the brief has a SOURCE HEALTH section, mention
             which sources are unreliable today and how that biases the
             brief. Also note how many candidates the mobile gate
-            dropped and how many surviving ideas have a WTP quote.>
+            dropped and how many surviving ideas have a WTP quote. Also
+            note how many of the ranked ideas draw evidence from
+            Product Hunt or XDA.>
 
             ## 1. <Idea title — concrete, not category-level>
             - **Platform:** Android | iOS | Both
