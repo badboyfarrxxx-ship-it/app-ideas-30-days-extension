@@ -1,0 +1,268 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "deterministic",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"I.d pay for an app\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://xda-developers.com/my-docker-containers-have-own-tailscale-address-and-i-dont-expose-ports"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://xda-developers.com/my-docker-containers-have-own-tailscale-address-and-i-dont-expose-ports"
+      ],
+      "score": 0.0,
+      "sources": [
+        "xda"
+      ],
+      "title": "I gave each Docker container its own Tailscale address, and stopped exposing ports on my home server"
+    },
+    {
+      "candidate_ids": [
+        "https://xda-developers.com/replaced-todoist-toggl-my-pomodoro-timer-with-one-free-app-that-does-it-all"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://xda-developers.com/replaced-todoist-toggl-my-pomodoro-timer-with-one-free-app-that-does-it-all"
+      ],
+      "score": 0.0,
+      "sources": [
+        "xda"
+      ],
+      "title": "I replaced Todoist, Toggl, and my Pomodoro timer with one free app that does it all"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-11-27T23:58:55.161632+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": [],
+    "xda": [
+      {
+        "author": "Abhishek Kumar Mishra",
+        "body": "I gave each Docker container its own Tailscale address, and stopped exposing ports on my home server\nDocker is a fantastic tool to isolate your self-hosted tools from each other and maintain a robust, fail-proof home server. The traditional way to access the web portal of any container is via its published port. Each port number is a direct gateway to access the portal, but it gets tedious after a point. You have to be careful with the port number assignment and also need to remember them. Exposing ports is something that we rarely pay attention to, and it slowly becomes complex.",
+        "container": "XDA Developers",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 0
+        },
+        "freshness": 100,
+        "item_id": "https://www.xda-developers.com/my-docker-containers-have-own-tailscale-address-and-i-dont-expose-ports/",
+        "local_rank_score": 0.289,
+        "local_relevance": 0.06,
+        "metadata": {
+          "forum": "XDA Portal"
+        },
+        "published_at": "2026-11-27",
+        "relevance_hint": 0.37,
+        "snippet": "Docker is a fantastic tool to isolate your self-hosted tools from each other and maintain a robust, fail-proof home server. The traditional way to access the web portal of any container is via its published port. Each port number is a direct gateway to access the portal, but it gets tedious after a point. You have to be careful with the port number assignment and also need to remember them. Exposi",
+        "source": "xda",
+        "source_quality": 0.8,
+        "title": "I gave each Docker container its own Tailscale address, and stopped exposing ports on my home server",
+        "url": "https://www.xda-developers.com/my-docker-containers-have-own-tailscale-address-and-i-dont-expose-ports/",
+        "why_relevant": "XDA thread about I gave each Docker container its own Tailscale address, and"
+      },
+      {
+        "author": "Parth Shah",
+        "body": "I replaced Todoist, Toggl, and my Pomodoro timer with one free app that does it all\nMy productivity setup had become unnecessarily complicated. I relied on Todoist to manage my daily tasks, Toggl to track how much time I spent on individual projects, and a separate Pomodoro timer to maintain focus throughout the day.",
+        "container": "XDA Developers",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 0
+        },
+        "freshness": 100,
+        "item_id": "https://www.xda-developers.com/replaced-todoist-toggl-my-pomodoro-timer-with-one-free-app-that-does-it-all/",
+        "local_rank_score": 0.289,
+        "local_relevance": 0.06,
+        "metadata": {
+          "forum": "XDA Portal"
+        },
+        "published_at": "2026-11-27",
+        "relevance_hint": 0.37,
+        "snippet": "My productivity setup had become unnecessarily complicated. I relied on Todoist to manage my daily tasks, Toggl to track how much time I spent on individual projects, and a separate Pomodoro timer to maintain focus throughout the day.",
+        "source": "xda",
+        "source_quality": 0.8,
+        "title": "I replaced Todoist, Toggl, and my Pomodoro timer with one free app that does it all",
+        "url": "https://www.xda-developers.com/replaced-todoist-toggl-my-pomodoro-timer-with-one-free-app-that-does-it-all/",
+        "why_relevant": "XDA thread about I replaced Todoist, Toggl, and my Pomodoro timer with one fr"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "evergreen_ok",
+    "intent": "concept",
+    "notes": [
+      "fallback-plan (LLM error: HTTPError)"
+    ],
+    "raw_topic": "\"I.d pay for an app\"",
+    "source_weights": {
+      "hackernews": 0.3333333333333333,
+      "reddit": 0.3333333333333333,
+      "xda": 0.3333333333333333
+    },
+    "subqueries": [
+      {
+        "label": "primary",
+        "ranking_query": "What recent evidence from the last 30 days is most relevant to \"I.d pay for an app\", especially about \"i.d pay app\"?",
+        "search_query": "\"i.d pay app\"",
+        "sources": [
+          "reddit",
+          "hackernews",
+          "xda"
+        ],
+        "weight": 1.0
+      }
+    ]
+  },
+  "range_from": "2026-10-28",
+  "range_to": "2026-11-27",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://xda-developers.com/my-docker-containers-have-own-tailscale-address-and-i-dont-expose-ports",
+      "cluster_id": "cluster-1",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 100,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "https://www.xda-developers.com/my-docker-containers-have-own-tailscale-address-and-i-dont-expose-ports/",
+      "local_relevance": 0.06,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "https://www.xda-developers.com/my-docker-containers-have-own-tailscale-address-and-i-dont-expose-ports/",
+            "native_rank": 1,
+            "source": "xda",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:xda": 1
+      },
+      "rerank_score": 7.200000000000003,
+      "rrf_score": 0.00546448087431694,
+      "snippet": "Docker is a fantastic tool to isolate your self-hosted tools from each other and maintain a robust, fail-proof home server. The traditional way to access the web portal of any container is via its published port. Each port number is a direct gateway to access the portal, but it gets tedious after a point. You have to be careful with the port number assignment and also need to remember them. Exposi",
+      "source": "xda",
+      "source_items": [
+        {
+          "author": "Abhishek Kumar Mishra",
+          "body": "I gave each Docker container its own Tailscale address, and stopped exposing ports on my home server\nDocker is a fantastic tool to isolate your self-hosted tools from each other and maintain a robust, fail-proof home server. The traditional way to access the web portal of any container is via its published port. Each port number is a direct gateway to access the portal, but it gets tedious after a point. You have to be careful with the port number assignment and also need to remember them. Exposing ports is something that we rarely pay attention to, and it slowly becomes complex.",
+          "container": "XDA Developers",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 0
+          },
+          "freshness": 100,
+          "item_id": "https://www.xda-developers.com/my-docker-containers-have-own-tailscale-address-and-i-dont-expose-ports/",
+          "local_rank_score": 0.289,
+          "local_relevance": 0.06,
+          "metadata": {
+            "forum": "XDA Portal"
+          },
+          "published_at": "2026-11-27",
+          "relevance_hint": 0.37,
+          "snippet": "Docker is a fantastic tool to isolate your self-hosted tools from each other and maintain a robust, fail-proof home server. The traditional way to access the web portal of any container is via its published port. Each port number is a direct gateway to access the portal, but it gets tedious after a point. You have to be careful with the port number assignment and also need to remember them. Exposi",
+          "source": "xda",
+          "source_quality": 0.8,
+          "title": "I gave each Docker container its own Tailscale address, and stopped exposing ports on my home server",
+          "url": "https://www.xda-developers.com/my-docker-containers-have-own-tailscale-address-and-i-dont-expose-ports/",
+          "why_relevant": "XDA thread about I gave each Docker container its own Tailscale address, and"
+        }
+      ],
+      "source_quality": 0.8,
+      "sources": [
+        "xda"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "I gave each Docker container its own Tailscale address, and stopped exposing ports on my home server",
+      "url": "https://www.xda-developers.com/my-docker-containers-have-own-tailscale-address-and-i-dont-expose-ports/"
+    },
+    {
+      "candidate_id": "https://xda-developers.com/replaced-todoist-toggl-my-pomodoro-timer-with-one-free-app-that-does-it-all",
+      "cluster_id": "cluster-2",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 100,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "https://www.xda-developers.com/replaced-todoist-toggl-my-pomodoro-timer-with-one-free-app-that-does-it-all/",
+      "local_relevance": 0.06,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "https://www.xda-developers.com/replaced-todoist-toggl-my-pomodoro-timer-with-one-free-app-that-does-it-all/",
+            "native_rank": 2,
+            "source": "xda",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:xda": 2
+      },
+      "rerank_score": 7.200000000000003,
+      "rrf_score": 0.005376344086021505,
+      "snippet": "My productivity setup had become unnecessarily complicated. I relied on Todoist to manage my daily tasks, Toggl to track how much time I spent on individual projects, and a separate Pomodoro timer to maintain focus throughout the day.",
+      "source": "xda",
+      "source_items": [
+        {
+          "author": "Parth Shah",
+          "body": "I replaced Todoist, Toggl, and my Pomodoro timer with one free app that does it all\nMy productivity setup had become unnecessarily complicated. I relied on Todoist to manage my daily tasks, Toggl to track how much time I spent on individual projects, and a separate Pomodoro timer to maintain focus throughout the day.",
+          "container": "XDA Developers",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 0
+          },
+          "freshness": 100,
+          "item_id": "https://www.xda-developers.com/replaced-todoist-toggl-my-pomodoro-timer-with-one-free-app-that-does-it-all/",
+          "local_rank_score": 0.289,
+          "local_relevance": 0.06,
+          "metadata": {
+            "forum": "XDA Portal"
+          },
+          "published_at": "2026-11-27",
+          "relevance_hint": 0.37,
+          "snippet": "My productivity setup had become unnecessarily complicated. I relied on Todoist to manage my daily tasks, Toggl to track how much time I spent on individual projects, and a separate Pomodoro timer to maintain focus throughout the day.",
+          "source": "xda",
+          "source_quality": 0.8,
+          "title": "I replaced Todoist, Toggl, and my Pomodoro timer with one free app that does it all",
+          "url": "https://www.xda-developers.com/replaced-todoist-toggl-my-pomodoro-timer-with-one-free-app-that-does-it-all/",
+          "why_relevant": "XDA thread about I replaced Todoist, Toggl, and my Pomodoro timer with one fr"
+        }
+      ],
+      "source_quality": 0.8,
+      "sources": [
+        "xda"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "I replaced Todoist, Toggl, and my Pomodoro timer with one free app that does it all",
+      "url": "https://www.xda-developers.com/replaced-todoist-toggl-my-pomodoro-timer-with-one-free-app-that-does-it-all/"
+    }
+  ],
+  "topic": "\"I.d pay for an app\"",
+  "warnings": [
+    "Evidence is thin for this topic."
+  ]
+}

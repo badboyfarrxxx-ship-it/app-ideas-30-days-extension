@@ -1,0 +1,167 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "deterministic",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"I wish there was an app for\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://xda-developers.com/replaced-todoist-toggl-my-pomodoro-timer-with-one-free-app-that-does-it-all"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://xda-developers.com/replaced-todoist-toggl-my-pomodoro-timer-with-one-free-app-that-does-it-all"
+      ],
+      "score": 0.0,
+      "sources": [
+        "xda"
+      ],
+      "title": "I replaced Todoist, Toggl, and my Pomodoro timer with one free app that does it all"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-11-27T23:58:48.489433+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": [],
+    "xda": [
+      {
+        "author": "Parth Shah",
+        "body": "I replaced Todoist, Toggl, and my Pomodoro timer with one free app that does it all\nMy productivity setup had become unnecessarily complicated. I relied on Todoist to manage my daily tasks, Toggl to track how much time I spent on individual projects, and a separate Pomodoro timer to maintain focus throughout the day.",
+        "container": "XDA Developers",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 0
+        },
+        "freshness": 100,
+        "item_id": "https://www.xda-developers.com/replaced-todoist-toggl-my-pomodoro-timer-with-one-free-app-that-does-it-all/",
+        "local_rank_score": 0.289,
+        "local_relevance": 0.06,
+        "metadata": {
+          "forum": "XDA Portal"
+        },
+        "published_at": "2026-11-27",
+        "relevance_hint": 0.24,
+        "snippet": "My productivity setup had become unnecessarily complicated. I relied on Todoist to manage my daily tasks, Toggl to track how much time I spent on individual projects, and a separate Pomodoro timer to maintain focus throughout the day.",
+        "source": "xda",
+        "source_quality": 0.8,
+        "title": "I replaced Todoist, Toggl, and my Pomodoro timer with one free app that does it all",
+        "url": "https://www.xda-developers.com/replaced-todoist-toggl-my-pomodoro-timer-with-one-free-app-that-does-it-all/",
+        "why_relevant": "XDA thread about I replaced Todoist, Toggl, and my Pomodoro timer with one fr"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "evergreen_ok",
+    "intent": "concept",
+    "notes": [
+      "fallback-plan (LLM error: HTTPError)"
+    ],
+    "raw_topic": "\"I wish there was an app for\"",
+    "source_weights": {
+      "hackernews": 0.3333333333333333,
+      "reddit": 0.3333333333333333,
+      "xda": 0.3333333333333333
+    },
+    "subqueries": [
+      {
+        "label": "primary",
+        "ranking_query": "What recent evidence from the last 30 days is most relevant to \"I wish there was an app for\", especially about \"i wish there app for\"?",
+        "search_query": "\"i wish there app for\"",
+        "sources": [
+          "reddit",
+          "hackernews",
+          "xda"
+        ],
+        "weight": 1.0
+      }
+    ]
+  },
+  "range_from": "2026-10-28",
+  "range_to": "2026-11-27",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://xda-developers.com/replaced-todoist-toggl-my-pomodoro-timer-with-one-free-app-that-does-it-all",
+      "cluster_id": "cluster-1",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 100,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "https://www.xda-developers.com/replaced-todoist-toggl-my-pomodoro-timer-with-one-free-app-that-does-it-all/",
+      "local_relevance": 0.06,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "https://www.xda-developers.com/replaced-todoist-toggl-my-pomodoro-timer-with-one-free-app-that-does-it-all/",
+            "native_rank": 1,
+            "source": "xda",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:xda": 1
+      },
+      "rerank_score": 7.200000000000003,
+      "rrf_score": 0.00546448087431694,
+      "snippet": "My productivity setup had become unnecessarily complicated. I relied on Todoist to manage my daily tasks, Toggl to track how much time I spent on individual projects, and a separate Pomodoro timer to maintain focus throughout the day.",
+      "source": "xda",
+      "source_items": [
+        {
+          "author": "Parth Shah",
+          "body": "I replaced Todoist, Toggl, and my Pomodoro timer with one free app that does it all\nMy productivity setup had become unnecessarily complicated. I relied on Todoist to manage my daily tasks, Toggl to track how much time I spent on individual projects, and a separate Pomodoro timer to maintain focus throughout the day.",
+          "container": "XDA Developers",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 0
+          },
+          "freshness": 100,
+          "item_id": "https://www.xda-developers.com/replaced-todoist-toggl-my-pomodoro-timer-with-one-free-app-that-does-it-all/",
+          "local_rank_score": 0.289,
+          "local_relevance": 0.06,
+          "metadata": {
+            "forum": "XDA Portal"
+          },
+          "published_at": "2026-11-27",
+          "relevance_hint": 0.24,
+          "snippet": "My productivity setup had become unnecessarily complicated. I relied on Todoist to manage my daily tasks, Toggl to track how much time I spent on individual projects, and a separate Pomodoro timer to maintain focus throughout the day.",
+          "source": "xda",
+          "source_quality": 0.8,
+          "title": "I replaced Todoist, Toggl, and my Pomodoro timer with one free app that does it all",
+          "url": "https://www.xda-developers.com/replaced-todoist-toggl-my-pomodoro-timer-with-one-free-app-that-does-it-all/",
+          "why_relevant": "XDA thread about I replaced Todoist, Toggl, and my Pomodoro timer with one fr"
+        }
+      ],
+      "source_quality": 0.8,
+      "sources": [
+        "xda"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "I replaced Todoist, Toggl, and my Pomodoro timer with one free app that does it all",
+      "url": "https://www.xda-developers.com/replaced-todoist-toggl-my-pomodoro-timer-with-one-free-app-that-does-it-all/"
+    }
+  ],
+  "topic": "\"I wish there was an app for\"",
+  "warnings": [
+    "Evidence is thin for this topic."
+  ]
+}
