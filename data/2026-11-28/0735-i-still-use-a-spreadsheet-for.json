@@ -1,0 +1,268 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "deterministic",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"I still use a spreadsheet for\"",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://xda-developers.com/linux-dropping-45-year-old-driver-llms-wont-stop-fixing-it"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://xda-developers.com/linux-dropping-45-year-old-driver-llms-wont-stop-fixing-it"
+      ],
+      "score": 0.0,
+      "sources": [
+        "xda"
+      ],
+      "title": "Linux is dropping a 45-year-old driver because LLMs won't stop \"fixing\" it"
+    },
+    {
+      "candidate_ids": [
+        "https://xda-developers.com/wine-1123-fixes-some-gaming-bugs-boosts-directx-12-compatibility-and-adds-arm64-macos-support"
+      ],
+      "cluster_id": "cluster-2",
+      "representative_ids": [
+        "https://xda-developers.com/wine-1123-fixes-some-gaming-bugs-boosts-directx-12-compatibility-and-adds-arm64-macos-support"
+      ],
+      "score": 0.0,
+      "sources": [
+        "xda"
+      ],
+      "title": "Wine 11.23 fixes some gaming bugs, boosts DirectX 12 compatibility, and adds Arm64 macOS support"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-11-28T07:35:27.406164+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": [],
+    "xda": [
+      {
+        "author": "Simon Batt",
+        "body": "Linux is dropping a 45-year-old driver because LLMs won't stop \"fixing\" it\nEvery so often, the Linux kernel will drop support for older tech. In an ideal world, maintainers could support every piece of hardware ever made forever, but if people are using energy and resources to ensure the drivers for a specific CPU that nobody uses anymore still work, it's a lot of effort poured into something with minimal gain.",
+        "container": "XDA Developers",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 0
+        },
+        "freshness": 100,
+        "item_id": "https://www.xda-developers.com/linux-dropping-45-year-old-driver-llms-wont-stop-fixing-it/",
+        "local_rank_score": 0.289,
+        "local_relevance": 0.06,
+        "metadata": {
+          "forum": "XDA Portal"
+        },
+        "published_at": "2026-11-28",
+        "relevance_hint": 0.28,
+        "snippet": "Every so often, the Linux kernel will drop support for older tech. In an ideal world, maintainers could support every piece of hardware ever made forever, but if people are using energy and resources to ensure the drivers for a specific CPU that nobody uses anymore still work, it's a lot of effort poured into something with minimal gain.",
+        "source": "xda",
+        "source_quality": 0.8,
+        "title": "Linux is dropping a 45-year-old driver because LLMs won't stop \"fixing\" it",
+        "url": "https://www.xda-developers.com/linux-dropping-45-year-old-driver-llms-wont-stop-fixing-it/",
+        "why_relevant": "XDA thread about Linux is dropping a 45-year-old driver because LLMs won't st"
+      },
+      {
+        "author": "Simon Batt",
+        "body": "Wine 11.23 fixes some gaming bugs, boosts DirectX 12 compatibility, and adds Arm64 macOS support\nWhile compatibility with Linux games has only improved as the years go on thanks to Proton, sometimes you still need to reach for the trusty, not-an-emulator superstar Wine.",
+        "container": "XDA Developers",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 0
+        },
+        "freshness": 100,
+        "item_id": "https://www.xda-developers.com/wine-1123-fixes-some-gaming-bugs-boosts-directx-12-compatibility-and-adds-arm64-macos-support/",
+        "local_rank_score": 0.289,
+        "local_relevance": 0.06,
+        "metadata": {
+          "forum": "XDA Portal"
+        },
+        "published_at": "2026-11-28",
+        "relevance_hint": 0.28,
+        "snippet": "While compatibility with Linux games has only improved as the years go on thanks to Proton, sometimes you still need to reach for the trusty, not-an-emulator superstar Wine.",
+        "source": "xda",
+        "source_quality": 0.8,
+        "title": "Wine 11.23 fixes some gaming bugs, boosts DirectX 12 compatibility, and adds Arm64 macOS support",
+        "url": "https://www.xda-developers.com/wine-1123-fixes-some-gaming-bugs-boosts-directx-12-compatibility-and-adds-arm64-macos-support/",
+        "why_relevant": "XDA thread about Wine 11.23 fixes some gaming bugs, boosts DirectX 12 compati"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "evergreen_ok",
+    "intent": "concept",
+    "notes": [
+      "fallback-plan (LLM error: HTTPError)"
+    ],
+    "raw_topic": "\"I still use a spreadsheet for\"",
+    "source_weights": {
+      "hackernews": 0.3333333333333333,
+      "reddit": 0.3333333333333333,
+      "xda": 0.3333333333333333
+    },
+    "subqueries": [
+      {
+        "label": "primary",
+        "ranking_query": "What recent evidence from the last 30 days is most relevant to \"I still use a spreadsheet for\", especially about \"i still spreadsheet for\"?",
+        "search_query": "\"i still spreadsheet for\"",
+        "sources": [
+          "reddit",
+          "hackernews",
+          "xda"
+        ],
+        "weight": 1.0
+      }
+    ]
+  },
+  "range_from": "2026-10-29",
+  "range_to": "2026-11-28",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://xda-developers.com/linux-dropping-45-year-old-driver-llms-wont-stop-fixing-it",
+      "cluster_id": "cluster-1",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 100,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "https://www.xda-developers.com/linux-dropping-45-year-old-driver-llms-wont-stop-fixing-it/",
+      "local_relevance": 0.06,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "https://www.xda-developers.com/linux-dropping-45-year-old-driver-llms-wont-stop-fixing-it/",
+            "native_rank": 1,
+            "source": "xda",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:xda": 1
+      },
+      "rerank_score": 7.200000000000003,
+      "rrf_score": 0.00546448087431694,
+      "snippet": "Every so often, the Linux kernel will drop support for older tech. In an ideal world, maintainers could support every piece of hardware ever made forever, but if people are using energy and resources to ensure the drivers for a specific CPU that nobody uses anymore still work, it's a lot of effort poured into something with minimal gain.",
+      "source": "xda",
+      "source_items": [
+        {
+          "author": "Simon Batt",
+          "body": "Linux is dropping a 45-year-old driver because LLMs won't stop \"fixing\" it\nEvery so often, the Linux kernel will drop support for older tech. In an ideal world, maintainers could support every piece of hardware ever made forever, but if people are using energy and resources to ensure the drivers for a specific CPU that nobody uses anymore still work, it's a lot of effort poured into something with minimal gain.",
+          "container": "XDA Developers",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 0
+          },
+          "freshness": 100,
+          "item_id": "https://www.xda-developers.com/linux-dropping-45-year-old-driver-llms-wont-stop-fixing-it/",
+          "local_rank_score": 0.289,
+          "local_relevance": 0.06,
+          "metadata": {
+            "forum": "XDA Portal"
+          },
+          "published_at": "2026-11-28",
+          "relevance_hint": 0.28,
+          "snippet": "Every so often, the Linux kernel will drop support for older tech. In an ideal world, maintainers could support every piece of hardware ever made forever, but if people are using energy and resources to ensure the drivers for a specific CPU that nobody uses anymore still work, it's a lot of effort poured into something with minimal gain.",
+          "source": "xda",
+          "source_quality": 0.8,
+          "title": "Linux is dropping a 45-year-old driver because LLMs won't stop \"fixing\" it",
+          "url": "https://www.xda-developers.com/linux-dropping-45-year-old-driver-llms-wont-stop-fixing-it/",
+          "why_relevant": "XDA thread about Linux is dropping a 45-year-old driver because LLMs won't st"
+        }
+      ],
+      "source_quality": 0.8,
+      "sources": [
+        "xda"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Linux is dropping a 45-year-old driver because LLMs won't stop \"fixing\" it",
+      "url": "https://www.xda-developers.com/linux-dropping-45-year-old-driver-llms-wont-stop-fixing-it/"
+    },
+    {
+      "candidate_id": "https://xda-developers.com/wine-1123-fixes-some-gaming-bugs-boosts-directx-12-compatibility-and-adds-arm64-macos-support",
+      "cluster_id": "cluster-2",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 100,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "https://www.xda-developers.com/wine-1123-fixes-some-gaming-bugs-boosts-directx-12-compatibility-and-adds-arm64-macos-support/",
+      "local_relevance": 0.06,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "https://www.xda-developers.com/wine-1123-fixes-some-gaming-bugs-boosts-directx-12-compatibility-and-adds-arm64-macos-support/",
+            "native_rank": 2,
+            "source": "xda",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:xda": 2
+      },
+      "rerank_score": 7.200000000000003,
+      "rrf_score": 0.005376344086021505,
+      "snippet": "While compatibility with Linux games has only improved as the years go on thanks to Proton, sometimes you still need to reach for the trusty, not-an-emulator superstar Wine.",
+      "source": "xda",
+      "source_items": [
+        {
+          "author": "Simon Batt",
+          "body": "Wine 11.23 fixes some gaming bugs, boosts DirectX 12 compatibility, and adds Arm64 macOS support\nWhile compatibility with Linux games has only improved as the years go on thanks to Proton, sometimes you still need to reach for the trusty, not-an-emulator superstar Wine.",
+          "container": "XDA Developers",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 0
+          },
+          "freshness": 100,
+          "item_id": "https://www.xda-developers.com/wine-1123-fixes-some-gaming-bugs-boosts-directx-12-compatibility-and-adds-arm64-macos-support/",
+          "local_rank_score": 0.289,
+          "local_relevance": 0.06,
+          "metadata": {
+            "forum": "XDA Portal"
+          },
+          "published_at": "2026-11-28",
+          "relevance_hint": 0.28,
+          "snippet": "While compatibility with Linux games has only improved as the years go on thanks to Proton, sometimes you still need to reach for the trusty, not-an-emulator superstar Wine.",
+          "source": "xda",
+          "source_quality": 0.8,
+          "title": "Wine 11.23 fixes some gaming bugs, boosts DirectX 12 compatibility, and adds Arm64 macOS support",
+          "url": "https://www.xda-developers.com/wine-1123-fixes-some-gaming-bugs-boosts-directx-12-compatibility-and-adds-arm64-macos-support/",
+          "why_relevant": "XDA thread about Wine 11.23 fixes some gaming bugs, boosts DirectX 12 compati"
+        }
+      ],
+      "source_quality": 0.8,
+      "sources": [
+        "xda"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "Wine 11.23 fixes some gaming bugs, boosts DirectX 12 compatibility, and adds Arm64 macOS support",
+      "url": "https://www.xda-developers.com/wine-1123-fixes-some-gaming-bugs-boosts-directx-12-compatibility-and-adds-arm64-macos-support/"
+    }
+  ],
+  "topic": "\"I still use a spreadsheet for\"",
+  "warnings": [
+    "Evidence is thin for this topic."
+  ]
+}

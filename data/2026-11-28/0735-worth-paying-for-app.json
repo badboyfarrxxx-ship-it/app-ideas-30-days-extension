@@ -1,0 +1,167 @@
+{
+  "artifacts": {
+    "grounding": [],
+    "plan_source": "deterministic",
+    "pre_research_flags_present": false,
+    "resolved": {
+      "context": "",
+      "entity": "\"worth paying for\" app",
+      "github_repos": [],
+      "github_user": "",
+      "subreddits": [],
+      "x_handle": ""
+    }
+  },
+  "clusters": [
+    {
+      "candidate_ids": [
+        "https://xda-developers.com/found-free-open-source-tool-that-can-replace-powerpoint-canva-claude-design-for-presentations"
+      ],
+      "cluster_id": "cluster-1",
+      "representative_ids": [
+        "https://xda-developers.com/found-free-open-source-tool-that-can-replace-powerpoint-canva-claude-design-for-presentations"
+      ],
+      "score": 0.0,
+      "sources": [
+        "xda"
+      ],
+      "title": "I finally found a free open-source tool that can replace PowerPoint, Canva, and Claude Design for presentations"
+    }
+  ],
+  "errors_by_source": {},
+  "generated_at": "2026-11-28T07:35:26.291492+00:00",
+  "items_by_source": {
+    "hackernews": [],
+    "reddit": [],
+    "xda": [
+      {
+        "author": "Nolen Jonker",
+        "body": "I finally found a free open-source tool that can replace PowerPoint, Canva, and Claude Design for presentations\nPresentation software is one of those tools almost everyone ends up needing, whether that's for a class project or something you agreed to months ago and completely forgot about. But the catch is that the popular options usually tend to hold back their best features for paying users. PowerPoint comes bundled with Microsoft 365 and the Personal plan is now $100 a year. Canva now keeps most of its templates and AI allowance behind the Pro subscription. And even though Claude Design is available to free users now, it's heavily capped.",
+        "container": "XDA Developers",
+        "date_confidence": "high",
+        "engagement": {
+          "comments": 0
+        },
+        "freshness": 100,
+        "item_id": "https://www.xda-developers.com/found-free-open-source-tool-that-can-replace-powerpoint-canva-claude-design-for-presentations/",
+        "local_rank_score": 0.34750000000000003,
+        "local_relevance": 0.15,
+        "metadata": {
+          "forum": "XDA Portal"
+        },
+        "published_at": "2026-11-28",
+        "relevance_hint": 0.28,
+        "snippet": "Presentation software is one of those tools almost everyone ends up needing, whether that's for a class project or something you agreed to months ago and completely forgot about. But the catch is that the popular options usually tend to hold back their best features for paying users. PowerPoint comes bundled with Microsoft 365 and the Personal plan is now $100 a year. Canva now keeps most of its t",
+        "source": "xda",
+        "source_quality": 0.8,
+        "title": "I finally found a free open-source tool that can replace PowerPoint, Canva, and Claude Design for presentations",
+        "url": "https://www.xda-developers.com/found-free-open-source-tool-that-can-replace-powerpoint-canva-claude-design-for-presentations/",
+        "why_relevant": "XDA thread about I finally found a free open-source tool that can replace Pow"
+      }
+    ]
+  },
+  "provider_runtime": {
+    "planner_model": "grok-4-1-fast",
+    "reasoning_provider": "xai",
+    "rerank_model": "grok-4-1-fast",
+    "x_search_backend": "xai"
+  },
+  "query_plan": {
+    "cluster_mode": "none",
+    "freshness_mode": "evergreen_ok",
+    "intent": "concept",
+    "notes": [
+      "fallback-plan (LLM error: HTTPError)"
+    ],
+    "raw_topic": "\"worth paying for\" app",
+    "source_weights": {
+      "hackernews": 0.3333333333333333,
+      "reddit": 0.3333333333333333,
+      "xda": 0.3333333333333333
+    },
+    "subqueries": [
+      {
+        "label": "primary",
+        "ranking_query": "What recent evidence from the last 30 days is most relevant to \"worth paying for\" app?",
+        "search_query": "\"worth paying for\" app",
+        "sources": [
+          "reddit",
+          "hackernews",
+          "xda"
+        ],
+        "weight": 1.0
+      }
+    ]
+  },
+  "range_from": "2026-10-29",
+  "range_to": "2026-11-28",
+  "ranked_candidates": [
+    {
+      "candidate_id": "https://xda-developers.com/found-free-open-source-tool-that-can-replace-powerpoint-canva-claude-design-for-presentations",
+      "cluster_id": "cluster-1",
+      "explanation": "fallback-local-score (entity-miss demotion)",
+      "final_score": 0.0,
+      "freshness": 100,
+      "fun_explanation": "heuristic-fallback",
+      "fun_score": 0.0,
+      "item_id": "https://www.xda-developers.com/found-free-open-source-tool-that-can-replace-powerpoint-canva-claude-design-for-presentations/",
+      "local_relevance": 0.15,
+      "metadata": {
+        "provenance": [
+          {
+            "item_id": "https://www.xda-developers.com/found-free-open-source-tool-that-can-replace-powerpoint-canva-claude-design-for-presentations/",
+            "native_rank": 1,
+            "source": "xda",
+            "subquery_label": "primary"
+          }
+        ]
+      },
+      "native_ranks": {
+        "primary:xda": 1
+      },
+      "rerank_score": 13.5,
+      "rrf_score": 0.00546448087431694,
+      "snippet": "Presentation software is one of those tools almost everyone ends up needing, whether that's for a class project or something you agreed to months ago and completely forgot about. But the catch is that the popular options usually tend to hold back their best features for paying users. PowerPoint comes bundled with Microsoft 365 and the Personal plan is now $100 a year. Canva now keeps most of its t",
+      "source": "xda",
+      "source_items": [
+        {
+          "author": "Nolen Jonker",
+          "body": "I finally found a free open-source tool that can replace PowerPoint, Canva, and Claude Design for presentations\nPresentation software is one of those tools almost everyone ends up needing, whether that's for a class project or something you agreed to months ago and completely forgot about. But the catch is that the popular options usually tend to hold back their best features for paying users. PowerPoint comes bundled with Microsoft 365 and the Personal plan is now $100 a year. Canva now keeps most of its templates and AI allowance behind the Pro subscription. And even though Claude Design is available to free users now, it's heavily capped.",
+          "container": "XDA Developers",
+          "date_confidence": "high",
+          "engagement": {
+            "comments": 0
+          },
+          "freshness": 100,
+          "item_id": "https://www.xda-developers.com/found-free-open-source-tool-that-can-replace-powerpoint-canva-claude-design-for-presentations/",
+          "local_rank_score": 0.34750000000000003,
+          "local_relevance": 0.15,
+          "metadata": {
+            "forum": "XDA Portal"
+          },
+          "published_at": "2026-11-28",
+          "relevance_hint": 0.28,
+          "snippet": "Presentation software is one of those tools almost everyone ends up needing, whether that's for a class project or something you agreed to months ago and completely forgot about. But the catch is that the popular options usually tend to hold back their best features for paying users. PowerPoint comes bundled with Microsoft 365 and the Personal plan is now $100 a year. Canva now keeps most of its t",
+          "source": "xda",
+          "source_quality": 0.8,
+          "title": "I finally found a free open-source tool that can replace PowerPoint, Canva, and Claude Design for presentations",
+          "url": "https://www.xda-developers.com/found-free-open-source-tool-that-can-replace-powerpoint-canva-claude-design-for-presentations/",
+          "why_relevant": "XDA thread about I finally found a free open-source tool that can replace Pow"
+        }
+      ],
+      "source_quality": 0.8,
+      "sources": [
+        "xda"
+      ],
+      "subquery_labels": [
+        "primary"
+      ],
+      "title": "I finally found a free open-source tool that can replace PowerPoint, Canva, and Claude Design for presentations",
+      "url": "https://www.xda-developers.com/found-free-open-source-tool-that-can-replace-powerpoint-canva-claude-design-for-presentations/"
+    }
+  ],
+  "topic": "\"worth paying for\" app",
+  "warnings": [
+    "Evidence is thin for this topic."
+  ]
+}
